@@ -1,0 +1,501 @@
+{
+  "chapters": [
+    {
+      "ch": 11,
+      "ad": "Yenilik ve örgütsel değişim",
+      "giris": "<p>Bu bölüm iki büyük soruya cevap verir: bir örgüt yeni fikirleri nasıl üretir ve bu fikirleri hayata geçirmek için kendini nasıl değiştirir? Önce yenilikçi kültürü, yeniliği besleyen yöntemleri ve yeniliğin neden başarısız olduğunu görürsün. Sonra yenilik ağlarına ve örgütleri değişmeye iten nedenlere geçersin. Ardından insanların değişime nasıl tepki verdiğini ve neden direndiğini öğrenirsin. Son olarak değişimi yönetmenin üç modelini, Lewin, Kotter ve Schein'i, önce tek tek sonra yan yana incelersin. Hepsi aynı zincirle bağlanır: yenilik değişim ister, değişim direnç doğurur, modeller de bu direnci yönetmenin yoludur.</p>",
+      "baglanti": "<p>Bu bölüm sınavdaki bölümlerin sonuncusudur. Dersin önceki konularında gördüğün kültür, yapı ve liderlik fikirleri burada yeniden karşına çıkar: Schein kültürü değiştirmeyi, Kotter liderliğin değişimi nasıl taşıyacağını, yenilik ağları ise yapının içinde yeni bağlantılar kurmayı anlatır.</p>",
+      "sinav": "<p>Bu bölüm sınavın üçüncü kısmında çıkar: oradaki iki uzun vakadan biri bu bölümdendir. Üçüncü kısımda toplam altı soru vardır, her soruda altı seçenek bulunur ve her soru 5 puan değerindedir. Vakada bir kurumun değişim hikâyesi anlatılır ve senden eylemleri doğru modele, adıma ya da tepkiye yerleştirmen istenir. Bu bölümdeki her birimin yaklaşık ağırlığı 3 puandır.</p>",
+      "okul": {
+        "once": "Derse gitmeden önce Lewin, Kotter ve Schein tablolarına iki dakika göz at ve şu soruyu yanında götür: “Üç model de aciliyetle başlıyorsa, aralarındaki gerçek fark ne?”",
+        "odak": [
+          "Kotter adımlarının Lewin aşamalarına nasıl eşlendiği",
+          "<b>Guiding coalition</b> ile <b>volunteer army</b> arasındaki büyüklük ve rol farkı",
+          "Aktif ve pasif direnişi ayıran ölçüt: ses",
+          "Schein'in kültür değişimi için verdiği somut örnekler",
+          "Yeniliğin başarısız olma nedenlerinden hangilerinin şirketin içinde olduğu"
+        ],
+        "sonra": "Dersten sonra bu sitede önce yenilikçi kültür dersini, sonra yenilik ağları ve değişim nedenleri dersini bitir. Ardından tepkiler ve direniş dersine geç, en son Lewin ile Kotter dersini ve Schein dersini çalış. Her dersin adım sorularını çöz, tuzaklar bölümünü oku, sonra soru bankasındaki bölüm 11 sorularına geç."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c11a",
+      "ad": "Yenilikçi kültür ve yeniliğin başarısız olma nedenleri",
+      "sure": 22,
+      "neden": "<p>Bir şirket yeni fikir üretmek ister ama çoğu zaman ya fikir hiç çıkmaz ya da çıkan fikir yolda ölür. Bu ders iki tarafı birlikte öğretir: yeniliği besleyen kültür ve yöntemler, sonra yeniliği öldüren yedi neden. Uzun vakada bir şirketin tarifini okuyup hangi yöntemi kullandığını ya da neden takıldığını adlandırman beklenir.</p>",
+      "hedefler": [
+        "<b>Innovative culture</b> tanımını ve beş özelliğini eksiksiz say.",
+        "Beş yenilik besleme yöntemini bir senaryodan tanı.",
+        "<b>Innovation portfolio</b> oranlarını yatırım ve getiri yönüyle doğru kur.",
+        "Yedi başarısızlık nedenini birbirinden ayırt et.",
+        "Farksız bir ürünü <b>lack of market orientation</b> olarak sınıflandır."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Yenilikçi kültür nedir, beş özelliği neden bunlar?",
+          "anlatim": "<p>Bir şirketin günlük gündemi genelde teslim tarihleri ve gelirdir. Bunlar gerekli, ama tek ölçü bunlar olursa çalışanlar risk almaz, yalnızca verilen işi bitirir. <b>Innovative culture</b> (yenilikçi kültür) bu dengeyi değiştirir: çalışanın yaratıcılığını teşvik eden ve ödüllendiren, odağını yalnızca teslim tarihine ve gelire koymayan bir çalışma ortamıdır.</p><p>Beş özelliği ezberlemek yerine mantığıyla kur. Önce bir yön gerekir: <b>unique strategy</b> (özgün strateji), yani şirketin neden farklı olmak istediğini bilmesi. Sonra insanların deneme alanı olmalı: <b>autonomy</b> (özerklik). Bu alan ancak <b>trust</b> (güven) varsa kullanılır; yöneticisinin kendisini izlediğini düşünen kişi denemez. Denemelerin bir kısmı tutmaz, bu yüzden <b>accepting failures</b> (başarısızlığı kabul etmek) şarttır; yoksa kimse ikinci denemeyi yapmaz. En sonda bütün bunları koruyan ve örnek olan <b>leadership</b> (liderlik) gelir.</p><p>Sınavda yanlış şıklar genelde tersini sunar: sıkı kurallar, merkezi kontrol, gizlilik ya da düşük maliyet ve hız. Bunlar verimlilik odaklı bir şirketin özellikleridir, yenilikçi kültürün değil.</p>",
+          "ornek": "<p>Hayali bir fırın zinciri, ustalarına her ay bir yeni tarif deneme hakkı veriyor ve tutmayan tarif için kimseyi suçlamıyor. Bu, <b>autonomy</b> ve <b>accepting failures</b> özelliklerini gösterir; ödül yalnızca satışa değil denemeye de bağlandığı için kültür yenilikçidir.</p>",
+          "kaynak": [0],
+          "terimler": ["Innovative culture"],
+          "soru": {
+            "q": "A small design agency lets staff test unusual ideas, and nobody is blamed when an experiment does not work. Which trait of an innovative culture does the no-blame rule show most directly?",
+            "o": ["Accepting failures", "Unique strategy", "Leadership", "Autonomy"],
+            "x": "Doğru cevap <b>accepting failures</b>, çünkü soru özellikle suçlamama kuralını soruyor: tutmayan denemenin cezası yok. En çekici yanlış <b>autonomy</b>, çünkü deneme izni de senaryoda geçiyor; ama özerklik iznin karşılığıdır, suçlamama kuralının değil."
+          }
+        },
+        {
+          "baslik": "Yenilikçi kültürün sekiz faydası (Swisher)",
+          "anlatim": "<p>Bir yönetici “Bu kültüre neden zaman ve para harcayalım?” diye sorabilir. Kaynak notu Swisher'a dayanarak sekiz fayda sayar. Bunları rastgele bir liste gibi değil, üç grupta düşün.</p><p>Birinci grup şirketin yönüyle ilgilidir: yenilikçi kültür bir iyileştirme rotası çizer (<i>sets a course for improvement</i>), yeni fikirler geliştirir (<i>develops new ideas</i>) ve şirketin büyümesini (<i>company growth</i>) besler. İkinci grup rekabetle ilgilidir: rakiplerin kolayca kopyalayamadığı bir rekabet avantajı (<i>competitive advantage</i>) yaratır ve şirkete uyum sağlayan bir doğa (<i>adaptive nature</i>) kazandırır; çevre değişince şirket daha hızlı döner. Üçüncü grup insanlar ve dış görüntüyle ilgilidir: ekip verimliliğini (<i>team efficiency</i>) artırır, yetenekli insanları çeker (<i>attracts talent</i>) ve markayı güçlendirir (<i>improves the brand</i>).</p><p>Faydaları özelliklerle karıştırma. Beş özellik “nasıl bir ortam?” sorusunun cevabıdır; sekiz fayda ise “bu ortam şirkete ne kazandırır?” sorusunun cevabıdır. Fayda, kültürün sonucudur.</p>",
+          "ornek": "<p>Hayali bir yazılım girişimi, deneme yapmaya açık bir ortam kurduktan sonra iş ilanlarına eskisinin iki katı başvuru almaya başlıyor. Bu, faydalardan <b>attracts talent</b> örneğidir: yetenekli insanlar yaratıcılığın ödüllendirildiği yerde çalışmak ister.</p>",
+          "kaynak": [0],
+          "terimler": [],
+          "soru": {
+            "q": "After building a creative, low-blame workplace, a fictional furniture maker finds it reacts faster than rivals when customer tastes shift. Which benefit of an innovative culture is this?",
+            "o": ["Adaptive nature", "Attracts talent", "Improves the brand", "Team efficiency"],
+            "x": "Doğru cevap <b>adaptive nature</b>: senaryonun özü, müşteri zevki değişince şirketin daha hızlı uyum sağlaması. <b>Team efficiency</b> çekici görünür, ama o ekibin işini daha verimli yapmasıdır; dış çevredeki değişime uyumu anlatmaz."
+          }
+        },
+        {
+          "baslik": "Yeniliği beslemek: iç işbirliği ve iç girişimcilik",
+          "anlatim": "<p>Kültür tek başına yetmez; liderin fikirlerin ortaya çıkması için somut kanallar açması gerekir. Kaynak beş yöntem sayar. İlk ikisi şirketin kendi içine bakar.</p><p><b>Internal collaboration</b> (iç işbirliği): farklı departmanlardan insanları aynı ekipte buluşturmak. Mantığı şu: Ar-Ge ürünü bilir ama müşteriyi tanımaz, satış müşteriyi bilir ama teknolojiyi tanımaz. Kaynaktaki örnekte Ar-Ge zamanının yaklaşık %10'unu pazarlama ve satışta geçirir. Böylece fikirler gerçek müşteri ihtiyacıyla buluşur.</p><p><b>Innovation labs & intrapreneurship</b> (yenilik laboratuvarları ve iç girişimcilik): <b>Intrapreneurship</b> (iç girişimcilik), bir çalışanın fikrinin ayrı bir yan şirkete (spin-off) ya da bağlı şirkete dönüşmesi ve bu birimi yine o çalışanın yönetmesidir. Kaynak örnek olarak LEGO'nun Future Lab'ini verir. Girişimci gibi düşünürsün ama şirketin içinde kalırsın; adı da buradan gelir.</p><p>İkisini karıştırma: iç işbirliğinde yeni bir birim doğmaz, mevcut departmanlar birlikte çalışır. İç girişimcilikte ise fikir kendi birimine, çoğu zaman kendi şirketine dönüşür ve başında fikrin sahibi olan çalışan durur.</p>",
+          "ornek": "<p>Hayali bir bisiklet üreticisinde bir montaj çalışanı katlanır bisiklet sepeti fikri getiriyor. Şirket ona küçük bir bütçe ve ayrı bir birim veriyor, birimi de o yönetiyor. Fikir çalışandan çıkıp onun yönettiği bir yan şirkete dönüştüğü için bu <b>intrapreneurship</b> örneğidir.</p>",
+          "kaynak": [1],
+          "terimler": ["Intrapreneurship"],
+          "soru": {
+            "q": "At a fictional food company, an accountant's idea for a meal-kit service is turned into a separate subsidiary that she now runs. Which way of nurturing innovation is this?",
+            "o": ["Intrapreneurship", "Internal collaboration", "Open lab for co-creation", "Innovation time"],
+            "x": "Doğru cevap <b>intrapreneurship</b>, çünkü çalışanın fikri ayrı bir bağlı şirkete dönüşüyor ve onu yine o çalışan yönetiyor. <b>Internal collaboration</b> çekici, ama orada yeni bir birim kurulmaz; yalnızca farklı departmanlar birlikte çalışır."
+          }
+        },
+        {
+          "baslik": "Yenilik zamanı, ortaklık ve satın alma, açık laboratuvarlar",
+          "anlatim": "<p>Kalan üç yöntem iki soruya cevap verir: fikir için zamanı kim verir ve fikir dışarıdan nasıl gelir?</p><p><b>Innovation time</b> (yenilik zamanı): çalışana kendi yan projeleri için serbest zaman vermek. Kaynakta Google ve 3M haftanın %15-20'sini buna ayırır; Gmail böyle bir yan projeden çıkmıştır. Mantık basit: günlük iş takvimi doluysa kimse yeni bir şey denemeye vakit bulamaz.</p><p><b>Partnerships & acquisitions</b> (ortaklıklar ve satın almalar): riski başka bir şirketle paylaşmak ya da yenilikçi küçük firmaları satın almak. Kaynaktaki örnek Cisco'dur. Burada fikir şirketin içinde doğmaz, hazır halde dışarıdan alınır.</p><p><b>Open lab / co-creation</b> (açık laboratuvar ve birlikte yaratma): fikirleri müşteriler, tedarikçiler ya da ortaklarla birlikte geliştirmek. Kaynak BMW, Co-Create IKEA ve LEGO Ideas örneklerini verir. Ayırt edici işaret, şirket dışından insanların tasarım sürecine katılmasıdır.</p><p>Hızlı ayırma: “kendi projesi için ayrılan zaman” gördüğünde yenilik zamanı, “müşteri tasarıma katılıyor” gördüğünde açık laboratuvar, “küçük firmayı satın aldı” ya da “riski paylaştı” gördüğünde ortaklık ve satın alma de.</p>",
+          "ornek": "<p>Hayali bir oyuncak markası, çocuklu ailelerin yeni kutu oyunu fikirleri yüklediği bir site açıyor ve en çok oy alan fikri ailelerle birlikte geliştiriyor. Müşteriler geliştirmeye doğrudan katıldığı için bu <b>open lab / co-creation</b> örneğidir, yenilik zamanı değil.</p>",
+          "kaynak": [1],
+          "terimler": ["Innovation time", "Open lab / co-creation"],
+          "soru": {
+            "q": "A fictional software firm allows every developer to spend Friday afternoons on any project they choose. Which way of nurturing innovation is this?",
+            "o": ["Innovation time", "Open lab for co-creation", "Internal collaboration", "Strategic partnership"],
+            "x": "Doğru cevap <b>innovation time</b>: çalışana kendi seçtiği proje için düzenli serbest zaman veriliyor. <b>Internal collaboration</b> çekici gelebilir, ama o farklı departmanları aynı ekipte buluşturmaktır; burada kimse başka bir departmanla çalışmıyor."
+          }
+        },
+        {
+          "baslik": "Innovation portfolio: 70/20/10 ve ters dönen getiri",
+          "anlatim": "<p>Bir şirket yenilik bütçesini nasıl dağıtmalı? Hepsini çılgın fikirlere yatırırsa bugünkü işi zayıflar, hepsini mevcut ürünlere yatırırsa yarına hazırlanamaz. <b>Innovation portfolio</b> (yenilik portföyü) bu dengeyi kurar: yatırımın %70'i <b>core</b> (çekirdek, mevcut iş), %20'si <b>adjacent</b> (bitişik, mevcut işe yakın yeni alanlar), %10'u <b>transformational</b> (dönüştürücü, tamamen yeni) yeniliklere gider.</p><p>Modelin can alıcı noktası getiride. Uzun vadeli getiriler tersine döner: 10 / 20 / 70. Yani paranın en küçük payını alan dönüştürücü projeler, uzun vadede getirinin en büyük payını üretir. Bu yüzden şirket o %10'u kesmemelidir; risklidir ama geleceğin büyük kısmı oradan gelir.</p><p>Sınavda iki dizi yan yana çıkar. Soruda <b>investment</b> (yatırım) geçiyorsa 70/20/10, <b>returns</b> (getiri) geçiyorsa 10/20/70 doğrudur. Sıranın her zaman çekirdek, bitişik, dönüştürücü olduğunu da kontrol et; rakamlar doğru ama sıra karışık bir şık da yanlıştır.</p>",
+          "ornek": "<p>Hayali bir kahve zinciri bütçesinin büyük kısmını mevcut kafelerini yenilemeye, bir kısmını paket kahve satışına, küçük bir kısmını robotla çalışan otomat kafeye ayırıyor. Bu dağılım <b>innovation portfolio</b> mantığını gösterir: en riskli fikir en az parayı alır ama uzun vadede en çok getiriyi vaat eder.</p>",
+          "kaynak": [1],
+          "terimler": ["Innovation portfolio"],
+          "soru": {
+            "q": "A board member asks how the long-term returns of a balanced innovation portfolio are usually split across core, adjacent and transformational projects. What is the correct answer?",
+            "o": ["10 / 20 / 70", "70 / 20 / 10", "20 / 70 / 10", "50 / 30 / 20"],
+            "x": "Soru yatırımı değil <b>getiriyi</b> soruyor, bu yüzden doğru cevap 10 / 20 / 70. En çekici yanlış 70 / 20 / 10, çünkü o yatırım dağılımıdır; getiri tarafında tablo tersine döner."
+          }
+        },
+        {
+          "baslik": "Yeniliğin başarısız olmasının yedi nedeni",
+          "anlatim": "<p>Kaynağın ana mesajı şu: yenilik çoğu zaman fikir kötü olduğu için değil, <b>implementation</b> (uygulama) aksadığı için başarısız olur. Yedi nedenin çoğu bu yüzden şirketin içindedir. Onları bir fikrin yolculuğuna göre sırala.</p><p>Fikir doğmadan önce: <b>fear of taking risks</b> (risk alma korkusu) yüzünden kimse yeni bir şey önermez; <b>low priority for innovation</b> (yeniliğe düşük öncelik) yüzünden yenilik hep günlük işin arkasında kalır. Fikir geliştirilirken: <b>Lack of market orientation</b> (pazar yöneliminin eksikliği), müşteri ihtiyacını anlamamaktır; ürün var olanlardan farklı değildir ve gerçek bir değer sunmaz. <b>Wrong decisions</b> (yanlış kararlar) ise yanlış fikre kaynak ayırmaktır. Şirketin içi işlemezse: <b>poor organizational structure and processes</b> (zayıf yapı ve süreçler), örneğin fikrin onay için birçok kademeden geçmesi; <b>lack of internal communication</b> (iç iletişim eksikliği), yani departmanların birbirinden kopuk çalışması. Fikir çalışsa bile: <b>failure to scale</b> (ölçeklendirememe), iyi bir pilotun tek bir yerde kalıp yayılamaması.</p><p>En çok karışan ikili: farksız ürün risk korkusu değil, pazar yönelimi eksikliğidir. Risk korkusunda fikir hiç denenmez; pazar yönelimi eksikliğinde ürün piyasaya çıkmıştır ama kimsenin ona ihtiyacı yoktur.</p>",
+          "ornek": "<p>Hayali bir ayakkabı firması, piyasadaki diğer spor ayakkabılardan hiçbir farkı olmayan yeni bir model çıkarıyor ve model satmıyor. Firma risk almış, yani sorun risk korkusu değil; müşteriye yeni bir değer sunmadığı için bu <b>lack of market orientation</b> örneğidir.</p>",
+          "kaynak": [2],
+          "terimler": ["Lack of market orientation"],
+          "soru": {
+            "q": "A fictional bank approves a mobile app idea, but its IT and marketing teams never share plans, so the launch is delayed and confused. Which reason for failure to innovate fits best?",
+            "o": ["Lack of internal communication", "Lack of market orientation", "Fear of taking risks", "Failure to scale"],
+            "x": "Doğru cevap <b>lack of internal communication</b>: fikir onaylanmış ama iki departman birbiriyle konuşmuyor. <b>Lack of market orientation</b> çekici gelebilir, fakat senaryoda müşteri ihtiyacının yanlış anlaşıldığına dair bir iz yok; sorun içerideki kopukluk."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Var olanlardan farksız, kimsenin istemediği ürün <b>fear of taking risks</b> yüzünden başarısız olmuştur.", "dogru": "Bu <b>lack of market orientation</b>. Risk korkusunda fikir hiç denenmez; burada ürün piyasaya çıkmış ama müşteriye değer sunmuyor."},
+        {"yanlis": "Yatırım ve getiri oranları aynıdır: 70/20/10.", "dogru": "Yatırım 70/20/10, uzun vadeli getiri tersine 10/20/70. Soruda “investment” mı “returns” mu yazdığına bak."},
+        {"yanlis": "Müşterilerin tasarıma katılması <b>internal collaboration</b> sayılır.", "dogru": "Şirket dışından insanlar katılıyorsa <b>open lab / co-creation</b>. Internal collaboration yalnızca şirket içindeki departmanlar arasında olur."},
+        {"yanlis": "Çalışana yan projesi için zaman vermek <b>intrapreneurship</b>tir.", "dogru": "Zaman vermek <b>innovation time</b>. Intrapreneurship, fikrin çalışanın yönettiği ayrı bir yan şirkete dönüşmesidir."},
+        {"yanlis": "Yenilik çoğunlukla fikir kötü olduğu için başarısız olur.", "dogru": "Kaynağa göre başarısızlık çoğunlukla uygulamadan ve şirket içi nedenlerden gelir, fikrin kendisinden değil."}
+      ],
+      "ozet": [
+        "<b>Innovative culture</b>: yaratıcılığı teşvik eden ve ödüllendiren, teslim tarihine ve gelire saplanmayan ortam.",
+        "Beş özellik sırayla birbirini taşır: özgün strateji, özerklik, güven, başarısızlığı kabul ve liderlik.",
+        "Swisher'ın sekiz faydası kültürün sonucudur: iyileştirme rotası, yeni fikirler, büyüme, rekabet avantajı, ekip verimliliği, uyum, yetenek çekme, güçlü marka.",
+        "Beş besleme yöntemi: iç işbirliği, yenilik laboratuvarı ve iç girişimcilik, yenilik zamanı, ortaklık ve satın alma, açık laboratuvar.",
+        "Portföy: yatırım 70/20/10, uzun vadeli getiri tersine 10/20/70.",
+        "Yedi neden: risk korkusu, pazar yönelimi eksikliği, ölçeklendirememe, zayıf yapı ve süreç, yanlış karar, iç iletişim eksikliği, düşük öncelik.",
+        "Başarısızlık çoğunlukla fikirden değil uygulamadan gelir."
+      ],
+      "aklinda": "Fark yoksa değer yok: farksız ürün = lack of market orientation. Para 70/20/10 gider, getiri 10/20/70 döner.",
+      "sinavda": "<p>Polder Print gibi uzun vakalarda bir şirketin uygulamaları anlatılır ve senden iki uygulamayı tek soruda sınıflandırman istenir, örneğin onay kademeleri ile birbirine kapalı departmanlar ya da yan proje zamanı ile müşteriyle tasarım günü. Şıkkı seçmeden önce iki yarıyı ayrı ayrı kontrol et.</p>"
+    },
+    {
+      "id": "c11b",
+      "ad": "Yenilik ağları ve örgütler neden değişir",
+      "sure": 18,
+      "neden": "<p>Yenilik tek bir dâhinin işi değildir; doğru insanları birbirine bağlamak çoğu zaman daha çok işe yarar. Aynı derste bir örgütün neden değişmek zorunda kaldığını da öğrenirsin. Vakalarda bir şirketin ağını nasıl kurduğunu ya da hangi baskı yüzünden değiştiğini adlandırman istenir.</p>",
+      "hedefler": [
+        "<b>Innovation network</b> kurmanın dört adımını sırasıyla say.",
+        "Bir senaryodaki eylemi doğru ağ adımına yerleştir.",
+        "<b>Organizational change</b> tanımını ve kapsamını açıkla.",
+        "Altı değişim nedenini birer örnekten tanı.",
+        "<b>Nothing fails like success</b> fikrinin mantığını anlat."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Yenilik ağı: bağlantılar neden bireysel yaratıcılıktan önemli?",
+          "anlatim": "<p>Bir şirkette çok yaratıcı bir çalışan olabilir, ama fikri doğru kişilere ulaşmazsa hiçbir şey olmaz. McKinsey'nin bulgusu bu yüzden önemli: yenilik için bağlantılar ve ağlar, bireysel yaratıcılıktan daha fazla önem taşır. <b>Innovation network</b> (yenilik ağı), dört adımda kurulan bir yenilikçiler ağıdır.</p><p>Adımları bir futbol takımı kurar gibi düşün. <b>1. Connect</b> (bağlan): farklı geçmişlerden, yenilikçi düşünme biçimine sahip insanları bul. Önce oyuncular gerekir. <b>2. Set boundaries and engage</b> (sınırları belirle ve dahil et): hedefleri tanımla, bu hedeflerin şirketin stratejisi, misyonu ve vizyonuyla nasıl bağlandığını göster, zaman çerçevesi koy. Oyuncular neyi kazanmak için oynadığını bilmeli. <b>3. Support and govern</b> (destekle ve yönet): liderlik yapısı, çalışma kuralları (protocols), kaynaklar ve üst yöneticilerden sponsorluk. Takımın bir hocası, sahası ve bütçesi olmalı. <b>4. Manage and track</b> (yönet ve izle): üyeleri ödüllendir, ilerlemeyi takip et, kimin ağa katılıp kimin ayrılacağını düzenle.</p><p>Sıranın mantığı açık: insan olmadan hedef, hedef olmadan destek, destek olmadan takip anlamsızdır.</p>",
+          "ornek": "<p>Hayali bir hastane, farklı bölümlerden meraklı bir hemşire, bir teknisyen ve bir eczacıyı bir araya getiriyor. Henüz hedef ya da bütçe yok, yalnızca doğru insanlar seçiliyor. Bu, yenilik ağının ilk adımı olan <b>connect</b> örneğidir.</p>",
+          "kaynak": [0],
+          "terimler": ["Innovation network"],
+          "soru": {
+            "q": "A fictional retailer gives its new innovation group a sponsor from the executive board, a budget and agreed meeting rules. Which innovation network step is this?",
+            "o": ["Support and govern", "Set boundaries and engage", "Manage and track", "Connect"],
+            "x": "Doğru cevap <b>support and govern</b>: sponsor, bütçe ve toplantı kuralları bu adımın üç işaretidir. <b>Set boundaries and engage</b> çekici, ama o adım hedefleri ve bunların stratejiyle bağını tanımlar; kaynak ya da sponsor vermez."
+          }
+        },
+        {
+          "baslik": "Ağdaki roller ve en çok karışan adımlar",
+          "anlatim": "<p>Ağın içinde herkes aynı işi yapmaz. Kaynak dört <b>archetype</b> (tip, rol) sayar: <b>idea generators</b> (fikir üreticiler) ham fikri ortaya atar, <b>researchers</b> (araştırmacılar) fikrin arkasındaki bilgiyi toplar, <b>experts</b> (uzmanlar) derin konu bilgisini getirir, <b>producers</b> (üreticiler) fikri gerçek bir ürüne ya da sürece dönüştürür. İyi bir ağ bu rollerin hepsini barındırır; yalnızca fikir üreticilerinden oluşan bir ağ çok konuşur ama az şey üretir.</p><p>Sınavda en çok karışan iki adım 2 ve 3'tür, çünkü ikisinde de bir “yönetim” havası vardır. Ayırmak için sor: bu eylem ağın <b>ne</b> yapacağını mı söylüyor, yoksa ağın <b>neyle ve kimin desteğiyle</b> çalışacağını mı? Hedef, stratejiyle bağ, misyon, vizyon ve son tarih adım 2'dir. Liderlik yapısı, protokol, kaynak ve sponsor adım 3'tür.</p><p>Adım 4 ise iş başladıktan sonraki döngüdür: ödül, ilerleme takibi, üyelerin girip çıkması. Adım 3 ağı çalıştıracak altyapıyı kurar, adım 4 çalışan ağı canlı tutar.</p>",
+          "ornek": "<p>Hayali bir belediyenin yenilik grubu ilk toplantısında “Bir yıl içinde vatandaş başvuru süresini yarıya indireceğiz ve bu, belediyenin hızlı hizmet vizyonuna bağlı” kararını alıyor. Hedef, süre ve vizyonla bağ kurulduğu için bu <b>set boundaries and engage</b> adımıdır.</p>",
+          "kaynak": [0],
+          "terimler": [],
+          "soru": {
+            "q": "In a fictional publisher's innovation network, members who deliver results get public recognition, and a monthly dashboard shows each project's progress. Which step is this?",
+            "o": ["Manage and track", "Support and govern", "Set boundaries and engage", "Connect"],
+            "x": "Doğru cevap <b>manage and track</b>: üyeleri ödüllendirmek ve ilerlemeyi izlemek dördüncü adımın işidir. <b>Support and govern</b> çekici, çünkü o da yönetim gibi duruyor; ama orada kaynak, sponsor ve yapı kurulur, ödül ve takip yoktur."
+          }
+        },
+        {
+          "baslik": "Örgütsel değişim nedir?",
+          "anlatim": "<p>Değişim kelimesi gündelik dilde çok geniş. Kaynak onu daraltır: <b>Organizational change</b> (örgütsel değişim), bir örgütün bir durumdan başka bir duruma geçmesidir. Tanımın gücü sadeliğinde: önemli olan bir “önce” ve bir “sonra” olmasıdır.</p><p>Değişim çoğu zaman çevredeki bir değişim yüzünden gerekir. Ama bu otomatik değildir: çevre değişse bile örgütün değişip değişmeyeceği, karar vericilerin bu değişimi nasıl yorumladığına ve nasıl tepki verdiğine bağlıdır. Bu yüzden aynı krize iki şirket bambaşka cevaplar verebilir.</p><p>Değişim örgütün beş farklı yerine dokunabilir: <b>structure</b> (yapı), <b>strategy</b> (strateji), <b>policies</b> (politikalar), <b>technology</b> (teknoloji) ya da <b>culture</b> (kültür). Büyüklüğü de farklı olabilir: <b>radical</b> (köklü) değişim her şeyi bir anda değiştirir; <b>incremental</b> (adım adım) değişim küçük iyileştirmelerle ilerler.</p><p>Şıklardaki tuzağa dikkat: yeni bir CEO atamak, ofis taşımak ya da gelirin artması tek başına tanım değildir. Tanım her zaman “bir durumdan diğerine geçiş”tir.</p>",
+          "ornek": "<p>Hayali bir kitapçı, yıllarca yalnızca dükkânda satış yaptıktan sonra önce telefonla sipariş, sonra internet satışı ekliyor. Bir durumdan diğerine geçtiği için bu <b>organizational change</b>; küçük adımlarla ilerlediği için de <b>incremental</b> bir değişimdir.</p>",
+          "kaynak": [1],
+          "terimler": ["Organizational change"],
+          "soru": {
+            "q": "Two fictional taxi firms face the same new ride-hailing apps. One redesigns its whole service, the other ignores the trend. What does this show about organizational change?",
+            "o": ["It depends on how decision makers interpret the environment", "An environmental change forces every firm to change at once", "Only firms with poor results are able to change their structure", "Change only happens when a new chief executive is appointed"],
+            "x": "Doğru cevap ilk seçenek: çevre aynı olduğu halde tepkiler farklı, çünkü değişim karar vericilerin yorumuna bağlıdır. “Çevre değişimi her firmayı zorlar” şıkkı çekici, ama kaynak çevredeki değişimin örgütü kendiliğinden değiştirmediğini söyler."
+          }
+        },
+        {
+          "baslik": "Dışarıdan gelen dört neden: demografi, teknoloji, küreselleşme, piyasa",
+          "anlatim": "<p>Bir örgütü yerinden oynatan şeye <b>driver</b> (değişimin itici gücü) denir. Kaynak altı tane sayar; ilk dördü şirketin dışından gelir.</p><p><b>Workplace demographics</b> (işgücü demografisi): çalışanların yapısı değişir. Kaynaktaki örnek yaşlanan işgücü ve yeterince genç çalışan bulunamamasıdır. Şirket bu boşluğa esnek saatler ya da bilgi aktarma programlarıyla uyum sağlar. <b>Technology</b> (teknoloji): yeni teknoloji eski iş modelini tehdit eder. Kaynak Moore yasasını ve müzik endüstrisinin Napster ile karşılaşmasını örnek verir. <b>Globalization</b> (küreselleşme): işler ülke sınırlarını aşar; kaynak <b>outsourcing</b> (işi dış firmaya verme) ve <b>offshoring</b> (işi yurt dışına taşıma) örneklerini verir. <b>Market conditions</b> (piyasa koşulları): talep ya da maliyetler aniden değişir. Kaynaktaki örnek, 11 Eylül sonrasında ve yakıt fiyatları yükseldiğinde havayollarının yaşadığı sarsıntıdır.</p><p>Ayırt etme ipucu: soruda insanların yaşı ya da işgücünün yapısı varsa demografi, yeni bir araç ya da dijital rakip varsa teknoloji, iş başka ülkeye ya da dış firmaya gidiyorsa küreselleşme, talep veya maliyet şoku varsa piyasa koşulları.</p>",
+          "ornek": "<p>Hayali bir çağrı merkezi, maliyetleri düşürmek için müşteri hizmetlerinin bir bölümünü başka bir ülkedeki bir firmaya devrediyor. İş ülke sınırının dışına taşındığı için bu değişimin itici gücü <b>globalization</b>, teknoloji değil.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A fictional ferry company must cut routes after demand suddenly collapses and fuel costs jump in the same year. Which driver of change is this?",
+            "o": ["Market conditions", "Technology", "Globalization", "Workplace demographics"],
+            "x": "Doğru cevap <b>market conditions</b>: ani talep düşüşü ve yakıt maliyeti artışı bir piyasa şokudur, kaynaktaki havayolu örneğine benzer. <b>Globalization</b> çekici olabilir, ama senaryoda iş başka bir ülkeye ya da dış firmaya taşınmıyor."
+          }
+        },
+        {
+          "baslik": "Büyüme, kötü performans ve “nothing fails like success”",
+          "anlatim": "<p>Son iki neden şirketin kendi durumundan gelir. <b>Growth</b> (büyüme): şirket büyüdükçe eski yapı yetmez. Kaynaktaki örnek Widmer Brothers'tır: bir garajda başlayan bira üreticisi ABD'nin en büyük 11. bira üreticisi olur ve yeniden düzenlenmek zorunda kalır. Garajda birkaç kişiyle işleyen yöntem büyük bir tesiste işlemez.</p><p><b>Poor performance</b> (kötü performans): kötü sonuç alan şirketler daha kolay değişir, çünkü değişmenin gerekçesi gözlerinin önündedir. Tersi daha ilginç: başarı değişimi zorlaştırır. Başarılı şirket kendine aşırı güvenir ve <b>inertia</b> (atalet, yerinde sayma) içine girer. Buna <b>Nothing fails like success</b> (hiçbir şey başarı kadar başarısızlığa götürmez) denir; kaynak Polaroid'i örnek verir. Düşünce şöyle işler: “Bu yöntem bizi zirveye taşıdı, neden değiştirelim?” diyen şirket, çevre değişince geride kalır.</p><p>Kaynak bir şey daha ekler: yeni bir CEO da değişimi tetikler. Yeni CEO tek başına örgütsel değişimin tanımı değildir; değişimi başlatabilen bir etkendir.</p>",
+          "ornek": "<p>Hayali bir saat markası on yıl boyunca pazar lideri olduğu için akıllı saat akımını ciddiye almıyor ve “müşterimiz bizi bırakmaz” diyor. Başarının getirdiği aşırı güven ve atalet değişimi engellediği için bu <b>nothing fails like success</b> örneğidir.</p>",
+          "kaynak": [1],
+          "terimler": ["Nothing fails like success"],
+          "soru": {
+            "q": "A fictional family pizza shop expands from one kitchen to 40 branches and can no longer run everything from the owner's phone. Which driver of change is this?",
+            "o": ["Growth", "Poor performance", "Market conditions", "Technology"],
+            "x": "Doğru cevap <b>growth</b>: şirket büyüdüğü için eski yönetim biçimi yetmiyor, tıpkı garajdan büyük bir bira üreticisine dönüşen örnekteki gibi. <b>Poor performance</b> burada çekici bir tuzaktır, ama sonuçlar kötü değil; tersine, başarı büyüme getirmiş."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Yenilik için en önemli şey bireysel yaratıcılıktır.", "dogru": "McKinsey'ye göre bağlantılar ve ağlar bireysel yaratıcılıktan daha önemlidir."},
+        {"yanlis": "Hedefleri stratejiye bağlamak <b>support and govern</b> adımıdır.", "dogru": "Hedef, strateji, misyon, vizyon ve süre adım 2'dir: <b>set boundaries and engage</b>. Kaynak, yapı ve sponsor adım 3'tür."},
+        {"yanlis": "Başarılı şirketler daha kolay değişir, çünkü daha çok kaynakları vardır.", "dogru": "Tersi: başarı aşırı güven ve atalet yaratır (<b>nothing fails like success</b>); kötü performans gösterenler daha kolay değişir."},
+        {"yanlis": "Çevre değişirse örgüt de kendiliğinden değişir.", "dogru": "Değişim, karar vericilerin çevreyi nasıl yorumladığına ve nasıl tepki verdiğine bağlıdır."},
+        {"yanlis": "Yeni bir CEO atamak örgütsel değişimin tanımıdır.", "dogru": "Tanım, örgütün bir durumdan başka bir duruma geçişidir. Yeni CEO yalnızca değişimi tetikleyebilir."}
+      ],
+      "ozet": [
+        "<b>Innovation network</b>: McKinsey'ye göre bağlantılar bireysel yaratıcılıktan daha önemlidir.",
+        "Dört adım sırası: bağlan, sınırları belirle ve dahil et, destekle ve yönet, yönet ve izle.",
+        "Adım 2 hedef ve stratejiyle bağdır; adım 3 yapı, kaynak ve sponsordur; adım 4 ödül ve takiptir.",
+        "Ağdaki dört rol: fikir üreticiler, araştırmacılar, uzmanlar ve üreticiler.",
+        "<b>Organizational change</b>: bir durumdan diğerine geçiş; yapıda, stratejide, politikada, teknolojide ya da kültürde, köklü ya da adım adım.",
+        "Altı itici güç: demografi, teknoloji, küreselleşme, piyasa koşulları, büyüme ve kötü performans.",
+        "Başarı atalet doğurur: nothing fails like success. Yeni bir CEO da değişimi tetikleyebilir."
+      ],
+      "aklinda": "Ağı kur: Bağlan, Sınır çiz, Destekle, İzle. Başarı en tehlikeli rahatlıktır: nothing fails like success.",
+      "sinavda": "<p>Ağ adımları genelde “bu eylem hangi adım?” biçiminde gelir; özellikle adım 2 ile adım 3 birbirine karıştırılır. Değişim nedenlerinde kısa bir şirket hikâyesi verilir ve demografi, teknoloji, büyüme gibi seçenekler arasından doğru itici gücü seçmen istenir.</p>"
+    },
+    {
+      "id": "c11c",
+      "ad": "Değişime tepkiler ve direnişin nedenleri",
+      "sure": 20,
+      "neden": "<p>Bir değişim planı ne kadar iyi olursa olsun, sonunda onu insanlar yaşar. Kimi bağırır, kimi susar, kimi destekler. Bu tepkileri ve arkasındaki nedenleri doğru adlandırmak uzun vakalarda sık sorulur; çoğu zaman iki grubun tepkisini aynı soruda sınıflandırman istenir.</p>",
+      "hedefler": [
+        "Dört tepkiyi en olumsuzdan en olumluya sırala.",
+        "<b>Active resistance</b> ile <b>passive resistance</b> farkını ses ölçütüyle açıkla.",
+        "Yedi direniş nedenini birer senaryodan tanı.",
+        "Direnişin neden değerli bir geri bildirim olabileceğini anlat."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Aktif ve pasif direniş: fark sestedir",
+          "anlatim": "<p>Değişime verilen tepkiler bir çizgi üzerinde dizilir: en olumsuzdan en olumluya dört durak vardır. İlk ikisi direniştir ve sınavın en sevdiği karışıklık bu ikisi arasındadır.</p><p><b>Active resistance</b> (aktif direniş) en olumsuz tepkidir. Kişi değişimi sabote eder, açıkça itiraz eder ve başkalarını da direnmeye teşvik eder. Gürültülüdür ve bulaşıcıdır.</p><p><b>Passive resistance</b> (pasif direniş) ise rahatsız ama sessiz bir tepkidir. Kişi değişimden içten içe hoşlanmaz, stres yaşar, hatta kimseye söylemeden başka iş arayabilir. Dışarıdan bakınca her şey yolunda görünür.</p><p>İkisini ayıran tek soru şudur: <b>ses var mı?</b> Toplantıda itiraz, meslektaşları kışkırtma ya da sabotaj varsa aktif. Sessiz mutsuzluk, stres, gizlice iş arama varsa pasif. Belirleyici olan kişinin ne kadar mutsuz olduğu değil, bu mutsuzluğu dışa vurup vurmadığıdır. Çok mutsuz ama sessiz biri yine pasif direniştedir.</p>",
+          "ornek": "<p>Hayali bir lise yeni bir not sistemine geçiyor. Bir öğretmen her toplantıda sisteme itiraz edip diğerlerine onu kullanmamalarını söylüyor; başka bir öğretmen hiçbir şey demiyor ama geceleri uyuyamıyor ve başka okullara başvuruyor. Birincisi <b>active resistance</b>, ikincisi <b>passive resistance</b> örneğidir; aradaki fark sestir.</p>",
+          "kaynak": [0],
+          "terimler": ["Active resistance", "Passive resistance"],
+          "soru": {
+            "q": "At a fictional warehouse, a forklift driver never complains about the new scanning system but feels anxious and secretly sends his CV to other employers. Which reaction is this?",
+            "o": ["Passive resistance", "Active resistance", "Compliance", "Enthusiastic support"],
+            "x": "Doğru cevap <b>passive resistance</b>: rahatsızlık var ama hiç dile getirilmiyor, kişi sessizce ayrılmaya hazırlanıyor. <b>Compliance</b> çekici, çünkü o da sessiz görünür; ama uyum gösteren kişi stres içinde iş aramaz, yalnızca isteksizce ayak uydurur."
+          }
+        },
+        {
+          "baslik": "Uyum ve coşkulu destek: çizginin olumlu ucu",
+          "anlatim": "<p>Çizginin olumlu tarafında iki durak kalır. <b>Compliance</b> (uyum), kişinin değişime az bir hevesle ayak uydurmasıdır. İtiraz etmez, sabote etmez, ama savunmaz da. İş yapılır, enerji yoktur.</p><p><b>Enthusiastic support</b> (coşkulu destek) en olumlu tepkidir: kişi yeni yöntemi savunur ve başkalarını da desteklemeye teşvik eder. Kaynak bunu bir istisna olarak görür; değişimden gerçekten heyecan duyan insan azdır.</p><p>Dört tepkinin sırasını aklında tut: active resistance, passive resistance, compliance, enthusiastic support. Bir senaryoyu sınıflandırırken iki soru sor. Birincisi: kişi değişime karşı mı, yanında mı? İkincisi: bunu sesli mi yapıyor, sessiz mi? Karşı ve sesli ise aktif direniş, karşı ve sessiz ise pasif direniş. Yanında ama sessiz ve isteksiz ise uyum. Yanında ve sesli, üstelik başkalarını da ikna ediyorsa coşkulu destek.</p><p>Ses ölçütü çizginin iki ucunda da işe yarar: aktif direniş ve coşkulu destek sesli uçlardır, pasif direniş ve uyum ise sessiz ortadadır. Pasif direnişi uyumdan ayıran şey duygudur: biri rahatsız ve stresli, diğeri yalnızca ilgisiz.</p>",
+          "ornek": "<p>Hayali bir restoran yeni bir sipariş tableti getiriyor. Bir garson tableti öğreniyor ve kullanıyor ama hiç ilgi göstermiyor; başka bir garson ise kendi isteğiyle arkadaşlarına tableti öğretiyor ve şikâyet edenlere faydalarını anlatıyor. Birincisi <b>compliance</b>, ikincisi <b>enthusiastic support</b> örneğidir.</p>",
+          "kaynak": [0],
+          "terimler": ["Compliance", "Enthusiastic support"],
+          "soru": {
+            "q": "A fictional library introduces self-service checkout. One librarian uses it without fuss but shows no interest and never mentions it to anyone. Which reaction is this?",
+            "o": ["Compliance", "Passive resistance", "Enthusiastic support", "Active resistance"],
+            "x": "Doğru cevap <b>compliance</b>: kişi sistemi kullanıyor ama hevesi yok. <b>Passive resistance</b> çekici, çünkü o da sessizdir; fakat pasif direnişte kişi değişimden rahatsızdır ve stres yaşar, burada ise yalnızca ilgisizlik var."
+          }
+        },
+        {
+          "baslik": "Neden direniriz? Alışkanlık, kişilik, belirsizlik, başarısızlık korkusu",
+          "anlatim": "<p>Tepkiyi adlandırmak yetmez; nedenini de bilmen gerekir, çünkü her nedenin çözümü farklıdır. Kaynak yedi neden sayar. İlk dördü kişinin kendi içinden gelir.</p><p><b>Disrupted habits</b> (bozulan alışkanlıklar): otomatik yaptığımız rutinler bozulunca zorlanırız. Kaynaktaki örnek, otomatik vites yerine manuel vitesli araba kullanmak zorunda kalmaktır; artık her hareketi düşünmen gerekir. <b>Personality</b> (kişilik): bazı insanlar yapı olarak değişime daha kapalıdır; yeniliğe açıklığı düşük, özsaygısı düşük ya da riskten kaçınan kişiler daha çok direnir. <b>Feelings of uncertainty</b> (belirsizlik duygusu): ne olacağını bilmemek korkutur. Kaynaktaki örnek bir birleşmedir: kimse işine ne olacağını bilmez. <b>Fear of failure</b> (başarısızlık korkusu): özellikle uzmanlar, yeni sistemde eskisi kadar iyi olamayacaklarından şüphe eder.</p><p>En çok karışan ikili belirsizlik ile başarısızlık korkusudur. Belirsizlikte soru “Ne olacak?”tır; gelecek bilinmiyor. Başarısızlık korkusunda soru “Ben bunu becerebilecek miyim?”dir; gelecek belli ama kişi kendi performansından şüphe ediyor. Alışkanlık ise ne gelecekle ne yetenekle ilgilidir, yalnızca rutinin bozulmasıdır.</p>",
+          "ornek": "<p>Hayali bir muhasebe bürosunda yirmi yıllık deneyimli bir uzman, yeni yazılımda gençler kadar hızlı olamayacağından endişe ediyor. Gelecek belli, ama kendi performansından şüphe ettiği için bu <b>fear of failure</b> örneğidir, belirsizlik değil.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "Two fictional supermarket chains announce a merger, and cashiers resist because nobody can tell them whether their own store will stay open. Which reason for resistance is this?",
+            "o": ["Feelings of uncertainty", "Fear of failure", "Disrupted habits", "Personality"],
+            "x": "Doğru cevap <b>feelings of uncertainty</b>: kasiyerler geleceklerinin ne olacağını bilmiyor. <b>Fear of failure</b> çekici, ama orada kişi gelecekten değil, yeni sistemde kendi başarısından şüphe eder."
+          }
+        },
+        {
+          "baslik": "Kişisel etki, değişim yorgunluğu ve güç kaybı",
+          "anlatim": "<p>Kalan üç neden, kişinin değişimden ne kazanıp ne kaybettiğine bakar. <b>Personal impact of change</b> (değişimin kişisel etkisi): insanlar kendilerine yarayan değişimi memnuniyetle karşılar, kendilerine zarar verene direnir. Basit bir hesap: “Bu benim için iyi mi?”</p><p><b>Prevalence of change</b> (değişimin sıklığı): çok fazla değişim olunca insanlar yorulur ve şüpheci olur. Sorun bu değişimin içeriği değil, ardı arkası kesilmeyen değişimlerin sayısıdır. “Yine mi?” cümlesi bu nedenin işaretidir.</p><p><b>Perceived loss of power</b> (algılanan güç kaybı): değişim kişinin yetkisini ya da statüsünü azaltıyorsa direniş doğar. Kaynaktaki örnek, ekiplerin işi devralmasıyla yetkisini kaybeden amirlerdir. Önceden her kararı onaylayan kişi artık onaylamıyorsa güç kaybı vardır.</p><p>Güç kaybını kişisel etkiyle karıştırma. Güç kaybı özellikle yetki ve statüyle ilgilidir; kişisel etki ise maaş, iş yükü, çalışma saati gibi herhangi bir kazanç ya da kayıp olabilir. Senaryoda “onay yetkisi”, “işe alma yetkisi”, “karar hakkı” geçiyorsa güç kaybını seç.</p>",
+          "ornek": "<p>Hayali bir lojistik firması iki yıl içinde üçüncü kez yeniden yapılanma duyuruyor ve çalışanlar toplantıda “Yine mi?” diye iç çekiyor. Planın içeriğinden çok değişimlerin ardı arkası kesilmediği için bu <b>prevalence of change</b> örneğidir.</p>",
+          "kaynak": [1],
+          "terimler": ["Prevalence of change", "Perceived loss of power"],
+          "soru": {
+            "q": "At a fictional school, department heads who used to decide every timetable resist a plan that lets teacher teams set their own schedules. Which reason fits best?",
+            "o": ["Perceived loss of power", "Personal impact of change", "Prevalence of change", "Disrupted habits"],
+            "x": "Doğru cevap <b>perceived loss of power</b>: bölüm başkanları karar yetkisini kaybediyor. <b>Personal impact of change</b> çekici, çünkü değişim onları da etkiliyor; ama kaybedilen şey özellikle yetki ve statü olduğunda kaynak güç kaybını kullanır."
+          }
+        },
+        {
+          "baslik": "Direniş her zaman kötü mü? QWERTY ve Dvorak",
+          "anlatim": "<p>Yöneticilerin ilk refleksi direnişi bir engel olarak görmektir. Kaynak buna itiraz eder: direniş her zaman kötü değildir, <b>valuable feedback</b> (değerli geri bildirim) olabilir. İnsanların neden direndiğini dinlersen planındaki gerçek bir kusuru görebilirsin.</p><p>Bir ayrıntı daha: en sadık çalışanlar en yüksek sesli eleştirmenler olabilir. Mantığı şu: şirketi önemseyen kişi yanlış gördüğü şeye karşı çıkar. Şirketi önemsemeyen biri ise uğraşmaz, isteksizce uyar. Yani yüksek sesli eleştiri bazen bağlılığın işaretidir, düşmanlığın değil.</p><p>Kaynaktaki klasik örnek klavyedir. Daha hızlı olan Dvorak klavye, dirençle karşılaşınca hiçbir zaman QWERTY'nin yerini alamadı. Ders şu: en iyi fikir kendiliğinden kazanmaz. Değişimi yöneten kişi insanların neden direndiğini anlamazsa, teknik olarak üstün bir çözüm bile başarısız olur.</p><p>Bu örnek önceki yedi nedenle de bağlantılıdır: yıllarca bir düzene alışmış insanlar için yeni düzen hem alışkanlığı bozar hem de emekle edindikleri becerinin değerini düşürür.</p>",
+          "ornek": "<p>Hayali bir kliniğin en kıdemli hemşiresi yeni vardiya planına toplantıda sert itiraz ediyor ve gece vardiyasında hasta güvenliğinin azalacağını gösteriyor. Yönetim itirazı dinleyip planı düzeltiyor. Bu, direnişin <b>valuable feedback</b> olabileceğini ve sadık çalışanın yüksek sesli bir eleştirmen olabileceğini gösterir.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A fictional city's new, faster bus route map is rejected by drivers who had memorised the old routes for years. What lesson about change does this best illustrate?",
+            "o": ["A better idea does not win automatically; leaders must understand resistance", "Employees always accept the most efficient option once they see the evidence", "Resistance only appears when the new idea is clearly worse than the old one", "Loud critics are usually the least loyal employees and should be ignored"],
+            "x": "Doğru cevap ilk seçenek: daha hızlı olsa bile yeni harita, şoförlerin alışkanlıkları ve emekle edindikleri bilgi yüzünden reddediliyor; Dvorak örneğinin mantığı budur. “İnsanlar her zaman en verimli seçeneği kabul eder” şıkkı çekici, ama kaynağın tam olarak çürüttüğü fikir budur."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Çok mutsuz biri her zaman <b>active resistance</b> gösterir.", "dogru": "Fark mutsuzluğun derecesi değil, sestir. Sessiz, stresli ve gizlice iş arayan kişi <b>passive resistance</b> gösterir."},
+        {"yanlis": "Sessiz kalan herkes <b>compliance</b> gösterir.", "dogru": "Sessiz ama rahatsız ve stresliyse pasif direniş; sessiz ve yalnızca isteksizse uyum."},
+        {"yanlis": "Birleşmede işini kaybetme kaygısı <b>fear of failure</b> sayılır.", "dogru": "Gelecek bilinmiyorsa <b>feelings of uncertainty</b>; kişi yeni sistemde kendi performansından şüphe ediyorsa fear of failure."},
+        {"yanlis": "Arka arkaya gelen değişimlerden bıkmak <b>disrupted habits</b> nedenidir.", "dogru": "Değişimlerin sayısından yorulmak <b>prevalence of change</b>; tek bir rutinin bozulması disrupted habits."},
+        {"yanlis": "Direniş her zaman bastırılması gereken bir sorundur.", "dogru": "Kaynağa göre direniş değerli bir geri bildirimdir; en sadık çalışanlar en yüksek sesli eleştirmenler olabilir."},
+        {"yanlis": "İki gruplu bir soruda bir yarıyı doğru bulunca şıkkı işaretlemek.", "dogru": "Her iki yarıyı ayrı ayrı kontrol et; yanlış şıklar genelde bir yarıyı doğru bırakıp diğerini değiştirir."}
+      ],
+      "ozet": [
+        "Dört tepki, olumsuzdan olumluya: aktif direniş, pasif direniş, uyum, coşkulu destek.",
+        "Aktif ile pasif direnişi ayıran ölçüt sestir: itiraz ve sabotaj aktif, sessiz mutsuzluk pasif.",
+        "<b>Compliance</b> isteksiz uyumdur; <b>enthusiastic support</b> yeni yolu savunur ve başkalarını ikna eder.",
+        "Yedi neden: bozulan alışkanlık, kişilik, belirsizlik, başarısızlık korkusu, kişisel etki, değişimin sıklığı, güç kaybı.",
+        "Belirsizlik “Ne olacak?” sorusudur; başarısızlık korkusu “Becerebilecek miyim?” sorusudur.",
+        "Yetki ve statü kaybı güç kaybıdır; çok fazla değişimden yorulmak değişimin sıklığıdır.",
+        "Direniş değerli bir geri bildirimdir; daha hızlı Dvorak klavye QWERTY'nin yerini alamadı."
+      ],
+      "aklinda": "Ses varsa aktif, sessizse pasif. “Yine mi?” = prevalence of change, “Yetkim gidiyor” = perceived loss of power.",
+      "sinavda": "<p>Uzun vakalarda iki grubun tepkisi tek soruda sorulur, örneğin yüksek sesle itiraz eden doktorlar ile sessizce stres yaşayan hemşireler. Ayrıca bir grubun neden direndiği sorulur ve altı seçenek arasından yedi nedenden doğru olanı seçmen beklenir.</p>"
+    },
+    {
+      "id": "c11d",
+      "ad": "Lewin'in üç aşaması ve Kotter'in sekiz adımı",
+      "sure": 25,
+      "neden": "<p>Planlı değişimi yönetmenin iki temel haritası Lewin ve Kotter'dir. Kotter'in sekiz adımı Lewin'in üç aşamasının içine oturur, bu yüzden ikisini birlikte öğrenmek hem kolay hem güvenlidir. Uzun vakalarda bir eylemin hangi Lewin aşamasına ve hangi Kotter adımına ait olduğu sık sık sorulur.</p>",
+      "hedefler": [
+        "Lewin'in üç aşamasını ve her aşamanın eylemlerini say.",
+        "Kotter'in sekiz adımını sırasıyla ve Lewin aşamalarına eşleyerek yaz.",
+        "<b>Guiding coalition</b> ile <b>volunteer army</b> farkını büyüklük ve rolle açıkla.",
+        "Bir vaka ipucunu doğru Kotter adımına yerleştir.",
+        "<b>Learning organization</b> görüşünü Lewin'in görüşüyle karşılaştır."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Lewin: neden önce “çözmek” gerekir? (Unfreeze)",
+          "anlatim": "<p>Lewin'in modeli 1940'lar ve 50'lerden gelir ve bir buz kalıbı benzetmesiyle kolayca anlaşılır. Donmuş bir buz kalıbının şeklini değiştirmek istersen önce onu eritmen, sonra yeni kalıba dökmen, sonra yeniden dondurman gerekir. Örgütte de insanlar alışkanlıklarına donmuş haldedir.</p><p><b>Unfreeze</b> (çözme) aşaması insanları değişime hazırlamak ve onları değişime açık hale getirmektir. Kaynak beş eylem sayar: bir plan ve vizyon iletmek; <b>sense of urgency</b> (aciliyet duygusu) geliştirmek; fikir önderlerinden (opinion leaders) bir koalisyon kurmak; duygusal ve araçsal destek vermek; çalışanların katılımına izin vermek.</p><p>Destek ayrımına dikkat: <b>emotional support</b> (duygusal destek) dinlemek ve cesaret vermektir; <b>instrumental support</b> (araçsal destek) ise eğitim gibi pratik yardımdır. Fikir önderlerinin önce ikna edilmesinin mantığı da açık: saygı duyulan kişiler ikna olunca diğerleri onları izler.</p><p>Bu aşamada yeni sistem henüz çalışmıyor; her şey hazırlıktır. Bir eylem değişimden <b>önce</b> yapılıyorsa ve amacı insanları hazırlamaksa, unfreeze'tir.</p>",
+          "ornek": "<p>Hayali bir spor salonu zinciri yeni rezervasyon sistemine geçmeden önce herkesin sözünü dinlediği kıdemli antrenörleri ikna ediyor, çalışanlara ekran tasarımında söz hakkı veriyor ve herkese uygulamalı eğitim veriyor. Hepsi sistem çalışmadan önce insanları hazırladığı için <b>unfreeze</b> aşamasıdır.</p>",
+          "kaynak": [0],
+          "terimler": ["Unfreeze"],
+          "soru": {
+            "q": "Before a fictional airport changes its baggage system, managers hold sessions where they listen to staff worries and encourage them. Which unfreezing action is this?",
+            "o": ["Providing emotional support", "Providing instrumental support", "Building a coalition of opinion leaders", "Publicizing success"],
+            "x": "Doğru cevap <b>emotional support</b>: yöneticiler endişeleri dinliyor ve cesaret veriyor. <b>Instrumental support</b> çekici, çünkü o da bir destektir; ama araçsal destek eğitim gibi pratik yardım demektir, burada pratik bir araç verilmiyor."
+          }
+        },
+        {
+          "baslik": "Change ve Refreeze; öğrenen örgüt farkı",
+          "anlatim": "<p>Buz eridikten sonra ikinci aşama gelir: <b>Change (move)</b> (değiştirme, hareket). Burada değişim uygulanır. Kaynak üç eylem sayar: desteği sürdürmek, <b>small wins</b> (küçük kazanımlar) yaratmak ve engelleri ortadan kaldırmak. Küçük kazanımların mantığı moraldir: insanlar işe yaradığını görünce devam eder.</p><p>Üçüncü aşama <b>Refreeze</b> (yeniden dondurma): değişimi kalıcı hale getirmek, yeni alışkanlıkları normal yapmak. Kaynak iki eylem sayar: başarıyı duyurmak (<i>publicize success</i>) ve değişimi benimseyenleri ödüllendirmek (<i>reward change adoption</i>). Dondurmazsan insanlar ilk zorlukta eski yönteme geri kayar.</p><p>Change ile refreeze'i ayırmak için zamanlamaya bak: uygulama sürerken verilen destek ve küçük kazanımlar change aşamasıdır; uygulama oturduktan sonra başarıyı duyurmak ve ödüllendirmek refreeze aşamasıdır.</p><p>Lewin'in modeli değişimi başı ve sonu olan bir olay olarak görür. Buna karşılık <b>Learning organization</b> (öğrenen örgüt), değişimi tek seferlik bir olay değil, sürekli bir süreç olarak görür. Öğrenen örgütte “yeniden dondurma” diye bir son durak yoktur; buz hep biraz yumuşak kalır.</p>",
+          "ornek": "<p>Hayali bir otel zinciri yeni temassız giriş sistemini kurduktan sonra misafir memnuniyetindeki artışı bütün çalışanlarla paylaşıyor ve sistemi en iyi kullanan resepsiyonistlere teşekkür ödülü veriyor. Uygulama oturduktan sonra başarı duyurulup benimseme ödüllendirildiği için bu <b>refreeze</b> aşamasıdır.</p>",
+          "kaynak": [0],
+          "terimler": ["Refreeze", "Learning organization"],
+          "soru": {
+            "q": "A fictional design studio says it never treats change as a project with an end date; it expects to adjust its methods every month. Which idea does this reflect?",
+            "o": ["Learning organization", "The refreeze stage", "The unfreeze stage", "Institute change"],
+            "x": "Doğru cevap <b>learning organization</b>: değişim bitişi olan bir proje değil, sürekli bir süreç olarak görülüyor. <b>Refreeze</b> çekici, ama o değişimi bitirip kalıcı hale getirmektir; yani tam tersine bir son durak varsayar."
+          }
+        },
+        {
+          "baslik": "Kotter 1-4: çözme aşamasının dört adımı",
+          "anlatim": "<p>Kotter'in sekiz adımı 1990'lardan gelir ve büyük dönüşümler için daha ayrıntılı bir yol haritasıdır. En kolay öğrenme yolu, adımları Lewin'in aşamalarına yerleştirmektir: 1-4 unfreeze, 5-7 change, 8 refreeze.</p><p><b>1. Create urgency</b> (aciliyet yarat): neden şimdi değişmek gerektiğini göster. Vaka ipuçları: veri, şikâyetler, kriz, rakipler, hiçbir şey yapmamanın sonuçları. <b>2. Build a guiding coalition</b> (yönlendirici koalisyon kur): <b>Guiding coalition</b>, değişime liderlik edecek kadar gücü ve itibarı olan küçük, etkili bir gruptur. <b>3. Form a strategic vision & initiatives</b> (stratejik vizyon ve girişimler oluştur): istenen geleceği anlatan kısa bir ifade. <b>4. Enlist a volunteer army</b> (gönüllü ordu topla): <b>Volunteer army</b>, vizyona göre harekete geçen ve yardım etmek için gönüllü olan büyük bir insan kitlesidir.</p><p>Sınavın en sevdiği karışıklık 2 ile 4 arasındadır. Sor: grup küçük mü ve değişimi <b>yönetiyor</b> mu? O zaman koalisyon. Grup kalabalık mı ve değişimi <b>yayıyor</b> mu? O zaman gönüllü ordu. Birkaç kıdemli kişinin adının sayıldığı bir liste koalisyonu, yüzlerce gönüllüden söz eden büyük bir sayı orduyu işaret eder.</p>",
+          "ornek": "<p>Hayali bir üniversite kütüphanesinde müdür, bir bilişimci, iki kıdemli kütüphaneci ve bir öğrenci temsilcisi dijital arşiv projesine liderlik etmek üzere seçiliyor. Ardından 90 öğrenci ve personel “arşiv elçisi” olmak için kaydoluyor. Küçük liderlik grubu <b>guiding coalition</b>, kalabalık gönüllüler ise <b>volunteer army</b>'dir.</p>",
+          "kaynak": [1],
+          "terimler": ["Guiding coalition", "Volunteer army"],
+          "soru": {
+            "q": "A fictional zoo's director shows staff falling visitor numbers, angry reviews and a rival park's success to explain why things cannot stay the same. Which Kotter step is this?",
+            "o": ["Create urgency", "Build a guiding coalition", "Form a strategic vision", "Enlist a volunteer army"],
+            "x": "Doğru cevap <b>create urgency</b>: veri, şikâyet ve rakip gösterilerek neden şimdi değişmek gerektiği anlatılıyor. <b>Form a strategic vision</b> çekici, ama vizyon istenen geleceği tarif eder; burada yalnızca mevcut durumun kabul edilemez olduğu gösteriliyor."
+          }
+        },
+        {
+          "baslik": "Kotter 5-7: değişim aşamasının üç adımı",
+          "anlatim": "<p>İnsanlar hazırlandıktan sonra iş uygulamaya geçer; bu üç adım Lewin'in change aşamasıdır.</p><p><b>5. Enable action by removing barriers</b> (engelleri kaldırarak harekete geçir): değişimi yavaşlatan eski prosedürler ve formlar kaldırılır, çalışanlara yetki verilir. Mantık şu: insanlar istese bile eski kurallar önlerini keserse değişim durur. <b>6. Generate short-term wins</b> (kısa vadeli kazanımlar üret): <b>Short-term wins</b>, ödüllendirilen ve herkesin görebildiği erken sonuçlardır. Tipik vaka ipucu, ölçülebilir sonucu olan bir pilot projedir. Erken başarı şüphecileri ikna eder ve ekibe enerji verir. <b>7. Sustain acceleration</b> (hızı koru): erken başarının sağladığı güveni kullanarak değişimi başka alanlara yaymak; zafer ilan edip durmak yerine devam etmek.</p><p>6 ile 7'yi karıştırma. Pilot sonucunun kendisi, örneğin “bekleme süresi yarıya indi”, kısa vadeli kazanımdır. O sonucu kullanarak değişimi diğer bölümlere yaymak hızı korumaktır. Adım 6'yı refreeze ile de karıştırma: buradaki kazanım uygulamanın ortasında, değişimi hızlandırmak için gelir; değişimi kalıcı hale getirmek için değil.</p>",
+          "ornek": "<p>Hayali bir belediye, tek bir mahallede online randevu pilotu başlatıyor ve bekleme süresinin 50 dakikadan 10 dakikaya indiğini duyuruyor. Görünür, ölçülebilir bir erken sonuç olduğu için bu <b>short-term wins</b> adımıdır. Belediye sonra bu başarıyı kullanıp sistemi bütün mahallelere yayarsa, o artık hızı koruma adımı olur.</p>",
+          "kaynak": [1],
+          "terimler": ["Short-term wins"],
+          "soru": {
+            "q": "Encouraged by a successful trial in one fictional warehouse, managers use its results to persuade five other sites to adopt the new picking system. Which Kotter step is this?",
+            "o": ["Sustain acceleration", "Generate short-term wins", "Enable action by removing barriers", "Institute change"],
+            "x": "Doğru cevap <b>sustain acceleration</b>: deneme başarısı kullanılarak değişim başka yerlere yayılıyor. <b>Generate short-term wins</b> çekici, çünkü senaryoda bir başarı geçiyor; ama soru kazanımın kendisini değil, onu kullanıp değişimi yaymayı anlatıyor."
+          }
+        },
+        {
+          "baslik": "Kotter 8 ve iki modelin tek haritası",
+          "anlatim": "<p>Son adım <b>8. Institute change</b> (değişimi kurumsallaştır): <b>Institute change</b>, yeni davranışları kültüre demir atarak sabitlemektir. Vaka ipucu, değişimin işe alma, eğitim, iş tanımları ve performans değerlendirmeleri gibi resmi sistemlere yazılmasıdır. Bu adım Lewin'in refreeze aşamasına karşılık gelir: ikisi de değişimi kalıcı yapar.</p><p>Şimdi iki modeli tek haritada düşün. Lewin üç geniş aşama verir ve her türlü değişime uyan genel bir çerçevedir. Kotter aynı yolu sekiz ayrıntılı adıma böler ve büyük dönüşümler içindir. Eşleme şöyle: Kotter 1-4 (aciliyet, koalisyon, vizyon, gönüllü ordu) unfreeze; Kotter 5-7 (engeller, kısa vadeli kazanımlar, hızı koruma) change; Kotter 8 (kurumsallaştırma) refreeze.</p><p>Sırayı hatırlamak için kaynağın cümlesini kullan: “Ugly Cats Vote Very Badly When Angry Indoors.” Her kelimenin baş harfi bir adımdır: Urgency, Coalition, Vision, Volunteer army, Barriers, Wins, Acceleration, Institute.</p><p>Soru iki modeli birlikte isterse önce eylemin değişimden önce mi, sırasında mı, sonra mı yapıldığına bak; bu sana Lewin aşamasını verir. Sonra o aşamanın içindeki Kotter adımını seç.</p>",
+          "ornek": "<p>Hayali bir eczane zinciri, yeni dijital reçete kontrolünü bütün iş ilanlarına, yeni personel eğitimine ve yıllık değerlendirme formuna ekliyor. Değişim resmi sistemlere yazılıp kalıcı hale geldiği için bu Lewin'de <b>refreeze</b>, Kotter'de <b>institute change</b> örneğidir.</p>",
+          "kaynak": [1],
+          "terimler": ["Institute change"],
+          "soru": {
+            "q": "A fictional courier firm adds the new route-planning tool to its onboarding course and to every driver's annual performance review. Which Lewin stage and Kotter step is this?",
+            "o": ["Refreeze and institute change", "Change and sustain acceleration", "Change and generate short-term wins", "Unfreeze and form a strategic vision"],
+            "x": "Doğru cevap <b>refreeze</b> ve <b>institute change</b>: araç, eğitim ve performans değerlendirmesi gibi kalıcı sistemlere yazılıyor. <b>Change and sustain acceleration</b> çekici, çünkü değişim yayılıyor gibi görünür; ama burada yaymak değil, kalıcılaştırmak söz konusu."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Küçük, etkili liderlik grubu ile yüzlerce gönüllü aynı adımdır.", "dogru": "Küçük ve yöneten grup <b>guiding coalition</b> (adım 2); kalabalık ve yayan grup <b>volunteer army</b> (adım 4)."},
+        {"yanlis": "Bekleme süresi verilerini ve şikâyetleri sunmak vizyon oluşturmaktır.", "dogru": "Mevcut durumun kabul edilemez olduğunu göstermek <b>create urgency</b>. Vizyon, istenen geleceği anlatan kısa bir ifadedir."},
+        {"yanlis": "Ölçülebilir bir pilot sonucu <b>institute change</b> adımıdır.", "dogru": "Görünür, ölçülebilir erken sonuç <b>short-term wins</b> (adım 6). Institute change, değişimi resmi sistemlere yazmaktır."},
+        {"yanlis": "Kotter 1-4 Lewin'in change aşamasına denk gelir.", "dogru": "Kotter 1-4 unfreeze, 5-7 change, 8 refreeze aşamasına denk gelir."},
+        {"yanlis": "Eğitim vermek duygusal destektir.", "dogru": "Eğitim gibi pratik yardım <b>instrumental support</b> (araçsal destek) sayılır; dinlemek ve cesaret vermek ise duygusal destektir."},
+        {"yanlis": "Lewin ve öğrenen örgüt değişimi aynı şekilde görür.", "dogru": "Lewin değişimi başı ve sonu olan bir olay olarak görür; <b>learning organization</b> ise sürekli bir süreç olarak."}
+      ],
+      "ozet": [
+        "Lewin'in üç aşaması: <b>Unfreeze</b>, change (move) ve <b>Refreeze</b>.",
+        "Unfreeze eylemleri: plan ve vizyon, aciliyet, fikir önderlerinden koalisyon, duygusal ve araçsal destek, katılım.",
+        "Change aşamasında destek sürer, küçük kazanımlar yaratılır, engeller kaldırılır; refreeze aşamasında başarı duyurulur ve benimseme ödüllendirilir.",
+        "Kotter sırası: aciliyet, koalisyon, vizyon, gönüllü ordu, engelleri kaldırma, kısa vadeli kazanımlar, hızı koruma, kurumsallaştırma.",
+        "Kotter 1-4 unfreeze, 5-7 change, 8 refreeze aşamasına denk gelir.",
+        "Koalisyon küçüktür ve yönetir; gönüllü ordu büyüktür ve yayar.",
+        "Öğrenen örgüt değişimi sürekli görür; Lewin ise tek seferlik bir olay olarak."
+      ],
+      "aklinda": "Ugly Cats Vote Very Badly When Angry Indoors: Urgency, Coalition, Vision, Volunteer army, Barriers, Wins, Acceleration, Institute.",
+      "sinavda": "<p>Rijnstad Hospital gibi uzun bir vakada her paragraf bir adımı anlatır: veri ve şikâyet sunan doktor, küçük liderlik grubu, yüzlerce gönüllü, ölçülebilir pilot, iş tanımlarına yazılan kurallar. Altı seçenek arasından eylemin Kotter adımını ya da Lewin aşaması ile Kotter adımı ikilisini seçersin.</p>"
+    },
+    {
+      "id": "c11e",
+      "ad": "Schein'in kültür değişimi ve üç modelin karşılaştırması",
+      "sure": 22,
+      "neden": "<p>Bazı değişimler yeni bir sistemden fazlasını ister: insanların neye değer verdiği değişmelidir. Schein'in altı adımı tam bu kültür değişimi içindir. Ders ayrıca Lewin, Kotter ve Schein'i yan yana koyar, çünkü üçü de aciliyetle başlar ve sınav bu benzerliği kullanarak seni yanıltmaya çalışır.</p>",
+      "hedefler": [
+        "<b>Schein's model</b> içindeki altı adımı sırasıyla say.",
+        "<b>Role modeling</b>, eğitim ve ödül sistemi adımlarını bir senaryoda ayır.",
+        "<b>New symbols and stories</b> adımının neden görünür bir eylem gerektirdiğini açıkla.",
+        "Üç modeli dönem, adım sayısı ve odakla karşılaştır.",
+        "Soru hangi modeli adlandırıyorsa cevabı o modelin içinden ver."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Schein 1-2: aciliyet ve kilit oyuncuları değiştirmek",
+          "anlatim": "<p>Kültür bir örgütün değerleri ve alışkanlıklarıdır; bir yönetmelikle değil, insanların her gün gördükleriyle değişir. <b>Schein's model</b> (Schein'in modeli) kültür değişimi için altı adım verir. İlk ikisi zemini hazırlar.</p><p><b>1. Create a sense of urgency</b> (aciliyet duygusu yarat): insanlar mevcut durumun sürdürülemez olduğuna inanmadan değişime katılmaz. Kaynaktaki örnek, Lou Gerstner'ın IBM'in krizini kullanarak çalışanların desteğini kazanmasıdır.</p><p><b>2. Change leaders and other key players</b> (liderleri ve diğer kilit oyuncuları değiştir): <b>Changing key players</b>, değişimi engelleyen liderlerin yerine başkalarını getirmektir. Mantığı şu: eski kültürü temsil eden kişiler kilit koltuklarda kaldıkça çalışanlar eski kuralların hâlâ geçerli olduğunu düşünür. Kaynaktaki örnekte Disney'in yeni CEO'su Iger, eski CEO'ya yakın olan planlama birimini kaldırır.</p><p>Bu adımı Kotter'in guiding coalition adımıyla karıştırma. Koalisyon, değişime liderlik edecek bir grubu <b>kurar</b>; Schein'in ikinci adımı ise değişimi engelleyenleri <b>çıkarır</b>.</p>",
+          "ornek": "<p>Hayali bir otel grubunun yeni genel müdürü, misafir odaklı kültüre geçişi sürekli erteleyen yiyecek-içecek müdürünü ve satın alma şefini görevden alıyor, yerlerine yeni yaklaşımı benimseyen kişileri getiriyor. Engelleyen kişiler değiştirildiği için bu <b>changing key players</b> adımıdır.</p>",
+          "kaynak": [0],
+          "terimler": ["Schein's model", "Changing key players"],
+          "soru": {
+            "q": "A fictional bakery chain's new owner removes the operations manager who kept blocking the switch to a customer-first culture. Which Schein step is this?",
+            "o": ["Changing leaders and other key players", "Role modeling by the new owner", "Creating a sense of urgency", "Creating new symbols and stories"],
+            "x": "Doğru cevap <b>changing leaders and other key players</b>: değişimi engelleyen yönetici çıkarılıyor. <b>Role modeling</b> çekici, çünkü eylemi yapan yine yeni sahip; ama rol model olmak liderin kendi davranışıyla örnek olmasıdır, burada ise biri görevden alınıyor."
+          }
+        },
+        {
+          "baslik": "Schein 3-4: rol model olmak ve eğitim",
+          "anlatim": "<p><b>3. Role modeling</b> (rol model olma): <b>Role modeling</b>, çalışanların inançlarını ve davranışlarını liderinkine benzetmesidir. İnsanlar liderin ne söylediğinden çok ne yaptığına bakar. Kaynakta Iger oyun geliştirme sürecine bizzat katılır. Etki ters yönde de işler: kaynak, HP yöneticilerinin casusluk skandalını kötü örnek olarak verir; lider kötü davranırsa çalışanlar da onu kopyalar.</p><p><b>4. Training</b> (eğitim): yeni kültürün normlarını ve becerilerini öğretmek. Kaynaktaki örnekler, NASA'nın Columbia faciasından sonraki güvenlik eğitimi ve Midas'ın müşteri eğitimidir.</p><p>İkisini ayırmanın yolu, öğretmenin kim olduğuna ve nasıl öğrettiğine bakmaktır. Role modeling'de lider kendi davranışıyla, örnek olarak gösterir; resmi bir ders yoktur. Training'de ise planlı bir öğretim vardır: kurs, atölye, program. Bir genel müdürün ayda bir müşteri telefonlarına bizzat cevap vermesi rol modeldir; bütün çalışanların müşteri iletişimi kursuna gönderilmesi eğitimdir.</p>",
+          "ornek": "<p>Hayali bir hastanenin başhekimi, el hijyeni kültürünü yerleştirmek için her sabah koğuş ziyaretinde herkesin önünde ellerini dezenfekte ediyor ve bunu hiç atlamıyor. Lider beklenen davranışı kendisi gösterdiği için bu <b>role modeling</b> örneğidir, eğitim değil.</p>",
+          "kaynak": [0],
+          "terimler": ["Role modeling"],
+          "soru": {
+            "q": "To build a safety-first culture, a fictional construction firm sends every site worker to a two-day course on risk awareness and teamwork. Which Schein step is this?",
+            "o": ["Training", "Role modeling", "Changing the reward system", "Changing key players"],
+            "x": "Doğru cevap <b>training</b>: yeni normlar planlı bir kursla öğretiliyor. <b>Role modeling</b> çekici, çünkü o da davranış öğretir; ama rol modelde lider kendi davranışıyla örnek olur ve ortada resmi bir kurs yoktur."
+          }
+        },
+        {
+          "baslik": "Schein 5-6: ödül sistemi, yeni semboller ve hikâyeler",
+          "anlatim": "<p><b>5. Change the reward system</b> (ödül sistemini değiştir): insanlar neyin ödüllendirildiğine bakarak neyin önemli olduğunu anlar. Kaynaktaki örnekler: müşteri odaklılık için komisyondan maaşa geçmek; ekip kültürü için ekip primleri vermek. Mantığı açık: satış başına komisyon alan biri müşteriye değil satışa odaklanır.</p><p><b>6. Create new symbols and stories</b> (yeni semboller ve hikâyeler yarat): <b>New symbols and stories</b>, yeni kültürü gösteren görünür eylemler ve anlatılan hikâyelerdir. Kaynaktaki örnek, Continental Airlines'ın 800 sayfalık el kitabını yakması ve yerine 80 sayfalık yenisini getirmesidir. Bu eylemin gücü sayfa sayısında değil, yıllarca anlatılacak bir hikâyeye dönüşmesindedir: “Bu şirkette artık kalın kurallar değil, sağduyu önemli.”</p><p>Sınav burada iki tuzak kurar. Birincisi, el kitabını yakmak Kotter'in eski prosedürleri kaldırma adımına benzer; ama soru Schein'i soruyorsa cevap semboller ve hikâyelerdir. İkincisi, sembol ile ödül karışır: para ya da prim değişiyorsa ödül sistemi, herkesin konuşacağı dramatik bir eylem varsa sembol ve hikâye.</p>",
+          "ornek": "<p>Hayali bir yazılım şirketi, hiyerarşiyi azaltmak istediği için müdürlerin kapalı odalarını herkesin gözü önünde söküp açık çalışma alanına çeviriyor. Çalışanlar bu olayı yıllarca anlatıyor. Görünür, dramatik ve hikâyeye dönüşen bir eylem olduğu için bu <b>new symbols and stories</b> adımıdır.</p>",
+          "kaynak": [0],
+          "terimler": ["New symbols and stories"],
+          "soru": {
+            "q": "To build a team culture, a fictional marketing agency stops paying individual bonuses and pays bonuses only when a whole team reaches its goals. Which Schein step is this?",
+            "o": ["Changing the reward system", "Creating new symbols and stories", "Training", "Role modeling"],
+            "x": "Doğru cevap <b>changing the reward system</b>: prim bireyden ekibe taşınarak neyin ödüllendirildiği değiştiriliyor. <b>Creating new symbols and stories</b> çekici olabilir, ama burada herkesin anlatacağı dramatik bir eylem yok; değişen şey paranın nasıl dağıtıldığı."
+          }
+        },
+        {
+          "baslik": "Üç modeli karşılaştır: Lewin, Schein, Kotter",
+          "anlatim": "<p>Üç model aynı soruya, “değişimi nasıl yönetirim?” sorusuna farklı derinliklerde cevap verir. Onları dönem, adım sayısı ve odakla ayır.</p><p><b>Lewin</b> 1940'lar ve 50'lerden gelir. Üç aşaması vardır ve her türlü değişim için genel bir çerçevedir; odağı direncin aşılmasıdır. <b>Schein</b> kaynakta 1980'ler ile 1990 arasına yerleştirilir. Altı adımı vardır ve odağı <b>culture</b> (kültür) değişimidir: değerler, rol modeller, semboller. <b>Kotter</b> 1990'lardan gelir. Sekiz adımı vardır ve <b>large-scale</b> (büyük ölçekli) dönüşüm için bir yol haritasıdır.</p><p>Bunları sayıyla hatırla: 3, 6, 8. Lewin en kısa ve en geneldir, Kotter en uzun ve en ayrıntılıdır, Schein ortada durur ama tek bir konuya, kültüre odaklanır. Bir soru “hangi model özellikle kültür değişimi içindir?” derse Schein; “büyük ölçekli dönüşüm için yol haritası” derse Kotter; “her türlü değişim için üç aşamalı genel çerçeve” derse Lewin.</p><p>Eşleştirme sorularında her iki yarıyı da kontrol et: yanlış şıklar genelde adım sayılarının, odakların ya da dönemlerin yerini modeller arasında değiştirir.</p>",
+          "ornek": "<p>Hayali bir banka hem ülkedeki bütün şubelerini yeniden yapılandırmak hem de çalışanların müşteriye bakışını değiştirmek istiyor. Ülke çapındaki büyük dönüşüm için Kotter'in sekiz adımı, değerleri ve davranışları dönüştürmek için Schein'in altı adımı daha uygun bir rehberdir.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A consultant needs a model focused specifically on changing values, role models and symbols inside a fictional charity. Which model fits best?",
+            "o": ["Schein's six-step model", "Kotter's eight-step model", "Lewin's three-stage model", "The four-step innovation network"],
+            "x": "Doğru cevap <b>Schein</b>: değerler, rol modeller ve semboller onun kültür odağının tam tarifidir. <b>Kotter</b> çekici, çünkü o da ayrıntılı bir modeldir; ama Kotter'in odağı büyük ölçekli dönüşümdür, kültür değil."
+          }
+        },
+        {
+          "baslik": "Üçü de aciliyetle başlar: soru hangi modeli söylüyor?",
+          "anlatim": "<p>Üç modelin ortak bir başlangıcı var: aciliyet. Lewin'de aciliyet geliştirmek unfreeze aşamasının bir eylemidir. Kotter'de birinci adımın adı <b>create urgency</b>'dir. Schein'de birinci adım <b>create a sense of urgency</b>'dir. Bu yüzden “genel müdür, böyle giderse müşterilerin üçte birini kaybedeceğimizi söyledi” gibi bir cümle üç modelde de bir karşılık bulur.</p><p>Sınav bu benzerlikten yararlanır ve seçeneklere başka modellerin terimlerini koyar: soru Schein'i sorarken şıklarda “Unfreeze” ya da “Build a guiding coalition” görebilirsin. Bunlar kendi modellerinde doğru terimlerdir, ama sorunun sorduğu modelde yoktur.</p><p>Kural basit: önce sorunun hangi modeli adlandırdığını oku, sonra cevabı yalnızca o modelin adımları arasından ver. Soru “According to Schein” diyorsa cevap Schein'in altı adımından biridir. Soru “Which Lewin stage and Kotter step” diyorsa ikisini birlikte eşleştirirsin. Aynı kural diğer adımlar için de geçerlidir: el kitabını herkesin önünde imha etmek Schein sorusunda sembol ve hikâyedir; Kotter'in eski prosedürleri kaldırma adımına benzemesi seni yanıltmamalı.</p>",
+          "ornek": "<p>Hayali bir kargo şirketinin genel müdürü toplantıda “Böyle devam edersek gelecek yıl en büyük üç müşterimizi kaybederiz” diyor. Soru Schein'i soruyorsa cevap <b>creating a sense of urgency</b>, Lewin'i soruyorsa <b>unfreeze</b>, Kotter'i soruyorsa <b>create urgency</b> olur; olay aynı, etiket modele göre değişir.</p>",
+          "kaynak": [0, 1],
+          "terimler": [],
+          "soru": {
+            "q": "Exam item: “According to Lewin, which stage is shown when a fictional museum director warns staff that visitor numbers will halve unless they act now?” Which answer is best?",
+            "o": ["Unfreeze", "Create urgency", "Creating a sense of urgency", "Change (move)"],
+            "x": "Soru Lewin'i adlandırıyor, bu yüzden doğru cevap <b>unfreeze</b>: aciliyet geliştirmek Lewin'de bu aşamanın bir eylemidir. <b>Create urgency</b> çekici, çünkü olayı tam olarak anlatır; ama o Kotter'in adımıdır ve soru Kotter'i sormuyor."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Soru Schein'i sorsa da aciliyet içeren her şıkkı doğru saymak.", "dogru": "Üç model de aciliyetle başlar. Sorunun adlandırdığı modelin terimini seç."},
+        {"yanlis": "El kitabını herkesin önünde imha etmek Kotter'in engelleri kaldırma adımıdır.", "dogru": "Soru Schein'i soruyorsa bu <b>creating new symbols and stories</b>: hikâyeye dönüşen dramatik bir eylem."},
+        {"yanlis": "Genel müdürün müşteri telefonlarına bizzat bakması <b>training</b> sayılır.", "dogru": "Lider davranışı bizzat gösteriyorsa <b>role modeling</b>. Training planlı bir kurs ya da programdır."},
+        {"yanlis": "Engelleyen direktörleri görevden almak <b>role modeling</b> adımıdır.", "dogru": "Engelleyenleri çıkarmak <b>changing key players</b>. Rol model, liderin kendi davranışıyla örnek olmasıdır."},
+        {"yanlis": "Kotter kültür modelidir, Schein büyük dönüşüm modelidir.", "dogru": "Schein kültür içindir ve 6 adımlıdır. Kotter büyük ölçekli dönüşüm içindir ve 8 adımlıdır. Lewin 3 aşamalı genel çerçevedir."}
+      ],
+      "ozet": [
+        "<b>Schein's model</b>: kültür değişimi için altı adım.",
+        "Sıra: aciliyet, kilit oyuncuları değiştirme, rol model olma, eğitim, ödül sistemi, yeni semboller ve hikâyeler.",
+        "Rol model olmada lider kendi davranışıyla örnek olur; eğitimde planlı bir öğretim vardır.",
+        "Ödül sistemi neyin ödüllendirildiğini değiştirir; sembol ve hikâye, anlatılan dramatik bir eylemdir (Continental'in el kitabı).",
+        "Lewin 3 aşamalı genel çerçevedir; Schein 6 adımla kültüre odaklanır; Kotter 8 adımla büyük dönüşüme.",
+        "Üç model de aciliyetle başlar; cevabı sorunun adlandırdığı modelin içinden ver."
+      ],
+      "aklinda": "Ugly Lions Rarely Take Rainy Showers: Urgency, Leaders, Role modeling, Training, Rewards, Symbols.",
+      "sinavda": "<p>Vesta Insurance gibi uzun bir vakada genel müdürün uyarısı, direktörlerin değiştirilmesi, müşteri telefonlarına bizzat cevap verilmesi ve el kitabının imha edilmesi ayrı ayrı sorulur. Seçeneklerde Kotter ve Lewin terimleri de bulunur; sorunun adını verdiği modelde kal.</p>"
+    }
+  ]
+}

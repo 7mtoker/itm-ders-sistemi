@@ -1,0 +1,1905 @@
+{
+ "paket": "A",
+ "chapters": [
+  1,
+  2,
+  3
+ ],
+ "units": [
+  {
+   "id": "c1a",
+   "ch": 1,
+   "pts": 4,
+   "t": "Management & the P-O-L-C framework",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Management</b> = “the art of getting things done through the efforts of other people”. The book's key-term version: creatively solving problems to accomplish organizational goals through the efforts of others.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "The P-O-L-C framework (the four functions)",
+     "html": "<h4>The P-O-L-C framework (the four functions)</h4>\n<table class=\"rules\"><tr><th>Function</th><th>What it means</th><th>Includes</th></tr>\n<tr><td><b>Planning</b></td><td>Setting objectives and deciding the course of action to reach them. Needs environmental scanning, forecasting and good decisions.</td><td>Vision & mission, strategizing, goals & objectives</td></tr>\n<tr><td><b>Organizing</b></td><td>Developing an organizational structure and allocating human resources so objectives are reached. Also job design.</td><td>Organization design, culture, social networks</td></tr>\n<tr><td><b>Leading</b></td><td>The social and informal sources of influence you use to inspire action by others.</td><td>Leadership, decision making, communication, teams, motivation</td></tr>\n<tr><td><b>Controlling</b></td><td>Making sure performance doesn't deviate from standards. Three steps: (1) set performance standards, (2) compare actual performance with the standards, (3) take corrective action when needed.</td><td>Systems & processes, strategic HR</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Three levels of planning",
+     "html": "<h4>Three levels of planning</h4>\n<table class=\"rules\"><tr><th>Level</th><th>Time</th><th>Who</th><th>What</th></tr>\n<tr><td>Strategic</td><td>3+ years</td><td>Top management</td><td>Whole organization, mission-driven, competitive positioning (based on SWOT)</td></tr>\n<tr><td>Tactical</td><td>1–3 years</td><td>Middle managers</td><td>Concrete means to implement the strategic plan</td></tr>\n<tr><td>Operational</td><td>Under 1 year</td><td>Lower managers</td><td>Specific action steps that support the strategic and tactical plans</td></tr></table>"
+    },
+    {
+     "i": 3,
+     "baslik": "Leadership, entrepreneurship and strategy",
+     "html": "<h4>Leadership, entrepreneurship and strategy</h4>\n<p class=\"bl\"><b>Leadership</b>: an act of influence that inspires action by others; the social and informal sources of influence.</p>\n<p class=\"bl\"><b>Entrepreneurship</b>: recognizing opportunities (needs, wants, problems) and using or creating resources to implement innovative ideas for new ventures. An <b>intrapreneur</b> does this inside an existing organization.</p>\n<p class=\"bl\"><b>Strategy</b>: the central, integrated, externally oriented concept of how an organization will achieve its objectives (Hambrick & Fredrickson).</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "Performance",
+     "html": "<h4>Performance</h4>\n<p class=\"bl\"><b>Triple bottom line</b>: performance on economic, social and environmental dimensions (profit, people, planet). Linked to <b>CSR</b>: taking responsibility for your impact on customers, employees, communities and the environment beyond what the law requires.</p>\n<p class=\"bl\"><b>In-role performance</b>: the productivity and quality your job requires. <b>OCB</b> (organizational citizenship behaviour): voluntary, extra-role behaviour that helps the organization.</p>\n<p class=\"bl\"><b>Group performance</b> = the inputs of the group minus <b>process loss</b> (anything in group interaction that hurts problem solving).</p>"
+    },
+    {
+     "i": 5,
+     "baslik": "Traditional vs contemporary view",
+     "html": "<h4>Traditional vs contemporary view</h4>\n<p>Traditional: a top-down pyramid. Contemporary: an <b>upside-down pyramid</b> where top managers support and serve other managers and employees (<b>empowerment</b>), who serve the customers. Today's trends: DEI and sustainability.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Comparing results with a target and correcting = <b>controlling</b>, not planning.<br>Tactical = 1–3 years and middle management. Operational = under a year.<br>Leading is about <b>informal</b> influence; organizing is about <b>structure</b> and jobs.</div>",
+   "terms": [
+    [
+     "Management",
+     "The art of getting things done through the efforts of other people."
+    ],
+    [
+     "Planning",
+     "Setting objectives and determining a course of action to achieve them."
+    ],
+    [
+     "Organizing",
+     "Developing an organizational structure and allocating human resources to accomplish objectives."
+    ],
+    [
+     "Leading",
+     "The social and informal sources of influence used to inspire action in others."
+    ],
+    [
+     "Controlling",
+     "Ensuring that performance does not deviate from standards."
+    ],
+    [
+     "Strategic planning",
+     "Long-term (3+ years) planning by top management to position the organization."
+    ],
+    [
+     "Tactical planning",
+     "Intermediate (1–3 years) planning to implement the strategic plan."
+    ],
+    [
+     "Operational planning",
+     "Short-term (under 1 year) specific action steps."
+    ],
+    [
+     "Entrepreneurship",
+     "Creating new ventures by recognizing opportunities and innovating."
+    ],
+    [
+     "Intrapreneur",
+     "Someone who is creative and entrepreneurial inside an existing organization."
+    ],
+    [
+     "Triple bottom line",
+     "Performance measured on economic, social and environmental dimensions."
+    ],
+    [
+     "OCB",
+     "Voluntary, extra-role behaviour that benefits the organization."
+    ],
+    [
+     "Process loss",
+     "Any aspect of group interaction that inhibits good problem solving."
+    ],
+    [
+     "Empowerment",
+     "Enabling an individual to think, act and control work and decisions autonomously."
+    ]
+   ]
+  },
+  {
+   "id": "c1b",
+   "ch": 1,
+   "pts": 4,
+   "t": "Managers: Mintzberg's roles & Katz's skills",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Types of managers",
+     "html": "<h4>Types of managers</h4>\n<table class=\"rules\"><tr><th>Type</th><th>Responsible for</th></tr>\n<tr><td>Top manager</td><td>The organization's strategy; steward of vision and mission</td></tr>\n<tr><td>Functional manager</td><td>Efficiency and effectiveness of one area (accounting, marketing)</td></tr>\n<tr><td>Supervisory / team manager</td><td>Coordinating a subgroup of a function, or a cross-functional team</td></tr>\n<tr><td><b>Line manager</b></td><td>A function that contributes <b>directly</b> to the products or services (P&G's Tide product manager)</td></tr>\n<tr><td>Staff manager</td><td>A function that creates <b>indirect</b> inputs (finance, accounting)</td></tr>\n<tr><td><b>General manager</b></td><td>A clearly identifiable <b>revenue-producing unit</b> (a store, business unit, product line); decides across functions</td></tr>\n<tr><td>Project manager</td><td>Planning, executing and closing a project</td></tr></table>"
+    },
+    {
+     "i": 1,
+     "baslik": "Mintzberg's 10 managerial roles (3 groups)",
+     "html": "<h4>Mintzberg's 10 managerial roles (3 groups)</h4>\n<table class=\"rules\"><tr><th>Group</th><th>Role</th><th>What the manager does</th></tr>\n<tr><td rowspan=\"3\"><b>Interpersonal</b></td><td>Figurehead</td><td>Represents the organization in formal and ceremonial matters</td></tr>\n<tr><td>Leader</td><td>Relationship with employees: motivating, guiding (important at <b>every</b> level)</td></tr>\n<tr><td>Liaison</td><td>Interacts with peers and people <b>outside</b> the unit or organization</td></tr>\n<tr><td rowspan=\"3\"><b>Informational</b></td><td>Monitor</td><td>Receives and collects information (reports, complaints, trends)</td></tr>\n<tr><td>Disseminator</td><td>Passes information <b>into</b> the organization (to the team)</td></tr>\n<tr><td>Spokesperson</td><td>Passes the organization's information <b>out</b> to its environment (press, public)</td></tr>\n<tr><td rowspan=\"4\"><b>Decisional</b></td><td>Entrepreneur</td><td>Initiates change, new projects</td></tr>\n<tr><td>Disturbance handler</td><td>Deals with threats and crises</td></tr>\n<tr><td>Resource allocator</td><td>Decides where the organization spends its effort (budgets, people)</td></tr>\n<tr><td>Negotiator</td><td>Negotiates on behalf of the organization</td></tr></table>\n<p>Supervisors: the figurehead role matters less, disturbance handler and negotiator matter more.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Katz's three skills",
+     "html": "<h4>Katz's three skills</h4>\n<table class=\"rules\"><tr><th>Skill</th><th>Meaning</th><th>Most needed by</th></tr>\n<tr><td>Technical</td><td>Know-how in a specific field (using equipment, software, procedures)</td><td>Lower-level managers</td></tr>\n<tr><td>Interpersonal (human)</td><td>Working with and leading people, communication</td><td>All levels</td></tr>\n<tr><td>Conceptual</td><td>Generating ideas and seeing the big picture: strategy, mission, policies</td><td>Top managers</td></tr></table>\n<p>The higher you rise, the more conceptual skills and the fewer technical skills you need.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Disseminator = <b>inside</b>, spokesperson = <b>outside</b>.<br>Liaison = contacts outside your own unit. Figurehead = ceremony and formality.<br>Mintzberg's groups are interpersonal, informational, decisional. Katz's skills are technical, interpersonal, conceptual. Don't mix the two lists.</div>",
+   "terms": [
+    [
+     "Line manager",
+     "Leads a function that contributes directly to the organization's products or services."
+    ],
+    [
+     "General manager",
+     "Manages a clearly identifiable revenue-producing unit, such as a store or product line."
+    ],
+    [
+     "Figurehead",
+     "Mintzberg: represents the organization in formal matters."
+    ],
+    [
+     "Liaison",
+     "Mintzberg: interacts with peers and people outside the organization."
+    ],
+    [
+     "Monitor",
+     "Mintzberg: receives and collects information."
+    ],
+    [
+     "Disseminator",
+     "Mintzberg: transmits information into the organization."
+    ],
+    [
+     "Spokesperson",
+     "Mintzberg: transmits the organization's information to its environment."
+    ],
+    [
+     "Disturbance handler",
+     "Mintzberg: deals with threats to the organization."
+    ],
+    [
+     "Resource allocator",
+     "Mintzberg: chooses where the organization expends its efforts."
+    ],
+    [
+     "Technical skills",
+     "Katz: learned capacity in a specific field."
+    ],
+    [
+     "Conceptual skills",
+     "Katz: generating ideas and understanding the broad context; most important at the top."
+    ],
+    [
+     "Interpersonal skills",
+     "Katz: leading and working with people."
+    ]
+   ]
+  },
+  {
+   "id": "c2a",
+   "ch": 2,
+   "pts": 4,
+   "t": "Personality & values",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Personality</b>: a person's relatively stable feelings, thoughts and behavioural patterns. Stable, but it can change slowly over a lifetime. Behaviour at work also depends on what the job expects; personality matters most in jobs with a lot of autonomy.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "The Big Five (OCEAN)",
+     "html": "<h4>The Big Five (OCEAN)</h4>\n<table class=\"rules\"><tr><th>Trait</th><th>Description</th><th>At work</th></tr>\n<tr><td><b>O</b>penness</td><td>Curious, original, intellectual, creative, open to new ideas</td><td>Learns fast, adapts to change, creative; may get bored by routine</td></tr>\n<tr><td><b>C</b>onscientiousness</td><td>Organized, systematic, punctual, achievement-oriented, dependable</td><td>The <b>one trait that predicts performance across all jobs</b>; most wanted by recruiters</td></tr>\n<tr><td><b>E</b>xtraversion</td><td>Outgoing, talkative, sociable</td><td>Good in sales and as managers; more absenteeism</td></tr>\n<tr><td><b>A</b>greeableness</td><td>Affable, tolerant, sensitive, trusting, kind, warm</td><td>Helps others; avoids conflict, so less change-oriented communication</td></tr>\n<tr><td><b>N</b>euroticism</td><td>Anxious, irritable, temperamental, moody</td><td>The only trait where <b>high is undesirable</b>; unhappy, lower career success</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Other personality dimensions",
+     "html": "<h4>Other personality dimensions</h4>\n<p class=\"bl\"><b>Self-monitoring</b>: how well you read a situation and adjust your behaviour (“social chameleons”).</p>\n<p class=\"bl\"><b>Proactive personality</b>: inclination to fix what is wrong and take initiative without being told.</p>\n<p class=\"bl\"><b>Self-esteem</b>: overall positive feelings about yourself.</p>\n<p class=\"bl\"><b>Self-efficacy</b>: belief that you can perform a <b>specific task</b> successfully. Task-specific, unlike the other traits.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "Personality tests in selection",
+     "html": "<h4>Personality tests in selection</h4>\n<p>Controversial: candidates can fake answers, and personality explains only about <b>10–15%</b> of job performance. <b>Cognitive ability</b> (general mental ability) predicts performance better. Tests must not discriminate.</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "Values",
+     "html": "<h4>Values</h4>\n<p><b>Values</b>: people's stable life goals, what matters most to them. They affect job choice and whether people stay. Schwartz's 10 values: achievement, benevolence, conformity, hedonism, power, security, self-direction, stimulation, tradition, universalism.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Organized, dependable, meets deadlines” = <b>conscientiousness</b>, not organizational commitment (mock Q8).<br>Self-efficacy is about one specific task; self-esteem is about yourself in general.</div>",
+   "terms": [
+    [
+     "Personality",
+     "A person's relatively stable feelings, thoughts and behavioural patterns."
+    ],
+    [
+     "Openness",
+     "Curious, original, intellectual, creative, open to new ideas."
+    ],
+    [
+     "Conscientiousness",
+     "Organized, systematic, punctual, achievement-oriented, dependable."
+    ],
+    [
+     "Extraversion",
+     "Outgoing, talkative, sociable, enjoys socializing."
+    ],
+    [
+     "Agreeableness",
+     "Affable, tolerant, sensitive, trusting, kind, warm."
+    ],
+    [
+     "Neuroticism",
+     "Anxious, irritable, temperamental, moody."
+    ],
+    [
+     "Self-monitoring",
+     "Ability to monitor and adjust your actions and appearance in social situations."
+    ],
+    [
+     "Proactive personality",
+     "Inclination to fix what is wrong and use initiative."
+    ],
+    [
+     "Self-esteem",
+     "Overall positive feelings about yourself."
+    ],
+    [
+     "Self-efficacy",
+     "Belief that you can perform a specific task successfully."
+    ],
+    [
+     "Values",
+     "Stable life goals reflecting what is most important to a person."
+    ]
+   ]
+  },
+  {
+   "id": "c2b",
+   "ch": 2,
+   "pts": 4,
+   "t": "Work attitudes & fit",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p>An <b>attitude</b> = our opinions, beliefs and feelings about aspects of our environment. Two work attitudes matter most:</p>\n<p class=\"bl\"><b>Job satisfaction</b>: the feelings people have toward their job. Probably the most studied attitude.</p>\n<p class=\"bl\"><b>Organizational commitment</b>: the <b>emotional attachment</b> to the company. A committed employee believes in its values, puts in effort and wants to stay (“<b>we</b> have great benefits”).</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "What causes positive work attitudes",
+     "html": "<h4>What causes positive work attitudes</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Detail</th></tr>\n<tr><td>Personality & values</td><td>e.g. low neuroticism → more satisfied</td></tr>\n<tr><td>Job characteristics</td><td>Skill variety, <b>autonomy</b>, feedback, significant tasks. Matters most for people with a high need for growth.</td></tr>\n<tr><td>Organizational justice</td><td><b>Distributive</b> (fair pay and rewards), <b>procedural</b> (fair policies and processes), <b>interactional</b> (treated with dignity and respect). At its root: trust.</td></tr>\n<tr><td>Psychological contract</td><td>The unspoken understanding of what the employee gives (effort, loyalty) and gets (pay, raises, job security)</td></tr>\n<tr><td>Relationships at work</td><td>With coworkers and especially the manager. <b>Relationship management</b> = communicating clearly, keeping good relationships, managing conflict.</td></tr>\n<tr><td>Stress</td><td>Environmental, interpersonal, organizational stressors. <b>Role ambiguity</b> = unclear responsibilities; <b>role conflict</b> = contradictory demands. More stress → less satisfaction (but challenging stress can be positive).</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Measuring attitudes",
+     "html": "<h4>Measuring attitudes</h4>\n<p class=\"bl\"><b>Attitude surveys</b> (work best when confidential and followed by action) and <b>exit interviews</b> with departing employees.</p>\n<p class=\"bl\">Attitudes predict <b>intentions</b> better than actual behaviour: a dissatisfied employee intends to leave, but whether they leave depends on alternatives.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "The interactionist perspective: fit",
+     "html": "<h4>The interactionist perspective: fit</h4>\n<p>Behaviour is a function of the <b>person and the situation</b> interacting.</p>\n<p class=\"bl\"><b>Person-job fit</b>: your knowledge, skills, abilities and other characteristics (KSAO) match the <b>job demands</b>.</p>\n<p class=\"bl\"><b>Person-organization fit</b>: your personality, values and goals match the <b>organization</b>.</p>\n<p>Good fit → more satisfied, more committed, stay longer.</p>\n<div class=\"ex\"><b>Case: SAS Institute</b><br>On Fortune's best places to work every year; turnover under 4% where 20% is the industry norm. Google visited the SAS campus for ideas.</div>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Emotional attachment to the company” = organizational commitment, not job satisfaction.<br>Values match the company = person-<b>organization</b> fit. Skills match the job = person-<b>job</b> fit.</div>",
+   "terms": [
+    [
+     "Attitude",
+     "Our opinions, beliefs and feelings about aspects of our environment."
+    ],
+    [
+     "Job satisfaction",
+     "The feelings people have toward their job."
+    ],
+    [
+     "Organizational commitment",
+     "The emotional attachment people have toward the company they work for."
+    ],
+    [
+     "Psychological contract",
+     "Unspoken, informal understanding of what employee and organization give each other."
+    ],
+    [
+     "Distributive justice",
+     "Fairness of the outputs (rewards) received."
+    ],
+    [
+     "Procedural justice",
+     "Fairness of the procedures used to make decisions."
+    ],
+    [
+     "Interactional justice",
+     "Being treated with respect, kindness and dignity."
+    ],
+    [
+     "Role ambiguity",
+     "Uncertainty about what your responsibilities are."
+    ],
+    [
+     "Role conflict",
+     "Contradictory demands at work or between work and other roles."
+    ],
+    [
+     "Exit interview",
+     "Meeting with a departing employee to learn why they leave."
+    ],
+    [
+     "Person-job fit",
+     "Match between a person's KSAOs and the job's demands."
+    ],
+    [
+     "Person-organization fit",
+     "Match between a person's values, personality and goals and the organization's."
+    ]
+   ]
+  },
+  {
+   "id": "c3a",
+   "ch": 3,
+   "pts": 4,
+   "t": "Leadership, power & influence",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Leadership</b> = the act of influencing others to work toward a goal. Leaders exist at every level.</p>\n<p class=\"bl\"><b>Formal leaders</b> hold a position of authority and can use their position power as well as personal power.</p>\n<p class=\"bl\"><b>Informal leaders</b> have no formal position but influence others through personal power. The group acknowledges them.</p>\n<p class=\"bl\"><b>Designated leader</b>: put in the role by outside forces. <b>Emergent leader</b>: arises from the group's dynamics while working toward a goal.</p>\n<p><b>The leadership process</b> (Hollander & Julian): a complex, dynamic exchange relationship built over time between leader and followers who depend on each other to reach a shared goal.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "French & Raven: five sources of power",
+     "html": "<h4>French & Raven: five sources of power</h4>\n<table class=\"rules\"><tr><th>Power</th><th>Based on</th><th>Type</th></tr>\n<tr><td><b>Legitimate</b></td><td>The formal position or title: the “right” to give instructions</td><td>Position</td></tr>\n<tr><td><b>Reward</b></td><td>Ability to give rewards (bonuses, promotions, good territories)</td><td>Position</td></tr>\n<tr><td><b>Coercive</b></td><td>Ability to punish or take away something valued</td><td>Position</td></tr>\n<tr><td><b>Expert</b></td><td>Knowledge and skills others need</td><td>Personal</td></tr>\n<tr><td><b>Referent</b></td><td>Others admire the person and want to be associated with them</td><td>Personal</td></tr></table>\n<p><b>Effects:</b> coercive power alienates followers. Reward power makes people think “how much am I getting?”. Referent power creates identification with the leader. Expert power and rational arguments create <b>commitment</b>. Referent and expert power give the best satisfaction and performance; referent power strengthens all the other powers.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Influence-based leadership styles",
+     "html": "<h4>Influence-based leadership styles</h4>\n<p class=\"bl\"><b>Tannenbaum & Schmidt continuum</b>: from boss-centred (autocratic) to participative to free-rein.</p>\n<p class=\"bl\"><b>McGregor's Theory X</b> leader: assumes people dislike work → controlling style. <b>Theory Y</b> leader: assumes people are creative and self-directed → involving style.</p>\n<p class=\"bl\"><b>Muczyk & Reimann</b>: directive autocrat, permissive autocrat, directive democrat, permissive democrat (shares decisions <i>and</i> execution).</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>An expert without a management title influencing executives = <b>expert</b> power, not legitimate (mock Q24).<br>Bonuses and good territories for hitting targets = <b>reward</b> power (mock Q23).<br>Respected and liked, people want to be like them = <b>referent</b> power.</div>",
+   "terms": [
+    [
+     "Leadership",
+     "The act of influencing others to work toward a goal."
+    ],
+    [
+     "Formal leader",
+     "Holds a position of authority; recognized as the official leader."
+    ],
+    [
+     "Informal leader",
+     "No formal position; acknowledged by the group as its leader."
+    ],
+    [
+     "Emergent leader",
+     "Arises from the group's dynamics while working toward a collective goal."
+    ],
+    [
+     "Legitimate power",
+     "Power from a formal position; the right to influence."
+    ],
+    [
+     "Reward power",
+     "Ability to give rewards others want."
+    ],
+    [
+     "Coercive power",
+     "Ability to punish or take away something valued."
+    ],
+    [
+     "Expert power",
+     "Power from having knowledge and skills others need."
+    ],
+    [
+     "Referent power",
+     "Power from being admired; others want to be associated with you."
+    ],
+    [
+     "Theory X / Theory Y",
+     "McGregor: people dislike work and need control (X) vs people are creative and self-directed (Y)."
+    ]
+   ]
+  },
+  {
+   "id": "c3b",
+   "ch": 3,
+   "pts": 4,
+   "t": "Trait & behavioural approaches",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Who is a leader? Trait approaches",
+     "html": "<h4>Who is a leader? Trait approaches</h4>\n<p>Started with <b>Stogdill</b>: what physical, personality and social traits make leaders? <b>Kirkpatrick & Locke</b> found core traits that give leadership <i>potential</i>:</p>\n<p class=\"bl\">Drive · leadership motivation · honesty and integrity · self-confidence · cognitive ability · knowledge of the business · (charisma, creativity, flexibility).</p>\n<p><b>Traits related to leadership</b> (Judge et al.):</p>\n<table class=\"rules\"><tr><th>Trait</th><th>Finding</th></tr>\n<tr><td>Intelligence</td><td>Positive but modest. Goleman: IQ is a threshold; <b>emotional intelligence</b> (self-awareness, motivation, empathy, social skills) separates good from great.</td></tr>\n<tr><td>Extraversion</td><td><b>Strongest</b> link to leader emergence and effectiveness</td></tr>\n<tr><td>Conscientiousness, openness</td><td>More likely to emerge as and be effective leaders</td></tr>\n<tr><td>Agreeableness</td><td>Modest, conflict-avoiding people are <b>less</b> likely to be seen as leaders</td></tr>\n<tr><td>Self-esteem, integrity</td><td>Help leaders; lost integrity hurts the leader and the company</td></tr>\n<tr><td>Self-monitoring</td><td>High self-monitors emerge more often as leaders</td></tr></table>\n<p><b>Limitation:</b> traits matter more in small, flexible firms than in rule-bound ones, and the situation is ignored. Leaders are not simply “born”.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "What do leaders do? Behavioural approaches",
+     "html": "<h4>What do leaders do? Behavioural approaches</h4>\n<p>Studies at Ohio State and Michigan found two kinds of behaviour:</p>\n<table class=\"rules\"><tr><th>Task-oriented (initiating structure)</th><th>People-oriented (consideration)</th></tr>\n<tr><td>Structures roles, gives instructions and deadlines, focuses on performance and goals</td><td>Shows concern for feelings, treats employees with respect, cares about well-being</td></tr>\n<tr><td>Slightly higher productivity; too much → burnout</td><td>More satisfied, positive employees</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Decision-making styles",
+     "html": "<h4>Decision-making styles</h4>\n<table class=\"rules\"><tr><th>Style</th><th>Meaning</th></tr>\n<tr><td>Authoritarian</td><td>The leader decides alone</td></tr>\n<tr><td>Democratic</td><td>Employees participate in the decision (more satisfaction)</td></tr>\n<tr><td>Laissez-faire</td><td>Employees decide with minimal guidance (worst track record: role ambiguity, conflict)</td></tr></table>\n<p><b>Limitation:</b> like traits, behaviours ignore the situation. No single style works everywhere.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Sets deadlines, assigns roles, checks results = <b>task-oriented</b>, even if the leader is friendly.<br>Laissez-faire is a <b>decision-making</b> style (leave it to employees), not a people-oriented style.</div>",
+   "terms": [
+    [
+     "Trait approach",
+     "Looks for personal characteristics that make someone a leader."
+    ],
+    [
+     "Drive",
+     "High effort, ambition, energy, tenacity and initiative."
+    ],
+    [
+     "Emotional intelligence (EQ)",
+     "Monitoring your own and others' emotions and using them to guide behaviour."
+    ],
+    [
+     "Task-oriented behaviour",
+     "Structuring roles, giving instructions, increasing group performance."
+    ],
+    [
+     "People-oriented behaviour",
+     "Showing concern for feelings and treating employees with respect."
+    ],
+    [
+     "Authoritarian decision-making",
+     "Leader makes the decision alone."
+    ],
+    [
+     "Democratic decision-making",
+     "Employees participate in making the decision."
+    ],
+    [
+     "Laissez-faire decision-making",
+     "Employees decide with minimal guidance from the leader."
+    ]
+   ]
+  }
+ ],
+ "bank": [
+  {
+   "id": "c1a-1",
+   "u": "c1a",
+   "d": 1,
+   "q": "Management is best described as:",
+   "o": [
+    "The art of getting things done through the efforts of other people",
+    "Doing the most important tasks yourself so that nothing is left to chance",
+    "Owning, financing and legally representing a business",
+    "Controlling employees' personalities, emotions and private choices"
+   ],
+   "x": "The course definition: getting things done through others."
+  },
+  {
+   "id": "c1a-2",
+   "u": "c1a",
+   "d": 1,
+   "q": "Which four functions make up the P-O-L-C framework?",
+   "o": [
+    "Planning, organizing, leading, controlling",
+    "Planning, operating, listening, checking",
+    "Producing, organizing, leading, coordinating",
+    "Planning, ordering, leading, communicating"
+   ],
+   "x": "P-O-L-C = planning, organizing, leading, controlling."
+  },
+  {
+   "id": "c1a-3",
+   "u": "c1a",
+   "d": 1,
+   "q": "Setting objectives and determining a course of action to achieve them is:",
+   "o": [
+    "Planning",
+    "Organizing",
+    "Leading",
+    "Controlling"
+   ],
+   "x": "That is the definition of planning."
+  },
+  {
+   "id": "c1a-4",
+   "u": "c1a",
+   "d": 1,
+   "q": "Developing an organizational structure and allocating human resources to reach objectives is:",
+   "o": [
+    "Organizing",
+    "Planning",
+    "Leading",
+    "Controlling"
+   ],
+   "x": "Organizing = structure + allocating people (and job design)."
+  },
+  {
+   "id": "c1a-5",
+   "u": "c1a",
+   "d": 1,
+   "q": "Strategic planning typically:",
+   "o": [
+    "Covers three years or more and is done by top management",
+    "Covers one to three years and is done by middle managers",
+    "Covers less than a year with specific action steps",
+    "Is done weekly by supervisors"
+   ],
+   "x": "Strategic = 3+ years, top management, whole organization."
+  },
+  {
+   "id": "c1a-6",
+   "u": "c1a",
+   "d": 1,
+   "q": "Which are the three steps of controlling?",
+   "o": [
+    "Set standards, compare actual performance, take corrective action",
+    "Plan the work, do the work, check the work, act on what you learn",
+    "Hire the right people, train them, reward good performance",
+    "Scan the environment, forecast demand, prepare the budget"
+   ],
+   "x": "Controlling: standards → compare → correct."
+  },
+  {
+   "id": "c1a-7",
+   "u": "c1a",
+   "d": 1,
+   "q": "The triple bottom line measures performance on:",
+   "o": [
+    "Economic, social and environmental dimensions",
+    "Revenue, costs and profit over three reporting years",
+    "Planning, organizing, leading and controlling dimensions",
+    "Customers, employees and shareholders' satisfaction"
+   ],
+   "x": "People, planet, profit."
+  },
+  {
+   "id": "c1a-8",
+   "u": "c1a",
+   "d": 2,
+   "q": "A store manager sees that monthly sales are 12% below target and schedules extra sales training. Which function is this?",
+   "o": [
+    "Controlling",
+    "Planning",
+    "Organizing",
+    "Leading"
+   ],
+   "x": "Comparing actual results with a standard and correcting = controlling."
+  },
+  {
+   "id": "c1a-9",
+   "u": "c1a",
+   "d": 2,
+   "q": "A regional manager writes a two-year plan to roll out the company's new national strategy in her 40 stores. Which type of planning?",
+   "o": [
+    "Tactical planning",
+    "Strategic planning",
+    "Operational planning",
+    "Environmental scanning"
+   ],
+   "x": "1–3 years, middle management, implementing the strategy = tactical."
+  },
+  {
+   "id": "c1a-10",
+   "u": "c1a",
+   "d": 2,
+   "q": "A team leader writes next week's shift schedule so the store can reach its monthly target. Which type of planning?",
+   "o": [
+    "Operational planning",
+    "Tactical planning",
+    "Strategic planning",
+    "Controlling"
+   ],
+   "x": "Short-term, specific action steps = operational."
+  },
+  {
+   "id": "c1a-11",
+   "u": "c1a",
+   "d": 2,
+   "q": "A manager tells her team an inspiring story about why their work matters, and the team works with new enthusiasm. Which function?",
+   "o": [
+    "Leading",
+    "Organizing",
+    "Controlling",
+    "Planning"
+   ],
+   "x": "Leading = informal influence that inspires action."
+  },
+  {
+   "id": "c1a-12",
+   "u": "c1a",
+   "d": 2,
+   "q": "An employee stays late to help a new colleague learn the system, although this isn't in her job description. This is:",
+   "o": [
+    "Organizational citizenship behaviour",
+    "In-role performance beyond expectations",
+    "Process loss in the team",
+    "Empowerment by her manager"
+   ],
+   "x": "Voluntary, extra-role help = OCB."
+  },
+  {
+   "id": "c1a-13",
+   "u": "c1a",
+   "d": 2,
+   "q": "A manager redesigns jobs so each employee does a wider variety of tasks with more autonomy. Which function?",
+   "o": [
+    "Organizing",
+    "Controlling",
+    "Planning",
+    "Leading"
+   ],
+   "x": "Job design is part of organizing."
+  },
+  {
+   "id": "c1a-14",
+   "u": "c1a",
+   "d": 3,
+   "q": "Which pairing of concept and definition is correct?",
+   "o": [
+    "Entrepreneurship: recognizing opportunities and using resources to implement innovative ideas",
+    "Strategy: the social and informal influence a person uses to inspire others to act",
+    "Leadership: the integrated, externally oriented concept of how an organization reaches its objectives",
+    "Organizing: ensuring that actual performance does not deviate from the standards that were set"
+   ],
+   "x": "The other three swap definitions: the strategy and leadership definitions are switched, and the organizing one is controlling."
+  },
+  {
+   "id": "c1a-15",
+   "u": "c1a",
+   "d": 3,
+   "q": "In the contemporary (upside-down pyramid) view of management:",
+   "o": [
+    "Top managers support and serve other managers and employees, who serve the customers",
+    "Top managers give orders that flow down a strict hierarchy to the employees at the bottom",
+    "Employees exist mainly to serve their managers, who in turn report to the board",
+    "Customers sit at the bottom of the pyramid and are served after everyone else"
+   ],
+   "x": "Contemporary view: empowerment, top supports the front line, which serves customers."
+  },
+  {
+   "id": "c1a-16",
+   "u": "c1a",
+   "d": 3,
+   "q": "A group of five produces less than its members could together because time is lost arguing about who does what. In the book's terms this is:",
+   "o": [
+    "Process loss",
+    "Organizational citizenship behaviour",
+    "Tactical planning",
+    "Empowerment"
+   ],
+   "x": "Group performance = inputs minus process loss."
+  },
+  {
+   "id": "c1b-17",
+   "u": "c1b",
+   "d": 1,
+   "q": "Mintzberg's ten managerial roles are divided into which three groups?",
+   "o": [
+    "Interpersonal, informational, decisional",
+    "Planning, organizing, leading, controlling",
+    "Technical, interpersonal (human), conceptual",
+    "Strategic, tactical, operational"
+   ],
+   "x": "Interpersonal, informational, decisional. Technical/interpersonal/conceptual is Katz."
+  },
+  {
+   "id": "c1b-18",
+   "u": "c1b",
+   "d": 1,
+   "q": "Katz's three critical skill sets are:",
+   "o": [
+    "Technical, interpersonal (human) and conceptual",
+    "Interpersonal, informational and decisional roles",
+    "Planning, leading and controlling",
+    "Financial, marketing and operational"
+   ],
+   "x": "Katz: technical, human, conceptual."
+  },
+  {
+   "id": "c1b-19",
+   "u": "c1b",
+   "d": 1,
+   "q": "A line manager:",
+   "o": [
+    "Leads a function that contributes directly to the organization's products or services",
+    "Leads a supporting function, such as finance or accounting, that creates indirect inputs",
+    "Manages one temporary project from planning to closing, then moves to the next one",
+    "Represents the company at ceremonies and official events as its figurehead"
+   ],
+   "x": "Line = direct contribution (P&G's Tide product manager). Finance is a staff function."
+  },
+  {
+   "id": "c1b-20",
+   "u": "c1b",
+   "d": 1,
+   "q": "A general manager is responsible for:",
+   "o": [
+    "A clearly identifiable revenue-producing unit, such as a store or product line",
+    "Only the HR department and the hiring and training of all new employees",
+    "Coordinating one small team of specialists inside a single function or department",
+    "Writing the vision and mission of the whole organization with the board"
+   ],
+   "x": "General manager = a revenue-producing unit, decisions across functions."
+  },
+  {
+   "id": "c1b-21",
+   "u": "c1b",
+   "d": 1,
+   "q": "According to Katz, which skill becomes MORE important the higher a manager rises?",
+   "o": [
+    "Conceptual skills",
+    "Technical skills",
+    "Software skills",
+    "None: all three stay equally important"
+   ],
+   "x": "Higher up: more conceptual, fewer technical skills."
+  },
+  {
+   "id": "c1b-22",
+   "u": "c1b",
+   "d": 1,
+   "q": "In which Mintzberg role does a manager receive and collect information?",
+   "o": [
+    "Monitor",
+    "Disseminator",
+    "Spokesperson",
+    "Liaison"
+   ],
+   "x": "Monitor = receiving and collecting information."
+  },
+  {
+   "id": "c1b-23",
+   "u": "c1b",
+   "d": 2,
+   "q": "A manager studies customer complaints and industry reports to spot developments that may affect the organization. Which Mintzberg role?",
+   "o": [
+    "Monitor",
+    "Resource allocator",
+    "Negotiator",
+    "Leader"
+   ],
+   "x": "Collecting information = monitor."
+  },
+  {
+   "id": "c1b-24",
+   "u": "c1b",
+   "d": 2,
+   "q": "The CEO cuts the ribbon at the opening of a new factory. Which Mintzberg role?",
+   "o": [
+    "Figurehead",
+    "Liaison",
+    "Spokesperson",
+    "Entrepreneur"
+   ],
+   "x": "Ceremonial, formal representation = figurehead."
+  },
+  {
+   "id": "c1b-25",
+   "u": "c1b",
+   "d": 2,
+   "q": "A manager decides how next year's budget is divided across three departments. Which role?",
+   "o": [
+    "Resource allocator",
+    "Disturbance handler",
+    "Negotiator",
+    "Monitor"
+   ],
+   "x": "Choosing where effort and money go = resource allocator."
+  },
+  {
+   "id": "c1b-26",
+   "u": "c1b",
+   "d": 2,
+   "q": "A supplier strike threatens production, and the manager quickly arranges an emergency alternative. Which role?",
+   "o": [
+    "Disturbance handler",
+    "Entrepreneur",
+    "Resource allocator",
+    "Liaison"
+   ],
+   "x": "Dealing with threats and crises = disturbance handler."
+  },
+  {
+   "id": "c1b-27",
+   "u": "c1b",
+   "d": 2,
+   "q": "After a board meeting, a manager shares the key decisions with her own team. Which role?",
+   "o": [
+    "Disseminator",
+    "Spokesperson",
+    "Monitor",
+    "Figurehead"
+   ],
+   "x": "Passing information INTO the organization = disseminator."
+  },
+  {
+   "id": "c1b-28",
+   "u": "c1b",
+   "d": 2,
+   "q": "A manager gives a press interview about the company's new sustainability results. Which role?",
+   "o": [
+    "Spokesperson",
+    "Disseminator",
+    "Figurehead",
+    "Liaison"
+   ],
+   "x": "Passing information OUT to the environment = spokesperson."
+  },
+  {
+   "id": "c1b-29",
+   "u": "c1b",
+   "d": 2,
+   "q": "A manager starts a project to launch a home-delivery service. Which role?",
+   "o": [
+    "Entrepreneur",
+    "Resource allocator",
+    "Leader",
+    "Monitor"
+   ],
+   "x": "Initiating change = entrepreneur."
+  },
+  {
+   "id": "c1b-30",
+   "u": "c1b",
+   "d": 2,
+   "q": "A workshop supervisor shows apprentices how to diagnose an engine fault with the scanner. Which Katz skill is she mainly using?",
+   "o": [
+    "Technical skills",
+    "Conceptual skills",
+    "Interpersonal skills",
+    "Decisional skills"
+   ],
+   "x": "Field-specific know-how = technical."
+  },
+  {
+   "id": "c1b-31",
+   "u": "c1b",
+   "d": 3,
+   "q": "Which statement about Mintzberg's roles is correct?",
+   "o": [
+    "The leader role is important at every level of management",
+    "Supervisors spend more time as figurehead than top managers do",
+    "The negotiator role belongs to the informational group",
+    "The disseminator sends the organization's information to the press"
+   ],
+   "x": "Leadership runs through all levels. Supervisors do less figurehead work; negotiator is decisional; disseminator is internal."
+  },
+  {
+   "id": "c1b-32",
+   "u": "c1b",
+   "d": 3,
+   "q": "A CEO spends most of her week on long-term strategy and policies; a team leader spends his week fixing machines with his team. According to Katz:",
+   "o": [
+    "The CEO relies most on conceptual skills, the team leader on technical skills",
+    "Both rely mainly on technical skills",
+    "The CEO relies most on technical skills, the team leader on conceptual skills",
+    "Neither needs interpersonal skills"
+   ],
+   "x": "Top = conceptual; lower level = technical; interpersonal matters for both."
+  },
+  {
+   "id": "c1b-33",
+   "u": "c1b",
+   "d": 3,
+   "q": "Which statement correctly separates two Mintzberg roles?",
+   "o": [
+    "The disseminator passes information into the organization; the spokesperson passes it out to the environment",
+    "The disseminator passes information out to the press; the spokesperson passes it inward to the team",
+    "Both are decisional roles, because each of them decides which information is shared",
+    "Both are interpersonal roles, because each of them involves talking to other people inside and outside"
+   ],
+   "x": "Both are informational: disseminator = inside, spokesperson = outside."
+  },
+  {
+   "id": "c1b-34",
+   "u": "c1b",
+   "d": 3,
+   "q": "A manager meets managers of other companies at an industry event to build contacts that can help her unit later. Which role and group?",
+   "o": [
+    "Liaison, interpersonal",
+    "Spokesperson, informational",
+    "Negotiator, decisional",
+    "Figurehead, interpersonal"
+   ],
+   "x": "Interacting with people outside the unit = liaison, an interpersonal role."
+  },
+  {
+   "id": "c2a-35",
+   "u": "c2a",
+   "d": 1,
+   "q": "Personality is defined as:",
+   "o": [
+    "A person's relatively stable feelings, thoughts and behavioural patterns",
+    "A person's current opinions about their job, colleagues and manager",
+    "The emotional attachment someone feels toward their employer and its goals",
+    "The skills and knowledge a person learned at school and at work"
+   ],
+   "x": "Personality = relatively stable feelings, thoughts and behaviour."
+  },
+  {
+   "id": "c2a-36",
+   "u": "c2a",
+   "d": 1,
+   "q": "Which list contains exactly the Big Five personality traits?",
+   "o": [
+    "Openness, conscientiousness, extraversion, agreeableness, neuroticism",
+    "Openness, commitment, extraversion, ambition, neuroticism",
+    "Optimism, conscientiousness, empathy, agreeableness, narcissism",
+    "Openness, conscientiousness, self-esteem, self-efficacy, neuroticism"
+   ],
+   "x": "OCEAN."
+  },
+  {
+   "id": "c2a-37",
+   "u": "c2a",
+   "d": 1,
+   "q": "Which Big Five trait predicts job performance across nearly all occupations?",
+   "o": [
+    "Conscientiousness",
+    "Extraversion",
+    "Openness to experience",
+    "Agreeableness"
+   ],
+   "x": "Conscientiousness is the one trait that uniformly predicts performance."
+  },
+  {
+   "id": "c2a-38",
+   "u": "c2a",
+   "d": 1,
+   "q": "For which Big Five trait is scoring high generally undesirable?",
+   "o": [
+    "Neuroticism",
+    "Openness",
+    "Agreeableness",
+    "Extraversion"
+   ],
+   "x": "Neuroticism: anxious, irritable, moody."
+  },
+  {
+   "id": "c2a-39",
+   "u": "c2a",
+   "d": 1,
+   "q": "Self-efficacy is:",
+   "o": [
+    "The belief that you can perform a specific task successfully",
+    "Overall positive feelings about yourself and your worth",
+    "The ability to adjust your behaviour to each social situation",
+    "The inclination to fix what is wrong without being asked to"
+   ],
+   "x": "Self-efficacy is task-specific. The others are self-esteem, self-monitoring and proactive personality."
+  },
+  {
+   "id": "c2a-40",
+   "u": "c2a",
+   "d": 1,
+   "q": "Values are best defined as:",
+   "o": [
+    "People's stable life goals, reflecting what is most important to them",
+    "Short-term moods and emotions that people experience at work during the day",
+    "The rules and procedures written in a company's employee handbook",
+    "The skills, knowledge and abilities required to do a job well"
+   ],
+   "x": "Values = stable life goals."
+  },
+  {
+   "id": "c2a-41",
+   "u": "c2a",
+   "d": 2,
+   "q": "Lena is curious, creative and loves learning new tools. Which Big Five trait does she score high on?",
+   "o": [
+    "Openness",
+    "Conscientiousness",
+    "Agreeableness",
+    "Extraversion"
+   ],
+   "x": "Curious, creative, open to new ideas = openness."
+  },
+  {
+   "id": "c2a-42",
+   "u": "c2a",
+   "d": 2,
+   "q": "An employee consistently prepares carefully, meets deadlines and follows through on commitments. Which characteristic is predominant?",
+   "o": [
+    "Conscientiousness",
+    "Organizational commitment",
+    "Openness to experience",
+    "Extraversion"
+   ],
+   "x": "Organized and dependable = conscientiousness. Commitment is an attitude toward the company."
+  },
+  {
+   "id": "c2a-43",
+   "u": "c2a",
+   "d": 2,
+   "q": "Tom is often anxious, irritable and moody at work. Which trait does he score high on?",
+   "o": [
+    "Neuroticism",
+    "Agreeableness",
+    "Openness",
+    "Conscientiousness"
+   ],
+   "x": "Anxious, irritable, moody = neuroticism."
+  },
+  {
+   "id": "c2a-44",
+   "u": "c2a",
+   "d": 2,
+   "q": "A salesperson is outgoing, talkative and loves meeting new clients. Which trait?",
+   "o": [
+    "Extraversion",
+    "Conscientiousness",
+    "Openness",
+    "Neuroticism"
+   ],
+   "x": "Outgoing and sociable = extraversion (good in sales)."
+  },
+  {
+   "id": "c2a-45",
+   "u": "c2a",
+   "d": 2,
+   "q": "Without being asked, an employee notices a broken process and fixes it. Which personality dimension?",
+   "o": [
+    "Proactive personality",
+    "Self-monitoring personality",
+    "Neuroticism",
+    "Agreeableness"
+   ],
+   "x": "Taking initiative to fix what is wrong = proactive personality."
+  },
+  {
+   "id": "c2a-46",
+   "u": "c2a",
+   "d": 2,
+   "q": "Sara is confident she can master Excel quickly but doubts she could give a good presentation. This illustrates:",
+   "o": [
+    "Self-efficacy",
+    "Self-esteem",
+    "Self-monitoring",
+    "Agreeableness"
+   ],
+   "x": "Self-efficacy differs per task."
+  },
+  {
+   "id": "c2a-47",
+   "u": "c2a",
+   "d": 2,
+   "q": "Mark acts like a 'social chameleon', reading each situation and adjusting how he comes across. He is high in:",
+   "o": [
+    "Self-monitoring",
+    "Neuroticism",
+    "Self-efficacy",
+    "Agreeableness (cooperation)"
+   ],
+   "x": "High self-monitors adjust their behaviour to the situation."
+  },
+  {
+   "id": "c2a-48",
+   "u": "c2a",
+   "d": 3,
+   "q": "Which statement about personality testing in selection is correct?",
+   "o": [
+    "Personality explains only about 10–15% of job performance; cognitive ability predicts better",
+    "Personality tests cannot be faked, which makes them more reliable than interviews",
+    "Personality is the strongest single predictor of job performance in every occupation studied",
+    "Personality tests are never controversial, so firms can use them without any concern"
+   ],
+   "x": "Book: modest correlations, faking is possible, cognitive ability predicts better."
+  },
+  {
+   "id": "c2a-49",
+   "u": "c2a",
+   "d": 3,
+   "q": "A team avoids challenging the status quo because members dislike conflict. Which trait, despite its benefits, is linked to this drawback?",
+   "o": [
+    "Agreeableness",
+    "Conscientiousness",
+    "Openness",
+    "Extraversion"
+   ],
+   "x": "Agreeable people are less likely to engage in constructive, change-oriented communication."
+  },
+  {
+   "id": "c2a-50",
+   "u": "c2a",
+   "d": 3,
+   "q": "Which statement about personality is correct?",
+   "o": [
+    "It is relatively stable but can change over long periods",
+    "It is fixed after childhood and never changes afterwards",
+    "It is the same thing as a person's values",
+    "It always determines behaviour regardless of the job"
+   ],
+   "x": "Stable but changes slowly; job demands also shape behaviour."
+  },
+  {
+   "id": "c2b-51",
+   "u": "c2b",
+   "d": 1,
+   "q": "What is organizational commitment?",
+   "o": [
+    "The emotional attachment people have to the company they work for",
+    "The pay level and benefits an employee receives from the company",
+    "Compliance with organizational rules, policies and procedures",
+    "The list of tasks and responsibilities in a job description"
+   ],
+   "x": "Emotional attachment: believes in the values, puts in effort, wants to stay."
+  },
+  {
+   "id": "c2b-52",
+   "u": "c2b",
+   "d": 1,
+   "q": "Job satisfaction refers to:",
+   "o": [
+    "The feelings people have toward their job",
+    "How long someone stays with a company",
+    "The match between skills and job demands",
+    "The fairness of pay"
+   ],
+   "x": "Job satisfaction = feelings toward the job."
+  },
+  {
+   "id": "c2b-53",
+   "u": "c2b",
+   "d": 1,
+   "q": "An attitude is:",
+   "o": [
+    "Our opinions, beliefs and feelings about aspects of our environment",
+    "A stable personality trait that people are largely born with",
+    "A formal description of the tasks and duties of a job",
+    "A company's written policy about how employees should behave toward each other"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c2b-54",
+   "u": "c2b",
+   "d": 1,
+   "q": "The psychological contract is:",
+   "o": [
+    "The unspoken understanding of what employee and organization will give each other",
+    "The signed employment contract that lists salary, working hours, holidays and the notice period",
+    "A personality test used in hiring to predict whether a candidate will stay",
+    "The company's written code of conduct that every employee must sign"
+   ],
+   "x": "Unspoken expectations: effort and loyalty for pay, raises, security."
+  },
+  {
+   "id": "c2b-55",
+   "u": "c2b",
+   "d": 1,
+   "q": "Person-organization fit is:",
+   "o": [
+    "The match between a person's values, personality and goals and those of the organization",
+    "The match between a person's skills and abilities and the demands of the job",
+    "The number of years someone has worked for the same company and their loyalty to it over time",
+    "A person's fit with the personality and working style of their direct manager"
+   ],
+   "x": "P-O fit = values with the organization. Skills with the job = P-J fit."
+  },
+  {
+   "id": "c2b-56",
+   "u": "c2b",
+   "d": 1,
+   "q": "Which job characteristic is linked to higher satisfaction and commitment?",
+   "o": [
+    "Autonomy at work",
+    "Organizational justice",
+    "Personality",
+    "Stress"
+   ],
+   "x": "The job characteristics are skill variety, autonomy, feedback and significance. Justice and stress are separate factors."
+  },
+  {
+   "id": "c2b-57",
+   "u": "c2b",
+   "d": 2,
+   "q": "Employees learn that promotions were decided by drawing names from a hat. Which type of justice is violated?",
+   "o": [
+    "Procedural justice",
+    "Distributive justice",
+    "Interactional justice",
+    "Equity sensitivity"
+   ],
+   "x": "An unfair decision-making process = procedural justice."
+  },
+  {
+   "id": "c2b-58",
+   "u": "c2b",
+   "d": 2,
+   "q": "A manager gives an employee a raise but tells her, 'Even you deserve something sometimes.' Which justice suffers?",
+   "o": [
+    "Interactional justice",
+    "Distributive justice",
+    "Procedural justice",
+    "Psychological contract"
+   ],
+   "x": "Lack of respect and dignity = interactional justice."
+  },
+  {
+   "id": "c2b-59",
+   "u": "c2b",
+   "d": 2,
+   "q": "Workers doing the same job feel their pay is unfair compared with colleagues. Which type of justice?",
+   "o": [
+    "Distributive justice",
+    "Procedural justice",
+    "Interactional justice",
+    "Role conflict"
+   ],
+   "x": "Fairness of outcomes such as pay = distributive."
+  },
+  {
+   "id": "c2b-60",
+   "u": "c2b",
+   "d": 2,
+   "q": "Yara isn't sure what her responsibilities are since the reorganization. This stressor is:",
+   "o": [
+    "Role ambiguity",
+    "Role conflict",
+    "Interactional justice",
+    "Person-job fit"
+   ],
+   "x": "Uncertainty about responsibilities = role ambiguity."
+  },
+  {
+   "id": "c2b-61",
+   "u": "c2b",
+   "d": 2,
+   "q": "Tim's manager wants him to work late, but his role as a parent requires him home by six. This is:",
+   "o": [
+    "Role conflict",
+    "Role ambiguity",
+    "Procedural justice",
+    "Low self-efficacy"
+   ],
+   "x": "Contradictory demands between roles = role conflict."
+  },
+  {
+   "id": "c2b-62",
+   "u": "c2b",
+   "d": 2,
+   "q": "HR meets every employee who resigns to learn why they're leaving. This tool is:",
+   "o": [
+    "An exit interview",
+    "An attitude survey",
+    "Onboarding",
+    "A performance appraisal"
+   ],
+   "x": "Exit interviews are with departing employees."
+  },
+  {
+   "id": "c2b-63",
+   "u": "c2b",
+   "d": 2,
+   "q": "A creative risk-taker joins a nuclear power plant where routine and predictability are key. The most likely problem is:",
+   "o": [
+    "Poor person-organization fit",
+    "Too much organizational commitment",
+    "High interactional justice",
+    "Strong self-efficacy"
+   ],
+   "x": "His traits don't match the organization's values."
+  },
+  {
+   "id": "c2b-64",
+   "u": "c2b",
+   "d": 3,
+   "q": "Which statement about the attitude-behaviour link is correct?",
+   "o": [
+    "Attitudes predict intentions better than actual behaviour, because the situation also matters",
+    "Dissatisfied employees always quit, so attitudes predict turnover perfectly",
+    "Attitudes have no relation to behaviour, so measuring them in employee surveys is mostly pointless",
+    "Attitude surveys work best when answers are shared with the direct manager"
+   ],
+   "x": "A dissatisfied employee intends to leave; leaving depends on alternatives. Surveys work best when confidential."
+  },
+  {
+   "id": "c2b-65",
+   "u": "c2b",
+   "d": 3,
+   "q": "According to the interactionist perspective:",
+   "o": [
+    "Behaviour is a function of the person and the situation interacting",
+    "Behaviour depends only on personality, whatever the situation is",
+    "Behaviour depends only on the job and the rules of the organization",
+    "Fit between person and organization doesn't affect attitudes"
+   ],
+   "x": "Person × situation; fit increases satisfaction and commitment."
+  },
+  {
+   "id": "c2b-66",
+   "u": "c2b",
+   "d": 3,
+   "q": "An employee says 'we have great benefits here' and stays despite a better offer elsewhere. This mainly shows:",
+   "o": [
+    "High organizational commitment",
+    "High neuroticism",
+    "Role ambiguity",
+    "A violated psychological contract"
+   ],
+   "x": "Using 'we' and wanting to stay are signs of commitment."
+  },
+  {
+   "id": "c3a-67",
+   "u": "c3a",
+   "d": 1,
+   "q": "Leadership is defined in the course as:",
+   "o": [
+    "The act of influencing others to work toward a goal",
+    "Holding the highest formal position in an organization",
+    "Controlling the budget and deciding how it is spent",
+    "Following the rules and making sure others do too"
+   ],
+   "x": "Influence toward a goal."
+  },
+  {
+   "id": "c3a-68",
+   "u": "c3a",
+   "d": 1,
+   "q": "Which five sources of power did French and Raven identify?",
+   "o": [
+    "Reward, coercive, referent, expert, legitimate",
+    "Reward, charismatic, technical, financial, legal",
+    "Formal, informal, personal, social, expert",
+    "Position, money, knowledge, network, time"
+   ],
+   "x": "French & Raven: reward, coercive, referent, expert, legitimate."
+  },
+  {
+   "id": "c3a-69",
+   "u": "c3a",
+   "d": 1,
+   "q": "An informal leader:",
+   "o": [
+    "Has no formal position of authority but influences others through personal power",
+    "Is appointed by top management to lead the group alongside the formal leader",
+    "Only uses coercive power, because no rewards or formal authority are available to them",
+    "Is the official leader of the group as recognized by people outside it"
+   ],
+   "x": "Informal leaders are acknowledged by the group, not appointed."
+  },
+  {
+   "id": "c3a-70",
+   "u": "c3a",
+   "d": 1,
+   "q": "Coercive power is:",
+   "o": [
+    "The ability to punish or take away something people value",
+    "The ability to give rewards such as pay rises and promotions",
+    "Power that comes from a person's specialized expertise",
+    "Power that comes from being liked, admired and identified with"
+   ],
+   "x": "Coercive = punishment."
+  },
+  {
+   "id": "c3a-71",
+   "u": "c3a",
+   "d": 2,
+   "q": "A sales manager can assign desirable territories and performance bonuses to employees who achieve agreed targets. Which source of power?",
+   "o": [
+    "Reward power",
+    "Expert power",
+    "Referent power",
+    "Informational power"
+   ],
+   "x": "Giving rewards others want = reward power."
+  },
+  {
+   "id": "c3a-72",
+   "u": "c3a",
+   "d": 2,
+   "q": "A cybersecurity specialist influences the executive team because of her knowledge, although she holds no managerial position. Which power?",
+   "o": [
+    "Expert power",
+    "Legitimate power",
+    "Reward power",
+    "Coercive power"
+   ],
+   "x": "Knowledge others need = expert power."
+  },
+  {
+   "id": "c3a-73",
+   "u": "c3a",
+   "d": 2,
+   "q": "Colleagues follow Ahmed's lead because they admire him and want to be like him. Which power?",
+   "o": [
+    "Referent power",
+    "Legitimate power",
+    "Coercive power",
+    "Reward power"
+   ],
+   "x": "Admiration and identification = referent power."
+  },
+  {
+   "id": "c3a-74",
+   "u": "c3a",
+   "d": 2,
+   "q": "Employees follow the new director's instructions mainly because she is 'the boss' by title. Which power?",
+   "o": [
+    "Legitimate power",
+    "Referent power",
+    "Expert power",
+    "Reward power"
+   ],
+   "x": "The right to influence from a formal position = legitimate."
+  },
+  {
+   "id": "c3a-75",
+   "u": "c3a",
+   "d": 2,
+   "q": "A team member without any title becomes the person everyone turns to during a crisis project. She is best described as:",
+   "o": [
+    "An emergent, informal leader",
+    "A designated, formal leader",
+    "A Theory X leader",
+    "A figurehead"
+   ],
+   "x": "She arises from the group's dynamics and has no formal position."
+  },
+  {
+   "id": "c3a-76",
+   "u": "c3a",
+   "d": 2,
+   "q": "A manager assumes employees dislike work and need tight control, so he checks everything. This reflects:",
+   "o": [
+    "Theory X",
+    "Theory Y",
+    "Servant leadership",
+    "Referent power"
+   ],
+   "x": "McGregor's Theory X."
+  },
+  {
+   "id": "c3a-77",
+   "u": "c3a",
+   "d": 3,
+   "q": "Which statement about the effects of power is correct?",
+   "o": [
+    "Coercive power tends to alienate followers; referent and expert power lead to better results",
+    "Coercive power is the most effective way to build long-term commitment among followers in most firms",
+    "Legitimate power alone is enough for a leader to succeed in almost any situation",
+    "Reward power always creates deep, lasting commitment to the leader's goals"
+   ],
+   "x": "Book: coercion alienates; referent and expert power work best; legitimate alone is rarely enough."
+  },
+  {
+   "id": "c3a-78",
+   "u": "c3a",
+   "d": 3,
+   "q": "A project manager can't give bonuses or punish anyone, but the team follows her because she knows the software best and they like her. Which combination?",
+   "o": [
+    "Expert and referent power",
+    "Reward and coercive power",
+    "Legitimate and reward power",
+    "Coercive and legitimate power"
+   ],
+   "x": "Knowledge = expert; being liked = referent."
+  },
+  {
+   "id": "c3a-79",
+   "u": "c3a",
+   "d": 3,
+   "q": "Which statement best describes the leadership process (Hollander & Julian)?",
+   "o": [
+    "A dynamic exchange relationship built over time between leader and followers",
+    "A one-way order from the leader to the followers, who carry it out",
+    "A fixed set of traits that a leader is born with and cannot develop",
+    "A formal title the organization gives someone, together with the authority that comes with it"
+   ],
+   "x": "Leadership is a two-way, dynamic relationship built over time."
+  },
+  {
+   "id": "c3a-80",
+   "u": "c3a",
+   "d": 3,
+   "q": "Theory Y leaders typically:",
+   "o": [
+    "Give employees discretion and involve them, believing people are self-directed and creative",
+    "Closely supervise employees, believing people dislike work and avoid responsibility",
+    "Rely mainly on coercive power and punishment to keep people productive and on schedule",
+    "Avoid any participation of employees, because decisions belong to managers"
+   ],
+   "x": "Theory Y: involvement-oriented leadership."
+  },
+  {
+   "id": "c3b-81",
+   "u": "c3b",
+   "d": 1,
+   "q": "The trait approach to leadership asks:",
+   "o": [
+    "Which personal characteristics make someone a (successful) leader?",
+    "What do effective leaders actually do differently from other people?",
+    "Which situation calls for which leadership style to be effective?",
+    "How do followers judge the fairness of their leader's decisions?"
+   ],
+   "x": "Traits: who is a leader. Behavioural: what leaders do."
+  },
+  {
+   "id": "c3b-82",
+   "u": "c3b",
+   "d": 1,
+   "q": "Task-oriented leader behaviours involve:",
+   "o": [
+    "Structuring roles, giving instructions and pushing group performance",
+    "Showing concern for employees' feelings and treating them with respect",
+    "Leaving decisions entirely to the team with minimal involvement",
+    "Serving employees' personal needs and development before results"
+   ],
+   "x": "Task-oriented = initiating structure."
+  },
+  {
+   "id": "c3b-83",
+   "u": "c3b",
+   "d": 1,
+   "q": "People-oriented leader behaviours involve:",
+   "o": [
+    "Showing concern for employee feelings and treating them with respect",
+    "Setting deadlines, assigning tasks and structuring subordinates' roles",
+    "Deciding alone and announcing the decision to the team afterwards",
+    "Punishing poor performance to keep standards high in the group"
+   ],
+   "x": "People-oriented = consideration."
+  },
+  {
+   "id": "c3b-84",
+   "u": "c3b",
+   "d": 1,
+   "q": "Laissez-faire decision-making means:",
+   "o": [
+    "Employees decide with minimal guidance from the leader",
+    "The leader decides alone and informs the employees",
+    "Employees participate, but the leader takes the final decision",
+    "The leader and team vote, and the majority decides"
+   ],
+   "x": "Laissez-faire = leave it to them."
+  },
+  {
+   "id": "c3b-85",
+   "u": "c3b",
+   "d": 1,
+   "q": "Which Big Five trait has the strongest relationship with leader emergence and effectiveness?",
+   "o": [
+    "Extraversion",
+    "Agreeableness",
+    "Neuroticism",
+    "Openness"
+   ],
+   "x": "Extraversion has the strongest link."
+  },
+  {
+   "id": "c3b-86",
+   "u": "c3b",
+   "d": 2,
+   "q": "A manager sets clear weekly targets, assigns each person's tasks and checks progress every Friday. Which behaviour?",
+   "o": [
+    "Task-oriented",
+    "People-oriented",
+    "Laissez-faire",
+    "Servant"
+   ],
+   "x": "Structuring roles and checking performance = task-oriented."
+  },
+  {
+   "id": "c3b-87",
+   "u": "c3b",
+   "d": 2,
+   "q": "A supervisor regularly asks how her staff are doing, listens to personal worries and treats everyone with respect. Which behaviour?",
+   "o": [
+    "People-oriented",
+    "Task-oriented",
+    "Authoritarian",
+    "Transactional"
+   ],
+   "x": "Concern for feelings = people-oriented."
+  },
+  {
+   "id": "c3b-88",
+   "u": "c3b",
+   "d": 2,
+   "q": "The head chef decides the new menu alone and announces it to the kitchen. Which decision-making style?",
+   "o": [
+    "Authoritarian",
+    "Democratic",
+    "Laissez-faire",
+    "Participative"
+   ],
+   "x": "Deciding alone without involving employees = authoritarian."
+  },
+  {
+   "id": "c3b-89",
+   "u": "c3b",
+   "d": 2,
+   "q": "A team leader holds a vote with the team on which supplier to choose and follows the outcome. Which style?",
+   "o": [
+    "Democratic",
+    "Authoritarian",
+    "Laissez-faire",
+    "Task-oriented"
+   ],
+   "x": "Employees participate in the decision = democratic."
+  },
+  {
+   "id": "c3b-90",
+   "u": "c3b",
+   "d": 2,
+   "q": "A manager tells the team 'decide among yourselves how to run the project' and gives no further input. Which style?",
+   "o": [
+    "Laissez-faire",
+    "Democratic",
+    "Authoritarian",
+    "People-oriented"
+   ],
+   "x": "Minimal guidance = laissez-faire."
+  },
+  {
+   "id": "c3b-91",
+   "u": "c3b",
+   "d": 3,
+   "q": "Which statement about the behavioural approach is correct?",
+   "o": [
+    "People-oriented behaviour raises satisfaction, task-oriented slightly raises productivity, neither always works",
+    "Task-oriented behaviour always leads to the highest satisfaction and the highest productivity",
+    "Showing both behaviours at the same time guarantees effective leadership in every situation and team",
+    "Laissez-faire has the best track record of the three decision-making styles in research"
+   ],
+   "x": "Both help for different purposes; the approach ignored context; laissez-faire has the worst record."
+  },
+  {
+   "id": "c3b-92",
+   "u": "c3b",
+   "d": 3,
+   "q": "According to Kirkpatrick and Locke, which set lists core leadership traits?",
+   "o": [
+    "Drive, motivation to lead, integrity, self-confidence, cognitive ability, business knowledge",
+    "Height, age, wealth, gender, physical appearance and family background",
+    "Agreeableness, modesty, conflict avoidance, patience and a calm voice",
+    "Charm, luck, extraversion, humour, ambition, a strong network and an impressive physical presence"
+   ],
+   "x": "Locke's core traits give leadership potential."
+  },
+  {
+   "id": "c3b-93",
+   "u": "c3b",
+   "d": 3,
+   "q": "What was the main limitation of both the trait and the behavioural approaches?",
+   "o": [
+    "They ignored the situation (context) in which leaders operate",
+    "They focused too much on followers and too little on leaders",
+    "They were based almost only on studies of women leaders",
+    "They only studied military leaders in times of war"
+   ],
+   "x": "Neither specified the conditions under which traits or behaviours work."
+  },
+  {
+   "id": "c3b-94",
+   "u": "c3b",
+   "d": 3,
+   "q": "Goleman argues about intelligence and leadership that:",
+   "o": [
+    "IQ is a threshold for management, but emotional intelligence separates effective leaders",
+    "IQ is the only trait that really matters, because leaders must constantly solve complex business problems",
+    "Emotional intelligence is irrelevant for leaders, because it cannot be measured",
+    "High IQ guarantees leadership success once someone reaches top management"
+   ],
+   "x": "IQ is a threshold; EQ differentiates."
+  }
+ ],
+ "caseQuestions": [],
+ "glossary": [
+  {
+   "g": "Management basics",
+   "ch": "Ch 1",
+   "t": [
+    [
+     "Planning",
+     "Setting objectives and deciding the course of action to reach them."
+    ],
+    [
+     "Organizing",
+     "Arranging structure, people and resources so the objectives can be reached."
+    ],
+    [
+     "Leading",
+     "Using social and informal influence to motivate and inspire people to act."
+    ],
+    [
+     "Controlling",
+     "Setting standards, comparing actual performance with them and taking corrective action."
+    ],
+    [
+     "Line manager",
+     "Leads a function that contributes directly to the products or services (e.g. production, sales)."
+    ],
+    [
+     "Staff manager",
+     "Leads a function that gives indirect, specialist support (e.g. HR, finance, legal)."
+    ],
+    [
+     "Stakeholders",
+     "Individuals or groups who affect or are affected by the organization."
+    ],
+    [
+     "Benchmarking",
+     "Comparing your performance with the best competitors or industry standards."
+    ],
+    [
+     "CSR",
+     "Corporate social responsibility: acting responsibly toward society and the environment beyond what the law requires."
+    ],
+    [
+     "Triple bottom line",
+     "Measuring success on people (social), planet (environmental) and profit (economic)."
+    ]
+   ]
+  },
+  {
+   "g": "Personality",
+   "ch": "Ch 2",
+   "t": [
+    [
+     "Openness",
+     "Big Five: curious, creative, open to new ideas and experiences."
+    ],
+    [
+     "Conscientiousness",
+     "Big Five: organized, responsible, reliable. Predicts performance in almost every job."
+    ],
+    [
+     "Extraversion",
+     "Big Five: sociable, outgoing, energetic."
+    ],
+    [
+     "Agreeableness",
+     "Big Five: friendly, cooperative, trusting."
+    ],
+    [
+     "Neuroticism",
+     "Big Five: anxious, emotional, easily stressed. The opposite is emotional stability."
+    ]
+   ]
+  },
+  {
+   "g": "Leadership",
+   "ch": "Ch 3–4",
+   "t": [
+    [
+     "Trait approach",
+     "Which personal characteristics make someone a (successful) leader?"
+    ],
+    [
+     "Behavioural approach",
+     "Looks at what leaders do instead of who they are."
+    ],
+    [
+     "LMX",
+     "Leader-member exchange: leaders build different relationships with different employees (in-group vs out-group)."
+    ],
+    [
+     "In-group",
+     "LMX: employees who get more trust, responsibility and support."
+    ],
+    [
+     "Out-group",
+     "LMX: employees with a more formal, limited relationship with the leader."
+    ],
+    [
+     "Theory X",
+     "Managers assume people dislike work and need control and close supervision."
+    ],
+    [
+     "Theory Y",
+     "Managers assume people enjoy responsibility and can motivate themselves."
+    ],
+    [
+     "Passive management by exception",
+     "The leader only steps in after problems or mistakes have occurred."
+    ],
+    [
+     "Task-oriented",
+     "Focus on structuring roles, targets, deadlines and getting the work done."
+    ],
+    [
+     "People-oriented",
+     "Focus on employees' feelings, relationships and well-being."
+    ],
+    [
+     "Authoritarian (autocratic)",
+     "The leader makes the decision alone."
+    ],
+    [
+     "Democratic",
+     "The leader involves employees in the decision."
+    ],
+    [
+     "Laissez-faire",
+     "Employees decide with little guidance or involvement from the leader."
+    ]
+   ]
+  },
+  {
+   "g": "Power",
+   "ch": "Ch 3",
+   "t": [
+    [
+     "Coercive power",
+     "Power from the ability to punish or take away something people value."
+    ],
+    [
+     "Reward power",
+     "Power from the ability to give bonuses, promotions and benefits."
+    ],
+    [
+     "Legitimate power",
+     "Power from your official position or job title."
+    ],
+    [
+     "Referent power",
+     "Power because people like, admire or identify with you."
+    ],
+    [
+     "Expert power",
+     "Power from your knowledge, skills or experience."
+    ]
+   ]
+  }
+ ],
+ "compare": [
+  [
+   "SWOT vs PESTEL",
+   "SWOT has internal strengths/weaknesses and external opportunities/threats. PESTEL looks only at the external macro environment."
+  ],
+  [
+   "PESTEL vs Five Forces",
+   "PESTEL = broad macro environment. Porter = competition inside the industry."
+  ],
+  [
+   "Maslow vs ERG",
+   "Maslow: 5 levels in a fixed order. ERG: 3 groups, several needs at once, and you can fall back (frustration-regression)."
+  ],
+  [
+   "Herzberg vs Maslow",
+   "Maslow explains human needs in general. Herzberg explains what causes job satisfaction vs dissatisfaction."
+  ],
+  [
+   "Theory X vs Theory Y",
+   "X assumes people need control. Y assumes people can motivate themselves."
+  ],
+  [
+   "Lewin vs Kotter",
+   "Lewin: 3 broad stages for any change. Kotter: 8 detailed steps for large transformations (steps 1–4 = unfreeze)."
+  ],
+  [
+   "Functional vs Divisional",
+   "Functional groups people by department. Divisional groups them by product, market or region."
+  ],
+  [
+   "Mechanistic vs Organic",
+   "Mechanistic = strict rules and hierarchy. Organic = flexible, flat, adaptable."
+  ],
+  [
+   "Democratic vs Authoritarian",
+   "Democratic involves employees in decisions. Authoritarian decides alone."
+  ],
+  [
+   "Task- vs People-oriented",
+   "Task-oriented focuses on results and deadlines. People-oriented on relationships and well-being."
+  ],
+  [
+   "Coercive vs Reward power",
+   "Coercive uses punishment. Reward uses incentives and benefits."
+  ],
+  [
+   "Line vs Staff manager",
+   "Line contributes directly to the product or service. Staff gives indirect specialist support."
+  ],
+  [
+   "Subculture vs Counterculture",
+   "A subculture fits within the main culture. A counterculture opposes it."
+  ],
+  [
+   "Hofstede vs GLOBE",
+   "Hofstede: IBM, 1960s, 4 then 6 dimensions. GLOBE: 1990s, 62 countries, 9 dimensions incl. performance and humane orientation."
+  ]
+ ]
+}

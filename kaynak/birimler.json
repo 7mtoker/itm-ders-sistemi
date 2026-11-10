@@ -1,0 +1,1773 @@
+[
+ {
+  "id": "c1a",
+  "ch": 1,
+  "pts": 4,
+  "t": "Management & the P-O-L-C framework",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Management</b> = “the art of getting things done through the efforts of other people”. The book's key-term version: creatively solving problems to accomplish organizational goals through the efforts of others.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "The P-O-L-C framework (the four functions)",
+    "html": "<h4>The P-O-L-C framework (the four functions)</h4>\n<table class=\"rules\"><tr><th>Function</th><th>What it means</th><th>Includes</th></tr>\n<tr><td><b>Planning</b></td><td>Setting objectives and deciding the course of action to reach them. Needs environmental scanning, forecasting and good decisions.</td><td>Vision & mission, strategizing, goals & objectives</td></tr>\n<tr><td><b>Organizing</b></td><td>Developing an organizational structure and allocating human resources so objectives are reached. Also job design.</td><td>Organization design, culture, social networks</td></tr>\n<tr><td><b>Leading</b></td><td>The social and informal sources of influence you use to inspire action by others.</td><td>Leadership, decision making, communication, teams, motivation</td></tr>\n<tr><td><b>Controlling</b></td><td>Making sure performance doesn't deviate from standards. Three steps: (1) set performance standards, (2) compare actual performance with the standards, (3) take corrective action when needed.</td><td>Systems & processes, strategic HR</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Three levels of planning",
+    "html": "<h4>Three levels of planning</h4>\n<table class=\"rules\"><tr><th>Level</th><th>Time</th><th>Who</th><th>What</th></tr>\n<tr><td>Strategic</td><td>3+ years</td><td>Top management</td><td>Whole organization, mission-driven, competitive positioning (based on SWOT)</td></tr>\n<tr><td>Tactical</td><td>1–3 years</td><td>Middle managers</td><td>Concrete means to implement the strategic plan</td></tr>\n<tr><td>Operational</td><td>Under 1 year</td><td>Lower managers</td><td>Specific action steps that support the strategic and tactical plans</td></tr></table>"
+   },
+   {
+    "i": 3,
+    "baslik": "Leadership, entrepreneurship and strategy",
+    "html": "<h4>Leadership, entrepreneurship and strategy</h4>\n<p class=\"bl\"><b>Leadership</b>: an act of influence that inspires action by others; the social and informal sources of influence.</p>\n<p class=\"bl\"><b>Entrepreneurship</b>: recognizing opportunities (needs, wants, problems) and using or creating resources to implement innovative ideas for new ventures. An <b>intrapreneur</b> does this inside an existing organization.</p>\n<p class=\"bl\"><b>Strategy</b>: the central, integrated, externally oriented concept of how an organization will achieve its objectives (Hambrick & Fredrickson).</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "Performance",
+    "html": "<h4>Performance</h4>\n<p class=\"bl\"><b>Triple bottom line</b>: performance on economic, social and environmental dimensions (profit, people, planet). Linked to <b>CSR</b>: taking responsibility for your impact on customers, employees, communities and the environment beyond what the law requires.</p>\n<p class=\"bl\"><b>In-role performance</b>: the productivity and quality your job requires. <b>OCB</b> (organizational citizenship behaviour): voluntary, extra-role behaviour that helps the organization.</p>\n<p class=\"bl\"><b>Group performance</b> = the inputs of the group minus <b>process loss</b> (anything in group interaction that hurts problem solving).</p>"
+   },
+   {
+    "i": 5,
+    "baslik": "Traditional vs contemporary view",
+    "html": "<h4>Traditional vs contemporary view</h4>\n<p>Traditional: a top-down pyramid. Contemporary: an <b>upside-down pyramid</b> where top managers support and serve other managers and employees (<b>empowerment</b>), who serve the customers. Today's trends: DEI and sustainability.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Comparing results with a target and correcting = <b>controlling</b>, not planning.<br>Tactical = 1–3 years and middle management. Operational = under a year.<br>Leading is about <b>informal</b> influence; organizing is about <b>structure</b> and jobs.</div>",
+  "terms": [
+   [
+    "Management",
+    "The art of getting things done through the efforts of other people."
+   ],
+   [
+    "Planning",
+    "Setting objectives and determining a course of action to achieve them."
+   ],
+   [
+    "Organizing",
+    "Developing an organizational structure and allocating human resources to accomplish objectives."
+   ],
+   [
+    "Leading",
+    "The social and informal sources of influence used to inspire action in others."
+   ],
+   [
+    "Controlling",
+    "Ensuring that performance does not deviate from standards."
+   ],
+   [
+    "Strategic planning",
+    "Long-term (3+ years) planning by top management to position the organization."
+   ],
+   [
+    "Tactical planning",
+    "Intermediate (1–3 years) planning to implement the strategic plan."
+   ],
+   [
+    "Operational planning",
+    "Short-term (under 1 year) specific action steps."
+   ],
+   [
+    "Entrepreneurship",
+    "Creating new ventures by recognizing opportunities and innovating."
+   ],
+   [
+    "Intrapreneur",
+    "Someone who is creative and entrepreneurial inside an existing organization."
+   ],
+   [
+    "Triple bottom line",
+    "Performance measured on economic, social and environmental dimensions."
+   ],
+   [
+    "OCB",
+    "Voluntary, extra-role behaviour that benefits the organization."
+   ],
+   [
+    "Process loss",
+    "Any aspect of group interaction that inhibits good problem solving."
+   ],
+   [
+    "Empowerment",
+    "Enabling an individual to think, act and control work and decisions autonomously."
+   ]
+  ]
+ },
+ {
+  "id": "c1b",
+  "ch": 1,
+  "pts": 4,
+  "t": "Managers: Mintzberg's roles & Katz's skills",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Types of managers",
+    "html": "<h4>Types of managers</h4>\n<table class=\"rules\"><tr><th>Type</th><th>Responsible for</th></tr>\n<tr><td>Top manager</td><td>The organization's strategy; steward of vision and mission</td></tr>\n<tr><td>Functional manager</td><td>Efficiency and effectiveness of one area (accounting, marketing)</td></tr>\n<tr><td>Supervisory / team manager</td><td>Coordinating a subgroup of a function, or a cross-functional team</td></tr>\n<tr><td><b>Line manager</b></td><td>A function that contributes <b>directly</b> to the products or services (P&G's Tide product manager)</td></tr>\n<tr><td>Staff manager</td><td>A function that creates <b>indirect</b> inputs (finance, accounting)</td></tr>\n<tr><td><b>General manager</b></td><td>A clearly identifiable <b>revenue-producing unit</b> (a store, business unit, product line); decides across functions</td></tr>\n<tr><td>Project manager</td><td>Planning, executing and closing a project</td></tr></table>"
+   },
+   {
+    "i": 1,
+    "baslik": "Mintzberg's 10 managerial roles (3 groups)",
+    "html": "<h4>Mintzberg's 10 managerial roles (3 groups)</h4>\n<table class=\"rules\"><tr><th>Group</th><th>Role</th><th>What the manager does</th></tr>\n<tr><td rowspan=\"3\"><b>Interpersonal</b></td><td>Figurehead</td><td>Represents the organization in formal and ceremonial matters</td></tr>\n<tr><td>Leader</td><td>Relationship with employees: motivating, guiding (important at <b>every</b> level)</td></tr>\n<tr><td>Liaison</td><td>Interacts with peers and people <b>outside</b> the unit or organization</td></tr>\n<tr><td rowspan=\"3\"><b>Informational</b></td><td>Monitor</td><td>Receives and collects information (reports, complaints, trends)</td></tr>\n<tr><td>Disseminator</td><td>Passes information <b>into</b> the organization (to the team)</td></tr>\n<tr><td>Spokesperson</td><td>Passes the organization's information <b>out</b> to its environment (press, public)</td></tr>\n<tr><td rowspan=\"4\"><b>Decisional</b></td><td>Entrepreneur</td><td>Initiates change, new projects</td></tr>\n<tr><td>Disturbance handler</td><td>Deals with threats and crises</td></tr>\n<tr><td>Resource allocator</td><td>Decides where the organization spends its effort (budgets, people)</td></tr>\n<tr><td>Negotiator</td><td>Negotiates on behalf of the organization</td></tr></table>\n<p>Supervisors: the figurehead role matters less, disturbance handler and negotiator matter more.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Katz's three skills",
+    "html": "<h4>Katz's three skills</h4>\n<table class=\"rules\"><tr><th>Skill</th><th>Meaning</th><th>Most needed by</th></tr>\n<tr><td>Technical</td><td>Know-how in a specific field (using equipment, software, procedures)</td><td>Lower-level managers</td></tr>\n<tr><td>Interpersonal (human)</td><td>Working with and leading people, communication</td><td>All levels</td></tr>\n<tr><td>Conceptual</td><td>Generating ideas and seeing the big picture: strategy, mission, policies</td><td>Top managers</td></tr></table>\n<p>The higher you rise, the more conceptual skills and the fewer technical skills you need.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Disseminator = <b>inside</b>, spokesperson = <b>outside</b>.<br>Liaison = contacts outside your own unit. Figurehead = ceremony and formality.<br>Mintzberg's groups are interpersonal, informational, decisional. Katz's skills are technical, interpersonal, conceptual. Don't mix the two lists.</div>",
+  "terms": [
+   [
+    "Line manager",
+    "Leads a function that contributes directly to the organization's products or services."
+   ],
+   [
+    "General manager",
+    "Manages a clearly identifiable revenue-producing unit, such as a store or product line."
+   ],
+   [
+    "Figurehead",
+    "Mintzberg: represents the organization in formal matters."
+   ],
+   [
+    "Liaison",
+    "Mintzberg: interacts with peers and people outside the organization."
+   ],
+   [
+    "Monitor",
+    "Mintzberg: receives and collects information."
+   ],
+   [
+    "Disseminator",
+    "Mintzberg: transmits information into the organization."
+   ],
+   [
+    "Spokesperson",
+    "Mintzberg: transmits the organization's information to its environment."
+   ],
+   [
+    "Disturbance handler",
+    "Mintzberg: deals with threats to the organization."
+   ],
+   [
+    "Resource allocator",
+    "Mintzberg: chooses where the organization expends its efforts."
+   ],
+   [
+    "Technical skills",
+    "Katz: learned capacity in a specific field."
+   ],
+   [
+    "Conceptual skills",
+    "Katz: generating ideas and understanding the broad context; most important at the top."
+   ],
+   [
+    "Interpersonal skills",
+    "Katz: leading and working with people."
+   ]
+  ]
+ },
+ {
+  "id": "c2a",
+  "ch": 2,
+  "pts": 4,
+  "t": "Personality & values",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Personality</b>: a person's relatively stable feelings, thoughts and behavioural patterns. Stable, but it can change slowly over a lifetime. Behaviour at work also depends on what the job expects; personality matters most in jobs with a lot of autonomy.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "The Big Five (OCEAN)",
+    "html": "<h4>The Big Five (OCEAN)</h4>\n<table class=\"rules\"><tr><th>Trait</th><th>Description</th><th>At work</th></tr>\n<tr><td><b>O</b>penness</td><td>Curious, original, intellectual, creative, open to new ideas</td><td>Learns fast, adapts to change, creative; may get bored by routine</td></tr>\n<tr><td><b>C</b>onscientiousness</td><td>Organized, systematic, punctual, achievement-oriented, dependable</td><td>The <b>one trait that predicts performance across all jobs</b>; most wanted by recruiters</td></tr>\n<tr><td><b>E</b>xtraversion</td><td>Outgoing, talkative, sociable</td><td>Good in sales and as managers; more absenteeism</td></tr>\n<tr><td><b>A</b>greeableness</td><td>Affable, tolerant, sensitive, trusting, kind, warm</td><td>Helps others; avoids conflict, so less change-oriented communication</td></tr>\n<tr><td><b>N</b>euroticism</td><td>Anxious, irritable, temperamental, moody</td><td>The only trait where <b>high is undesirable</b>; unhappy, lower career success</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Other personality dimensions",
+    "html": "<h4>Other personality dimensions</h4>\n<p class=\"bl\"><b>Self-monitoring</b>: how well you read a situation and adjust your behaviour (“social chameleons”).</p>\n<p class=\"bl\"><b>Proactive personality</b>: inclination to fix what is wrong and take initiative without being told.</p>\n<p class=\"bl\"><b>Self-esteem</b>: overall positive feelings about yourself.</p>\n<p class=\"bl\"><b>Self-efficacy</b>: belief that you can perform a <b>specific task</b> successfully. Task-specific, unlike the other traits.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "Personality tests in selection",
+    "html": "<h4>Personality tests in selection</h4>\n<p>Controversial: candidates can fake answers, and personality explains only about <b>10–15%</b> of job performance. <b>Cognitive ability</b> (general mental ability) predicts performance better. Tests must not discriminate.</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "Values",
+    "html": "<h4>Values</h4>\n<p><b>Values</b>: people's stable life goals, what matters most to them. They affect job choice and whether people stay. Schwartz's 10 values: achievement, benevolence, conformity, hedonism, power, security, self-direction, stimulation, tradition, universalism.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Organized, dependable, meets deadlines” = <b>conscientiousness</b>, not organizational commitment (mock Q8).<br>Self-efficacy is about one specific task; self-esteem is about yourself in general.</div>",
+  "terms": [
+   [
+    "Personality",
+    "A person's relatively stable feelings, thoughts and behavioural patterns."
+   ],
+   [
+    "Openness",
+    "Curious, original, intellectual, creative, open to new ideas."
+   ],
+   [
+    "Conscientiousness",
+    "Organized, systematic, punctual, achievement-oriented, dependable."
+   ],
+   [
+    "Extraversion",
+    "Outgoing, talkative, sociable, enjoys socializing."
+   ],
+   [
+    "Agreeableness",
+    "Affable, tolerant, sensitive, trusting, kind, warm."
+   ],
+   [
+    "Neuroticism",
+    "Anxious, irritable, temperamental, moody."
+   ],
+   [
+    "Self-monitoring",
+    "Ability to monitor and adjust your actions and appearance in social situations."
+   ],
+   [
+    "Proactive personality",
+    "Inclination to fix what is wrong and use initiative."
+   ],
+   [
+    "Self-esteem",
+    "Overall positive feelings about yourself."
+   ],
+   [
+    "Self-efficacy",
+    "Belief that you can perform a specific task successfully."
+   ],
+   [
+    "Values",
+    "Stable life goals reflecting what is most important to a person."
+   ]
+  ]
+ },
+ {
+  "id": "c2b",
+  "ch": 2,
+  "pts": 4,
+  "t": "Work attitudes & fit",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p>An <b>attitude</b> = our opinions, beliefs and feelings about aspects of our environment. Two work attitudes matter most:</p>\n<p class=\"bl\"><b>Job satisfaction</b>: the feelings people have toward their job. Probably the most studied attitude.</p>\n<p class=\"bl\"><b>Organizational commitment</b>: the <b>emotional attachment</b> to the company. A committed employee believes in its values, puts in effort and wants to stay (“<b>we</b> have great benefits”).</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "What causes positive work attitudes",
+    "html": "<h4>What causes positive work attitudes</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Detail</th></tr>\n<tr><td>Personality & values</td><td>e.g. low neuroticism → more satisfied</td></tr>\n<tr><td>Job characteristics</td><td>Skill variety, <b>autonomy</b>, feedback, significant tasks. Matters most for people with a high need for growth.</td></tr>\n<tr><td>Organizational justice</td><td><b>Distributive</b> (fair pay and rewards), <b>procedural</b> (fair policies and processes), <b>interactional</b> (treated with dignity and respect). At its root: trust.</td></tr>\n<tr><td>Psychological contract</td><td>The unspoken understanding of what the employee gives (effort, loyalty) and gets (pay, raises, job security)</td></tr>\n<tr><td>Relationships at work</td><td>With coworkers and especially the manager. <b>Relationship management</b> = communicating clearly, keeping good relationships, managing conflict.</td></tr>\n<tr><td>Stress</td><td>Environmental, interpersonal, organizational stressors. <b>Role ambiguity</b> = unclear responsibilities; <b>role conflict</b> = contradictory demands. More stress → less satisfaction (but challenging stress can be positive).</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Measuring attitudes",
+    "html": "<h4>Measuring attitudes</h4>\n<p class=\"bl\"><b>Attitude surveys</b> (work best when confidential and followed by action) and <b>exit interviews</b> with departing employees.</p>\n<p class=\"bl\">Attitudes predict <b>intentions</b> better than actual behaviour: a dissatisfied employee intends to leave, but whether they leave depends on alternatives.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "The interactionist perspective: fit",
+    "html": "<h4>The interactionist perspective: fit</h4>\n<p>Behaviour is a function of the <b>person and the situation</b> interacting.</p>\n<p class=\"bl\"><b>Person-job fit</b>: your knowledge, skills, abilities and other characteristics (KSAO) match the <b>job demands</b>.</p>\n<p class=\"bl\"><b>Person-organization fit</b>: your personality, values and goals match the <b>organization</b>.</p>\n<p>Good fit → more satisfied, more committed, stay longer.</p>\n<div class=\"ex\"><b>Case: SAS Institute</b><br>On Fortune's best places to work every year; turnover under 4% where 20% is the industry norm. Google visited the SAS campus for ideas.</div>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Emotional attachment to the company” = organizational commitment, not job satisfaction.<br>Values match the company = person-<b>organization</b> fit. Skills match the job = person-<b>job</b> fit.</div>",
+  "terms": [
+   [
+    "Attitude",
+    "Our opinions, beliefs and feelings about aspects of our environment."
+   ],
+   [
+    "Job satisfaction",
+    "The feelings people have toward their job."
+   ],
+   [
+    "Organizational commitment",
+    "The emotional attachment people have toward the company they work for."
+   ],
+   [
+    "Psychological contract",
+    "Unspoken, informal understanding of what employee and organization give each other."
+   ],
+   [
+    "Distributive justice",
+    "Fairness of the outputs (rewards) received."
+   ],
+   [
+    "Procedural justice",
+    "Fairness of the procedures used to make decisions."
+   ],
+   [
+    "Interactional justice",
+    "Being treated with respect, kindness and dignity."
+   ],
+   [
+    "Role ambiguity",
+    "Uncertainty about what your responsibilities are."
+   ],
+   [
+    "Role conflict",
+    "Contradictory demands at work or between work and other roles."
+   ],
+   [
+    "Exit interview",
+    "Meeting with a departing employee to learn why they leave."
+   ],
+   [
+    "Person-job fit",
+    "Match between a person's KSAOs and the job's demands."
+   ],
+   [
+    "Person-organization fit",
+    "Match between a person's values, personality and goals and the organization's."
+   ]
+  ]
+ },
+ {
+  "id": "c3a",
+  "ch": 3,
+  "pts": 4,
+  "t": "Leadership, power & influence",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Leadership</b> = the act of influencing others to work toward a goal. Leaders exist at every level.</p>\n<p class=\"bl\"><b>Formal leaders</b> hold a position of authority and can use their position power as well as personal power.</p>\n<p class=\"bl\"><b>Informal leaders</b> have no formal position but influence others through personal power. The group acknowledges them.</p>\n<p class=\"bl\"><b>Designated leader</b>: put in the role by outside forces. <b>Emergent leader</b>: arises from the group's dynamics while working toward a goal.</p>\n<p><b>The leadership process</b> (Hollander & Julian): a complex, dynamic exchange relationship built over time between leader and followers who depend on each other to reach a shared goal.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "French & Raven: five sources of power",
+    "html": "<h4>French & Raven: five sources of power</h4>\n<table class=\"rules\"><tr><th>Power</th><th>Based on</th><th>Type</th></tr>\n<tr><td><b>Legitimate</b></td><td>The formal position or title: the “right” to give instructions</td><td>Position</td></tr>\n<tr><td><b>Reward</b></td><td>Ability to give rewards (bonuses, promotions, good territories)</td><td>Position</td></tr>\n<tr><td><b>Coercive</b></td><td>Ability to punish or take away something valued</td><td>Position</td></tr>\n<tr><td><b>Expert</b></td><td>Knowledge and skills others need</td><td>Personal</td></tr>\n<tr><td><b>Referent</b></td><td>Others admire the person and want to be associated with them</td><td>Personal</td></tr></table>\n<p><b>Effects:</b> coercive power alienates followers. Reward power makes people think “how much am I getting?”. Referent power creates identification with the leader. Expert power and rational arguments create <b>commitment</b>. Referent and expert power give the best satisfaction and performance; referent power strengthens all the other powers.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Influence-based leadership styles",
+    "html": "<h4>Influence-based leadership styles</h4>\n<p class=\"bl\"><b>Tannenbaum & Schmidt continuum</b>: from boss-centred (autocratic) to participative to free-rein.</p>\n<p class=\"bl\"><b>McGregor's Theory X</b> leader: assumes people dislike work → controlling style. <b>Theory Y</b> leader: assumes people are creative and self-directed → involving style.</p>\n<p class=\"bl\"><b>Muczyk & Reimann</b>: directive autocrat, permissive autocrat, directive democrat, permissive democrat (shares decisions <i>and</i> execution).</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>An expert without a management title influencing executives = <b>expert</b> power, not legitimate (mock Q24).<br>Bonuses and good territories for hitting targets = <b>reward</b> power (mock Q23).<br>Respected and liked, people want to be like them = <b>referent</b> power.</div>",
+  "terms": [
+   [
+    "Leadership",
+    "The act of influencing others to work toward a goal."
+   ],
+   [
+    "Formal leader",
+    "Holds a position of authority; recognized as the official leader."
+   ],
+   [
+    "Informal leader",
+    "No formal position; acknowledged by the group as its leader."
+   ],
+   [
+    "Emergent leader",
+    "Arises from the group's dynamics while working toward a collective goal."
+   ],
+   [
+    "Legitimate power",
+    "Power from a formal position; the right to influence."
+   ],
+   [
+    "Reward power",
+    "Ability to give rewards others want."
+   ],
+   [
+    "Coercive power",
+    "Ability to punish or take away something valued."
+   ],
+   [
+    "Expert power",
+    "Power from having knowledge and skills others need."
+   ],
+   [
+    "Referent power",
+    "Power from being admired; others want to be associated with you."
+   ],
+   [
+    "Theory X / Theory Y",
+    "McGregor: people dislike work and need control (X) vs people are creative and self-directed (Y)."
+   ]
+  ]
+ },
+ {
+  "id": "c3b",
+  "ch": 3,
+  "pts": 4,
+  "t": "Trait & behavioural approaches",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Who is a leader? Trait approaches",
+    "html": "<h4>Who is a leader? Trait approaches</h4>\n<p>Started with <b>Stogdill</b>: what physical, personality and social traits make leaders? <b>Kirkpatrick & Locke</b> found core traits that give leadership <i>potential</i>:</p>\n<p class=\"bl\">Drive · leadership motivation · honesty and integrity · self-confidence · cognitive ability · knowledge of the business · (charisma, creativity, flexibility).</p>\n<p><b>Traits related to leadership</b> (Judge et al.):</p>\n<table class=\"rules\"><tr><th>Trait</th><th>Finding</th></tr>\n<tr><td>Intelligence</td><td>Positive but modest. Goleman: IQ is a threshold; <b>emotional intelligence</b> (self-awareness, motivation, empathy, social skills) separates good from great.</td></tr>\n<tr><td>Extraversion</td><td><b>Strongest</b> link to leader emergence and effectiveness</td></tr>\n<tr><td>Conscientiousness, openness</td><td>More likely to emerge as and be effective leaders</td></tr>\n<tr><td>Agreeableness</td><td>Modest, conflict-avoiding people are <b>less</b> likely to be seen as leaders</td></tr>\n<tr><td>Self-esteem, integrity</td><td>Help leaders; lost integrity hurts the leader and the company</td></tr>\n<tr><td>Self-monitoring</td><td>High self-monitors emerge more often as leaders</td></tr></table>\n<p><b>Limitation:</b> traits matter more in small, flexible firms than in rule-bound ones, and the situation is ignored. Leaders are not simply “born”.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "What do leaders do? Behavioural approaches",
+    "html": "<h4>What do leaders do? Behavioural approaches</h4>\n<p>Studies at Ohio State and Michigan found two kinds of behaviour:</p>\n<table class=\"rules\"><tr><th>Task-oriented (initiating structure)</th><th>People-oriented (consideration)</th></tr>\n<tr><td>Structures roles, gives instructions and deadlines, focuses on performance and goals</td><td>Shows concern for feelings, treats employees with respect, cares about well-being</td></tr>\n<tr><td>Slightly higher productivity; too much → burnout</td><td>More satisfied, positive employees</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Decision-making styles",
+    "html": "<h4>Decision-making styles</h4>\n<table class=\"rules\"><tr><th>Style</th><th>Meaning</th></tr>\n<tr><td>Authoritarian</td><td>The leader decides alone</td></tr>\n<tr><td>Democratic</td><td>Employees participate in the decision (more satisfaction)</td></tr>\n<tr><td>Laissez-faire</td><td>Employees decide with minimal guidance (worst track record: role ambiguity, conflict)</td></tr></table>\n<p><b>Limitation:</b> like traits, behaviours ignore the situation. No single style works everywhere.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Sets deadlines, assigns roles, checks results = <b>task-oriented</b>, even if the leader is friendly.<br>Laissez-faire is a <b>decision-making</b> style (leave it to employees), not a people-oriented style.</div>",
+  "terms": [
+   [
+    "Trait approach",
+    "Looks for personal characteristics that make someone a leader."
+   ],
+   [
+    "Drive",
+    "High effort, ambition, energy, tenacity and initiative."
+   ],
+   [
+    "Emotional intelligence (EQ)",
+    "Monitoring your own and others' emotions and using them to guide behaviour."
+   ],
+   [
+    "Task-oriented behaviour",
+    "Structuring roles, giving instructions, increasing group performance."
+   ],
+   [
+    "People-oriented behaviour",
+    "Showing concern for feelings and treating employees with respect."
+   ],
+   [
+    "Authoritarian decision-making",
+    "Leader makes the decision alone."
+   ],
+   [
+    "Democratic decision-making",
+    "Employees participate in making the decision."
+   ],
+   [
+    "Laissez-faire decision-making",
+    "Employees decide with minimal guidance from the leader."
+   ]
+  ]
+ },
+ {
+  "id": "c4a",
+  "ch": 4,
+  "pts": 4,
+  "t": "Contemporary leadership approaches",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Transformational vs transactional",
+    "html": "<h4>Transformational vs transactional</h4>\n<table class=\"rules\"><tr><th>Transformational</th><th>Transactional</th></tr>\n<tr><td>Aligns employee goals with the leader's and company's goals; followers start caring about the company's well-being</td><td>Gets the right behaviour by giving resources and rewards <b>in exchange</b></td></tr>\n<tr><td>Four tools: <b>charisma</b> · <b>inspirational motivation</b> (inspiring vision) · <b>intellectual stimulation</b> (challenge the status quo, think creatively) · <b>individualized consideration</b> (personal care)</td><td>Three methods: <b>contingent rewards</b> (reward for accomplishments) · <b>active management by exception</b> (prevent problems before they happen) · <b>passive management by exception</b> (wait until something goes wrong)</td></tr>\n<tr><td>Builds <b>trust</b>; strongest effect on effectiveness and satisfaction</td><td>Also effective, except passive management by exception</td></tr></table>\n<p>Best: show both. Charisma can be trained, isn't required, and has a dark side (Enron's Skilling).</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Charismatic leadership",
+    "html": "<h4>Charismatic leadership</h4>\n<p><b>Charisma</b>: a leader's charm and magnetism that inspires confidence, commitment and admiration. Leaders of social movements rely on charisma rather than authority.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Servant leadership",
+    "html": "<h4>Servant leadership</h4>\n<p>The leader's role is to <b>serve the needs of others</b>: develop employees, help them reach their goals, serve the community. Focus on ethics and self-sacrifice (Greenleaf; Abraham Lincoln).</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "Authentic leadership",
+    "html": "<h4>Authentic leadership</h4>\n<p>Key advice: “<b>be yourself</b>”. Authentic leaders are self-aware, act consistently with their values and draw strength from their own life experiences (Howard Schultz at Starbucks gave health insurance to part-timers because of his father's experience).</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "Leader-member exchange (LMX)",
+    "html": "<h4>Leader-member exchange (LMX)</h4>\n<p><b>High-quality LMX</b>: trust, liking, respect; both go beyond the job description (in-group). <b>Low-quality LMX</b>: just the formal job (out-group).</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>A leader who asks staff to challenge assumptions and find original solutions = transformational (<b>intellectual stimulation</b>), not transactional (mock Q25).<br>Bonus per target hit = transactional (contingent reward).<br>“Puts employees first and develops them” = servant. “True to own values and life story” = authentic.</div>",
+  "terms": [
+   [
+    "Transformational leaders",
+    "Align employee goals with company goals through charisma, inspiration, intellectual stimulation and individual consideration."
+   ],
+   [
+    "Transactional leaders",
+    "Influence behaviour through rewards and punishment, in exchange."
+   ],
+   [
+    "Contingent rewards",
+    "Rewards given for accomplishing goals."
+   ],
+   [
+    "Active management by exception",
+    "Leaving employees alone but proactively preventing problems."
+   ],
+   [
+    "Passive management by exception",
+    "Waiting until something goes wrong before stepping in."
+   ],
+   [
+    "Charisma",
+    "A leader's charm and magnetism that inspires confidence and commitment."
+   ],
+   [
+    "Intellectual stimulation",
+    "Challenging norms and the status quo; encouraging creative thinking."
+   ],
+   [
+    "Individualized consideration",
+    "Personal care and concern for each follower's well-being."
+   ],
+   [
+    "Servant leadership",
+    "The leader's role is serving the needs of others and developing them."
+   ],
+   [
+    "Authentic leadership",
+    "Being yourself: self-aware and acting consistently with your values."
+   ],
+   [
+    "LMX",
+    "Leader-member exchange: quality of the relationship between leader and each member."
+   ]
+  ]
+ },
+ {
+  "id": "c4b",
+  "ch": 4,
+  "pts": 4,
+  "t": "Values-based & ethical leadership, trends, inclusion",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Values-based leadership styles",
+    "html": "<h4>Values-based leadership styles</h4>\n<p>Copeland found three values-based styles most effective:</p>\n<table class=\"rules\"><tr><th>Style</th><th>Definition</th></tr>\n<tr><td><b>Authentic</b></td><td>Leaders are aware of their thoughts and behaviour within the context they operate in; “be real”</td></tr>\n<tr><td><b>Ethical</b></td><td>Demonstrating normatively appropriate conduct and promoting it to followers through two-way communication, reinforcement and decision making (Brown et al.)</td></tr>\n<tr><td><b>Transformational</b></td><td>Motivating others through a common mission or challenge that empowers followers to develop as leaders (Bass & Riggio)</td></tr></table>\n<p><b>Vulnerability</b>: taking risks and exposing yourself emotionally (sharing feelings and weaknesses). Builds trust.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Ethical decision making (SCQA)",
+    "html": "<h4>Ethical decision making (SCQA)</h4>\n<p class=\"ar\"><b>S</b>ituation: assess it. → <b>C</b>omplication: identify the stakeholders and see it from their view. → <b>Q</b>uestion: what alternatives do I have and how do they affect stakeholders? How does the action make me feel about myself? → <b>A</b>nswer: make a decision and monitor the outcomes.</p>\n<p><b>Corporations as social movements</b>: a social movement is group action on a political or social issue. Its leaders rely on <b>charisma rather than authority</b>.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "10 global trends",
+    "html": "<h4>10 global trends</h4>\n<table class=\"rules\"><tr><th>5 challenges</th><th>5 solutions</th></tr>\n<tr><td>Increasing concern for the environment<br>Greater personalization and customization<br>Faster pace of innovation<br>Increasing complexity<br>Increasing competition for talent</td><td>Becoming more connected<br>Becoming more global<br>Becoming more mobile<br>Rise of the creative class<br>Increasing collaboration</td></tr></table>"
+   },
+   {
+    "i": 3,
+    "baslik": "Inclusive leadership (DEI)",
+    "html": "<h4>Inclusive leadership (DEI)</h4>\n<p>“Having the courage to take conscious steps to break down barriers for people at risk of being excluded” (Bortini et al.). Centred on relationships and valuing differences.</p>\n<p><b>Six Cs</b> of inclusive leaders (Dillon & Bourke): <b>Commitment · Courage · Cognizance of bias · Curiosity · Cultural intelligence · Collaborative</b>.</p>\n<p><b>Ethnocentrism</b>: believing your own culture is superior to all others.</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "21st-century leaders (Conger)",
+    "html": "<h4>21st-century leaders (Conger)</h4>\n<p>Strategic opportunists, globally aware, able to manage decentralized organizations, sensitive to diversity, interpersonally competent, builders of community.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>A legal but harmful production method = an ethical dilemma because economic interests clash with stakeholder responsibilities (mock Q26).<br>Know the 6 Cs: “aware of personal and organizational biases” = cognizance of bias; “understands other cultures” = cultural intelligence.</div>",
+  "terms": [
+   [
+    "Ethical leadership",
+    "Modelling appropriate conduct and promoting it through two-way communication, reinforcement and decisions."
+   ],
+   [
+    "Authentic leadership",
+    "Self-aware leaders acting in line with their values."
+   ],
+   [
+    "Vulnerability",
+    "Taking risks by being transparent and sharing feelings and weaknesses."
+   ],
+   [
+    "SCQA",
+    "Situation, Complication, Question, Answer: a framework for ethical decisions."
+   ],
+   [
+    "Social movement",
+    "Group action focused on a political or social issue; leaders rely on charisma."
+   ],
+   [
+    "Inclusive leadership",
+    "Valuing differences and advocating for traditionally excluded voices."
+   ],
+   [
+    "Six Cs",
+    "Commitment, courage, cognizance of bias, curiosity, cultural intelligence, collaborative."
+   ],
+   [
+    "Ethnocentrism",
+    "Belief that your own culture is superior to all others."
+   ]
+  ]
+ },
+ {
+  "id": "c5a",
+  "ch": 5,
+  "pts": 4,
+  "t": "Communication: process, barriers & channels",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Communication</b>: a process by which information is exchanged between individuals through a common system of symbols, signs or behaviour. Managers spend 50–90% of their time communicating.</p>\n<p><b>Three functions</b> in an organization: transmitting information · coordinating effort · sharing emotions and feelings.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "The communication process",
+    "html": "<h4>The communication process</h4>\n<p class=\"ar\"><b>Sender</b> has an idea and <b>encodes</b> it (turns it into words, diagrams, numbers) → the <b>message</b> travels through a <b>channel/medium</b> (oral, written, nonverbal) → the <b>receiver</b> <b>decodes</b> it (gives it meaning) → <b>feedback</b> back to the sender. <b>Noise</b> = anything that distorts the message (in the environment, the receiver or the sender).</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Barriers to effective communication",
+    "html": "<h4>Barriers to effective communication</h4>\n<table class=\"rules\"><tr><th>Barrier</th><th>Meaning</th></tr>\n<tr><td>Filtering</td><td>Distorting or withholding information to manage someone's reaction</td></tr>\n<tr><td>Selective perception</td><td>Filtering what you see and hear to fit your own needs and beliefs</td></tr>\n<tr><td>Information overload</td><td>Receiving more information than you can take in</td></tr>\n<tr><td>Emotional disconnects</td><td>Sender or receiver is upset, so the message is ignored or distorted</td></tr>\n<tr><td>Lack of source familiarity or credibility</td><td>No shared context, or an untrustworthy sender</td></tr>\n<tr><td>Workplace gossip (grapevine)</td><td>Unofficial information that may not be accurate</td></tr>\n<tr><td>Semantics / differences in meaning</td><td>Words mean different things to different people (age, culture, jargon)</td></tr>\n<tr><td>Gender differences</td><td>Different communication styles</td></tr>\n<tr><td>Biased language</td><td>Words that stereotype, offend or exclude</td></tr></table>\n<p><b>Listening</b>: workers listen 55% of the time, leaders up to 70%. <b>Active listening</b>: full attention, no interrupting, reflecting and asking questions.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "Types and channels",
+    "html": "<h4>Types and channels</h4>\n<table class=\"rules\"><tr><th>Type</th><th>Examples</th></tr>\n<tr><td>Verbal (oral)</td><td>Phone, video calls, meetings, in person. Better for <b>feelings</b>.</td></tr>\n<tr><td>Written</td><td>Memos, e-mails, texts, letters, manuals, policies. Better for <b>facts</b>.</td></tr>\n<tr><td>Nonverbal</td><td>Facial expressions, body stance, tone of voice. About <b>55%</b> of in-person communication; only 7% comes from the words.</td></tr></table>\n<p><b>Information richness</b>: face-to-face, phone and video are richest; e-mail, blogs and memos are medium; formal documents and spreadsheets are leanest.</p>\n<p><b>Direction</b>: downward (from leaders), upward (from the front line), horizontal/lateral (between peers), diagonal (across levels and departments).</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Turning ideas into words and diagrams = <b>encoding</b> (sender side). Interpreting = decoding (receiver side) (mock Q10).<br>Two people hear the same news, one sees an opportunity, one a threat because of past experiences = <b>selective perception</b> (mock Q9).<br>Facial expressions = nonverbal; a phone call is verbal; a memo or text is written (mock Q11).</div>",
+  "terms": [
+   [
+    "Communication",
+    "Exchange of information through a common system of symbols, signs or behaviour."
+   ],
+   [
+    "Sender",
+    "Originator who encodes the idea into a message."
+   ],
+   [
+    "Encoding",
+    "Translating an idea into words or other symbols."
+   ],
+   [
+    "Receiver",
+    "The person who receives and decodes the message."
+   ],
+   [
+    "Decoding",
+    "Assigning meaning to the message."
+   ],
+   [
+    "Noise",
+    "Anything that interferes with or distorts the message."
+   ],
+   [
+    "Filtering",
+    "Distorting or withholding information to manage someone's reaction."
+   ],
+   [
+    "Selective perception",
+    "Filtering what we see and hear to suit our own needs and beliefs."
+   ],
+   [
+    "Information overload",
+    "Receiving more information than we can take in."
+   ],
+   [
+    "Grapevine",
+    "Unofficial communication that may or may not be accurate."
+   ],
+   [
+    "Active listening",
+    "Full attention, no interrupting, reflecting and asking questions."
+   ],
+   [
+    "Information richness",
+    "How much nonverbal information a channel carries."
+   ]
+  ]
+ },
+ {
+  "id": "c5b",
+  "ch": 5,
+  "pts": 4,
+  "t": "Decision making: types, models & groups",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Decision making</b>: making choices among alternative courses of action, including inaction. About half of leaders' decisions fail.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Types of decisions",
+    "html": "<h4>Types of decisions</h4>\n<table class=\"rules\"><tr><th>By how often</th><th></th></tr>\n<tr><td><b>Programmed</b></td><td>Occur often enough to have an automated response (a <b>decision rule</b>). E.g. automatic reorder at a stock level.</td></tr>\n<tr><td><b>Nonprogrammed</b></td><td>Unique and important: conscious thinking, information gathering, careful consideration. E.g. a crisis, McDonald's dropping trans fats.</td></tr>\n<tr><th>By organizational level</th><th></th></tr>\n<tr><td>Strategic</td><td>Long term, set the course of the organization</td></tr>\n<tr><td>Tactical</td><td>How things will get done (mid-term action plans)</td></tr>\n<tr><td>Operational</td><td>Daily decisions employees make to run the organization</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Four decision-making models",
+    "html": "<h4>Four decision-making models</h4>\n<table class=\"rules\"><tr><th>Model</th><th>Definition</th><th>Use when</th></tr>\n<tr><td><b>Rational</b></td><td>Structured, logical steps to choose the optimal alternative</td><td>Information can be quantified, the decision is important, you want to maximize the outcome</td></tr>\n<tr><td><b>Bounded rationality</b></td><td>Limited information, time and brainpower → <b>satisfice</b>: take the first alternative that meets the minimum criteria</td><td>Minimum criteria are clear, little time, not maximizing</td></tr>\n<tr><td><b>Intuitive</b></td><td>Gut feeling, experience, pattern recognition, fast</td><td>Goals unclear, time pressure, you have experience</td></tr>\n<tr><td><b>Creative</b></td><td>Less structured, generates novel solutions</td><td>No clear solution, new ideas needed, you have time</td></tr></table>\n<p><b>Rational steps:</b> identify the problem → set criteria → weight criteria → generate all alternatives → evaluate them → choose the best → implement → evaluate the decision.</p>\n<p><b>Creative steps:</b> problem identification → <b>immersion</b> (gather information) → <b>incubation</b> (set it aside; unconscious work) → <b>illumination</b> (insight moment) → <b>verification and application</b>. Creativity is judged on fluency (number of ideas), flexibility (variety) and originality.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "Faulty decisions",
+    "html": "<h4>Faulty decisions</h4>\n<p class=\"bl\"><b>Overconfidence bias</b> (overestimating your abilities) · <b>hindsight bias</b> (mistakes look obvious afterwards) · <b>anchoring</b> (relying too much on one piece of information) · <b>framing bias</b> (influenced by how it's presented) · <b>escalation of commitment</b> (continuing a failing course because you already invested) · <b>analysis paralysis</b>.</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "Individual vs group decisions",
+    "html": "<h4>Individual vs group decisions</h4>\n<p><b>Groups:</b> more experiences and perspectives, more creative, easier implementation, but slower, coordination problems, rarely beat their best member. Problems: <b>groupthink</b> (avoiding critical evaluation of ideas the group favours; members stay silent to keep agreement; Challenger launch) and <b>social loafing</b> (some members put in less effort).</p>\n<p><b>Techniques:</b> <b>Nominal Group Technique</b> (write ideas alone → share → discuss → vote) · <b>Delphi</b> (written questionnaires, no meeting, until consensus) · <b>majority rule</b> · <b>consensus</b> (everyone agrees) · <b>brainstorming</b> (no criticism, wild ideas, build on others) · <b>GDSS</b> (computer systems) · <b>decision trees</b>.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Automatic reorder at a set level = <b>programmed</b> decision (mock Q12).<br>Silent members preserving agreement = <b>groupthink</b> (mock Q13), not social loafing (that's about effort).<br>Taking the first option that's “good enough” = satisficing (bounded rationality).</div>",
+  "terms": [
+   [
+    "Programmed decision",
+    "Recurring decision with an automated response."
+   ],
+   [
+    "Nonprogrammed decision",
+    "Unique, important decision needing careful analysis."
+   ],
+   [
+    "Rational model",
+    "Series of steps to maximize the quality of the outcome."
+   ],
+   [
+    "Bounded rationality",
+    "Choosing from a limited set of options without an exhaustive search."
+   ],
+   [
+    "Satisfice",
+    "Accepting the first alternative that meets your minimum criteria."
+   ],
+   [
+    "Intuitive model",
+    "Decisions based on intuition or experience."
+   ],
+   [
+    "Incubation",
+    "Setting a problem aside so the brain works on it unconsciously."
+   ],
+   [
+    "Escalation of commitment",
+    "Continuing a failing course because you already invested in it."
+   ],
+   [
+    "Anchoring",
+    "Relying too heavily on one piece of information."
+   ],
+   [
+    "Groupthink",
+    "Tendency to avoid critically evaluating ideas the group favours."
+   ],
+   [
+    "Social loafing",
+    "Some members put in less effort when working in a group."
+   ],
+   [
+    "Nominal Group Technique",
+    "Write ideas alone, share, discuss, then vote."
+   ],
+   [
+    "Delphi Technique",
+    "Group decision through written questionnaires, without meeting."
+   ]
+  ]
+ },
+ {
+  "id": "c6a",
+  "ch": 6,
+  "pts": 3,
+  "t": "Mission, vision, stakeholders & the strategy process",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<table class=\"rules\"><tr><th>Statement</th><th>Answers</th><th>Clue words</th></tr>\n<tr><td><b>Mission</b></td><td>Why we exist <b>now</b>: the reason for being and how we serve key stakeholders</td><td>“we provide…”, “our purpose is…”</td></tr>\n<tr><td><b>Vision</b></td><td>What we want to <b>become</b>: future-oriented purpose and aspirations</td><td>“to be the leading… by 2035”</td></tr>\n<tr><td><b>Values</b></td><td>Core beliefs and guiding principles</td><td>“integrity, respect, curiosity”</td></tr></table>\n<p>Mission and vision guide all of P-O-L-C: planning starts with them, organizing aligns structure with them, leading is nearly synonymous with them, controlling checks progress toward them.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Stakeholders",
+    "html": "<h4>Stakeholders</h4>\n<p><b>Stakeholders</b>: individuals or groups with an interest in the organization's ability to deliver intended results (customers, employees, investors, suppliers, government, communities). <b>Stakeholder analysis</b>: techniques to identify and understand their needs and expectations, inside and outside the organization.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "The strategic management process",
+    "html": "<h4>The strategic management process</h4>\n<p><b>Strategic management</b> = what a firm does to achieve its mission and vision; “the process by which a firm manages the formulation and implementation of its strategy” (Carpenter & Sanders).</p>\n<table class=\"rules\"><tr><th>Step</th><th>Means</th></tr>\n<tr><td>1. Strategic objectives & analysis</td><td>Vision, mission, values; SWOT, PESTEL</td></tr>\n<tr><td>2. Strategy formulation</td><td><b>Deciding</b> what to do: plans, gather resources (also called business or strategic planning)</td></tr>\n<tr><td>3. Strategy implementation</td><td><b>Doing</b> it: training, allocating resources</td></tr>\n<tr><td>4. Strategic evaluation & control</td><td>Evaluation and correction</td></tr></table>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Become”, “by 2035”, “leading” = vision. “Reason for being” = mission.<br>Training staff and handing out budgets = implementation, not formulation.</div>",
+  "terms": [
+   [
+    "Mission statement",
+    "The organization's reason for being and how it serves its key stakeholders."
+   ],
+   [
+    "Vision statement",
+    "Future-oriented declaration of purpose and aspirations."
+   ],
+   [
+    "Values statement",
+    "The organization's core beliefs and guiding principles."
+   ],
+   [
+    "Stakeholders",
+    "Individuals or groups with an interest in the organization's ability to deliver results."
+   ],
+   [
+    "Stakeholder analysis",
+    "Techniques to identify and understand stakeholders' needs and expectations."
+   ],
+   [
+    "Strategic management",
+    "What a firm does to achieve its mission and vision."
+   ],
+   [
+    "Strategy formulation",
+    "Determining what the firm should do (planning)."
+   ],
+   [
+    "Strategy implementation",
+    "The actions taken to put the strategy into practice."
+   ]
+  ]
+ },
+ {
+  "id": "c6b",
+  "ch": 6,
+  "pts": 3,
+  "t": "Levels of strategy & how firms compete",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<table class=\"rules\"><tr><th>Level</th><th>Key question</th><th>Who</th><th>Tools</th></tr>\n<tr><td><b>Corporate</b></td><td>Which business(es) should we be in?</td><td>Top management</td><td>PESTEL, BCG, broad SWOT</td></tr>\n<tr><td><b>Business</b></td><td>How do we compete in this market?</td><td>Business-unit managers</td><td>Porter's 5 forces, VRIO, value chain</td></tr>\n<tr><td><b>Functional</b></td><td>How does each department support it?</td><td>Marketing, finance, HR…</td><td>Departmental SWOT, detailed value chain</td></tr></table>\n<p class=\"bl\"><b>Synergy</b>: two or more activities together create a combined effect greater than the sum of the parts (1 + 1 = 3).</p>\n<p class=\"bl\"><b>Diversification</b>: participating in multiple businesses that are distinct from each other, to spread risk (YUM! Brands: KFC, Pizza Hut, Taco Bell).</p>\n<p class=\"bl\">McDonald's sold Chipotle in 2006 to focus on one brand: a <b>corporate</b> decision.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "How a business competes (business level)",
+    "html": "<h4>How a business competes (business level)</h4>\n<table class=\"rules\"><tr><th>Approach</th><th>Means</th></tr>\n<tr><td><b>Cost leadership</b></td><td>Win by being the cheapest: standard product, lowest costs, lowest price</td></tr>\n<tr><td><b>Differentiation</b></td><td>Win by being unique (quality, design, technology, durability); customers pay more</td></tr>\n<tr><td>Focus</td><td>Cost leadership or differentiation in one narrow segment</td></tr></table>\n<p><b>Competitive advantage</b>: a strength that sets you apart from competitors. <b>Sustainable</b> competitive advantage: it can't easily be copied or made less valuable by changes in the environment.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Selling or buying a whole business = corporate. One department's routine plans = functional.<br>Patented, durable, unique product at a higher price = differentiation (mock Q31).</div>",
+  "terms": [
+   [
+    "Corporate strategy",
+    "Which business(es) should we be in?"
+   ],
+   [
+    "Business strategy",
+    "How a given business competes to be effective."
+   ],
+   [
+    "Functional strategy",
+    "How each department supports the business strategy."
+   ],
+   [
+    "Synergy",
+    "Combined effect greater than the sum of the individual effects."
+   ],
+   [
+    "Diversification",
+    "Participating in multiple distinct businesses to spread risk."
+   ],
+   [
+    "Cost leadership",
+    "Competing by having the lowest costs and prices."
+   ],
+   [
+    "Differentiation",
+    "Competing with something unique customers will pay more for."
+   ],
+   [
+    "Sustainable competitive advantage",
+    "Strengths that can't easily be copied or made less valuable."
+   ]
+  ]
+ },
+ {
+  "id": "c6c",
+  "ch": 6,
+  "pts": 3,
+  "t": "Internal analysis: value chain, VRIO, BCG",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p>Internal tools find <b>strengths and weaknesses</b>, things inside the company that it can control.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Value chain (Michael Porter)",
+    "html": "<h4>Value chain (Michael Porter)</h4>\n<p>All activities that combine to create the product or service.</p>\n<table class=\"rules\"><tr><th>Primary (create and deliver directly)</th><th>Support (help in the background)</th></tr>\n<tr><td>1. Inbound logistics (receiving, storing inputs)<br>2. Operations (turning inputs into the product)<br>3. Outbound logistics (getting it to customers)<br>4. Marketing & sales<br>5. Service (after the sale: repairs, returns, support)</td><td>Firm infrastructure (management, finance, legal, planning)<br>Human resource management<br>Technology development (R&D, IT)<br>Procurement (buying inputs from suppliers)</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "VRIO: does a resource give a competitive advantage?",
+    "html": "<h4>VRIO: does a resource give a competitive advantage?</h4>\n<table class=\"rules\"><tr><th>V</th><th>R</th><th>I (hard to imitate)</th><th>O</th><th>Result</th></tr>\n<tr><td>No</td><td></td><td></td><td></td><td>Competitive disadvantage</td></tr>\n<tr><td>Yes</td><td>No</td><td></td><td></td><td>Competitive parity (equality)</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>No</td><td></td><td>Temporary competitive advantage</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>Unused competitive advantage</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Sustained (long-term) competitive advantage</td></tr></table>\n<p>Ask in order and stop at the first “no”. Book example: Disney's marketing and design skills pass all four.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "BCG matrix (portfolio of products or businesses)",
+    "html": "<h4>BCG matrix (portfolio of products or businesses)</h4>\n<table class=\"rules\"><tr><th></th><th>High market share</th><th>Low market share</th></tr>\n<tr><td><b>High growth</b></td><td>⭐ Star</td><td>❓ Question mark</td></tr>\n<tr><td><b>Low growth</b></td><td>🐄 Cash cow (funds the others)</td><td>🐕 Dog (sell or close)</td></tr></table>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Collecting, cleaning and redistributing a product for reuse is a <b>primary</b> activity (operations/logistics), not a support activity (mock Q32).<br>Valuable but everyone has it = parity. Unique but easy to copy = temporary. Everything but the company doesn't use it = unused.</div>",
+  "terms": [
+   [
+    "Value chain",
+    "The step-by-step activities that combine to form the product or service (Porter)."
+   ],
+   [
+    "Primary activities",
+    "Inbound logistics, operations, outbound logistics, marketing & sales, service."
+   ],
+   [
+    "Support activities",
+    "Firm infrastructure, HRM, technology development, procurement."
+   ],
+   [
+    "VRIO",
+    "Valuable, rare, hard to imitate, organized to exploit."
+   ],
+   [
+    "Competitive parity",
+    "Valuable but not rare: you only keep up."
+   ],
+   [
+    "Temporary competitive advantage",
+    "Valuable and rare but easy to imitate."
+   ],
+   [
+    "Star",
+    "BCG: high growth, high share."
+   ],
+   [
+    "Question mark",
+    "BCG: high growth, low share."
+   ],
+   [
+    "Cash cow",
+    "BCG: low growth, high share."
+   ],
+   [
+    "Dog",
+    "BCG: low growth, low share."
+   ]
+  ]
+ },
+ {
+  "id": "c6d",
+  "ch": 6,
+  "pts": 3,
+  "t": "External analysis: SWOT, PESTEL, Porter's 5 forces",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "SWOT (Ken Andrews, early 1970s)",
+    "html": "<h4>SWOT (Ken Andrews, early 1970s)</h4>\n<table class=\"rules\"><tr><th></th><th>Helpful</th><th>Harmful</th></tr>\n<tr><td><b>Internal</b> (controllable)</td><td>Strengths</td><td>Weaknesses</td></tr>\n<tr><td><b>External</b> (not controllable)</td><td>Opportunities</td><td>Threats</td></tr></table>\n<p>Good strategy uses strengths to take advantage of opportunities and reduce threats, while managing weaknesses.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "PESTEL: the macro environment",
+    "html": "<h4>PESTEL: the macro environment</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Examples</th></tr>\n<tr><td>Political</td><td>Government policy, stability, trade restrictions, tariffs, tax policy</td></tr>\n<tr><td>Economic</td><td>Growth, exchange rates, interest rates, inflation, unemployment</td></tr>\n<tr><td>Sociocultural</td><td>Population, age, lifestyle, health consciousness</td></tr>\n<tr><td>Technological</td><td>Innovation, automation, R&D, AI</td></tr>\n<tr><td>Environmental</td><td>Climate, environmental policy, NGO pressure</td></tr>\n<tr><td>Legal</td><td>Employment, consumer protection, antitrust, patent, health & safety law</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Porter's five forces: the industry environment",
+    "html": "<h4>Porter's five forces: the industry environment</h4>\n<p class=\"bl\"><b>Rivalry</b> among existing competitors (the centre)</p>\n<p class=\"bl\">Threat of <b>new entrants</b>: new companies coming into the market</p>\n<p class=\"bl\">Threat of <b>substitutes</b>: a <i>different kind</i> of product meeting the same need</p>\n<p class=\"bl\">Bargaining power of <b>buyers</b>: customers pushing prices down</p>\n<p class=\"bl\">Bargaining power of <b>suppliers</b>: suppliers pushing prices up</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>A new law or tariff is external (PESTEL): an opportunity or a threat, never a strength or weakness.<br>New firms entering = new entrants. A different product doing the same job = substitute.<br>A big customer demanding a price cut = buyer power.</div>",
+  "terms": [
+   [
+    "SWOT",
+    "Strengths, weaknesses (internal), opportunities, threats (external)."
+   ],
+   [
+    "Opportunities",
+    "External factors that can benefit the organization."
+   ],
+   [
+    "Threats",
+    "External factors beyond your control that put the business at risk."
+   ],
+   [
+    "PESTEL",
+    "Political, economic, sociocultural, technological, environmental, legal factors."
+   ],
+   [
+    "Porter's five forces",
+    "Rivalry, new entrants, substitutes, buyer power, supplier power."
+   ],
+   [
+    "Threat of substitutes",
+    "Customers switching to a different kind of product that meets the same need."
+   ],
+   [
+    "Bargaining power of buyers",
+    "Customers' power to push prices down."
+   ]
+  ]
+ },
+ {
+  "id": "c6e",
+  "ch": 6,
+  "pts": 3,
+  "t": "How strategies emerge: intended vs realized",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<table class=\"rules\"><tr><th>Strategy</th><th>Meaning</th></tr>\n<tr><td><b>Intended</b></td><td>Conceived by the top management team, through negotiation, bargaining and compromise</td></tr>\n<tr><td><b>Deliberate</b></td><td>The part of the intended strategy that is actually carried out (design school: rational, top-down planning)</td></tr>\n<tr><td><b>Unrealized</b></td><td>The parts of the plan that never happen</td></tr>\n<tr><td><b>Emergent</b></td><td>Decisions that emerge as leaders interpret the plan and adapt to changing circumstances; often bottom-up (emergence or learning school)</td></tr>\n<tr><td><b>Realized</b></td><td>What is actually implemented = deliberate + emergent</td></tr></table>\n<p>Mintzberg: only <b>10–30%</b> of intended strategy is realized. Why plans fail: poorly built plan, competitors undermine it, or poor execution.</p>\n<p>The more <b>volatile</b> the environment, the more emergence. Stable organizations (postal services) can plan in detail. Book example: Intel's switch from memory chips to microprocessors grew from plant-level decisions.</p>\n<p>Best practice: balance design (planning) with the flexibility to benefit from emergence. Headquarters sets mission, targets and budgets; units adapt and experiment.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>“Pilot results led to a different approach than the original plan” = emergent strategy that became the <b>realized</b> strategy (mock Q33).</div>",
+  "terms": [
+   [
+    "Intended strategy",
+    "Strategy conceived by the top management team."
+   ],
+   [
+    "Deliberate strategy",
+    "Rational, planned strategy that is actually carried out."
+   ],
+   [
+    "Emergent strategy",
+    "Decisions that emerge as leaders adapt the plan to new circumstances."
+   ],
+   [
+    "Realized strategy",
+    "The strategy actually implemented: deliberate + emergent."
+   ],
+   [
+    "Design school",
+    "Strategy as rational, deliberate planning."
+   ],
+   [
+    "Emergence (learning) school",
+    "Strategy emerging from many decisions at many levels."
+   ]
+  ]
+ },
+ {
+  "id": "c7a",
+  "ch": 7,
+  "pts": 4,
+  "t": "Goals, MBO, Balanced Scorecard, SMART, KPI, CSR",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Goals</b>: outcome statements that define what the organization is trying to accomplish. <b>Objectives</b>: very precise, time-based, measurable actions that support a goal (linked to SMART).</p>\n<p>Planning starts with vision and mission → strategy → goals and objectives show whether you're on track. Horizons: long term 3+ years, mid-range 1–3 years, short term under 1 year.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Tools",
+    "html": "<h4>Tools</h4>\n<table class=\"rules\"><tr><th>Tool</th><th>What it is</th></tr>\n<tr><td><b>Management by Objectives (MBO)</b></td><td>Drucker (1954). Systematic approach that aligns subordinates' objectives with the overall goals; employees help set their own objectives and timelines.</td></tr>\n<tr><td><b>Balanced Scorecard</b></td><td>Kaplan & Norton. Translates mission, vision and strategy into specific, measurable goals and monitors them in four areas: <b>financial, customer, internal business processes, learning & growth</b>. Financial + non-financial; leading and lagging measures.</td></tr>\n<tr><td><b>SMART</b></td><td>Specific, Measurable, Achievable, Realistic, Time-bound</td></tr>\n<tr><td><b>KPI</b></td><td>A measurable value that shows how effectively a company achieves key business objectives</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "CSR and the triple bottom line",
+    "html": "<h4>CSR and the triple bottom line</h4>\n<p class=\"bl\"><b>CSR</b>: how companies manage their business processes to produce an overall positive effect on society. The Balanced Scorecard can help make CSR values measurable (Crawford & Scaletta).</p>\n<p class=\"bl\"><b>Triple bottom line</b>: measuring performance on <b>social, environmental and economic</b> dimensions (people, planet, profit).</p>\n<p class=\"bl\">Examples in the slides: Dow Jones Sustainability Index (DJSI), UN Sustainable Development Goals (SDGs) for 2030, Net Zero targets.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>“An outcome statement of what to accomplish” = goal. “Precise, time-based, measurable action” = objective (mock Q16, Q17).<br>Balanced Scorecard = turns mission and strategy into measurable goals and tracks them (mock Q18), not “only financial targets”.</div>",
+  "terms": [
+   [
+    "Goals",
+    "Outcome statements that define what an organization is trying to accomplish."
+   ],
+   [
+    "Objectives",
+    "Precise, time-based, measurable actions that support a goal."
+   ],
+   [
+    "MBO",
+    "Management by Objectives: aligning subordinate objectives with organizational goals (Drucker)."
+   ],
+   [
+    "Balanced Scorecard",
+    "Translates mission and strategy into measurable goals in four perspectives."
+   ],
+   [
+    "SMART",
+    "Specific, measurable, achievable, realistic, time-bound."
+   ],
+   [
+    "KPI",
+    "Measurable value showing how effectively key objectives are achieved."
+   ],
+   [
+    "CSR",
+    "Managing business processes to produce an overall positive effect on society."
+   ],
+   [
+    "Triple bottom line",
+    "Performance on social, environmental and economic dimensions."
+   ]
+  ]
+ },
+ {
+  "id": "c7b",
+  "ch": 7,
+  "pts": 4,
+  "t": "Motivation theories",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Motivation</b>: “the intention of achieving a goal, leading to goal-directed behaviour”.</p>\n<div class=\"formula\">Performance = Motivation × Ability × Environment</div>"
+   },
+   {
+    "i": 1,
+    "baslik": "Need-based theories",
+    "html": "<h4>Need-based theories</h4>\n<table class=\"rules\"><tr><th>Theory</th><th>Core idea</th></tr>\n<tr><td><b>Maslow</b></td><td>Five needs in a hierarchy: physiological → safety → social → esteem → self-actualization. A satisfied need no longer motivates.</td></tr>\n<tr><td><b>ERG</b> (Alderfer)</td><td>Three groups: <b>E</b>xistence (= physiological + safety), <b>R</b>elatedness (= social), <b>G</b>rowth (= esteem + self-actualization). No fixed order, several needs at once, <b>frustration-regression</b>.</td></tr>\n<tr><td><b>Herzberg two-factor</b></td><td><b>Hygiene factors</b> (company policies, supervision, working conditions, salary, safety, security) prevent dissatisfaction but don't motivate. <b>Motivators</b> (achievement, recognition, interesting work, responsibility, advancement, growth) really motivate.</td></tr>\n<tr><td><b>McClelland</b></td><td>Acquired needs: achievement, affiliation, power</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Process-based theories",
+    "html": "<h4>Process-based theories</h4>\n<table class=\"rules\"><tr><th>Theory</th><th>Core idea</th></tr>\n<tr><td><b>Equity theory</b> (Adams)</td><td>We compare our <b>inputs</b> (effort, loyalty, skills) and <b>outputs</b> (pay, rewards) with a <b>referent</b>. Inequity creates tension → we reduce our own input, ask for more, distort perceptions, change referent or leave.</td></tr>\n<tr><td>Expectancy theory</td><td>Expectancy (effort → performance), instrumentality (performance → reward), valence (value of the reward)</td></tr>\n<tr><td><b>Goal-setting theory</b> (Locke & Latham)</td><td>Supported in 1,000+ studies. SMART goals give direction, energize, challenge and push creative thinking. Downsides: tunnel vision, ignoring unmeasured work, unethical behaviour.</td></tr>\n<tr><td>Reinforcement theory</td><td>Positive and negative reinforcement increase behaviour; extinction and punishment reduce it</td></tr></table>\n<p><b>Justice beyond equity:</b> distributive (fair outcomes), procedural (fair process), interactional (respectful treatment).</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Better office temperature, job security or clear policies = <b>hygiene</b>. Meaningful responsibility for complete projects = <b>motivator</b> (mock Q14).<br>She sees a colleague get the same reward for less effort and cuts her own effort = <b>equity theory</b> (mock Q15).</div>",
+  "terms": [
+   [
+    "Motivation",
+    "The intention of achieving a goal, leading to goal-directed behaviour."
+   ],
+   [
+    "Maslow's hierarchy",
+    "Physiological, safety, social, esteem, self-actualization."
+   ],
+   [
+    "ERG theory",
+    "Existence, relatedness, growth; several needs at once; frustration-regression."
+   ],
+   [
+    "Hygiene factors",
+    "Job context factors that cause dissatisfaction when missing (pay, policies, conditions)."
+   ],
+   [
+    "Motivators",
+    "Intrinsic job factors that truly motivate (achievement, recognition, responsibility)."
+   ],
+   [
+    "Equity theory",
+    "Motivation from fairness, comparing input/output ratios with a referent."
+   ],
+   [
+    "Referent",
+    "The person or group you compare yourself with."
+   ],
+   [
+    "Goal-setting theory",
+    "Specific, challenging (SMART) goals improve performance."
+   ],
+   [
+    "Expectancy",
+    "Belief that effort will lead to the desired outcome."
+   ]
+  ]
+ },
+ {
+  "id": "c8a",
+  "ch": 8,
+  "pts": 4,
+  "t": "Environments & organizational structures",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Internal and external environments",
+    "html": "<h4>Internal and external environments</h4>\n<p class=\"bl\"><b>External (macro, general) environment</b>: the big-picture world with political, economic, social, technological, environmental and legal factors the company barely controls. Tools: PESTEL (macro forces), Porter's 5 forces (competitors).</p>\n<p class=\"bl\"><b>Internal environment</b>: resources, capabilities and activities. Tools: VRIO, value chain.</p>\n<p>Slide examples: 2025 US tariffs and the impact of AI changing internal structures and business activities.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Mechanistic vs organic",
+    "html": "<h4>Mechanistic vs organic</h4>\n<p class=\"bl\"><b>Mechanistic</b>: top-down hierarchy, rules, centralized, narrow span of control. For stable, simple environments.</p>\n<p class=\"bl\"><b>Organic</b>: flatter, participative, fewer rules, wider span of control. For unstable, complex environments.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Six structures",
+    "html": "<h4>Six structures</h4>\n<table class=\"rules\"><tr><th>Structure</th><th>Organized by</th><th>Plus / minus</th></tr>\n<tr><td><b>Functional</b></td><td>Departments of expertise (R&D, production, finance, HR)</td><td>+ specialization, economies of scale · − silos, slow coordination</td></tr>\n<tr><td><b>Divisional</b></td><td>Divisions (product, market), each with its own marketing, sales, finance…</td><td>+ focus, faster customer contact · − duplication, divisions isolated</td></tr>\n<tr><td><b>Geographic</b></td><td>Locations of customers (regions, countries)</td><td>+ local knowledge · − too decentralized</td></tr>\n<tr><td><b>Matrix</b></td><td>Two dimensions: employees report to a functional boss <b>and</b> a project/product boss</td><td>+ flexibility, cross-functional · − two bosses, confusion, conflict</td></tr>\n<tr><td><b>Network / team</b></td><td>Informal, flexible horizontal teams</td><td>+ fast, adaptive · − unclear communication, tech-dependent</td></tr>\n<tr><td><b>Virtual</b></td><td>Boundaryless, depends on ICT; HQ may be the only fixed base (Uber, Airbnb)</td><td>+ cost savings, wide talent pool · − isolation, less trust</td></tr></table>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Engineers stay in their specialist department <b>but also</b> report to product managers = matrix (mock Q28).<br>Remote specialists across countries working online = virtual. Regional authority = geographic.</div>",
+  "terms": [
+   [
+    "Macro (general, external) environment",
+    "The big-picture world of PESTEL factors the organization barely controls."
+   ],
+   [
+    "Mechanistic structure",
+    "Top-down, rule-based, centralized; for stable environments."
+   ],
+   [
+    "Organic structure",
+    "Flat, flexible, participative; for changing environments."
+   ],
+   [
+    "Functional structure",
+    "Organized by departments and areas of expertise."
+   ],
+   [
+    "Divisional structure",
+    "Functional departments grouped under division heads, each with its own functions."
+   ],
+   [
+    "Geographic structure",
+    "Organized by the locations of customers."
+   ],
+   [
+    "Matrix structure",
+    "Employees report to a functional boss and a project/product boss."
+   ],
+   [
+    "Networked team structure",
+    "Informal, flexible, decentralized horizontal teams."
+   ],
+   [
+    "Virtual structure",
+    "Boundaryless organization relying on information and communication technology."
+   ]
+  ]
+ },
+ {
+  "id": "c8b",
+  "ch": 8,
+  "pts": 4,
+  "t": "Organizational culture & diversity (DEI)",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Organizational culture</b>: a system of shared assumptions, values and beliefs that show people what is appropriate and inappropriate behaviour. A rare, hard-to-imitate culture can be a competitive advantage (Barney). Like water to a fish: invisible but shaping behaviour.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Schein's three levels",
+    "html": "<h4>Schein's three levels</h4>\n<table class=\"rules\"><tr><th>Level</th><th>What</th><th>Example</th></tr>\n<tr><td>Artifacts (surface)</td><td>Visible, tangible aspects</td><td>Open-door policy, office layout, pool tables, company picnics</td></tr>\n<tr><td>Values</td><td>Shared principles, standards, goals</td><td>Egalitarianism, having fun</td></tr>\n<tr><td>Assumptions (deepest)</td><td>Taken for granted, below awareness</td><td>“Happy employees benefit the organization”</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Dimensions of culture",
+    "html": "<h4>Dimensions of culture</h4>\n<p>Innovative · aggressive (competitive) · outcome-oriented · stable (predictable, rule-based) · people-oriented (fair, supportive) · team-oriented · detail-oriented.</p>\n<p><b>Strong culture</b>: most employees share the values. An asset or a liability; hard to change; can clash in mergers (Daimler-Chrysler). <b>Subcultures</b> form in departments or locations; a <b>counterculture</b> opposes the main culture.</p>"
+   },
+   {
+    "i": 3,
+    "baslik": "How culture is created and maintained",
+    "html": "<h4>How culture is created and maintained</h4>\n<p>Founder values · industry demands · attraction-selection-attrition · onboarding of new employees · leadership · reward systems.</p>"
+   },
+   {
+    "i": 4,
+    "baslik": "Signs of culture",
+    "html": "<h4>Signs of culture</h4>\n<p>Mission statement · rituals · rules and policies · physical layout · stories and language.</p>"
+   },
+   {
+    "i": 5,
+    "baslik": "Diversity",
+    "html": "<h4>Diversity</h4>\n<p>Broad meaning: also personality, cognitive style, education, social background. <b>Advantages</b>: enhances <b>creativity</b>, enhances <b>image</b>, improves <b>outreach</b> to new markets, improves <b>morale</b>. BCG: diversity builds resilience and adaptiveness.</p>\n<p><b>Gender</b>: women earn more degrees but face the <b>glass ceiling</b> (invisible barrier based on prejudice), the pay gap and sexual harassment (quid pro quo, hostile environment; “Me too”).</p>\n<p><b>Sexual orientation and gender identity</b>: sexual minorities have higher education levels on average but still face hiring and treatment discrimination.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>The office layout is an <b>artifact</b> (and a sign of culture), not a value.<br>“Most employees agree on the values” = strong culture. A department opposing the company's values = counterculture.</div>",
+  "terms": [
+   [
+    "Organizational culture",
+    "Shared assumptions, values and beliefs that show what behaviour is appropriate."
+   ],
+   [
+    "Artifacts",
+    "Visible, tangible aspects of culture."
+   ],
+   [
+    "Assumptions",
+    "Taken-for-granted beliefs at the deepest level of culture."
+   ],
+   [
+    "Strong culture",
+    "Most employees agree on the company's values."
+   ],
+   [
+    "Subculture",
+    "Culture within a department, branch or location."
+   ],
+   [
+    "Counterculture",
+    "Group whose values oppose the overall culture."
+   ],
+   [
+    "Rituals",
+    "Repetitive activities that teach values and build identification."
+   ],
+   [
+    "Onboarding",
+    "How new employees learn the attitudes, knowledge and behaviours they need."
+   ],
+   [
+    "Glass ceiling",
+    "Invisible barrier based on prejudice that stops women advancing."
+   ]
+  ]
+ },
+ {
+  "id": "c9a",
+  "ch": 9,
+  "pts": 4,
+  "t": "Hofstede & GLOBE",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p>Hofstede (Dutch social psychologist): culture is “the <b>collective programming of the mind</b> which distinguishes the members of one group or category of people from another”. Survey of 88,000+ IBM employees in 72 countries, four dimensions:</p>\n<table class=\"rules\"><tr><th>Dimension</th><th>Meaning</th><th>High / low examples</th></tr>\n<tr><td><b>Power distance</b></td><td>Degree to which members accept differences in power and authority</td><td>High: Mexico, India, Brazil, China · Low: US, UK, Denmark</td></tr>\n<tr><td><b>Individualism / collectivism</b></td><td>Focus on the individual vs on the group as a whole</td><td>Individualist: US, UK, Canada · More collectivist: Asia, Latin America</td></tr>\n<tr><td><b>Uncertainty avoidance</b></td><td>Degree to which people are comfortable with risk, uncertainty and unpredictable situations (high = want clear rules)</td><td>High: France, Greece, Japan · Low: Denmark, US, UK</td></tr>\n<tr><td><b>Masculinity</b></td><td>Emphasis on traditional masculine qualities: achievement, advancement, earnings; clear gender roles</td><td>High: Japan, Mexico, Germany · Low: Denmark, Finland</td></tr></table>\n<p>High power distance → leaders show authority, subordinates expect clear directions. Collectivist → group-based hiring and decisions, consensus.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "GLOBE framework (1990s)",
+    "html": "<h4>GLOBE framework (1990s)</h4>\n<p>Global Leadership and Organizational Behavior Effectiveness: 170 researchers, 17,000 managers, 62 countries. Nine dimensions; most overlap with Hofstede (uncertainty avoidance, power distance, future orientation, assertiveness, gender egalitarianism, institutional and societal collectivism). Unique to GLOBE: <b>performance orientation</b> (emphasis on performance and achievement) and <b>humane orientation</b> (fairness, altruism, caring).</p>\n<p>Countries grouped in <b>clusters</b> (Anglo, Confucian Asia, Germanic Europe, Nordic Europe, Latin America, Middle East, Sub-Saharan Africa) with preferred leadership styles (charismatic, team-oriented, participative, humane-oriented, autonomous, self-protective).</p>\n<p><b>Psychic distance</b>: differences between countries in language, culture, institutions and business practices.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Uncertainty avoidance = comfort with risk and ambiguity, not long-term planning (mock Q21).<br>Power distance = acceptance of power and authority differences (mock Q22).<br>Hofstede = 1960s, four dimensions. GLOBE = 1990s, adds performance and humane orientation.</div>",
+  "terms": [
+   [
+    "Culture (Hofstede)",
+    "The collective programming of the mind that distinguishes one group from another."
+   ],
+   [
+    "Power distance",
+    "Degree to which a society accepts differences in power and authority."
+   ],
+   [
+    "Individualism",
+    "Focus on the individual's relationship to the group."
+   ],
+   [
+    "Collectivism",
+    "Focus on the group as a whole."
+   ],
+   [
+    "Uncertainty avoidance",
+    "Degree to which people are comfortable with risk, uncertainty and unpredictability."
+   ],
+   [
+    "Masculinity",
+    "Emphasis on traditional masculine qualities such as achievement and earnings."
+   ],
+   [
+    "GLOBE",
+    "1990s cultural framework of 62 countries with nine dimensions."
+   ],
+   [
+    "Performance orientation",
+    "GLOBE: emphasis on performance and achievement."
+   ],
+   [
+    "Humane orientation",
+    "GLOBE: importance of fairness, altruism and caring."
+   ],
+   [
+    "Psychic distance",
+    "Differences between countries in language, culture, institutions and business practice."
+   ]
+  ]
+ },
+ {
+  "id": "c9b",
+  "ch": 9,
+  "pts": 4,
+  "t": "Globalization & expanding globally",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Globalization</b>: countries becoming more interconnected while trade barriers disappear. That's why international leadership matters.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Three globalization factors",
+    "html": "<h4>Three globalization factors</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Meaning</th></tr>\n<tr><td>Lowering trade barriers</td><td>Trade agreements and policies remove cross-border barriers such as <b>tariffs</b> (taxes on imports)</td></tr>\n<tr><td>Foreign direct investment (FDI)</td><td>A company invests in another country through ownership positions there (global FDI 2017: $1.52 trillion)</td></tr>\n<tr><td>The Internet</td><td>Any company can sell to anyone in the world; social media builds relationships worldwide</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Strategies for expanding globally",
+    "html": "<h4>Strategies for expanding globally</h4>\n<table class=\"rules\"><tr><th>Strategy</th><th>Meaning</th></tr>\n<tr><td><b>Global</b></td><td>Assumes the world is interconnected and consumption is fairly homogeneous: the same product everywhere</td></tr>\n<tr><td><b>Regional</b></td><td>Organizes activities (marketing, finance) around key geographic regions (Toyota)</td></tr>\n<tr><td><b>Local</b></td><td>Adapts products to the local market's needs and values</td></tr></table>"
+   },
+   {
+    "i": 3,
+    "baslik": "How to go international",
+    "html": "<h4>How to go international</h4>\n<table class=\"rules\"><tr><th>Entry mode</th><th>Meaning</th></tr>\n<tr><td><b>Exporting</b></td><td>Selling products made at home abroad. Easiest; exporters are about 17% more profitable.</td></tr>\n<tr><td>Licensing</td><td>For a royalty or fee, another company may use your trademark, know-how or technology</td></tr>\n<tr><td>Franchising</td><td>Licensing the whole business model (trademark, structure, training)</td></tr>\n<tr><td><b>Strategic alliance</b></td><td>Two or more companies from different countries agree to do business together; a <b>joint venture</b> creates a new business they own together. Preferred in emerging markets.</td></tr>\n<tr><td><b>FDI</b></td><td>Fully investing in the host country by building facilities there (e.g. a wholly owned subsidiary)</td></tr></table>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>“Creates a new business that it owns together with a local company” = <b>joint venture</b> (strategic alliance), not a wholly owned subsidiary (mock Q20).</div>",
+  "terms": [
+   [
+    "Globalization",
+    "Countries becoming more interconnected as trade barriers disappear."
+   ],
+   [
+    "Tariffs",
+    "Taxes added to the price of imported products."
+   ],
+   [
+    "FDI",
+    "Investing in another country through ownership positions in companies there."
+   ],
+   [
+    "Global strategy",
+    "Same approach worldwide, assuming homogeneous consumption."
+   ],
+   [
+    "Regional strategy",
+    "Organizing activities around key geographic regions."
+   ],
+   [
+    "Local strategy",
+    "Adapting products to each local market."
+   ],
+   [
+    "Exporting",
+    "Sending products made at home to other countries."
+   ],
+   [
+    "Licensing",
+    "Giving another company the right to use your trademark or technology for a fee."
+   ],
+   [
+    "Strategic alliance",
+    "Agreement between companies from different countries to do business together."
+   ],
+   [
+    "Joint venture",
+    "A new business jointly owned by two or more companies."
+   ]
+  ]
+ },
+ {
+  "id": "c10a",
+  "ch": 10,
+  "pts": 3,
+  "t": "Teams: Tuckman & team diversity",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p>Teamwork has never been more important, in manufacturing (self-directed teams) and in the knowledge economy. A <b>group</b> is a collection of individuals; a <b>team</b> is a cohesive coalition working toward a shared agenda.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Tuckman's stages of team development",
+    "html": "<h4>Tuckman's stages of team development</h4>\n<table class=\"rules\"><tr><th>Stage</th><th>What happens</th></tr>\n<tr><td><b>Forming</b></td><td>Polite stage: introductions, enthusiasm, team looks to the leader for structure</td></tr>\n<tr><td><b>Storming</b></td><td>Win-lose stage: members compete for control, clash, take sides; frustration about goals and roles</td></tr>\n<tr><td><b>Norming</b></td><td>Team works well together; ground rules and shared responsibility; respect</td></tr>\n<tr><td><b>Performing</b></td><td>Self-directed, confident, getting results; little direction needed</td></tr>\n<tr><td>Adjourning (added 1977)</td><td>The team disbands at the end of the project</td></tr></table>\n<p>The stages are <b>not linear</b>. Adding a new member or a confusing new task can send the team back to an earlier stage (it may re-storm and re-form).</p>\n<p>Katzenbach & Smith's team performance curve: from working group to high-performing team.</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Team diversity",
+    "html": "<h4>Team diversity</h4>\n<p>Diverse teams are better at decision making and problem solving: they focus more on facts, re-examine them, and avoid groupthink. They are also more innovative. McKinsey: top quartile for ethnic diversity in management 35% more likely to beat industry returns; gender diversity 15%.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>A team that was performing gets new members and uncertainty appears about roles = it slides back to <b>storming</b>; agreeing shared working rules = <b>norming</b> (mock Q29).</div>",
+  "terms": [
+   [
+    "Team",
+    "A cohesive coalition of people working together toward a shared agenda."
+   ],
+   [
+    "Forming",
+    "Polite first stage; team relies on the leader."
+   ],
+   [
+    "Storming",
+    "Members compete for control and clash."
+   ],
+   [
+    "Norming",
+    "Ground rules, shared responsibility and respect develop."
+   ],
+   [
+    "Performing",
+    "Self-directed team gets results."
+   ],
+   [
+    "Adjourning",
+    "The team disbands at the end of a project."
+   ]
+  ]
+ },
+ {
+  "id": "c10b",
+  "ch": 10,
+  "pts": 3,
+  "t": "Social networks",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Social network</b>: a patterned set of relationships between two or more people (<b>actors</b>), drawn as a <b>sociogram</b>. Networks are “the invisible organization”: how communication and resources really flow.</p>\n<p><b>Three advantages</b> for leaders: access to information and knowledge · access to diverse skill sets · power.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Lexicon",
+    "html": "<h4>Lexicon</h4>\n<table class=\"rules\"><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Actors / nodes</td><td>The people or groups in the network</td></tr>\n<tr><td>Ties</td><td>Connections. Direct (one link) or indirect (through others)</td></tr>\n<tr><td>Strong ties</td><td>Know each other well; frequent exchanges</td></tr>\n<tr><td>Weak ties</td><td>Know each other at least by reputation; no regular exchange. Granovetter: people find jobs mostly through weak ties.</td></tr>\n<tr><td>Bridging tie</td><td>Gives non-redundant information and resources</td></tr>\n<tr><td>Centrality / density</td><td>How central an actor is / how many in the network are connected</td></tr></table>"
+   },
+   {
+    "i": 2,
+    "baslik": "Three principles (Kilduff & Tsai)",
+    "html": "<h4>Three principles (Kilduff & Tsai)</h4>\n<table class=\"rules\"><tr><th>Principle</th><th>Meaning</th></tr>\n<tr><td><b>Reciprocity</b></td><td>Trading favours of roughly equal value</td></tr>\n<tr><td><b>Exchange</b></td><td>Trading favours with people who are <b>different</b> from you: more value from complementary resources</td></tr>\n<tr><td><b>Similarity</b></td><td>Ties form spontaneously between people with common backgrounds, values, interests (risk: echo chamber)</td></tr></table>"
+   },
+   {
+    "i": 3,
+    "baslik": "Ibarra's three types of networks",
+    "html": "<h4>Ibarra's three types of networks</h4>\n<table class=\"rules\"><tr><th>Network</th><th>Purpose</th></tr>\n<tr><td><b>Operational</b></td><td>Get your current work done efficiently (people who can block or support a project)</td></tr>\n<tr><td><b>Personal</b></td><td>Personal and professional development: referrals, outside information, coaching, mentoring (alumni groups, clubs, associations)</td></tr>\n<tr><td><b>Strategic</b></td><td>Figure out future priorities and challenges and get stakeholder support for them</td></tr></table>\n<p>Example from the slides: Barack Obama's 2008 campaign used social networking principles.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Contacts outside your firm for coaching and career advice = personal. Contacts that help you see future trends and opportunities = strategic (mock Q30). Colleagues you need for today's tasks = operational.</div>",
+  "terms": [
+   [
+    "Social network",
+    "A patterned set of relationships between two or more actors."
+   ],
+   [
+    "Strong ties",
+    "Actors who know each other well and exchange often."
+   ],
+   [
+    "Weak ties",
+    "Actors who know each other but don't exchange regularly."
+   ],
+   [
+    "Bridging tie",
+    "A tie providing non-redundant information and resources."
+   ],
+   [
+    "Principle of reciprocity",
+    "Trading favours of relatively equal value."
+   ],
+   [
+    "Principle of exchange",
+    "Trading favours with people different from you, for complementary resources."
+   ],
+   [
+    "Principle of similarity",
+    "Ties develop between people with common backgrounds and interests."
+   ],
+   [
+    "Operational network",
+    "Contacts that help you get your current work done."
+   ],
+   [
+    "Personal network",
+    "Contacts for development, referrals, coaching and mentoring."
+   ],
+   [
+    "Strategic network",
+    "Contacts that help you see future priorities and gain support."
+   ]
+  ]
+ },
+ {
+  "id": "c11a",
+  "ch": 11,
+  "pts": 3,
+  "t": "Innovative culture & failure to innovate",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Giriş",
+    "html": "<p><b>Innovative culture</b>: a work environment that fosters and rewards employee creativity instead of focusing on deadlines and revenue. Five traits: <b>unique strategy, autonomy, trust, accepting failures, leadership</b>.</p>\n<p><b>Benefits</b> (Swisher): sets a course for improvement · develops new ideas · company growth · competitive advantage · team efficiency · adaptive nature · attracts talent · improves the brand.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "How leaders nurture innovation",
+    "html": "<h4>How leaders nurture innovation</h4>\n<table class=\"rules\"><tr><th>Method</th><th>Example</th></tr>\n<tr><td>Internal collaboration</td><td>Cross-departmental teams; R&D spends ~10% of its time in marketing and sales</td></tr>\n<tr><td>Innovation labs & intrapreneurship</td><td>Employee ideas become spin-offs (LEGO's Future Lab)</td></tr>\n<tr><td>Innovation time</td><td>Google and 3M: 15–20% of the week for side projects (Gmail)</td></tr>\n<tr><td>Partnerships & acquisitions</td><td>Share the risk, or buy small innovative firms (Cisco)</td></tr>\n<tr><td>Open labs for co-creation</td><td>Customers co-create (BMW, Co-Create IKEA, LEGO Ideas)</td></tr></table>\n<p><b>Innovation portfolio</b>: invest 70% core, 20% adjacent, 10% transformational; long-term returns are the reverse (10 / 20 / 70).</p>"
+   },
+   {
+    "i": 2,
+    "baslik": "Seven reasons for failure to innovate",
+    "html": "<h4>Seven reasons for failure to innovate</h4>\n<p>Fear of taking risks · lack of market orientation (no real customer value) · failure to scale · poor organizational structure and processes · wrong decisions · lack of internal communication · low priority for innovation. Usually failure comes from <b>implementation</b>, not the idea.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>A product nobody needs because it isn't different from what exists = lack of market orientation, not fear of risk.</div>",
+  "terms": [
+   [
+    "Innovative culture",
+    "Work environment that fosters and rewards creativity rather than focusing on deadlines and revenue."
+   ],
+   [
+    "Intrapreneurship",
+    "An employee's idea becomes a spin-off or subsidiary led by that employee."
+   ],
+   [
+    "Innovation time",
+    "Free time for employees to work on innovative side projects."
+   ],
+   [
+    "Open lab / co-creation",
+    "Developing ideas together with customers, suppliers or partners."
+   ],
+   [
+    "Innovation portfolio",
+    "70% core, 20% adjacent, 10% transformational investment."
+   ],
+   [
+    "Lack of market orientation",
+    "Not understanding customer needs, so the product offers no real value."
+   ]
+  ]
+ },
+ {
+  "id": "c11b",
+  "ch": 11,
+  "pts": 3,
+  "t": "Innovation networks & why organizations change",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "The innovation network (McKinsey)",
+    "html": "<h4>The innovation network (McKinsey)</h4>\n<p>Connections and networks matter more for innovation than individual creativity. Four steps:</p>\n<table class=\"rules\"><tr><th>Step</th><th>What</th></tr>\n<tr><td>1. Connect</td><td>Identify people with an innovation mind-set from different backgrounds</td></tr>\n<tr><td>2. Set boundaries and engage</td><td>Define goals and how they link to strategy, mission and vision; time frames</td></tr>\n<tr><td>3. Support and govern</td><td>Leadership structure, protocols, resources, sponsorship from top leaders</td></tr>\n<tr><td>4. Manage and track</td><td>Rewards for members, tracking progress, joining and leaving</td></tr></table>\n<p>Archetypes in the network: idea generators, researchers, experts, producers.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Organizational change",
+    "html": "<h4>Organizational change</h4>\n<p><b>Organizational change</b>: the movement of an organization from one state of affairs to another. Often required by a change in the environment. It can affect structure, strategy, policies, technology or culture; radical or incremental.</p>\n<table class=\"rules\"><tr><th>Driver</th><th>Example</th></tr>\n<tr><td>Workplace demographics</td><td>Ageing workforce, too few young workers</td></tr>\n<tr><td>Technology</td><td>Moore's law; music industry vs Napster</td></tr>\n<tr><td>Globalization</td><td>Outsourcing and offshoring</td></tr>\n<tr><td>Market conditions</td><td>Airlines after 9/11 and fuel price rises</td></tr>\n<tr><td>Growth</td><td>Widmer Brothers: garage to 11th largest US brewery</td></tr>\n<tr><td>Poor performance</td><td>Poor performers change more easily; success breeds overconfidence and inertia: “nothing fails like success” (Polaroid). New CEOs also trigger change.</td></tr></table>"
+   }
+  ],
+  "trap": "",
+  "terms": [
+   [
+    "Innovation network",
+    "Network of innovators built in four steps: connect, set boundaries and engage, support and govern, manage and track."
+   ],
+   [
+    "Organizational change",
+    "Movement of an organization from one state of affairs to another."
+   ],
+   [
+    "Nothing fails like success",
+    "Successful firms resist change through overconfidence and inertia."
+   ]
+  ]
+ },
+ {
+  "id": "c11c",
+  "ch": 11,
+  "pts": 3,
+  "t": "Reactions & resistance to change",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Four reactions to change",
+    "html": "<h4>Four reactions to change</h4>\n<table class=\"rules\"><tr><th>Reaction</th><th>Behaviour</th></tr>\n<tr><td><b>Active resistance</b></td><td>Most negative: sabotages, objects openly, encourages others to resist</td></tr>\n<tr><td><b>Passive resistance</b></td><td>Disturbed but silent: dislikes it quietly, stressed, may look for another job without telling anyone</td></tr>\n<tr><td><b>Compliance</b></td><td>Goes along with little enthusiasm</td></tr>\n<tr><td><b>Enthusiastic support</b></td><td>Defends the new way and encourages others to support it (the exception)</td></tr></table>"
+   },
+   {
+    "i": 1,
+    "baslik": "Seven reasons people resist",
+    "html": "<h4>Seven reasons people resist</h4>\n<table class=\"rules\"><tr><th>Reason</th><th>Example</th></tr>\n<tr><td>Disrupted habits</td><td>Automatic routines broken (automatic → stick shift)</td></tr>\n<tr><td>Personality</td><td>Low openness, low self-esteem, risk avoidance</td></tr>\n<tr><td>Feelings of uncertainty</td><td>A merger: nobody knows what happens to their job</td></tr>\n<tr><td>Fear of failure</td><td>Experts doubt they'll perform well in the new system</td></tr>\n<tr><td>Personal impact of change</td><td>People welcome changes that help them and resist ones that hurt them</td></tr>\n<tr><td>Prevalence of change</td><td>Too many changes; fatigue and skepticism</td></tr>\n<tr><td>Perceived loss of power</td><td>Supervisors lose authority when teams take over</td></tr></table>\n<p>Resistance is not always bad: it is <b>valuable feedback</b>, and the most loyal employees may be the loudest critics. Example: the faster Dvorak keyboard never replaced QWERTY because of resistance.</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>The difference between active and passive is <b>voice</b>: loud objecting or sabotage is active, silent unhappiness is passive.</div>",
+  "terms": [
+   [
+    "Active resistance",
+    "Sabotaging or openly objecting and encouraging others to resist."
+   ],
+   [
+    "Passive resistance",
+    "Disliking the change quietly without voicing it."
+   ],
+   [
+    "Compliance",
+    "Going along with the change with little enthusiasm."
+   ],
+   [
+    "Enthusiastic support",
+    "Defending the change and encouraging others to support it."
+   ],
+   [
+    "Prevalence of change",
+    "Resistance because there have been too many changes."
+   ],
+   [
+    "Perceived loss of power",
+    "Resistance because the change reduces your authority or status."
+   ]
+  ]
+ },
+ {
+  "id": "c11d",
+  "ch": 11,
+  "pts": 3,
+  "t": "Lewin's three stages & Kotter's eight steps",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Lewin's three-stage model (1940s–50s)",
+    "html": "<h4>Lewin's three-stage model (1940s–50s)</h4>\n<table class=\"rules\"><tr><th>Stage</th><th>Actions</th></tr>\n<tr><td><b>1. Unfreeze</b></td><td>Prepare people: communicate a plan and a vision, develop a sense of urgency, build a coalition of opinion leaders, give emotional and instrumental support (training), let employees participate</td></tr>\n<tr><td><b>2. Change (move)</b></td><td>Execute: continue to support, create small wins, eliminate obstacles</td></tr>\n<tr><td><b>3. Refreeze</b></td><td>Make it permanent: publicize success, reward change adoption</td></tr></table>\n<p>Contrast: the <b>learning organization</b> sees change as continuous rather than one episode.</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Kotter's eight steps (1990s), mapped on Lewin",
+    "html": "<h4>Kotter's eight steps (1990s), mapped on Lewin</h4>\n<table class=\"rules\"><tr><th>Lewin</th><th>Kotter step</th><th>Case clue</th></tr>\n<tr><td rowspan=\"4\">Unfreeze</td><td>1. Create urgency</td><td>Showing data, complaints, crisis, competitors, consequences of doing nothing</td></tr>\n<tr><td>2. Build a guiding coalition</td><td>A small, influential group that <b>leads</b> the change</td></tr>\n<tr><td>3. Form a strategic vision & initiatives</td><td>A short statement of the desired future</td></tr>\n<tr><td>4. Enlist a volunteer army</td><td>A <b>large</b> group of people who sign up to help</td></tr>\n<tr><td rowspan=\"3\">Change</td><td>5. Enable action by removing barriers</td><td>Old procedures or forms scrapped; staff empowered</td></tr>\n<tr><td>6. Generate short-term wins</td><td>A pilot with a visible, measurable result</td></tr>\n<tr><td>7. Sustain acceleration</td><td>Using early success to roll out further</td></tr>\n<tr><td>Refreeze</td><td>8. Institute change</td><td>Written into hiring, training, job descriptions, reviews</td></tr></table>\n<p class=\"muted\">Memory hook: “Ugly Cats Vote Very Badly When Angry Indoors.”</p>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam traps</b><br>Small leading group = guiding coalition; a big crowd of volunteers = volunteer army.<br>Presenting waiting times and complaints = create urgency (mock Q34). A measurable pilot result = short-term win (mock Q35).</div>",
+  "terms": [
+   [
+    "Unfreeze",
+    "Preparing people so they are ready for and open to change."
+   ],
+   [
+    "Refreeze",
+    "Making the change permanent so new habits become the norm."
+   ],
+   [
+    "Guiding coalition",
+    "Kotter 2: a group with enough power and credibility to lead the change."
+   ],
+   [
+    "Volunteer army",
+    "Kotter 4: a large base of people who act on the vision."
+   ],
+   [
+    "Short-term wins",
+    "Kotter 6: visible early results that are rewarded."
+   ],
+   [
+    "Institute change",
+    "Kotter 8: anchoring new behaviours in the culture."
+   ],
+   [
+    "Learning organization",
+    "Embraces continuous change instead of one-off episodes."
+   ]
+  ]
+ },
+ {
+  "id": "c11e",
+  "ch": 11,
+  "pts": 3,
+  "t": "Schein's culture change & comparing the models",
+  "segments": [
+   {
+    "i": 0,
+    "baslik": "Schein's culture change process (six steps)",
+    "html": "<h4>Schein's culture change process (six steps)</h4>\n<table class=\"rules\"><tr><th>Step</th><th>Book example</th></tr>\n<tr><td>1. Create a sense of urgency</td><td>Lou Gerstner used IBM's crisis to get buy-in</td></tr>\n<tr><td>2. Change leaders and other key players</td><td>Disney's new CEO Iger removed the planning unit close to the old CEO</td></tr>\n<tr><td>3. Role modeling</td><td>Iger joined game creation himself; bad example: HP executives' spying scandal</td></tr>\n<tr><td>4. Training</td><td>NASA safety training after Columbia; Midas customer training</td></tr>\n<tr><td>5. Change the reward system</td><td>Commission → salary for customer focus; team bonuses for a team culture</td></tr>\n<tr><td>6. Create new symbols and stories</td><td>Continental Airlines burned its 800-page manual (new one: 80 pages)</td></tr></table>\n<p class=\"muted\">Memory hook: “Ugly Lions Rarely Take Rainy Showers.”</p>"
+   },
+   {
+    "i": 1,
+    "baslik": "Comparing the three models",
+    "html": "<h4>Comparing the three models</h4>\n<table class=\"rules\"><tr><th>Model</th><th>When</th><th>Focus</th></tr>\n<tr><td>Lewin</td><td>1940s–50s</td><td>3 stages; general framework for any change; overcoming resistance</td></tr>\n<tr><td>Schein</td><td>1980s–90</td><td>6 steps; changing <b>culture</b>: values, role models, symbols</td></tr>\n<tr><td>Kotter</td><td>1990s</td><td>8 steps; roadmap for <b>large-scale</b> transformation</td></tr></table>"
+   }
+  ],
+  "trap": "<div class=\"trap\"><b>Exam trap</b><br>All three start with urgency. Read which model the question names and answer inside that model.</div>",
+  "terms": [
+   [
+    "Role modeling",
+    "Employees change their beliefs and behaviour to reflect the leader's."
+   ],
+   [
+    "New symbols and stories",
+    "Visible acts and stories that show the new culture (Continental's manual)."
+   ],
+   [
+    "Changing key players",
+    "Replacing leaders who block the change."
+   ],
+   [
+    "Schein's model",
+    "Six steps for culture change."
+   ]
+  ]
+ }
+]

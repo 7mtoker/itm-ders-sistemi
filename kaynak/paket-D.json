@@ -1,0 +1,1608 @@
+{
+ "paket": "D",
+ "chapters": [
+  8,
+  9,
+  10
+ ],
+ "units": [
+  {
+   "id": "c8a",
+   "ch": 8,
+   "pts": 4,
+   "t": "Environments & organizational structures",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Internal and external environments",
+     "html": "<h4>Internal and external environments</h4>\n<p class=\"bl\"><b>External (macro, general) environment</b>: the big-picture world with political, economic, social, technological, environmental and legal factors the company barely controls. Tools: PESTEL (macro forces), Porter's 5 forces (competitors).</p>\n<p class=\"bl\"><b>Internal environment</b>: resources, capabilities and activities. Tools: VRIO, value chain.</p>\n<p>Slide examples: 2025 US tariffs and the impact of AI changing internal structures and business activities.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Mechanistic vs organic",
+     "html": "<h4>Mechanistic vs organic</h4>\n<p class=\"bl\"><b>Mechanistic</b>: top-down hierarchy, rules, centralized, narrow span of control. For stable, simple environments.</p>\n<p class=\"bl\"><b>Organic</b>: flatter, participative, fewer rules, wider span of control. For unstable, complex environments.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Six structures",
+     "html": "<h4>Six structures</h4>\n<table class=\"rules\"><tr><th>Structure</th><th>Organized by</th><th>Plus / minus</th></tr>\n<tr><td><b>Functional</b></td><td>Departments of expertise (R&D, production, finance, HR)</td><td>+ specialization, economies of scale · − silos, slow coordination</td></tr>\n<tr><td><b>Divisional</b></td><td>Divisions (product, market), each with its own marketing, sales, finance…</td><td>+ focus, faster customer contact · − duplication, divisions isolated</td></tr>\n<tr><td><b>Geographic</b></td><td>Locations of customers (regions, countries)</td><td>+ local knowledge · − too decentralized</td></tr>\n<tr><td><b>Matrix</b></td><td>Two dimensions: employees report to a functional boss <b>and</b> a project/product boss</td><td>+ flexibility, cross-functional · − two bosses, confusion, conflict</td></tr>\n<tr><td><b>Network / team</b></td><td>Informal, flexible horizontal teams</td><td>+ fast, adaptive · − unclear communication, tech-dependent</td></tr>\n<tr><td><b>Virtual</b></td><td>Boundaryless, depends on ICT; HQ may be the only fixed base (Uber, Airbnb)</td><td>+ cost savings, wide talent pool · − isolation, less trust</td></tr></table>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Engineers stay in their specialist department <b>but also</b> report to product managers = matrix (mock Q28).<br>Remote specialists across countries working online = virtual. Regional authority = geographic.</div>",
+   "terms": [
+    [
+     "Macro (general, external) environment",
+     "The big-picture world of PESTEL factors the organization barely controls."
+    ],
+    [
+     "Mechanistic structure",
+     "Top-down, rule-based, centralized; for stable environments."
+    ],
+    [
+     "Organic structure",
+     "Flat, flexible, participative; for changing environments."
+    ],
+    [
+     "Functional structure",
+     "Organized by departments and areas of expertise."
+    ],
+    [
+     "Divisional structure",
+     "Functional departments grouped under division heads, each with its own functions."
+    ],
+    [
+     "Geographic structure",
+     "Organized by the locations of customers."
+    ],
+    [
+     "Matrix structure",
+     "Employees report to a functional boss and a project/product boss."
+    ],
+    [
+     "Networked team structure",
+     "Informal, flexible, decentralized horizontal teams."
+    ],
+    [
+     "Virtual structure",
+     "Boundaryless organization relying on information and communication technology."
+    ]
+   ]
+  },
+  {
+   "id": "c8b",
+   "ch": 8,
+   "pts": 4,
+   "t": "Organizational culture & diversity (DEI)",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Organizational culture</b>: a system of shared assumptions, values and beliefs that show people what is appropriate and inappropriate behaviour. A rare, hard-to-imitate culture can be a competitive advantage (Barney). Like water to a fish: invisible but shaping behaviour.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Schein's three levels",
+     "html": "<h4>Schein's three levels</h4>\n<table class=\"rules\"><tr><th>Level</th><th>What</th><th>Example</th></tr>\n<tr><td>Artifacts (surface)</td><td>Visible, tangible aspects</td><td>Open-door policy, office layout, pool tables, company picnics</td></tr>\n<tr><td>Values</td><td>Shared principles, standards, goals</td><td>Egalitarianism, having fun</td></tr>\n<tr><td>Assumptions (deepest)</td><td>Taken for granted, below awareness</td><td>“Happy employees benefit the organization”</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Dimensions of culture",
+     "html": "<h4>Dimensions of culture</h4>\n<p>Innovative · aggressive (competitive) · outcome-oriented · stable (predictable, rule-based) · people-oriented (fair, supportive) · team-oriented · detail-oriented.</p>\n<p><b>Strong culture</b>: most employees share the values. An asset or a liability; hard to change; can clash in mergers (Daimler-Chrysler). <b>Subcultures</b> form in departments or locations; a <b>counterculture</b> opposes the main culture.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "How culture is created and maintained",
+     "html": "<h4>How culture is created and maintained</h4>\n<p>Founder values · industry demands · attraction-selection-attrition · onboarding of new employees · leadership · reward systems.</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "Signs of culture",
+     "html": "<h4>Signs of culture</h4>\n<p>Mission statement · rituals · rules and policies · physical layout · stories and language.</p>"
+    },
+    {
+     "i": 5,
+     "baslik": "Diversity",
+     "html": "<h4>Diversity</h4>\n<p>Broad meaning: also personality, cognitive style, education, social background. <b>Advantages</b>: enhances <b>creativity</b>, enhances <b>image</b>, improves <b>outreach</b> to new markets, improves <b>morale</b>. BCG: diversity builds resilience and adaptiveness.</p>\n<p><b>Gender</b>: women earn more degrees but face the <b>glass ceiling</b> (invisible barrier based on prejudice), the pay gap and sexual harassment (quid pro quo, hostile environment; “Me too”).</p>\n<p><b>Sexual orientation and gender identity</b>: sexual minorities have higher education levels on average but still face hiring and treatment discrimination.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>The office layout is an <b>artifact</b> (and a sign of culture), not a value.<br>“Most employees agree on the values” = strong culture. A department opposing the company's values = counterculture.</div>",
+   "terms": [
+    [
+     "Organizational culture",
+     "Shared assumptions, values and beliefs that show what behaviour is appropriate."
+    ],
+    [
+     "Artifacts",
+     "Visible, tangible aspects of culture."
+    ],
+    [
+     "Assumptions",
+     "Taken-for-granted beliefs at the deepest level of culture."
+    ],
+    [
+     "Strong culture",
+     "Most employees agree on the company's values."
+    ],
+    [
+     "Subculture",
+     "Culture within a department, branch or location."
+    ],
+    [
+     "Counterculture",
+     "Group whose values oppose the overall culture."
+    ],
+    [
+     "Rituals",
+     "Repetitive activities that teach values and build identification."
+    ],
+    [
+     "Onboarding",
+     "How new employees learn the attitudes, knowledge and behaviours they need."
+    ],
+    [
+     "Glass ceiling",
+     "Invisible barrier based on prejudice that stops women advancing."
+    ]
+   ]
+  },
+  {
+   "id": "c9a",
+   "ch": 9,
+   "pts": 4,
+   "t": "Hofstede & GLOBE",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p>Hofstede (Dutch social psychologist): culture is “the <b>collective programming of the mind</b> which distinguishes the members of one group or category of people from another”. Survey of 88,000+ IBM employees in 72 countries, four dimensions:</p>\n<table class=\"rules\"><tr><th>Dimension</th><th>Meaning</th><th>High / low examples</th></tr>\n<tr><td><b>Power distance</b></td><td>Degree to which members accept differences in power and authority</td><td>High: Mexico, India, Brazil, China · Low: US, UK, Denmark</td></tr>\n<tr><td><b>Individualism / collectivism</b></td><td>Focus on the individual vs on the group as a whole</td><td>Individualist: US, UK, Canada · More collectivist: Asia, Latin America</td></tr>\n<tr><td><b>Uncertainty avoidance</b></td><td>Degree to which people are comfortable with risk, uncertainty and unpredictable situations (high = want clear rules)</td><td>High: France, Greece, Japan · Low: Denmark, US, UK</td></tr>\n<tr><td><b>Masculinity</b></td><td>Emphasis on traditional masculine qualities: achievement, advancement, earnings; clear gender roles</td><td>High: Japan, Mexico, Germany · Low: Denmark, Finland</td></tr></table>\n<p>High power distance → leaders show authority, subordinates expect clear directions. Collectivist → group-based hiring and decisions, consensus.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "GLOBE framework (1990s)",
+     "html": "<h4>GLOBE framework (1990s)</h4>\n<p>Global Leadership and Organizational Behavior Effectiveness: 170 researchers, 17,000 managers, 62 countries. Nine dimensions; most overlap with Hofstede (uncertainty avoidance, power distance, future orientation, assertiveness, gender egalitarianism, institutional and societal collectivism). Unique to GLOBE: <b>performance orientation</b> (emphasis on performance and achievement) and <b>humane orientation</b> (fairness, altruism, caring).</p>\n<p>Countries grouped in <b>clusters</b> (Anglo, Confucian Asia, Germanic Europe, Nordic Europe, Latin America, Middle East, Sub-Saharan Africa) with preferred leadership styles (charismatic, team-oriented, participative, humane-oriented, autonomous, self-protective).</p>\n<p><b>Psychic distance</b>: differences between countries in language, culture, institutions and business practices.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Uncertainty avoidance = comfort with risk and ambiguity, not long-term planning (mock Q21).<br>Power distance = acceptance of power and authority differences (mock Q22).<br>Hofstede = 1960s, four dimensions. GLOBE = 1990s, adds performance and humane orientation.</div>",
+   "terms": [
+    [
+     "Culture (Hofstede)",
+     "The collective programming of the mind that distinguishes one group from another."
+    ],
+    [
+     "Power distance",
+     "Degree to which a society accepts differences in power and authority."
+    ],
+    [
+     "Individualism",
+     "Focus on the individual's relationship to the group."
+    ],
+    [
+     "Collectivism",
+     "Focus on the group as a whole."
+    ],
+    [
+     "Uncertainty avoidance",
+     "Degree to which people are comfortable with risk, uncertainty and unpredictability."
+    ],
+    [
+     "Masculinity",
+     "Emphasis on traditional masculine qualities such as achievement and earnings."
+    ],
+    [
+     "GLOBE",
+     "1990s cultural framework of 62 countries with nine dimensions."
+    ],
+    [
+     "Performance orientation",
+     "GLOBE: emphasis on performance and achievement."
+    ],
+    [
+     "Humane orientation",
+     "GLOBE: importance of fairness, altruism and caring."
+    ],
+    [
+     "Psychic distance",
+     "Differences between countries in language, culture, institutions and business practice."
+    ]
+   ]
+  },
+  {
+   "id": "c9b",
+   "ch": 9,
+   "pts": 4,
+   "t": "Globalization & expanding globally",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Globalization</b>: countries becoming more interconnected while trade barriers disappear. That's why international leadership matters.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Three globalization factors",
+     "html": "<h4>Three globalization factors</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Meaning</th></tr>\n<tr><td>Lowering trade barriers</td><td>Trade agreements and policies remove cross-border barriers such as <b>tariffs</b> (taxes on imports)</td></tr>\n<tr><td>Foreign direct investment (FDI)</td><td>A company invests in another country through ownership positions there (global FDI 2017: $1.52 trillion)</td></tr>\n<tr><td>The Internet</td><td>Any company can sell to anyone in the world; social media builds relationships worldwide</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Strategies for expanding globally",
+     "html": "<h4>Strategies for expanding globally</h4>\n<table class=\"rules\"><tr><th>Strategy</th><th>Meaning</th></tr>\n<tr><td><b>Global</b></td><td>Assumes the world is interconnected and consumption is fairly homogeneous: the same product everywhere</td></tr>\n<tr><td><b>Regional</b></td><td>Organizes activities (marketing, finance) around key geographic regions (Toyota)</td></tr>\n<tr><td><b>Local</b></td><td>Adapts products to the local market's needs and values</td></tr></table>"
+    },
+    {
+     "i": 3,
+     "baslik": "How to go international",
+     "html": "<h4>How to go international</h4>\n<table class=\"rules\"><tr><th>Entry mode</th><th>Meaning</th></tr>\n<tr><td><b>Exporting</b></td><td>Selling products made at home abroad. Easiest; exporters are about 17% more profitable.</td></tr>\n<tr><td>Licensing</td><td>For a royalty or fee, another company may use your trademark, know-how or technology</td></tr>\n<tr><td>Franchising</td><td>Licensing the whole business model (trademark, structure, training)</td></tr>\n<tr><td><b>Strategic alliance</b></td><td>Two or more companies from different countries agree to do business together; a <b>joint venture</b> creates a new business they own together. Preferred in emerging markets.</td></tr>\n<tr><td><b>FDI</b></td><td>Fully investing in the host country by building facilities there (e.g. a wholly owned subsidiary)</td></tr></table>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>“Creates a new business that it owns together with a local company” = <b>joint venture</b> (strategic alliance), not a wholly owned subsidiary (mock Q20).</div>",
+   "terms": [
+    [
+     "Globalization",
+     "Countries becoming more interconnected as trade barriers disappear."
+    ],
+    [
+     "Tariffs",
+     "Taxes added to the price of imported products."
+    ],
+    [
+     "FDI",
+     "Investing in another country through ownership positions in companies there."
+    ],
+    [
+     "Global strategy",
+     "Same approach worldwide, assuming homogeneous consumption."
+    ],
+    [
+     "Regional strategy",
+     "Organizing activities around key geographic regions."
+    ],
+    [
+     "Local strategy",
+     "Adapting products to each local market."
+    ],
+    [
+     "Exporting",
+     "Sending products made at home to other countries."
+    ],
+    [
+     "Licensing",
+     "Giving another company the right to use your trademark or technology for a fee."
+    ],
+    [
+     "Strategic alliance",
+     "Agreement between companies from different countries to do business together."
+    ],
+    [
+     "Joint venture",
+     "A new business jointly owned by two or more companies."
+    ]
+   ]
+  },
+  {
+   "id": "c10a",
+   "ch": 10,
+   "pts": 3,
+   "t": "Teams: Tuckman & team diversity",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p>Teamwork has never been more important, in manufacturing (self-directed teams) and in the knowledge economy. A <b>group</b> is a collection of individuals; a <b>team</b> is a cohesive coalition working toward a shared agenda.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Tuckman's stages of team development",
+     "html": "<h4>Tuckman's stages of team development</h4>\n<table class=\"rules\"><tr><th>Stage</th><th>What happens</th></tr>\n<tr><td><b>Forming</b></td><td>Polite stage: introductions, enthusiasm, team looks to the leader for structure</td></tr>\n<tr><td><b>Storming</b></td><td>Win-lose stage: members compete for control, clash, take sides; frustration about goals and roles</td></tr>\n<tr><td><b>Norming</b></td><td>Team works well together; ground rules and shared responsibility; respect</td></tr>\n<tr><td><b>Performing</b></td><td>Self-directed, confident, getting results; little direction needed</td></tr>\n<tr><td>Adjourning (added 1977)</td><td>The team disbands at the end of the project</td></tr></table>\n<p>The stages are <b>not linear</b>. Adding a new member or a confusing new task can send the team back to an earlier stage (it may re-storm and re-form).</p>\n<p>Katzenbach & Smith's team performance curve: from working group to high-performing team.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Team diversity",
+     "html": "<h4>Team diversity</h4>\n<p>Diverse teams are better at decision making and problem solving: they focus more on facts, re-examine them, and avoid groupthink. They are also more innovative. McKinsey: top quartile for ethnic diversity in management 35% more likely to beat industry returns; gender diversity 15%.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>A team that was performing gets new members and uncertainty appears about roles = it slides back to <b>storming</b>; agreeing shared working rules = <b>norming</b> (mock Q29).</div>",
+   "terms": [
+    [
+     "Team",
+     "A cohesive coalition of people working together toward a shared agenda."
+    ],
+    [
+     "Forming",
+     "Polite first stage; team relies on the leader."
+    ],
+    [
+     "Storming",
+     "Members compete for control and clash."
+    ],
+    [
+     "Norming",
+     "Ground rules, shared responsibility and respect develop."
+    ],
+    [
+     "Performing",
+     "Self-directed team gets results."
+    ],
+    [
+     "Adjourning",
+     "The team disbands at the end of a project."
+    ]
+   ]
+  },
+  {
+   "id": "c10b",
+   "ch": 10,
+   "pts": 3,
+   "t": "Social networks",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Social network</b>: a patterned set of relationships between two or more people (<b>actors</b>), drawn as a <b>sociogram</b>. Networks are “the invisible organization”: how communication and resources really flow.</p>\n<p><b>Three advantages</b> for leaders: access to information and knowledge · access to diverse skill sets · power.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Lexicon",
+     "html": "<h4>Lexicon</h4>\n<table class=\"rules\"><tr><th>Term</th><th>Meaning</th></tr>\n<tr><td>Actors / nodes</td><td>The people or groups in the network</td></tr>\n<tr><td>Ties</td><td>Connections. Direct (one link) or indirect (through others)</td></tr>\n<tr><td>Strong ties</td><td>Know each other well; frequent exchanges</td></tr>\n<tr><td>Weak ties</td><td>Know each other at least by reputation; no regular exchange. Granovetter: people find jobs mostly through weak ties.</td></tr>\n<tr><td>Bridging tie</td><td>Gives non-redundant information and resources</td></tr>\n<tr><td>Centrality / density</td><td>How central an actor is / how many in the network are connected</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Three principles (Kilduff & Tsai)",
+     "html": "<h4>Three principles (Kilduff & Tsai)</h4>\n<table class=\"rules\"><tr><th>Principle</th><th>Meaning</th></tr>\n<tr><td><b>Reciprocity</b></td><td>Trading favours of roughly equal value</td></tr>\n<tr><td><b>Exchange</b></td><td>Trading favours with people who are <b>different</b> from you: more value from complementary resources</td></tr>\n<tr><td><b>Similarity</b></td><td>Ties form spontaneously between people with common backgrounds, values, interests (risk: echo chamber)</td></tr></table>"
+    },
+    {
+     "i": 3,
+     "baslik": "Ibarra's three types of networks",
+     "html": "<h4>Ibarra's three types of networks</h4>\n<table class=\"rules\"><tr><th>Network</th><th>Purpose</th></tr>\n<tr><td><b>Operational</b></td><td>Get your current work done efficiently (people who can block or support a project)</td></tr>\n<tr><td><b>Personal</b></td><td>Personal and professional development: referrals, outside information, coaching, mentoring (alumni groups, clubs, associations)</td></tr>\n<tr><td><b>Strategic</b></td><td>Figure out future priorities and challenges and get stakeholder support for them</td></tr></table>\n<p>Example from the slides: Barack Obama's 2008 campaign used social networking principles.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Contacts outside your firm for coaching and career advice = personal. Contacts that help you see future trends and opportunities = strategic (mock Q30). Colleagues you need for today's tasks = operational.</div>",
+   "terms": [
+    [
+     "Social network",
+     "A patterned set of relationships between two or more actors."
+    ],
+    [
+     "Strong ties",
+     "Actors who know each other well and exchange often."
+    ],
+    [
+     "Weak ties",
+     "Actors who know each other but don't exchange regularly."
+    ],
+    [
+     "Bridging tie",
+     "A tie providing non-redundant information and resources."
+    ],
+    [
+     "Principle of reciprocity",
+     "Trading favours of relatively equal value."
+    ],
+    [
+     "Principle of exchange",
+     "Trading favours with people different from you, for complementary resources."
+    ],
+    [
+     "Principle of similarity",
+     "Ties develop between people with common backgrounds and interests."
+    ],
+    [
+     "Operational network",
+     "Contacts that help you get your current work done."
+    ],
+    [
+     "Personal network",
+     "Contacts for development, referrals, coaching and mentoring."
+    ],
+    [
+     "Strategic network",
+     "Contacts that help you see future priorities and gain support."
+    ]
+   ]
+  }
+ ],
+ "bank": [
+  {
+   "id": "c8a-246",
+   "u": "c8a",
+   "d": 1,
+   "q": "The macro (general) environment of an organization consists of:",
+   "o": [
+    "PESTEL factors outside the organization that it has little control over",
+    "Its own departments, employees and the way work is divided between them",
+    "Its value chain activities, both primary and support activities",
+    "Its mission, vision and values as written down by top management"
+   ],
+   "x": "The big-picture world outside."
+  },
+  {
+   "id": "c8a-247",
+   "u": "c8a",
+   "d": 1,
+   "q": "A functional structure is organized by:",
+   "o": [
+    "Departments and areas of expertise, such as R&D, production and finance",
+    "Geographic regions, each with its own manager and its own functions",
+    "Products, each with its own marketing, production, sales and finance departments",
+    "Temporary project teams that are dissolved when the project ends"
+   ],
+   "x": "Expertise-based departments."
+  },
+  {
+   "id": "c8a-248",
+   "u": "c8a",
+   "d": 1,
+   "q": "In a matrix structure, employees:",
+   "o": [
+    "Report to a functional manager and a project or product manager at once",
+    "Work entirely online from different locations, connected by technology",
+    "Report only to a regional head who controls all functions in that region",
+    "Have no manager at all and organize their work in self-managing teams"
+   ],
+   "x": "Dual reporting."
+  },
+  {
+   "id": "c8a-249",
+   "u": "c8a",
+   "d": 1,
+   "q": "Which internal analysis tools does the lecture link to the internal environment?",
+   "o": [
+    "VRIO and value chain",
+    "PESTEL and Porter's five forces",
+    "SWOT opportunities and threats",
+    "GLOBE and Hofstede"
+   ],
+   "x": "Internal: VRIO, value chain. External: PESTEL, Porter."
+  },
+  {
+   "id": "c8a-250",
+   "u": "c8a",
+   "d": 1,
+   "q": "Mechanistic structures fit best in:",
+   "o": [
+    "Stable, simple environments",
+    "Rapidly changing, complex environments",
+    "Start-ups in high tech",
+    "Virtual organizations"
+   ],
+   "x": "Organic fits unstable environments."
+  },
+  {
+   "id": "c8a-251",
+   "u": "c8a",
+   "d": 2,
+   "q": "An electronics company designs energy-efficient products. Engineers stay in their specialist departments but also report to product managers. Which structure is visible?",
+   "o": [
+    "Matrix structure",
+    "Functional structure only",
+    "Geographic structure",
+    "Virtual structure"
+   ],
+   "x": "Dual reporting = matrix."
+  },
+  {
+   "id": "c8a-252",
+   "u": "c8a",
+   "d": 2,
+   "q": "A food company has separate divisions for snacks, drinks and frozen food, each with its own marketing, sales and finance. Which structure?",
+   "o": [
+    "Divisional",
+    "Functional",
+    "Matrix",
+    "Geographic"
+   ],
+   "x": "Functions grouped under division heads."
+  },
+  {
+   "id": "c8a-253",
+   "u": "c8a",
+   "d": 2,
+   "q": "A clothing brand has Europe, Asia and Americas units, each adapting products to local tastes. Which structure?",
+   "o": [
+    "Geographic",
+    "Functional",
+    "Matrix",
+    "Networked team"
+   ],
+   "x": "Organized by customer location."
+  },
+  {
+   "id": "c8a-254",
+   "u": "c8a",
+   "d": 2,
+   "q": "A start-up has no office: designers, coders and support staff in eight countries work online, and production is outsourced. Which structure?",
+   "o": [
+    "Virtual",
+    "Functional",
+    "Divisional",
+    "Mechanistic"
+   ],
+   "x": "Boundaryless and ICT-dependent."
+  },
+  {
+   "id": "c8a-255",
+   "u": "c8a",
+   "d": 2,
+   "q": "Departments in a functional company barely talk to each other and protect their own budgets. This is the typical disadvantage called:",
+   "o": [
+    "Silos",
+    "Synergy",
+    "Dual reporting",
+    "Psychic distance"
+   ],
+   "x": "Functional silos."
+  },
+  {
+   "id": "c8a-256",
+   "u": "c8a",
+   "d": 3,
+   "q": "Which pairing of structure and disadvantage is correct?",
+   "o": [
+    "Matrix: conflict from two bosses · Divisional: duplication and isolated divisions",
+    "Matrix: isolated functional silos · Divisional: confusion and conflict from two bosses",
+    "Functional: too much local autonomy · Geographic: duplication and isolated silos",
+    "Virtual: a rigid, tall hierarchy · Functional: social isolation of remote workers"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c8a-257",
+   "u": "c8a",
+   "d": 3,
+   "q": "New import tariffs raise the cost of components, and a firm reorganizes its purchasing department in response. This shows:",
+   "o": [
+    "An external (macro) force changing internal structures",
+    "An internal strength of the purchasing department that competitors lack",
+    "A matrix structure with two reporting lines",
+    "A counterculture forming inside the company"
+   ],
+   "x": "The slide example: external environments impact internal structures."
+  },
+  {
+   "id": "c8a-258",
+   "u": "c8a",
+   "d": 3,
+   "q": "Which statement about organic structures is correct?",
+   "o": [
+    "They are flatter, more participative and have fewer rules, fitting unstable environments",
+    "They are rule-based and centralized, with decisions made at the top of the hierarchy",
+    "They have a very narrow span of control, so each manager supervises few people",
+    "They suit only stable, simple environments where tasks rarely change over time, like mass production"
+   ],
+   "x": "Opposite of mechanistic."
+  },
+  {
+   "id": "c8b-259",
+   "u": "c8b",
+   "d": 1,
+   "q": "Organizational culture is:",
+   "o": [
+    "Shared assumptions, values and beliefs that show what behaviour is appropriate",
+    "The company's organization chart, showing who reports to whom",
+    "The total salary budget and how it is divided across the company's departments",
+    "The products and services a company sells and the brand it builds"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c8b-260",
+   "u": "c8b",
+   "d": 1,
+   "q": "Schein's three levels of culture, from surface to deepest, are:",
+   "o": [
+    "Artifacts, values, assumptions",
+    "Values, artifacts, assumptions",
+    "Assumptions, values, artifacts",
+    "Rituals, rules, stories"
+   ],
+   "x": "Artifacts visible; assumptions below awareness."
+  },
+  {
+   "id": "c8b-261",
+   "u": "c8b",
+   "d": 1,
+   "q": "A strong culture is one in which:",
+   "o": [
+    "Most employees show consensus about the company's values",
+    "The CEO is very strict and enforces every rule personally",
+    "There are many subcultures with their own strong values",
+    "Employees rarely agree but all follow the written rules"
+   ],
+   "x": "Shared values."
+  },
+  {
+   "id": "c8b-262",
+   "u": "c8b",
+   "d": 1,
+   "q": "Which is one of the four advantages of employee diversity named in the lecture?",
+   "o": [
+    "Diversity enhances creativity",
+    "Diversity reduces the need for communication",
+    "Diversity removes all conflict",
+    "Diversity lowers wages"
+   ],
+   "x": "Creativity, image, outreach, morale."
+  },
+  {
+   "id": "c8b-263",
+   "u": "c8b",
+   "d": 1,
+   "q": "The glass ceiling is:",
+   "o": [
+    "An invisible barrier based on prejudice that keeps women from moving up",
+    "A rule about office design that limits the height of open workspaces",
+    "A type of matrix structure in which women report to two different managers at once",
+    "A pay-for-performance system that caps bonuses at a certain level"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c8b-264",
+   "u": "c8b",
+   "d": 2,
+   "q": "A tech company has open spaces, pool tables and an open-door policy for executives. At which level of Schein's model are these?",
+   "o": [
+    "Artifacts",
+    "Values",
+    "Basic assumptions",
+    "Counterculture"
+   ],
+   "x": "Visible, tangible = artifacts."
+  },
+  {
+   "id": "c8b-265",
+   "u": "c8b",
+   "d": 2,
+   "q": "In one bureaucratic bank, the digital team openly rejects the bank's values and works by its own rules. This is a:",
+   "o": [
+    "Counterculture",
+    "Subculture that shares the main values",
+    "Strong culture",
+    "Mechanistic structure"
+   ],
+   "x": "Values opposed to the main culture."
+  },
+  {
+   "id": "c8b-266",
+   "u": "c8b",
+   "d": 2,
+   "q": "A company has a weekly celebration where top performers ring a bell. This is a sign of culture called a:",
+   "o": [
+    "Ritual",
+    "Physical layout",
+    "Mission statement",
+    "Rule"
+   ],
+   "x": "Repetitive activity teaching values."
+  },
+  {
+   "id": "c8b-267",
+   "u": "c8b",
+   "d": 2,
+   "q": "A consulting firm hires staff from many backgrounds and wins new clients in communities it couldn't reach before. Which diversity advantage?",
+   "o": [
+    "Improves outreach",
+    "Enhances image only",
+    "Reduces morale",
+    "Removes the glass ceiling"
+   ],
+   "x": "Reaching new markets."
+  },
+  {
+   "id": "c8b-268",
+   "u": "c8b",
+   "d": 2,
+   "q": "A culture that values competitiveness and outperforming rivals is a(n):",
+   "o": [
+    "Aggressive culture",
+    "People-oriented culture",
+    "Stable culture",
+    "Detail-oriented culture"
+   ],
+   "x": "Book's dimensions of culture."
+  },
+  {
+   "id": "c8b-269",
+   "u": "c8b",
+   "d": 3,
+   "q": "Why can a strong culture be a liability?",
+   "o": [
+    "It is very hard to change and can clash with another strong culture in a merger",
+    "It always lowers performance, because employees stop thinking for themselves and follow the group",
+    "It has no effect on behaviour, because people follow formal rules instead",
+    "It means employees disagree on values, which leads to constant conflict"
+   ],
+   "x": "Home Depot, Daimler-Chrysler."
+  },
+  {
+   "id": "c8b-270",
+   "u": "c8b",
+   "d": 3,
+   "q": "New equality laws protect gender identity and sexual orientation, and applicants expect remote work. A consulting firm revises its inclusion policies and builds virtual teams. Which interpretation fits best?",
+   "o": [
+    "Legal and sociocultural pressures encourage inclusive policies and flexible virtual structures",
+    "Economic pressures encourage divisional structures and standardized, centralized hiring",
+    "Technological pressure removes the need for inclusion policies once the whole workforce is virtual",
+    "Political pressure requires a functional structure with all staff at headquarters"
+   ],
+   "x": "External forces (legal, sociocultural) → internal response (policy + structure)."
+  },
+  {
+   "id": "c8b-271",
+   "u": "c8b",
+   "d": 3,
+   "q": "Which statement about sexual minorities at work is correct according to the course?",
+   "o": [
+    "They are more educated on average but still face hiring and treatment discrimination",
+    "They face no discrimination today, because equality laws have solved the problem in most countries",
+    "They have lower education levels on average, which explains their lower pay",
+    "The topic is unrelated to organizational culture and belongs only to HR law"
+   ],
+   "x": "Black et al.; Ragins et al."
+  },
+  {
+   "id": "c8b-272",
+   "u": "c8b",
+   "d": 3,
+   "q": "Which pairing of culture concept and example is correct?",
+   "o": [
+    "Founder values: culture shaped by the founder's beliefs · Onboarding: teaching new hires the norms",
+    "Founder values: a new office layout chosen by the CEO · Onboarding: firing poor performers early",
+    "Artifact: a deep, unspoken assumption · Ritual: a written policy in the employee handbook",
+    "Subculture: the whole company's shared culture · Strong culture: many disagreeing groups"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c9a-273",
+   "u": "c9a",
+   "d": 1,
+   "q": "According to Hofstede's framework, what is meant by uncertainty avoidance?",
+   "o": [
+    "How comfortable people in a society are with risk and ambiguity",
+    "The preference for long-term planning over short-term outcomes",
+    "How much trade a country conducts with neighbouring regions",
+    "The preference for local markets over international ones"
+   ],
+   "x": "Comfort (or discomfort) with uncertainty."
+  },
+  {
+   "id": "c9a-274",
+   "u": "c9a",
+   "d": 1,
+   "q": "What is power distance in Hofstede's model?",
+   "o": [
+    "Acceptance of differences in power and authority",
+    "The value of work and earnings",
+    "Preference for collective interests over individual ones",
+    "Focus on risk and uncertainty"
+   ],
+   "x": "Acceptance of inequality."
+  },
+  {
+   "id": "c9a-275",
+   "u": "c9a",
+   "d": 1,
+   "q": "Hofstede defined culture as:",
+   "o": [
+    "The collective programming of the mind that distinguishes one group from another",
+    "A company's written rules and procedures that employees are expected to follow",
+    "The language, religion and history that a country's citizens share",
+    "A country's GDP and level of economic development compared with others"
+   ],
+   "x": "Hofstede's definition."
+  },
+  {
+   "id": "c9a-276",
+   "u": "c9a",
+   "d": 1,
+   "q": "Which two dimensions are unique to the GLOBE project (not in Hofstede)?",
+   "o": [
+    "Performance orientation and humane orientation",
+    "Power distance and uncertainty avoidance",
+    "Individualism and masculinity (achievement)",
+    "Collectivism and long-term (future) orientation"
+   ],
+   "x": "GLOBE adds performance and humane orientation."
+  },
+  {
+   "id": "c9a-277",
+   "u": "c9a",
+   "d": 1,
+   "q": "Masculinity in Hofstede's model refers to:",
+   "o": [
+    "How much a society values traditionally masculine qualities such as achievement",
+    "The share of men in the workforce compared with the share of women",
+    "How much physical strength is required in the jobs of a society",
+    "How much respect people show for authority and for those who are higher in rank or older"
+   ],
+   "x": "Work-focused, clear gender roles."
+  },
+  {
+   "id": "c9a-278",
+   "u": "c9a",
+   "d": 2,
+   "q": "In a strongly collectivist culture, which managerial practice is most likely to be effective?",
+   "o": [
+    "Connecting rewards and goals to the performance of the group",
+    "Emphasizing only individual competition and personal recognition",
+    "Assigning work without considering group membership or loyalty",
+    "Avoiding long-term relationships among the members of the team"
+   ],
+   "x": "Collectivism = focus on the group."
+  },
+  {
+   "id": "c9a-279",
+   "u": "c9a",
+   "d": 2,
+   "q": "Employees in a country rarely question their supervisor and expect clear instructions from the top. This country likely scores high on:",
+   "o": [
+    "Power distance",
+    "Individualism",
+    "Masculinity (low)",
+    "Indulgence"
+   ],
+   "x": "High power distance."
+  },
+  {
+   "id": "c9a-280",
+   "u": "c9a",
+   "d": 2,
+   "q": "A company wants detailed rules, contracts and procedures for everything before acting. Its home culture likely scores high on:",
+   "o": [
+    "Uncertainty avoidance",
+    "Power distance (low)",
+    "Individualism",
+    "Humane orientation (low)"
+   ],
+   "x": "High UA → stability and clear rules."
+  },
+  {
+   "id": "c9a-281",
+   "u": "c9a",
+   "d": 2,
+   "q": "A society places great importance on fairness, altruism and caring for others. Which GLOBE dimension?",
+   "o": [
+    "Humane orientation",
+    "Performance orientation",
+    "Power distance",
+    "Assertiveness"
+   ],
+   "x": "Humane orientation."
+  },
+  {
+   "id": "c9a-282",
+   "u": "c9a",
+   "d": 2,
+   "q": "In a highly masculine society, you would expect:",
+   "o": [
+    "Work taking priority over family and leisure, with clear gender roles",
+    "Equal priority for work and leisure, with flexible gender roles",
+    "Very low interest in earnings, status and personal achievement at work",
+    "No interest in advancement, because cooperation matters most"
+   ],
+   "x": "High masculinity: advancement and earnings matter."
+  },
+  {
+   "id": "c9a-283",
+   "u": "c9a",
+   "d": 3,
+   "q": "Which pairing is correct?",
+   "o": [
+    "Hofstede: 1960s, four original dimensions · GLOBE: 1990s, 62 countries, nine dimensions",
+    "Hofstede: 1990s, 62 countries, nine dimensions · GLOBE: 1960s, four original dimensions",
+    "Hofstede: nine dimensions in 62 countries · GLOBE: four dimensions in IBM offices",
+    "Both were developed in the same IBM study, so they share all of their dimensions"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c9a-284",
+   "u": "c9a",
+   "d": 3,
+   "q": "Psychic distance refers to:",
+   "o": [
+    "Differences between countries in language, culture, institutions and business practices",
+    "The physical distance in kilometres between the capitals of two trading countries",
+    "The emotional distance between a manager and an employee in a hierarchy",
+    "A Hofstede dimension measuring how far people accept an unequal distribution of power in society"
+   ],
+   "x": "Book key term."
+  },
+  {
+   "id": "c9a-285",
+   "u": "c9a",
+   "d": 3,
+   "q": "An American manager sent to Mexico (high power distance) should most likely:",
+   "o": [
+    "Show authority and give clear direction, as subordinates expect it",
+    "Ask subordinates to challenge every decision openly in team meetings",
+    "Remove all hierarchy immediately to create a flat, open team",
+    "Avoid giving any instructions and let the team decide alone"
+   ],
+   "x": "Adapt to high power distance expectations."
+  },
+  {
+   "id": "c9b-286",
+   "u": "c9b",
+   "d": 1,
+   "q": "Which are the three globalization factors named in the lecture?",
+   "o": [
+    "Lower trade barriers, foreign direct investment, the Internet",
+    "Tariffs, wars and rising inflation in emerging markets",
+    "Exporting, licensing and franchising by small and medium-sized firms",
+    "Power distance, individualism and masculinity"
+   ],
+   "x": "Book: three factors."
+  },
+  {
+   "id": "c9b-287",
+   "u": "c9b",
+   "d": 1,
+   "q": "Foreign direct investment (FDI) is:",
+   "o": [
+    "Investing in another country through ownership positions in companies there",
+    "Selling products abroad that are made in your home country",
+    "Paying a royalty to use a foreign company's trademark or patent",
+    "A tax that a government adds to the price of imported products to protect local firms"
+   ],
+   "x": "Ownership abroad."
+  },
+  {
+   "id": "c9b-288",
+   "u": "c9b",
+   "d": 1,
+   "q": "Tariffs are:",
+   "o": [
+    "Taxes added to the price of imported products",
+    "Subsidies that governments pay to exporters",
+    "Royalty fees paid for licences and franchises",
+    "Shares bought in a foreign company"
+   ],
+   "x": "Tariffs protect local industries."
+  },
+  {
+   "id": "c9b-289",
+   "u": "c9b",
+   "d": 1,
+   "q": "Which is the easiest way to go international?",
+   "o": [
+    "Exporting",
+    "Foreign direct investment",
+    "A wholly owned subsidiary",
+    "A strategic alliance"
+   ],
+   "x": "Exporting is easiest and cost-effective."
+  },
+  {
+   "id": "c9b-290",
+   "u": "c9b",
+   "d": 1,
+   "q": "A global strategy assumes that:",
+   "o": [
+    "The world is interconnected and consumption patterns are fairly similar worldwide",
+    "Every national market needs its own product, adapted to local tastes and laws",
+    "Only a few key regions matter, so each region gets its own marketing and finance",
+    "International trade is too risky, so firms should focus on their home market"
+   ],
+   "x": "Same approach everywhere."
+  },
+  {
+   "id": "c9b-291",
+   "u": "c9b",
+   "d": 2,
+   "q": "A company enters a foreign market by creating a new business that it owns together with a local company. Which global expansion strategy is this?",
+   "o": [
+    "Joint venture",
+    "Wholly owned subsidiary",
+    "Exporting",
+    "Licensing"
+   ],
+   "x": "Jointly owned new business = joint venture (strategic alliance)."
+  },
+  {
+   "id": "c9b-292",
+   "u": "c9b",
+   "d": 2,
+   "q": "Toyota organizes its marketing and finance around key geographic regions. Which strategy?",
+   "o": [
+    "Regional strategy",
+    "Global strategy",
+    "Local (multidomestic) strategy",
+    "Exporting strategy"
+   ],
+   "x": "Book example of a regional strategy."
+  },
+  {
+   "id": "c9b-293",
+   "u": "c9b",
+   "d": 2,
+   "q": "A fast-food chain offers rice dishes in Asia and different breakfasts in Europe to fit local tastes. Which strategy?",
+   "o": [
+    "Local strategy",
+    "Global strategy",
+    "Regional strategy",
+    "Licensing"
+   ],
+   "x": "Adapting products to local markets."
+  },
+  {
+   "id": "c9b-294",
+   "u": "c9b",
+   "d": 2,
+   "q": "For a royalty, a magazine allows a foreign publisher to use its name and content. This is:",
+   "o": [
+    "Licensing",
+    "FDI",
+    "Exporting",
+    "A joint venture"
+   ],
+   "x": "Use of trademark or know-how for a fee."
+  },
+  {
+   "id": "c9b-295",
+   "u": "c9b",
+   "d": 2,
+   "q": "A Dutch firm builds its own factory in Mexico, fully owned by the Dutch parent. This is:",
+   "o": [
+    "Foreign direct investment",
+    "Exporting",
+    "Licensing",
+    "A strategic alliance with a local firm"
+   ],
+   "x": "Wholly invested in the host country."
+  },
+  {
+   "id": "c9b-296",
+   "u": "c9b",
+   "d": 3,
+   "q": "Why are strategic alliances often preferred for entering emerging markets?",
+   "o": [
+    "Doing business is easier with a local partner who knows the market",
+    "They require no cooperation or sharing of control with a partner",
+    "They give full control over operations without needing any partner",
+    "They avoid all political and economic risks of the foreign market"
+   ],
+   "x": "Book: preferred means of entry in emerging markets."
+  },
+  {
+   "id": "c9b-297",
+   "u": "c9b",
+   "d": 3,
+   "q": "Which statement about exporting is supported by the book?",
+   "o": [
+    "Companies that export tend to be about 17% more profitable than those that don't",
+    "Exporting is always too risky for small firms, so only large firms should export",
+    "Exporting requires building factories abroad before any product can be sold",
+    "Exporting gives full control over foreign marketing, sales and distribution"
+   ],
+   "x": "Research cited in the lecture."
+  },
+  {
+   "id": "c9b-298",
+   "u": "c9b",
+   "d": 3,
+   "q": "Which pairing of entry mode and involvement is correct (from least to most involved)?",
+   "o": [
+    "Exporting → licensing/franchising → strategic alliance → FDI",
+    "FDI → exporting → strategic alliance → licensing/franchising",
+    "Strategic alliance → FDI → exporting → licensing/franchising",
+    "Licensing/franchising → FDI → exporting → strategic alliance"
+   ],
+   "x": "Increasing involvement and control."
+  },
+  {
+   "id": "c10a-299",
+   "u": "c10a",
+   "d": 1,
+   "q": "What are Tuckman's original four stages of team development, in order?",
+   "o": [
+    "Forming, storming, norming, performing",
+    "Storming, forming, norming, performing",
+    "Forming, norming, storming, performing",
+    "Norming, forming, performing, storming"
+   ],
+   "x": "Adjourning was added in 1977."
+  },
+  {
+   "id": "c10a-300",
+   "u": "c10a",
+   "d": 1,
+   "q": "In which stage do members compete for control and clash ('win-lose')?",
+   "o": [
+    "Storming",
+    "Forming",
+    "Norming",
+    "Performing"
+   ],
+   "x": "Storming."
+  },
+  {
+   "id": "c10a-301",
+   "u": "c10a",
+   "d": 1,
+   "q": "Which stage did Tuckman add in 1977?",
+   "o": [
+    "Adjourning",
+    "Reforming",
+    "Transforming",
+    "Conforming"
+   ],
+   "x": "The team disbands at the end of a project."
+  },
+  {
+   "id": "c10a-302",
+   "u": "c10a",
+   "d": 1,
+   "q": "In the forming stage, the team:",
+   "o": [
+    "Is polite and looks to the leader for structure and direction",
+    "Is fully self-directed and needs little help from the leader",
+    "Clashes openly about leadership, roles and how to work",
+    "Agrees on ground rules and starts to feel like a team"
+   ],
+   "x": "The polite stage."
+  },
+  {
+   "id": "c10a-303",
+   "u": "c10a",
+   "d": 2,
+   "q": "A project team has agreed on ground rules, shares responsibility and members respect each other's contributions. Which stage?",
+   "o": [
+    "Norming",
+    "Storming",
+    "Forming",
+    "Adjourning"
+   ],
+   "x": "Norming."
+  },
+  {
+   "id": "c10a-304",
+   "u": "c10a",
+   "d": 2,
+   "q": "A team works confidently with little direction from its manager and delivers great results. Which stage?",
+   "o": [
+    "Performing",
+    "Norming",
+    "Forming",
+    "Storming"
+   ],
+   "x": "Self-directed = performing."
+  },
+  {
+   "id": "c10a-305",
+   "u": "c10a",
+   "d": 2,
+   "q": "A performing team gets three new members and a new task, and arguments about roles return. What happened?",
+   "o": [
+    "The team slid back to an earlier stage, because the stages are not linear",
+    "The team reached adjourning, because the original task was completed",
+    "The team skipped norming forever, because it had already performed",
+    "Nothing: Tuckman's stages happen only once, so this is just normal conflict"
+   ],
+   "x": "New members or tasks can cause regression."
+  },
+  {
+   "id": "c10a-306",
+   "u": "c10a",
+   "d": 2,
+   "q": "A shift toward hybrid work leads a company to add remote specialists to a team. The leader notices uncertainty about roles and expectations, then schedules sessions that help members rebuild shared working agreements. Which two stages best match?",
+   "o": [
+    "Storming after adding members, followed by norming as shared agreements develop",
+    "Performing after adding members, followed by storming as expectations become clear",
+    "Norming after adding members, followed by adjourning",
+    "Forming after adding members, followed by norming as expectations become clear"
+   ],
+   "x": "Role uncertainty = storming; rebuilding agreements = norming."
+  },
+  {
+   "id": "c10a-307",
+   "u": "c10a",
+   "d": 3,
+   "q": "According to the course, why are diverse teams often better at decision making?",
+   "o": [
+    "They focus more on facts, re-examine them and are less prone to groupthink",
+    "They agree faster, because different views quickly cancel each other out",
+    "They avoid all conflict, because members respect each other's backgrounds",
+    "They need no leader, because the diversity itself coordinates the work"
+   ],
+   "x": "Rock & Grant (2016)."
+  },
+  {
+   "id": "c10a-308",
+   "u": "c10a",
+   "d": 3,
+   "q": "The project ends, the team celebrates and members return to their departments. Which stage?",
+   "o": [
+    "Adjourning",
+    "Performing",
+    "Forming",
+    "Norming"
+   ],
+   "x": "Disbanding."
+  },
+  {
+   "id": "c10a-309",
+   "u": "c10a",
+   "d": 3,
+   "q": "Which statement about team diversity is supported by the McKinsey data in the book?",
+   "o": [
+    "Firms in the top quartile for ethnic diversity in management were 35% more likely to beat industry returns",
+    "Diverse teams always perform worse in the short run because they need more time to communicate and agree",
+    "Gender diversity has no link with financial returns once industry and company size are controlled for",
+    "Diversity matters only in the public sector, where teams serve a varied population of citizens"
+   ],
+   "x": "35% (ethnic) and 15% (gender)."
+  },
+  {
+   "id": "c10b-310",
+   "u": "c10b",
+   "d": 1,
+   "q": "A social network is:",
+   "o": [
+    "A patterned set of relationships between two or more people",
+    "Only an online platform like LinkedIn or Facebook",
+    "An organization chart showing formal reporting lines",
+    "A formal team with a shared goal, a leader and clear roles"
+   ],
+   "x": "Drawn as a sociogram."
+  },
+  {
+   "id": "c10b-311",
+   "u": "c10b",
+   "d": 1,
+   "q": "Which three advantages do networks give leaders?",
+   "o": [
+    "Access to information, access to diverse skill sets, and power",
+    "Higher pay, more holidays and a bigger office with a view",
+    "Less work, fewer meetings and no conflict with colleagues or managers",
+    "Formal authority, coercion and the ability to give rewards"
+   ],
+   "x": "Course slide."
+  },
+  {
+   "id": "c10b-312",
+   "u": "c10b",
+   "d": 1,
+   "q": "Ibarra recommends building which three types of networks?",
+   "o": [
+    "Operational, personal, strategic",
+    "Formal, informal, virtual",
+    "Strong, weak, bridging",
+    "Local, regional, global, virtual"
+   ],
+   "x": "Ibarra (2007)."
+  },
+  {
+   "id": "c10b-313",
+   "u": "c10b",
+   "d": 1,
+   "q": "The principle of similarity states that:",
+   "o": [
+    "Ties develop spontaneously between people with common backgrounds and interests",
+    "You trade favours of roughly equal value with the people in your network",
+    "People who are different from you give more value than people who are similar",
+    "Networks are always formal and follow the lines of the organization chart"
+   ],
+   "x": "Like attracts like."
+  },
+  {
+   "id": "c10b-314",
+   "u": "c10b",
+   "d": 1,
+   "q": "Weak ties are:",
+   "o": [
+    "Ties between people who know each other but don't exchange resources regularly",
+    "Ties between close friends and family who see each other and exchange help very often",
+    "Ties that never give useful information, because the people barely know you",
+    "Formal reporting lines between a manager and the employees in their team"
+   ],
+   "x": "Granovetter: weak ties help you find jobs."
+  },
+  {
+   "id": "c10b-315",
+   "u": "c10b",
+   "d": 2,
+   "q": "Two colleagues regularly trade favours of about equal value: 'I helped you with the report, you help me with the slides.' Which principle?",
+   "o": [
+    "Reciprocity",
+    "Exchange",
+    "Similarity",
+    "Centrality"
+   ],
+   "x": "Equal trading = reciprocity."
+  },
+  {
+   "id": "c10b-316",
+   "u": "c10b",
+   "d": 2,
+   "q": "An engineer partners with a marketer because their very different skills complement each other. Which principle is at work?",
+   "o": [
+    "Exchange",
+    "Similarity",
+    "Reciprocity",
+    "Density"
+   ],
+   "x": "Value from difference = exchange."
+  },
+  {
+   "id": "c10b-317",
+   "u": "c10b",
+   "d": 2,
+   "q": "A manager builds contacts with people who can help or block her current project. Which Ibarra network?",
+   "o": [
+    "Operational",
+    "Personal",
+    "Strategic",
+    "Professional"
+   ],
+   "x": "Getting current work done = operational."
+  },
+  {
+   "id": "c10b-318",
+   "u": "c10b",
+   "d": 2,
+   "q": "A young professional joins an alumni group and a professional association for coaching and referrals. Which Ibarra network?",
+   "o": [
+    "Personal",
+    "Operational",
+    "Strategic",
+    "Problem-solving"
+   ],
+   "x": "Development, referrals, mentoring = personal."
+  },
+  {
+   "id": "c10b-319",
+   "u": "c10b",
+   "d": 2,
+   "q": "A travel company's team includes members with different cultural backgrounds and expertise. It also consults community leaders, environmental experts and industry partners to understand emerging expectations. Which interpretation best explains what strengthens the response?",
+   "o": [
+    "Team diversity broadens market insight, while strategic networking identifies future trends and opportunities",
+    "Centralized expertise broadens insight, while closed networking finds partners",
+    "Cultural similarity broadens insight, while personal networking finds regulations",
+    "Professional similarity broadens insight, while operational networking finds new market developments early"
+   ],
+   "x": "Diversity + strategic network (future priorities)."
+  },
+  {
+   "id": "c10b-320",
+   "u": "c10b",
+   "d": 3,
+   "q": "Why does Granovetter find that people find jobs mostly through weak ties?",
+   "o": [
+    "Close friends know what you know; acquaintances bring new information",
+    "Weak ties are more loyal, so they recommend you more strongly",
+    "Strong ties never help, because close friends compete for the same jobs",
+    "Weak ties have formal authority to hire, while friends usually don't"
+   ],
+   "x": "New information rarely comes from strong ties."
+  },
+  {
+   "id": "c10b-321",
+   "u": "c10b",
+   "d": 3,
+   "q": "What is the risk of a network built mainly on similarity?",
+   "o": [
+    "It becomes an echo chamber that lacks new ideas and depends on a few people",
+    "It is too diverse, so members can't agree on anything and trust stays low",
+    "It creates too many weak ties, so you get too much new information",
+    "It has too many bridging ties, so you lose touch with your own group"
+   ],
+   "x": "Similarity limits new resources."
+  },
+  {
+   "id": "c10b-322",
+   "u": "c10b",
+   "d": 3,
+   "q": "Why are social networks called 'the invisible organization'?",
+   "o": [
+    "They are the pathways through which communication and resources really flow",
+    "They are hidden on purpose by management to keep control over employees",
+    "They only exist online, on platforms such as LinkedIn, so nobody sees them",
+    "They replace the formal structure completely once a company grows large"
+   ],
+   "x": "They complement or compete with the formal chart."
+  }
+ ],
+ "caseQuestions": [],
+ "glossary": [
+  {
+   "g": "Culture",
+   "ch": "Ch 8–9",
+   "t": [
+    [
+     "Power distance",
+     "How much people accept an unequal distribution of power."
+    ],
+    [
+     "Individualism",
+     "People put personal goals and independence first. Collectivism puts the group first."
+    ],
+    [
+     "Masculinity",
+     "Hofstede: emphasis on achievement, competition and earnings. Femininity: cooperation and quality of life."
+    ],
+    [
+     "Uncertainty avoidance",
+     "How uncomfortable people are with risk and ambiguity, so how much they want rules."
+    ],
+    [
+     "Long-term orientation",
+     "Focus on future rewards, saving and persistence."
+    ],
+    [
+     "Indulgence vs restraint",
+     "Freedom to enjoy life versus strict social norms."
+    ],
+    [
+     "Hofstede",
+     "Culture as 'collective programming of the mind'. IBM study, 1960s–70s: 4 original dimensions, later 6."
+    ],
+    [
+     "GLOBE",
+     "1990s study of 62 countries on culture and leadership with 9 dimensions."
+    ],
+    [
+     "Humane orientation",
+     "GLOBE only: how much a society rewards kindness, generosity, fairness and care."
+    ],
+    [
+     "Performance orientation",
+     "GLOBE only: how much a society rewards improvement and excellence."
+    ],
+    [
+     "Ethnocentrism",
+     "Believing your own culture is superior to other cultures."
+    ],
+    [
+     "Organizational culture",
+     "Shared assumptions, values and beliefs that show people what behaviour is appropriate."
+    ],
+    [
+     "Strong culture",
+     "Most employees agree with and follow the same core values."
+    ],
+    [
+     "Subculture",
+     "A smaller group inside the organization with its own values that fit the main culture."
+    ],
+    [
+     "Counterculture",
+     "A group whose values clearly oppose the organization's dominant culture."
+    ]
+   ]
+  },
+  {
+   "g": "Structures",
+   "ch": "Ch 8",
+   "t": [
+    [
+     "Functional structure",
+     "Employees grouped by department or expertise: marketing, HR, finance."
+    ],
+    [
+     "Divisional structure",
+     "Organized by product, customer group or market, each division with its own functions."
+    ],
+    [
+     "Matrix structure",
+     "Employees report to two managers: a functional one and a project or product one."
+    ],
+    [
+     "Geographic structure",
+     "Organized by location or region."
+    ],
+    [
+     "Virtual structure",
+     "Relies on technology and outside partners, with few physical boundaries."
+    ],
+    [
+     "Mechanistic structure",
+     "Rigid hierarchy, strict rules, centralized decisions, specialized jobs."
+    ],
+    [
+     "Organic structure",
+     "Flat, flexible and participative with few rules; fits unstable environments."
+    ],
+    [
+     "Glass ceiling",
+     "Invisible barrier based on prejudice that keeps women and minorities from top positions."
+    ]
+   ]
+  },
+  {
+   "g": "Teams & networks",
+   "ch": "Ch 10",
+   "t": [
+    [
+     "Forming",
+     "Tuckman 1: members meet, are polite and look to the leader for direction."
+    ],
+    [
+     "Storming",
+     "Tuckman 2: conflict about roles, leadership and how to work."
+    ],
+    [
+     "Norming",
+     "Tuckman 3: the team agrees on rules and builds trust and cooperation."
+    ],
+    [
+     "Performing",
+     "Tuckman 4: the team works effectively and independently toward its goals."
+    ],
+    [
+     "Adjourning",
+     "Tuckman 5: the task ends and the team separates."
+    ],
+    [
+     "Operational network",
+     "Ibarra: contacts you need to get your current work done."
+    ],
+    [
+     "Personal network",
+     "Ibarra: contacts outside the organization for your own development and advice."
+    ],
+    [
+     "Strategic network",
+     "Ibarra: contacts that help you see future priorities and opportunities."
+    ]
+   ]
+  }
+ ],
+ "compare": [
+  [
+   "SWOT vs PESTEL",
+   "SWOT has internal strengths/weaknesses and external opportunities/threats. PESTEL looks only at the external macro environment."
+  ],
+  [
+   "PESTEL vs Five Forces",
+   "PESTEL = broad macro environment. Porter = competition inside the industry."
+  ],
+  [
+   "Maslow vs ERG",
+   "Maslow: 5 levels in a fixed order. ERG: 3 groups, several needs at once, and you can fall back (frustration-regression)."
+  ],
+  [
+   "Herzberg vs Maslow",
+   "Maslow explains human needs in general. Herzberg explains what causes job satisfaction vs dissatisfaction."
+  ],
+  [
+   "Theory X vs Theory Y",
+   "X assumes people need control. Y assumes people can motivate themselves."
+  ],
+  [
+   "Lewin vs Kotter",
+   "Lewin: 3 broad stages for any change. Kotter: 8 detailed steps for large transformations (steps 1–4 = unfreeze)."
+  ],
+  [
+   "Functional vs Divisional",
+   "Functional groups people by department. Divisional groups them by product, market or region."
+  ],
+  [
+   "Mechanistic vs Organic",
+   "Mechanistic = strict rules and hierarchy. Organic = flexible, flat, adaptable."
+  ],
+  [
+   "Democratic vs Authoritarian",
+   "Democratic involves employees in decisions. Authoritarian decides alone."
+  ],
+  [
+   "Task- vs People-oriented",
+   "Task-oriented focuses on results and deadlines. People-oriented on relationships and well-being."
+  ],
+  [
+   "Coercive vs Reward power",
+   "Coercive uses punishment. Reward uses incentives and benefits."
+  ],
+  [
+   "Line vs Staff manager",
+   "Line contributes directly to the product or service. Staff gives indirect specialist support."
+  ],
+  [
+   "Subculture vs Counterculture",
+   "A subculture fits within the main culture. A counterculture opposes it."
+  ],
+  [
+   "Hofstede vs GLOBE",
+   "Hofstede: IBM, 1960s, 4 then 6 dimensions. GLOBE: 1990s, 62 countries, 9 dimensions incl. performance and humane orientation."
+  ]
+ ]
+}

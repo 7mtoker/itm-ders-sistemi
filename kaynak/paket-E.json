@@ -1,0 +1,1352 @@
+{
+ "paket": "E",
+ "chapters": [
+  11
+ ],
+ "units": [
+  {
+   "id": "c11a",
+   "ch": 11,
+   "pts": 3,
+   "t": "Innovative culture & failure to innovate",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Innovative culture</b>: a work environment that fosters and rewards employee creativity instead of focusing on deadlines and revenue. Five traits: <b>unique strategy, autonomy, trust, accepting failures, leadership</b>.</p>\n<p><b>Benefits</b> (Swisher): sets a course for improvement · develops new ideas · company growth · competitive advantage · team efficiency · adaptive nature · attracts talent · improves the brand.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "How leaders nurture innovation",
+     "html": "<h4>How leaders nurture innovation</h4>\n<table class=\"rules\"><tr><th>Method</th><th>Example</th></tr>\n<tr><td>Internal collaboration</td><td>Cross-departmental teams; R&D spends ~10% of its time in marketing and sales</td></tr>\n<tr><td>Innovation labs & intrapreneurship</td><td>Employee ideas become spin-offs (LEGO's Future Lab)</td></tr>\n<tr><td>Innovation time</td><td>Google and 3M: 15–20% of the week for side projects (Gmail)</td></tr>\n<tr><td>Partnerships & acquisitions</td><td>Share the risk, or buy small innovative firms (Cisco)</td></tr>\n<tr><td>Open labs for co-creation</td><td>Customers co-create (BMW, Co-Create IKEA, LEGO Ideas)</td></tr></table>\n<p><b>Innovation portfolio</b>: invest 70% core, 20% adjacent, 10% transformational; long-term returns are the reverse (10 / 20 / 70).</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Seven reasons for failure to innovate",
+     "html": "<h4>Seven reasons for failure to innovate</h4>\n<p>Fear of taking risks · lack of market orientation (no real customer value) · failure to scale · poor organizational structure and processes · wrong decisions · lack of internal communication · low priority for innovation. Usually failure comes from <b>implementation</b>, not the idea.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>A product nobody needs because it isn't different from what exists = lack of market orientation, not fear of risk.</div>",
+   "terms": [
+    [
+     "Innovative culture",
+     "Work environment that fosters and rewards creativity rather than focusing on deadlines and revenue."
+    ],
+    [
+     "Intrapreneurship",
+     "An employee's idea becomes a spin-off or subsidiary led by that employee."
+    ],
+    [
+     "Innovation time",
+     "Free time for employees to work on innovative side projects."
+    ],
+    [
+     "Open lab / co-creation",
+     "Developing ideas together with customers, suppliers or partners."
+    ],
+    [
+     "Innovation portfolio",
+     "70% core, 20% adjacent, 10% transformational investment."
+    ],
+    [
+     "Lack of market orientation",
+     "Not understanding customer needs, so the product offers no real value."
+    ]
+   ]
+  },
+  {
+   "id": "c11b",
+   "ch": 11,
+   "pts": 3,
+   "t": "Innovation networks & why organizations change",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "The innovation network (McKinsey)",
+     "html": "<h4>The innovation network (McKinsey)</h4>\n<p>Connections and networks matter more for innovation than individual creativity. Four steps:</p>\n<table class=\"rules\"><tr><th>Step</th><th>What</th></tr>\n<tr><td>1. Connect</td><td>Identify people with an innovation mind-set from different backgrounds</td></tr>\n<tr><td>2. Set boundaries and engage</td><td>Define goals and how they link to strategy, mission and vision; time frames</td></tr>\n<tr><td>3. Support and govern</td><td>Leadership structure, protocols, resources, sponsorship from top leaders</td></tr>\n<tr><td>4. Manage and track</td><td>Rewards for members, tracking progress, joining and leaving</td></tr></table>\n<p>Archetypes in the network: idea generators, researchers, experts, producers.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Organizational change",
+     "html": "<h4>Organizational change</h4>\n<p><b>Organizational change</b>: the movement of an organization from one state of affairs to another. Often required by a change in the environment. It can affect structure, strategy, policies, technology or culture; radical or incremental.</p>\n<table class=\"rules\"><tr><th>Driver</th><th>Example</th></tr>\n<tr><td>Workplace demographics</td><td>Ageing workforce, too few young workers</td></tr>\n<tr><td>Technology</td><td>Moore's law; music industry vs Napster</td></tr>\n<tr><td>Globalization</td><td>Outsourcing and offshoring</td></tr>\n<tr><td>Market conditions</td><td>Airlines after 9/11 and fuel price rises</td></tr>\n<tr><td>Growth</td><td>Widmer Brothers: garage to 11th largest US brewery</td></tr>\n<tr><td>Poor performance</td><td>Poor performers change more easily; success breeds overconfidence and inertia: “nothing fails like success” (Polaroid). New CEOs also trigger change.</td></tr></table>"
+    }
+   ],
+   "trap": "",
+   "terms": [
+    [
+     "Innovation network",
+     "Network of innovators built in four steps: connect, set boundaries and engage, support and govern, manage and track."
+    ],
+    [
+     "Organizational change",
+     "Movement of an organization from one state of affairs to another."
+    ],
+    [
+     "Nothing fails like success",
+     "Successful firms resist change through overconfidence and inertia."
+    ]
+   ]
+  },
+  {
+   "id": "c11c",
+   "ch": 11,
+   "pts": 3,
+   "t": "Reactions & resistance to change",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Four reactions to change",
+     "html": "<h4>Four reactions to change</h4>\n<table class=\"rules\"><tr><th>Reaction</th><th>Behaviour</th></tr>\n<tr><td><b>Active resistance</b></td><td>Most negative: sabotages, objects openly, encourages others to resist</td></tr>\n<tr><td><b>Passive resistance</b></td><td>Disturbed but silent: dislikes it quietly, stressed, may look for another job without telling anyone</td></tr>\n<tr><td><b>Compliance</b></td><td>Goes along with little enthusiasm</td></tr>\n<tr><td><b>Enthusiastic support</b></td><td>Defends the new way and encourages others to support it (the exception)</td></tr></table>"
+    },
+    {
+     "i": 1,
+     "baslik": "Seven reasons people resist",
+     "html": "<h4>Seven reasons people resist</h4>\n<table class=\"rules\"><tr><th>Reason</th><th>Example</th></tr>\n<tr><td>Disrupted habits</td><td>Automatic routines broken (automatic → stick shift)</td></tr>\n<tr><td>Personality</td><td>Low openness, low self-esteem, risk avoidance</td></tr>\n<tr><td>Feelings of uncertainty</td><td>A merger: nobody knows what happens to their job</td></tr>\n<tr><td>Fear of failure</td><td>Experts doubt they'll perform well in the new system</td></tr>\n<tr><td>Personal impact of change</td><td>People welcome changes that help them and resist ones that hurt them</td></tr>\n<tr><td>Prevalence of change</td><td>Too many changes; fatigue and skepticism</td></tr>\n<tr><td>Perceived loss of power</td><td>Supervisors lose authority when teams take over</td></tr></table>\n<p>Resistance is not always bad: it is <b>valuable feedback</b>, and the most loyal employees may be the loudest critics. Example: the faster Dvorak keyboard never replaced QWERTY because of resistance.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>The difference between active and passive is <b>voice</b>: loud objecting or sabotage is active, silent unhappiness is passive.</div>",
+   "terms": [
+    [
+     "Active resistance",
+     "Sabotaging or openly objecting and encouraging others to resist."
+    ],
+    [
+     "Passive resistance",
+     "Disliking the change quietly without voicing it."
+    ],
+    [
+     "Compliance",
+     "Going along with the change with little enthusiasm."
+    ],
+    [
+     "Enthusiastic support",
+     "Defending the change and encouraging others to support it."
+    ],
+    [
+     "Prevalence of change",
+     "Resistance because there have been too many changes."
+    ],
+    [
+     "Perceived loss of power",
+     "Resistance because the change reduces your authority or status."
+    ]
+   ]
+  },
+  {
+   "id": "c11d",
+   "ch": 11,
+   "pts": 3,
+   "t": "Lewin's three stages & Kotter's eight steps",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Lewin's three-stage model (1940s–50s)",
+     "html": "<h4>Lewin's three-stage model (1940s–50s)</h4>\n<table class=\"rules\"><tr><th>Stage</th><th>Actions</th></tr>\n<tr><td><b>1. Unfreeze</b></td><td>Prepare people: communicate a plan and a vision, develop a sense of urgency, build a coalition of opinion leaders, give emotional and instrumental support (training), let employees participate</td></tr>\n<tr><td><b>2. Change (move)</b></td><td>Execute: continue to support, create small wins, eliminate obstacles</td></tr>\n<tr><td><b>3. Refreeze</b></td><td>Make it permanent: publicize success, reward change adoption</td></tr></table>\n<p>Contrast: the <b>learning organization</b> sees change as continuous rather than one episode.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Kotter's eight steps (1990s), mapped on Lewin",
+     "html": "<h4>Kotter's eight steps (1990s), mapped on Lewin</h4>\n<table class=\"rules\"><tr><th>Lewin</th><th>Kotter step</th><th>Case clue</th></tr>\n<tr><td rowspan=\"4\">Unfreeze</td><td>1. Create urgency</td><td>Showing data, complaints, crisis, competitors, consequences of doing nothing</td></tr>\n<tr><td>2. Build a guiding coalition</td><td>A small, influential group that <b>leads</b> the change</td></tr>\n<tr><td>3. Form a strategic vision & initiatives</td><td>A short statement of the desired future</td></tr>\n<tr><td>4. Enlist a volunteer army</td><td>A <b>large</b> group of people who sign up to help</td></tr>\n<tr><td rowspan=\"3\">Change</td><td>5. Enable action by removing barriers</td><td>Old procedures or forms scrapped; staff empowered</td></tr>\n<tr><td>6. Generate short-term wins</td><td>A pilot with a visible, measurable result</td></tr>\n<tr><td>7. Sustain acceleration</td><td>Using early success to roll out further</td></tr>\n<tr><td>Refreeze</td><td>8. Institute change</td><td>Written into hiring, training, job descriptions, reviews</td></tr></table>\n<p class=\"muted\">Memory hook: “Ugly Cats Vote Very Badly When Angry Indoors.”</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Small leading group = guiding coalition; a big crowd of volunteers = volunteer army.<br>Presenting waiting times and complaints = create urgency (mock Q34). A measurable pilot result = short-term win (mock Q35).</div>",
+   "terms": [
+    [
+     "Unfreeze",
+     "Preparing people so they are ready for and open to change."
+    ],
+    [
+     "Refreeze",
+     "Making the change permanent so new habits become the norm."
+    ],
+    [
+     "Guiding coalition",
+     "Kotter 2: a group with enough power and credibility to lead the change."
+    ],
+    [
+     "Volunteer army",
+     "Kotter 4: a large base of people who act on the vision."
+    ],
+    [
+     "Short-term wins",
+     "Kotter 6: visible early results that are rewarded."
+    ],
+    [
+     "Institute change",
+     "Kotter 8: anchoring new behaviours in the culture."
+    ],
+    [
+     "Learning organization",
+     "Embraces continuous change instead of one-off episodes."
+    ]
+   ]
+  },
+  {
+   "id": "c11e",
+   "ch": 11,
+   "pts": 3,
+   "t": "Schein's culture change & comparing the models",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Schein's culture change process (six steps)",
+     "html": "<h4>Schein's culture change process (six steps)</h4>\n<table class=\"rules\"><tr><th>Step</th><th>Book example</th></tr>\n<tr><td>1. Create a sense of urgency</td><td>Lou Gerstner used IBM's crisis to get buy-in</td></tr>\n<tr><td>2. Change leaders and other key players</td><td>Disney's new CEO Iger removed the planning unit close to the old CEO</td></tr>\n<tr><td>3. Role modeling</td><td>Iger joined game creation himself; bad example: HP executives' spying scandal</td></tr>\n<tr><td>4. Training</td><td>NASA safety training after Columbia; Midas customer training</td></tr>\n<tr><td>5. Change the reward system</td><td>Commission → salary for customer focus; team bonuses for a team culture</td></tr>\n<tr><td>6. Create new symbols and stories</td><td>Continental Airlines burned its 800-page manual (new one: 80 pages)</td></tr></table>\n<p class=\"muted\">Memory hook: “Ugly Lions Rarely Take Rainy Showers.”</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Comparing the three models",
+     "html": "<h4>Comparing the three models</h4>\n<table class=\"rules\"><tr><th>Model</th><th>When</th><th>Focus</th></tr>\n<tr><td>Lewin</td><td>1940s–50s</td><td>3 stages; general framework for any change; overcoming resistance</td></tr>\n<tr><td>Schein</td><td>1980s–90</td><td>6 steps; changing <b>culture</b>: values, role models, symbols</td></tr>\n<tr><td>Kotter</td><td>1990s</td><td>8 steps; roadmap for <b>large-scale</b> transformation</td></tr></table>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>All three start with urgency. Read which model the question names and answer inside that model.</div>",
+   "terms": [
+    [
+     "Role modeling",
+     "Employees change their beliefs and behaviour to reflect the leader's."
+    ],
+    [
+     "New symbols and stories",
+     "Visible acts and stories that show the new culture (Continental's manual)."
+    ],
+    [
+     "Changing key players",
+     "Replacing leaders who block the change."
+    ],
+    [
+     "Schein's model",
+     "Six steps for culture change."
+    ]
+   ]
+  }
+ ],
+ "bank": [
+  {
+   "id": "c11a-323",
+   "u": "c11a",
+   "d": 1,
+   "q": "An innovative culture is best defined as a work environment that:",
+   "o": [
+    "Fosters and rewards employee creativity instead of focusing on deadlines",
+    "Focuses on cutting costs so that money becomes available for new ideas",
+    "Keeps innovation inside the R&D department, away from daily operations",
+    "Rewards employees mainly for meeting their deadlines and revenue targets"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c11a-324",
+   "u": "c11a",
+   "d": 1,
+   "q": "Which are the five key characteristics of an innovative culture?",
+   "o": [
+    "Unique strategy, autonomy, trust, accepting failures, leadership",
+    "Strict rules, central control, deadlines, hierarchy, secrecy",
+    "Low cost, speed to market, scale, firm size, profitability",
+    "Planning, organizing, leading, controlling, evaluating results"
+   ],
+   "x": "Book list."
+  },
+  {
+   "id": "c11a-325",
+   "u": "c11a",
+   "d": 1,
+   "q": "In a balanced innovation portfolio, investment is typically split core / adjacent / transformational as:",
+   "o": [
+    "70 / 20 / 10",
+    "10 / 20 / 70",
+    "33 / 33 / 33",
+    "50 / 30 / 20"
+   ],
+   "x": "Returns are inverted (10/20/70)."
+  },
+  {
+   "id": "c11a-326",
+   "u": "c11a",
+   "d": 1,
+   "q": "Which is one of the seven reasons for failure to innovate?",
+   "o": [
+    "Lack of market orientation",
+    "Too much internal collaboration",
+    "Too many innovation labs",
+    "High trust"
+   ],
+   "x": "Fear of risk, market orientation, scale, structure, decisions, communication, priority."
+  },
+  {
+   "id": "c11a-327",
+   "u": "c11a",
+   "d": 2,
+   "q": "Google lets employees spend part of each week on their own side projects. Which way of nurturing innovation?",
+   "o": [
+    "Innovation time",
+    "Open lab for co-creation",
+    "Acquisition",
+    "Internal collaboration"
+   ],
+   "x": "15–20% time."
+  },
+  {
+   "id": "c11a-328",
+   "u": "c11a",
+   "d": 2,
+   "q": "BMW invites customers to share ideas for concept cars. This is:",
+   "o": [
+    "An open lab for co-creation",
+    "Intrapreneurship by employees",
+    "Internal collaboration",
+    "Failure to scale"
+   ],
+   "x": "Co-creation with customers."
+  },
+  {
+   "id": "c11a-329",
+   "u": "c11a",
+   "d": 2,
+   "q": "A tech CEO requires R&D staff to spend about 10% of their time in marketing and sales. This nurtures innovation through:",
+   "o": [
+    "Internal collaboration",
+    "Innovation time",
+    "Strategic partnerships",
+    "Open innovation"
+   ],
+   "x": "Cross-departmental work."
+  },
+  {
+   "id": "c11a-330",
+   "u": "c11a",
+   "d": 2,
+   "q": "A new product fails because it offers customers nothing different from existing products. Which reason?",
+   "o": [
+    "Lack of market orientation",
+    "Fear of taking risks",
+    "Failure to scale",
+    "Low priority for innovation"
+   ],
+   "x": "No real customer value."
+  },
+  {
+   "id": "c11a-331",
+   "u": "c11a",
+   "d": 2,
+   "q": "A great pilot product never spreads beyond one city, so it creates little value. Which reason?",
+   "o": [
+    "Failure to scale",
+    "Fear of taking risks",
+    "Wrong decisions",
+    "Lack of internal communication"
+   ],
+   "x": "Scaling is where most value comes from."
+  },
+  {
+   "id": "c11a-332",
+   "u": "c11a",
+   "d": 3,
+   "q": "According to the book, innovation failure is usually caused by:",
+   "o": [
+    "Implementation and internal organizational causes, not the idea itself",
+    "Bad luck and timing, because markets are unpredictable for new ideas",
+    "The idea itself being bad, because most ideas are not good enough",
+    "Customers who resist anything new and prefer the products they know"
+   ],
+   "x": "Book: usually internal."
+  },
+  {
+   "id": "c11a-333",
+   "u": "c11a",
+   "d": 3,
+   "q": "A large firm's innovation ideas must pass seven management layers before approval, and many die waiting. Which reason for failure?",
+   "o": [
+    "Poor organizational structure and processes",
+    "Lack of market orientation",
+    "Failure to scale up the idea",
+    "Fear of taking risks by customers and managers"
+   ],
+   "x": "Slow processes and long decision cycles."
+  },
+  {
+   "id": "c11a-334",
+   "u": "c11a",
+   "d": 3,
+   "q": "Cisco buys small companies that have developed innovative products and keeps their engineers. This nurtures innovation through:",
+   "o": [
+    "Acquisitions",
+    "Innovation time",
+    "Open labs",
+    "Internal collaboration"
+   ],
+   "x": "Partnerships and acquisitions."
+  },
+  {
+   "id": "c11b-335",
+   "u": "c11b",
+   "d": 1,
+   "q": "What is the FIRST step in building an innovation network?",
+   "o": [
+    "Connect",
+    "Manage and track",
+    "Support and govern",
+    "Set boundaries and engage"
+   ],
+   "x": "Connect → set boundaries and engage → support and govern → manage and track."
+  },
+  {
+   "id": "c11b-336",
+   "u": "c11b",
+   "d": 1,
+   "q": "Organizational change is defined as:",
+   "o": [
+    "The movement of an organization from one state to another",
+    "Hiring a new CEO who brings a different leadership style",
+    "Any increase in revenue compared with the previous year",
+    "Moving the head office to a new building or city"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c11b-337",
+   "u": "c11b",
+   "d": 1,
+   "q": "Why do successful companies often find change harder than poorly performing ones?",
+   "o": [
+    "Success leads to overconfidence and inertia",
+    "They have less money to invest in change",
+    "Their employees are less skilled and flexible",
+    "They have no competitors pushing them to act"
+   ],
+   "x": "“Nothing fails like success” (Polaroid)."
+  },
+  {
+   "id": "c11b-338",
+   "u": "c11b",
+   "d": 1,
+   "q": "In which innovation network step are the network's goals linked to the organization's strategy, mission and vision?",
+   "o": [
+    "Set boundaries and engage",
+    "Connect the right members of the network",
+    "Support and govern",
+    "Manage and track"
+   ],
+   "x": "Step 2."
+  },
+  {
+   "id": "c11b-339",
+   "u": "c11b",
+   "d": 2,
+   "q": "The baby-boom generation retires and too few young workers fill the gap, so a company adds flexible hours and knowledge-transfer programmes. Which driver of change?",
+   "o": [
+    "Workplace demographics",
+    "Technology",
+    "Globalization",
+    "Growth of the company"
+   ],
+   "x": "Ageing workforce."
+  },
+  {
+   "id": "c11b-340",
+   "u": "c11b",
+   "d": 2,
+   "q": "File sharing nearly destroys a music company's CD business until it moves to online sales. Which driver?",
+   "o": [
+    "Technology",
+    "Workplace demographics",
+    "Growth",
+    "Poor performance only"
+   ],
+   "x": "Disruptive technology."
+  },
+  {
+   "id": "c11b-341",
+   "u": "c11b",
+   "d": 2,
+   "q": "A two-founder garage brewery becomes the 11th largest brewery in the US and must restructure. Which driver?",
+   "o": [
+    "Growth",
+    "Globalization",
+    "Demographics",
+    "Market conditions"
+   ],
+   "x": "Widmer Brothers."
+  },
+  {
+   "id": "c11b-342",
+   "u": "c11b",
+   "d": 2,
+   "q": "An innovation network decides how members will be rewarded and how progress will be tracked. Which step?",
+   "o": [
+    "Manage and track",
+    "Connect",
+    "Set boundaries and engage",
+    "Support and govern"
+   ],
+   "x": "Step 4."
+  },
+  {
+   "id": "c11b-343",
+   "u": "c11b",
+   "d": 3,
+   "q": "According to McKinsey research cited in the book, what matters MORE for organizational innovation?",
+   "o": [
+    "Connections and networks",
+    "Individual intelligence",
+    "Individual creativity",
+    "The size of the R&D budget"
+   ],
+   "x": "Networked employees realize innovations faster."
+  },
+  {
+   "id": "c11b-344",
+   "u": "c11b",
+   "d": 3,
+   "q": "Does an environmental change automatically change an organization?",
+   "o": [
+    "No: it depends on how decision makers interpret and react to it",
+    "Yes, always immediately, because firms must adapt to survive",
+    "Only for small firms, because large firms can ignore changes",
+    "Only if the government requires it through new legislation or regulation"
+   ],
+   "x": "Book: depends on decision makers."
+  },
+  {
+   "id": "c11b-345",
+   "u": "c11b",
+   "d": 3,
+   "q": "Leadership structure, meeting protocols, resources and sponsorship from top leaders are arranged in which innovation network step?",
+   "o": [
+    "Support and govern",
+    "Connect",
+    "Manage and track",
+    "Set boundaries and engage"
+   ],
+   "x": "Step 3."
+  },
+  {
+   "id": "c11c-346",
+   "u": "c11c",
+   "d": 1,
+   "q": "Which are the four reactions to change, from most negative to most positive?",
+   "o": [
+    "Active resistance, passive resistance, compliance, enthusiastic support",
+    "Passive resistance, active resistance, enthusiastic support, compliance",
+    "Compliance, active resistance, enthusiastic support, acceptance",
+    "Denial, anger, bargaining, passive resistance, acceptance"
+   ],
+   "x": "Course spectrum."
+  },
+  {
+   "id": "c11c-347",
+   "u": "c11c",
+   "d": 1,
+   "q": "Compliance means:",
+   "o": [
+    "Going along with the change with little enthusiasm",
+    "Sabotaging the change behind the manager's back",
+    "Defending the change to others and helping them",
+    "Quietly looking for a new job and planning to leave"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c11c-348",
+   "u": "c11c",
+   "d": 1,
+   "q": "Is all resistance to change bad, according to the book?",
+   "o": [
+    "No: resistance can be valuable feedback",
+    "Yes, always",
+    "Only resistance from managers is useful",
+    "Only passive resistance is useful"
+   ],
+   "x": "Listen to why people resist."
+  },
+  {
+   "id": "c11c-349",
+   "u": "c11c",
+   "d": 2,
+   "q": "An employee argues against the new system in every meeting and tells colleagues not to use it. Which reaction?",
+   "o": [
+    "Active resistance",
+    "Passive resistance",
+    "Compliance",
+    "Enthusiastic support"
+   ],
+   "x": "Loud + recruiting others."
+  },
+  {
+   "id": "c11c-350",
+   "u": "c11c",
+   "d": 2,
+   "q": "A nurse says nothing about the new system but feels stressed and quietly applies for jobs elsewhere. Which reaction?",
+   "o": [
+    "Passive resistance",
+    "Active resistance",
+    "Compliance",
+    "Enthusiastic support"
+   ],
+   "x": "Silent dislike."
+  },
+  {
+   "id": "c11c-351",
+   "u": "c11c",
+   "d": 2,
+   "q": "An employee volunteers to train colleagues on the new tool and defends it when others complain. Which reaction?",
+   "o": [
+    "Enthusiastic support",
+    "Compliance",
+    "Passive resistance",
+    "Active resistance"
+   ],
+   "x": "Defender of the new way."
+  },
+  {
+   "id": "c11c-352",
+   "u": "c11c",
+   "d": 2,
+   "q": "After a merger is announced, nobody knows which jobs will disappear, and many staff resist. Which reason?",
+   "o": [
+    "Feelings of uncertainty",
+    "Disrupted habits",
+    "Personality",
+    "Perceived loss of power"
+   ],
+   "x": "Unclear future."
+  },
+  {
+   "id": "c11c-353",
+   "u": "c11c",
+   "d": 2,
+   "q": "Supervisors resist a move to self-managing teams because they will lose the right to hire and fire. Which reason?",
+   "o": [
+    "Perceived loss of power",
+    "Fear of failure",
+    "Prevalence of change",
+    "Disrupted habits"
+   ],
+   "x": "Less authority and status."
+  },
+  {
+   "id": "c11c-354",
+   "u": "c11c",
+   "d": 2,
+   "q": "The company's structure has changed four times in five years, and staff are exhausted by the next plan. Which reason?",
+   "o": [
+    "Prevalence of change",
+    "Personality",
+    "Fear of failure",
+    "Personal impact of change"
+   ],
+   "x": "Too frequent change."
+  },
+  {
+   "id": "c11c-355",
+   "u": "c11c",
+   "d": 2,
+   "q": "An expert accountant worries she won't perform as well with the new software. Which reason?",
+   "o": [
+    "Fear of failure",
+    "Disrupted habits",
+    "Prevalence of change",
+    "Loss of power"
+   ],
+   "x": "Doubting future performance."
+  },
+  {
+   "id": "c11c-356",
+   "u": "c11c",
+   "d": 3,
+   "q": "Which combination correctly classifies two reactions?",
+   "o": [
+    "Doctors who complain loudly and recruit others: active resistance · Silent, stressed nurses: passive resistance",
+    "Doctors who complain loudly and recruit others: passive resistance · Silent, stressed nurses: active resistance",
+    "Doctors who complain loudly and recruit others: compliance · Silent, stressed nurses: enthusiastic support",
+    "Doctors who complain loudly and recruit others: active resistance · Silent, stressed nurses: compliance"
+   ],
+   "x": "Voice is the difference. Check both halves."
+  },
+  {
+   "id": "c11c-357",
+   "u": "c11c",
+   "d": 3,
+   "q": "Teachers and typists rejected the faster Dvorak keyboard because their specialized knowledge would lose value. What does this example show?",
+   "o": [
+    "The best idea doesn't automatically win; you must understand why people resist",
+    "People always choose the most efficient option once they see clear evidence that it is faster",
+    "Resistance only happens in small firms where people know each other well",
+    "Technology never changes how people work, so new tools always fail"
+   ],
+   "x": "Book's QWERTY example."
+  },
+  {
+   "id": "c11c-358",
+   "u": "c11c",
+   "d": 3,
+   "q": "Which group of employees is more likely to simply comply with a change they don't believe in, according to the book?",
+   "o": [
+    "Employees with less loyalty, who don't care enough to oppose it",
+    "The most committed employees, who want to keep their jobs safe",
+    "Top managers, who must set an example for everyone else",
+    "Enthusiastic supporters, who go along with any new plan"
+   ],
+   "x": "Committed employees may be the loudest critics."
+  },
+  {
+   "id": "c11d-359",
+   "u": "c11d",
+   "d": 1,
+   "q": "Lewin's three stages of planned change, in order, are:",
+   "o": [
+    "Unfreeze, change, refreeze",
+    "Change, unfreeze, refreeze",
+    "Urgency, coalition, vision",
+    "Plan, do, check"
+   ],
+   "x": "Kurt Lewin."
+  },
+  {
+   "id": "c11d-360",
+   "u": "c11d",
+   "d": 1,
+   "q": "Kotter's steps 1–4 correspond to which Lewin stage?",
+   "o": [
+    "Unfreeze",
+    "Change",
+    "Refreeze",
+    "None"
+   ],
+   "x": "1–4 unfreeze, 5–7 change, 8 refreeze."
+  },
+  {
+   "id": "c11d-361",
+   "u": "c11d",
+   "d": 1,
+   "q": "In Kotter's model, “generate short-term wins” means:",
+   "o": [
+    "Plan for, create and reward visible early results",
+    "Hire new leaders quickly who can push the change",
+    "Write a short vision statement and communicate it",
+    "Remove old procedures and structures that block change"
+   ],
+   "x": "Step 6."
+  },
+  {
+   "id": "c11d-362",
+   "u": "c11d",
+   "d": 1,
+   "q": "Which is the correct order of Kotter's first four steps?",
+   "o": [
+    "Create urgency, build a guiding coalition, form a strategic vision, enlist a volunteer army",
+    "Build a guiding coalition, create urgency, enlist a volunteer army, form a strategic vision",
+    "Form a strategic vision, create urgency, remove barriers, generate short-term wins",
+    "Create urgency, generate short-term wins, institute change, build a guiding coalition"
+   ],
+   "x": "“Ugly Cats Vote Very…”"
+  },
+  {
+   "id": "c11d-363",
+   "u": "c11d",
+   "d": 1,
+   "q": "A learning organization sees change as:",
+   "o": [
+    "A continuous process",
+    "A one-time episode with a start and an end",
+    "Something to avoid",
+    "Only the CEO's job"
+   ],
+   "x": "Unlike Lewin's episodic view."
+  },
+  {
+   "id": "c11d-364",
+   "u": "c11d",
+   "d": 2,
+   "q": "A department head presents waiting-time data and citizen complaints at a staff meeting to show the current situation is unacceptable. Which Kotter step?",
+   "o": [
+    "Create urgency",
+    "Form a strategic vision",
+    "Build a guiding coalition",
+    "Generate short-term wins"
+   ],
+   "x": "Showing the need to act now."
+  },
+  {
+   "id": "c11d-365",
+   "u": "c11d",
+   "d": 2,
+   "q": "A respected senior nurse, the head of IT, two doctors and a patient representative are asked to lead the project together. Which Kotter step?",
+   "o": [
+    "Build a guiding coalition",
+    "Enlist a volunteer army",
+    "Form a strategic vision",
+    "Institute change"
+   ],
+   "x": "A small, influential leading group."
+  },
+  {
+   "id": "c11d-366",
+   "u": "c11d",
+   "d": 2,
+   "q": "More than 120 staff sign up as 'digital champions' to spread the change. Which Kotter step?",
+   "o": [
+    "Enlist a volunteer army",
+    "Build a guiding coalition",
+    "Remove barriers",
+    "Sustain acceleration"
+   ],
+   "x": "A large group joining."
+  },
+  {
+   "id": "c11d-367",
+   "u": "c11d",
+   "d": 2,
+   "q": "A pilot ward reports that search time fell from 40 to 5 minutes. Which Kotter step?",
+   "o": [
+    "Generate short-term wins",
+    "Institute change in the culture",
+    "Create a sense of urgency",
+    "Remove barriers to action"
+   ],
+   "x": "Visible, measurable early result."
+  },
+  {
+   "id": "c11d-368",
+   "u": "c11d",
+   "d": 2,
+   "q": "Old paper order forms that slow the change down are scrapped. Which Kotter step?",
+   "o": [
+    "Enable action by removing barriers",
+    "Create a sense of urgency",
+    "Institute change in the culture",
+    "Form and communicate a strategic vision"
+   ],
+   "x": "Removing obstacles."
+  },
+  {
+   "id": "c11d-369",
+   "u": "c11d",
+   "d": 2,
+   "q": "Digital record-keeping is added to every job description and to the yearly review. Which Lewin stage and Kotter step?",
+   "o": [
+    "Refreeze · institute change",
+    "Unfreeze · create urgency",
+    "Change · generate short-term wins",
+    "Change · sustain acceleration"
+   ],
+   "x": "Making it permanent."
+  },
+  {
+   "id": "c11d-370",
+   "u": "c11d",
+   "d": 2,
+   "q": "Gap trained its 2,000 senior managers, who then won over its 150,000 employees. Which unfreezing action?",
+   "o": [
+    "Building a coalition of opinion leaders",
+    "Publicizing success to all employees",
+    "Rewarding change adoption with bonuses",
+    "Eliminating obstacles to the change"
+   ],
+   "x": "Convince opinion leaders first."
+  },
+  {
+   "id": "c11d-371",
+   "u": "c11d",
+   "d": 3,
+   "q": "A manager provides a training programme so staff know how to work with the new system. Which type of support is this?",
+   "o": [
+    "Instrumental support",
+    "Emotional support",
+    "Role modeling",
+    "Participation in decision making"
+   ],
+   "x": "Practical help = instrumental; listening and encouraging = emotional."
+  },
+  {
+   "id": "c11d-372",
+   "u": "c11d",
+   "d": 3,
+   "q": "Which statement about the guiding coalition and the volunteer army is correct?",
+   "o": [
+    "The coalition is a small, powerful group that leads; the volunteer army is a large group that spreads it",
+    "Both are the same group of senior managers, just named differently in different steps of the model",
+    "The volunteer army leads the change, while the guiding coalition only follows and supports it",
+    "The coalition is formed only after the change is institutionalized, to keep the new culture alive and strong"
+   ],
+   "x": "Step 2 vs step 4."
+  },
+  {
+   "id": "c11d-373",
+   "u": "c11d",
+   "d": 3,
+   "q": "After the pilot succeeds, leaders use its credibility to roll the change out to all other departments instead of declaring victory. Which Kotter step?",
+   "o": [
+    "Sustain acceleration",
+    "Institute change",
+    "Generate short-term wins",
+    "Create urgency"
+   ],
+   "x": "Step 7."
+  },
+  {
+   "id": "c11e-374",
+   "u": "c11e",
+   "d": 1,
+   "q": "Which is the FIRST step of Schein's culture change process?",
+   "o": [
+    "Creating a sense of urgency",
+    "Role modeling",
+    "Training",
+    "Changing the reward system"
+   ],
+   "x": "Schein starts with urgency, like Kotter."
+  },
+  {
+   "id": "c11e-375",
+   "u": "c11e",
+   "d": 1,
+   "q": "Which list gives Schein's six steps of culture change?",
+   "o": [
+    "Urgency, change key players, role modeling, training, rewards, new symbols and stories",
+    "Urgency, coalition, vision, volunteer army, barriers, short-term wins",
+    "Unfreeze, change, refreeze, plus training, rewards and new symbols",
+    "Connect, set boundaries and engage, support and govern, manage and track the network"
+   ],
+   "x": "The other lists are Lewin, the innovation network and Kotter."
+  },
+  {
+   "id": "c11e-376",
+   "u": "c11e",
+   "d": 1,
+   "q": "Which model is specifically about changing an organization's culture?",
+   "o": [
+    "Schein's model",
+    "Lewin's three-stage model",
+    "Porter's five forces",
+    "The BCG matrix"
+   ],
+   "x": "Schein = culture."
+  },
+  {
+   "id": "c11e-377",
+   "u": "c11e",
+   "d": 2,
+   "q": "A new CEO personally answers customer calls once a month and asks managers to do the same. Which Schein step?",
+   "o": [
+    "Role modeling",
+    "Training",
+    "Changing the reward system",
+    "Creating new symbols and stories"
+   ],
+   "x": "The leader shows the expected behaviour."
+  },
+  {
+   "id": "c11e-378",
+   "u": "c11e",
+   "d": 2,
+   "q": "In front of all staff, the CEO shreds the 600-page procedure manual and replaces it with a 40-page guide. Which Schein step?",
+   "o": [
+    "Creating new symbols and stories",
+    "Changing the reward system",
+    "Training in the new procedures",
+    "Changing leaders and key players"
+   ],
+   "x": "A dramatic act that becomes a story (like Continental)."
+  },
+  {
+   "id": "c11e-379",
+   "u": "c11e",
+   "d": 2,
+   "q": "Sales staff move from commission per sale to a salary plus a bonus based on customer satisfaction. Which Schein step?",
+   "o": [
+    "Changing the reward system",
+    "Role modeling",
+    "Training",
+    "Creating a sense of urgency"
+   ],
+   "x": "What gets rewarded shapes culture."
+  },
+  {
+   "id": "c11e-380",
+   "u": "c11e",
+   "d": 2,
+   "q": "A new CEO replaces two senior directors who blocked earlier reforms. Which Schein step?",
+   "o": [
+    "Changing leaders and other key players",
+    "Role modeling by the new CEO",
+    "Creating new symbols and stories",
+    "Training the remaining directors in the new way of working"
+   ],
+   "x": "Removing blockers."
+  },
+  {
+   "id": "c11e-381",
+   "u": "c11e",
+   "d": 2,
+   "q": "After a disaster, NASA trains all staff in team processes and cognitive bias awareness to build a safety culture. Which Schein step?",
+   "o": [
+    "Training",
+    "Role modeling",
+    "Changing key players",
+    "Changing the reward system"
+   ],
+   "x": "Teaching new norms."
+  },
+  {
+   "id": "c11e-382",
+   "u": "c11e",
+   "d": 3,
+   "q": "A question says: 'According to Schein, which step is represented by the CEO's warning that the company will lose a third of its customers?' The best answer is:",
+   "o": [
+    "Creating a sense of urgency",
+    "Build a guiding coalition",
+    "Unfreeze",
+    "Generate short-term wins"
+   ],
+   "x": "Stay inside the model the question names."
+  },
+  {
+   "id": "c11e-383",
+   "u": "c11e",
+   "d": 3,
+   "q": "Which pairing of model and focus is correct?",
+   "o": [
+    "Kotter: roadmap for large-scale transformation · Lewin: three-stage framework for any change",
+    "Kotter: a model only for changing culture · Lewin: an eight-step roadmap for transformation",
+    "Schein: three stages of planned change · Kotter: six steps for changing culture",
+    "Lewin: developed in the 1990s for firms · Kotter: developed in the 1940s for groups"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c11e-384",
+   "u": "c11e",
+   "d": 3,
+   "q": "Which statement about the three change models is correct?",
+   "o": [
+    "All three start with urgency, so you must check which model a question names",
+    "Only Kotter mentions urgency; Lewin and Schein start with planning instead",
+    "Lewin has eight steps, so his model is the most detailed of the three",
+    "Schein's model is about team development rather than culture change"
+   ],
+   "x": "Urgency appears in Lewin's unfreeze, Kotter 1 and Schein 1."
+  }
+ ],
+ "caseQuestions": [
+  {
+   "case": "Rijnstad Hospital",
+   "u": "c11d",
+   "q": "Which Kotter step is represented by Dr. Hendriks presenting the error reports, lost time, other hospitals' results and the accreditation risk?",
+   "o": [
+    "Create urgency; this classification identifies the step the case describes",
+    "Form a strategic vision and initiatives; this classification identifies the step the case describes",
+    "Build a guiding coalition; this classification identifies the step the case describes",
+    "Generate short-term wins; this classification identifies the step the case describes",
+    "Institute change; this classification identifies the step the case describes",
+    "Enable action by removing barriers; this classification identifies the step the case describes"
+   ],
+   "x": "Showing the problem and the consequences of doing nothing = create urgency."
+  },
+  {
+   "case": "Rijnstad Hospital",
+   "u": "c11d",
+   "q": "Which part of the case most clearly represents Kotter's guiding coalition?",
+   "o": [
+    "The senior nurse, head of IT, two doctors and patient representative who lead it",
+    "The 120 ‘digital champions’ who signed up from all departments to help colleagues",
+    "The statement “Every patient's full story, safe and available in seconds”",
+    "The pilot ward's drop in search time from 40 to 5 minutes, shared hospital-wide",
+    "The national regulation requiring all hospitals to use digital records by 2028",
+    "Adding digital record-keeping to job descriptions and annual performance reviews"
+   ],
+   "x": "Small, influential group LEADING the change. The 120 champions are the volunteer army, the statement is the vision, the pilot a short-term win, job descriptions = institute change."
+  },
+  {
+   "case": "Rijnstad Hospital",
+   "u": "c11c",
+   "q": "Which combination correctly classifies the reactions of the doctors and of the older nurses?",
+   "o": [
+    "Doctors: active resistance · Nurses: passive resistance",
+    "Doctors: passive resistance · Nurses: active resistance",
+    "Doctors: active resistance · Nurses: compliance",
+    "Doctors: compliance · Nurses: passive resistance",
+    "Doctors: enthusiastic support · Nurses: compliance",
+    "Doctors: active resistance · Nurses: enthusiastic support"
+   ],
+   "x": "Loud and recruiting others = active; silent, stressed, quietly leaving = passive."
+  },
+  {
+   "case": "Rijnstad Hospital",
+   "u": "c11d",
+   "q": "Adding digital record-keeping to every job description and review belongs to which Lewin stage and Kotter step?",
+   "o": [
+    "Refreeze · Institute change",
+    "Unfreeze · Create urgency",
+    "Change · Generate short-term wins",
+    "Refreeze · Enable action by removing barriers",
+    "Change · Sustain acceleration",
+    "Unfreeze · Enlist a volunteer army"
+   ],
+   "x": "Making the new behaviour permanent = refreeze and Kotter 8."
+  },
+  {
+   "case": "Vesta Insurance",
+   "u": "c11e",
+   "q": "Okafor personally answering customer calls every month best represents which step of Schein's culture change process?",
+   "o": [
+    "Role modeling; this classification identifies the step the case describes",
+    "Training; this classification identifies the step the case describes",
+    "Changing the reward system; this classification identifies the step the case describes",
+    "Creating a sense of urgency; this classification identifies the step the case describes",
+    "Creating new symbols and stories; this classification identifies the step the case describes",
+    "Changing leaders and other key players; this classification identifies the step the case describes"
+   ],
+   "x": "The leader shows the behaviour she expects."
+  },
+  {
+   "case": "Vesta Insurance",
+   "u": "c11e",
+   "q": "Shredding the 600-page manual in front of all staff best represents:",
+   "o": [
+    "Creating new symbols and stories",
+    "Changing the reward system",
+    "Training",
+    "Changing leaders and other key players",
+    "Enable action by removing barriers (Kotter)",
+    "Compliance"
+   ],
+   "x": "A dramatic, visible act that becomes a story. The question is about Schein, so stay in that model."
+  },
+  {
+   "case": "Vesta Insurance",
+   "u": "c11e",
+   "q": "Which combination correctly classifies (1) the town-hall warning and (2) replacing the two directors?",
+   "o": [
+    "(1) Creating a sense of urgency · (2) Changing leaders and other key players",
+    "(1) Role modeling · (2) Changing leaders and other key players",
+    "(1) Creating a sense of urgency · (2) Changing the reward system",
+    "(1) Training in the new way of working · (2) Creating new symbols and stories",
+    "(1) Creating new symbols and stories · (2) Role modeling",
+    "(1) Changing the reward system · (2) Creating a sense of urgency"
+   ],
+   "x": "Warning about losing customers = urgency; removing blockers = changing key players."
+  },
+  {
+   "case": "Vesta Insurance",
+   "u": "c11c",
+   "q": "Why do the long-serving managers most likely resist the new guide?",
+   "o": [
+    "Perceived loss of power",
+    "Disrupted habits",
+    "Fear of failure",
+    "Personality",
+    "Prevalence of change",
+    "Feelings of uncertainty"
+   ],
+   "x": "They used to approve every claim; now front-line staff can. Their authority shrinks."
+  },
+  {
+   "case": "GreenGrid Energy",
+   "u": "c11c",
+   "q": "Employees sighing “Here we go again” after three reorganizations in two years best reflects which reason for resistance?",
+   "o": [
+    "Prevalence of change",
+    "Disrupted habits",
+    "Personality",
+    "Perceived loss of power",
+    "Personal impact of change",
+    "Feelings of uncertainty"
+   ],
+   "x": "Too many changes in a short time → fatigue and skepticism."
+  },
+  {
+   "case": "GreenGrid Energy",
+   "u": "c11d",
+   "q": "Training respected team leaders first, workshops where employees help design the screens and two days of training all belong to which Lewin stage?",
+   "o": [
+    "Unfreeze; this classification identifies the step the case describes",
+    "Change (move); this classification identifies the step the case describes",
+    "Refreeze; this classification identifies the step the case describes",
+    "Institute change (Kotter 8); this classification identifies the step the case describes",
+    "Sustain acceleration (Kotter 7); this classification identifies the step the case describes",
+    "Learning organization; this classification identifies the step the case describes"
+   ],
+   "x": "Coalition of opinion leaders, participation and support before the change = unfreeze."
+  },
+  {
+   "case": "GreenGrid Energy",
+   "u": "c11d",
+   "q": "Which combination correctly classifies (1) sharing the 18% satisfaction rise and (2) thanking helpful employees by name?",
+   "o": [
+    "(1) Publicize success · (2) Reward change adoption, both refreezing",
+    "(1) Create small wins · (2) Eliminate obstacles, both changing",
+    "(1) Develop urgency · (2) Build a coalition, both unfreezing",
+    "(1) Publicize success · (2) Provide emotional support, both unfreezing",
+    "(1) Reward change adoption · (2) Publicize success, both changing",
+    "(1) Communicate a vision · (2) Allow participation, both refreezing"
+   ],
+   "x": "After implementation: share results and reward adoption = refreeze."
+  },
+  {
+   "case": "GreenGrid Energy",
+   "u": "c11c",
+   "q": "Why do the senior call agents most likely worry about the change?",
+   "o": [
+    "Fear of failure, because they doubt their expertise will still count",
+    "Prevalence of change, because of the many earlier reorganizations",
+    "Personal impact, because they will get nicer offices after the move",
+    "Disrupted habits only, because they must drive to work differently",
+    "Enthusiastic support, because experienced agents like new tools",
+    "Compliance, because they go along with the change without enthusiasm"
+   ],
+   "x": "Experts unsure whether their success will last under the new system = fear of failure."
+  },
+  {
+   "case": "Polder Print",
+   "u": "c11a",
+   "q": "The five approval layers and departments competing for their own budgets mainly illustrate which two reasons for failure to innovate?",
+   "o": [
+    "Poor organizational structure and processes, and lack of internal communication",
+    "Fear of taking risks by managers, and failure to scale up successful pilots",
+    "Lack of market orientation among managers, and wrong decisions about which ideas to fund",
+    "Low priority for innovation in the strategy, and lack of market orientation",
+    "Failure to scale beyond the pilot phase, and poor structure and processes",
+    "Wrong decisions by the innovation board, and fear of taking risks"
+   ],
+   "x": "Slow, layered processes = poor structure and processes; isolated, competing departments = lack of internal communication."
+  },
+  {
+   "case": "Polder Print",
+   "u": "c11b",
+   "q": "Defining what the group should achieve and how its goals fit the mission and strategy, with deadlines, is which innovation network step?",
+   "o": [
+    "Set boundaries and engage; this classification identifies the step the case describes",
+    "Connect; this classification identifies the step the case describes",
+    "Support and govern; this classification identifies the step the case describes",
+    "Manage and track; this classification identifies the step the case describes",
+    "Create urgency (Kotter); this classification identifies the step the case describes",
+    "Unfreeze (Lewin); this classification identifies the step the case describes"
+   ],
+   "x": "Step 2: goals, link to strategy, mission and vision, time frames."
+  },
+  {
+   "case": "Polder Print",
+   "u": "c11a",
+   "q": "Which combination correctly classifies the two practices in the last paragraph?",
+   "o": [
+    "10% own-project time: innovation time · Customer co-design day: open lab for co-creation",
+    "10% own-project time: internal collaboration · Customer co-design day: acquisition",
+    "10% own-project time: intrapreneurship spin-off · Customer co-design day: internal collaboration",
+    "10% own-project time: innovation time · Customer co-design day: failure to scale",
+    "10% own-project time: open lab · Customer co-design day: innovation time",
+    "10% own-project time: partnership · Customer co-design day: market orientation failure"
+   ],
+   "x": "Free time for own projects = innovation time; customers helping design = co-creation."
+  }
+ ],
+ "glossary": [
+  {
+   "g": "Change",
+   "ch": "Ch 11",
+   "t": [
+    [
+     "Unfreeze",
+     "Lewin 1: prepare people and explain why change is necessary."
+    ],
+    [
+     "Change (Lewin)",
+     "Lewin 2: introduce the new processes, behaviours or systems."
+    ],
+    [
+     "Refreeze",
+     "Lewin 3: make the new way of working permanent through policies, habits and culture."
+    ],
+    [
+     "Create a sense of urgency",
+     "Kotter 1: explain why change is needed now."
+    ],
+    [
+     "Build a guiding coalition",
+     "Kotter 2: a small group of influential people who lead the change."
+    ],
+    [
+     "Form a strategic vision",
+     "Kotter 3: decide and describe what the future should look like."
+    ],
+    [
+     "Enlist a volunteer army",
+     "Kotter 4: get a large group to join and spread the change (communicate the vision)."
+    ],
+    [
+     "Enable action by removing barriers",
+     "Kotter 5: remove obstacles that block the change."
+    ],
+    [
+     "Generate short-term wins",
+     "Kotter 6: plan for, create and celebrate visible early results."
+    ],
+    [
+     "Sustain acceleration",
+     "Kotter 7: keep pushing and build on the change."
+    ],
+    [
+     "Institute change",
+     "Kotter 8: anchor the change in the culture."
+    ]
+   ]
+  }
+ ],
+ "compare": [
+  [
+   "SWOT vs PESTEL",
+   "SWOT has internal strengths/weaknesses and external opportunities/threats. PESTEL looks only at the external macro environment."
+  ],
+  [
+   "PESTEL vs Five Forces",
+   "PESTEL = broad macro environment. Porter = competition inside the industry."
+  ],
+  [
+   "Maslow vs ERG",
+   "Maslow: 5 levels in a fixed order. ERG: 3 groups, several needs at once, and you can fall back (frustration-regression)."
+  ],
+  [
+   "Herzberg vs Maslow",
+   "Maslow explains human needs in general. Herzberg explains what causes job satisfaction vs dissatisfaction."
+  ],
+  [
+   "Theory X vs Theory Y",
+   "X assumes people need control. Y assumes people can motivate themselves."
+  ],
+  [
+   "Lewin vs Kotter",
+   "Lewin: 3 broad stages for any change. Kotter: 8 detailed steps for large transformations (steps 1–4 = unfreeze)."
+  ],
+  [
+   "Functional vs Divisional",
+   "Functional groups people by department. Divisional groups them by product, market or region."
+  ],
+  [
+   "Mechanistic vs Organic",
+   "Mechanistic = strict rules and hierarchy. Organic = flexible, flat, adaptable."
+  ],
+  [
+   "Democratic vs Authoritarian",
+   "Democratic involves employees in decisions. Authoritarian decides alone."
+  ],
+  [
+   "Task- vs People-oriented",
+   "Task-oriented focuses on results and deadlines. People-oriented on relationships and well-being."
+  ],
+  [
+   "Coercive vs Reward power",
+   "Coercive uses punishment. Reward uses incentives and benefits."
+  ],
+  [
+   "Line vs Staff manager",
+   "Line contributes directly to the product or service. Staff gives indirect specialist support."
+  ],
+  [
+   "Subculture vs Counterculture",
+   "A subculture fits within the main culture. A counterculture opposes it."
+  ],
+  [
+   "Hofstede vs GLOBE",
+   "Hofstede: IBM, 1960s, 4 then 6 dimensions. GLOBE: 1990s, 62 countries, 9 dimensions incl. performance and humane orientation."
+  ]
+ ]
+}

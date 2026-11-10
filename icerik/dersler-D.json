@@ -1,0 +1,908 @@
+{
+  "chapters": [
+    {
+      "ch": 8,
+      "ad": "Organizasyon yapıları, çevre ve kültür",
+      "giris": "<p>Bu bölüm bir şirketin “iskeletini” ve “karakterini” anlatır. İskelet yapıdır: işler nasıl bölünür, kim kime rapor verir, kararlar nerede alınır. Karakter kültürdür: kimsenin yazıya dökmediği ama herkesin uyduğu ortak inançlar. İkisini birbirine bağlayan şey çevredir. Dış dünya sakin ve öngörülebilirse kurallı, hiyerarşik bir yapı iş görür; dünya hızlı değişiyorsa daha esnek bir yapı gerekir. Önce iç ve dış çevreyi, sonra mechanistic ile organic yapı farkını, ardından altı yapı türünü öğreneceksin. İkinci derste Schein’in kültür katmanlarını, kültürün nasıl oluşup korunduğunu ve çeşitliliği (diversity) göreceksin.</p>",
+      "baglanti": "<p>Bölüm 7 hedefleri ve insanları neyin motive ettiğini anlatıyordu; burada o insanların hangi yapı ve kültür içinde çalıştığına bakıyoruz. Bölüm 9 kültürü şirket seviyesinden ülke seviyesine taşır: Hofstede ve GLOBE ile ulusal kültürü inceler.</p>",
+      "sinav": "<p>Bölüm 8, Part 2’deki mini-case sorularına girer. Part 2’de 15 kısa senaryo vardır, her biri 2 puandır ve bölüm 3, 4, 8 ve 10’dan gelir. Burada tanımı hatırlamak yetmez: bir şirket anlatılır, sen yapının veya kültür kavramının adını bulursun. İki dersin her biri yaklaşık 4 puanlık ağırlık taşır.</p>",
+      "okul": {
+        "once": "Altı yapı tablosuna ve Schein’in üç katmanına göz gezdir. Derse şu soruyla gir: Bir şirketin yapısını hangi ipuçlarından tanırım?",
+        "odak": [
+          "<b>Mechanistic</b> ve <b>organic</b> yapının hangi çevreye uyduğu",
+          "<b>Matrix</b> yapıda iki patronun ne gibi sorun çıkardığı",
+          "<b>Virtual</b> ile <b>geographic</b> yapıyı ayıran ipucu",
+          "Schein’de <b>artifacts</b>, <b>values</b> ve <b>assumptions</b> örnekleri",
+          "<b>Subculture</b> ile <b>counterculture</b> farkı"
+        ],
+        "sonra": "Önce c8a dersini adım sorularıyla bitir, sonra c8b dersine geç. Ardından iki dersin tuzaklar bölümünü tekrar oku ve bölüm 8 soru bankasını çöz; yanlış yaptığın her yapıyı ilgili adımın örneğine dönerek kontrol et."
+      }
+    },
+    {
+      "ch": 9,
+      "ad": "Ulusal kültür ve küreselleşme",
+      "giris": "<p>Bu bölüm yöneticinin sınırları aştığında ne ile karşılaştığını anlatır. İlk derste ülkelerin kültürünü ölçmeye çalışan iki çerçeveyi öğreneceksin: Hofstede’in dört boyutu ve daha sonra gelen GLOBE çalışması. Bu boyutlar, aynı yönetim tarzının neden bir ülkede işe yarayıp başka bir ülkede ters teptiğini açıklar. İkinci derste küreselleşmenin üç itici gücünü, şirketlerin dünyaya açılırken seçtiği üç stratejiyi ve yurt dışına girmenin beş yolunu (entry mode) göreceksin. İki ders birbirini tamamlar: kültür farkı ne kadar büyükse, giriş yolunu ve stratejiyi o kadar dikkatli seçmen gerekir.</p>",
+      "baglanti": "<p>Bölüm 8’de kültürü şirket içinde inceledin; burada aynı fikri ülkelere uyguluyorsun. Bölüm 10 ise ölçeği küçültür ve takımlara ve insanlar arası ağlara odaklanır; farklı kültürlerden gelen takım üyeleri iki bölümü birbirine bağlar.</p>",
+      "sinav": "<p>Bölüm 9, Part 1’deki 20 çoktan seçmeli sorudan bazılarını verir. Her soru 2 puandır ve Part 1 hatırlamayı ölçer: boyutların tanımı, hangi boyutun hangi çerçeveye ait olduğu ve giriş yollarının adları sorulur. İki dersin her biri yaklaşık 4 puanlık ağırlık taşır.</p>",
+      "okul": {
+        "once": "Hofstede tablosundaki dört boyutu ve giriş yolları tablosunu oku. Derse şu soruyla gir: Bir şirket yurt dışına giderken neyi yanına alır, neyi oraya uydurur?",
+        "odak": [
+          "<b>Uncertainty avoidance</b> ile uzun vadeli planlama arasındaki fark",
+          "Hofstede ile <b>GLOBE</b> arasındaki yıl, ülke ve boyut farkları",
+          "<b>Global</b>, <b>regional</b> ve <b>local strategy</b> örnekleri",
+          "<b>Joint venture</b> ile tamamen sahip olunan yan şirket farkı"
+        ],
+        "sonra": "Önce c9a dersini bitir ve her boyut için kendi örneğini yaz. Sonra c9b dersine geç, giriş yollarını en az bağlılıktan en çoğa sırala. En sonda bölüm 9 soru bankasını çöz ve özellikle tanım sorularında hız kazan."
+      }
+    },
+    {
+      "ch": 10,
+      "ad": "Takımlar ve sosyal ağlar",
+      "giris": "<p>Bu bölüm işin gerçekte nasıl yapıldığına bakar: insanlar birlikte çalışır ve birbirini tanıdıkları ölçüde bilgiye ve kaynağa ulaşır. İlk derste bir grubun nasıl takıma dönüştüğünü Tuckman’ın aşamalarıyla öğreneceksin ve bu aşamaların neden geri sarabildiğini göreceksin. Takım çeşitliliğinin karar kalitesine etkisi de bu derste. İkinci derste sosyal ağların dilini (ties, bridging tie, centrality), ağların hangi ilkelerle büyüdüğünü ve Ibarra’nın önerdiği üç ağ türünü öğreneceksin. Ortak fikir şu: organizasyon şeması resmi yapıyı gösterir, takımlar ve ağlar ise işin akışını.</p>",
+      "baglanti": "<p>Bölüm 9’da kültür farklarını ülke ölçeğinde gördün; burada aynı farklar küçük bir takımın içinde karşına çıkar. Bölüm 11 inovasyon ağlarına ve değişime geçer; orada da ağ kavramı ve değişime direnen insanlar yeniden önemli olur.</p>",
+      "sinav": "<p>Bölüm 10, Part 2’deki mini-case sorularına girer: 15 kısa senaryo, her biri 2 puan, bölüm 3, 4, 8 ve 10’dan. Senaryoda bir takımın davranışı ya da birinin kurduğu ilişki anlatılır, sen aşamanın veya ağ türünün adını bulursun. İki dersin her biri yaklaşık 3 puanlık ağırlık taşır.</p>",
+      "okul": {
+        "once": "Tuckman tablosunu ve Ibarra’nın üç ağ türünü oku. Derse şu soruyla gir: İyi giden bir takım neden bir anda kavga etmeye başlar?",
+        "odak": [
+          "<b>Storming</b> ile <b>norming</b> arasındaki geçişin işaretleri",
+          "Aşamaların neden doğrusal olmadığı",
+          "<b>Strong ties</b> ile <b>weak ties</b> farkı ve Granovetter",
+          "<b>Personal</b> ve <b>strategic network</b> ayrımı"
+        ],
+        "sonra": "Önce c10a dersini bitir ve her aşama için kendi okul projenden bir an bul. Sonra c10b dersine geç ve kendi ağını üç Ibarra türüne ayır. En sonda bölüm 10 soru bankasını senaryo sorularından başlayarak çöz."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c8a",
+      "ad": "Çevre ve organizasyon yapıları: mechanistic, organic ve altı yapı",
+      "sure": 25,
+      "neden": "<p>Part 2’de sana bir şirket anlatılacak ve “bu hangi yapı?” diye sorulacak. Altı yapıyı ezberlemek yetmez; her birinin neye göre gruplandığını ve hangi sorunu doğurduğunu bilirsen senaryodaki tek bir cümleden doğru cevabı çıkarırsın.</p>",
+      "hedefler": [
+        "Bir etkeni iç veya dış çevre olarak sınıflandır ve uygun aracı seç.",
+        "Mechanistic ve organic yapıyı çevre türüne göre eşleştir.",
+        "Altı yapı türünü bir senaryodaki ipucundan tanı.",
+        "Her yapının tipik artısını ve eksisini doğru eşleştir."
+      ],
+      "adimlar": [
+        {
+          "baslik": "İç çevre ve dış çevre",
+          "anlatim": "<p>Bir şirketi anlamak için iki soru sorarsın: Dışarıda bize ne oluyor? İçeride elimizde ne var? Bu iki soru iki çevreye karşılık gelir.</p><p><b>Macro (general, external) environment</b> (makro, genel ya da dış çevre), şirketin neredeyse hiç kontrol edemediği büyük resimdir. İçinde political, economic, social, technological, environmental ve legal etkenler vardır, kısaca <b>PESTEL</b>. Rakiplerden gelen baskıyı ise <b>Porter's 5 forces</b> (Porter’ın beş gücü) ile incelersin. <b>Internal environment</b> (iç çevre) ise şirketin kendi kaynakları, yetenekleri ve faaliyetleridir; burada kullandığın araçlar <b>VRIO</b> ve <b>value chain</b> (değer zinciri) olur.</p><p>Ayrımı kontrol üzerinden yap: Şirket bir şeyi kendi kararıyla değiştirebiliyorsa iç çevredir, sadece ona uyum sağlayabiliyorsa dış çevredir. Bu dersin asıl mesajı ise iki çevrenin birbirine bağlı olmasıdır. Ders notundaki örneklerde 2025 ABD gümrük vergileri (tariffs) ve yapay zekâ (AI) gibi dış güçler, şirketlerin iç yapısını ve iş faaliyetlerini değiştirir. Dışarıdaki bir sarsıntı, organizasyon şemasına kadar iner.</p>",
+          "ornek": "<p>Hayali “Pedal Atölyesi” bir bisiklet dükkânı. Belediye şehir merkezine araç girişini kısıtlayan yeni bir kural çıkarıyor. Bu legal bir etkendir ve dükkân bunu kontrol edemez, yani dış çevredir. Dükkân buna kargo bisikleti tamir bölümü açıp iki çalışanı oraya kaydırarak cevap veriyor. Bu karar ise iç çevrede, yani kendi yapısında yapılan bir değişikliktir.</p>",
+          "kaynak": [0],
+          "terimler": ["Macro (general, external) environment"],
+          "soru": {
+            "q": "Across the country, AI tools are changing how clinics book patients. One clinic responds by removing a layer of administrative supervisors. Which statement best describes this?",
+            "o": [
+              "A technological macro force is changing the internal structure",
+              "An internal resource is being assessed with the VRIO tool",
+              "Rival clinics are creating pressure through Porter's five forces",
+              "The clinic controls this factor directly through its value chain"
+            ],
+            "x": "Yapay zekâ bütün ülkeyi etkileyen teknolojik bir etkendir ve klinik onu kontrol edemez, yani makro çevredir; klinik buna iç yapısını değiştirerek cevap veriyor. VRIO şıkkı cazip görünür çünkü iç çevre aracıdır, ama burada değerlendirilen bir kaynak yok, dışarıdan gelen bir güç var."
+          }
+        },
+        {
+          "baslik": "Mechanistic mi, organic mi?",
+          "anlatim": "<p>Yapı seçerken ilk soru şudur: Şirketin çevresi ne kadar sakin? Buna göre iki uç tip vardır.</p><p><b>Mechanistic structure</b> (mekanik yapı) yukarıdan aşağıya bir hiyerarşi, çok sayıda kural ve merkezî karar alma demektir. <b>Span of control</b> (kontrol alanı, bir yöneticiye bağlı kişi sayısı) dardır: her yönetici az kişiyi yönetir, bu yüzden kat sayısı artar ve yapı uzar. Bu yapı stable, simple (durağan, basit) çevrelerde iyi çalışır, çünkü yarın bugüne benziyorsa işi bir kez kurala bağlamak en verimli yoldur.</p><p><b>Organic structure</b> (organik yapı) daha düzdür, çalışanlar kararlara katılır, kural azdır ve kontrol alanı geniştir. Unstable, complex (değişken, karmaşık) çevrelere uyar. Sebep basit: Her gün yeni bir sorun çıkıyorsa kararın üst kata gidip geri gelmesini bekleyemezsin, sorunu gören kişinin hızlıca karar verebilmesi gerekir.</p><p>Sınavda çevre tarifine bak. “Predictable, strict rules, decisions at the top” görüyorsan mechanistic, “fast-changing, flat, participative” görüyorsan organic.</p>",
+          "ornek": "<p>Hayali bir şehir eczanesi zinciri ilaç saklama kurallarına harfiyen uyar, her şube müdürü az kişiyi yönetir ve kararlar genel müdürlükten gelir: mechanistic. Aynı şehirde hayali bir mobil oyun stüdyosu ise her ay yeni bir trendle karşılaşır; ekipler kendi kararını verir, tek bir yönetici on beş kişiyle çalışır: organic. İkisi de kendi çevresine uygun.</p>",
+          "kaynak": [1],
+          "terimler": ["Mechanistic structure", "Organic structure"],
+          "soru": {
+            "q": "A city water utility works in a predictable market under strict safety rules. Each manager supervises only a few people, and decisions are made at the top. Which structure is this, and why does it fit?",
+            "o": [
+              "Mechanistic, because its environment is stable and simple",
+              "Organic, because its environment is stable and simple",
+              "Mechanistic, because its environment is complex and changing",
+              "Organic, because its strict rules allow participative decisions"
+            ],
+            "x": "Dar kontrol alanı, katı kurallar ve tepeden karar mechanistic yapının işaretidir, ve bu yapı durağan, basit çevreye uyar. Üçüncü şık yapıyı doğru bilir ama gerekçeyi ters kurar: complex ve changing çevre organic yapıyı gerektirir."
+          }
+        },
+        {
+          "baslik": "Functional ve divisional yapı",
+          "anlatim": "<p>Altı yapı türünün hepsi tek bir soruya farklı cevap verir: İnsanları neye göre bir araya topluyoruz?</p><p><b>Functional structure</b> (fonksiyonel yapı) insanları uzmanlık alanına göre toplar: R&amp;D, production, finance, HR gibi departmanlar. Muhasebeci muhasebecinin yanında oturur. Artısı <b>specialization</b> (uzmanlaşma) ve <b>economies of scale</b> (ölçek ekonomisi): tek bir güçlü finans departmanı bütün ürünlere hizmet eder. Eksisi <b>silos</b> (silolar): departmanlar kendi dünyasına kapanır, birbirleriyle az konuşur, bu yüzden koordinasyon yavaştır.</p><p><b>Divisional structure</b> (bölümsel yapı) insanları ürüne veya pazara göre toplar. Her division’ın başında bir yönetici vardır ve her birinin kendi marketing, sales ve finance ekibi bulunur. Artısı odak ve müşteriyle daha hızlı temastır. Eksisi <b>duplication</b> (tekrar): aynı fonksiyon her bölümde ayrı ayrı kurulur, ayrıca bölümler birbirinden kopabilir.</p><p>Ayırmanın kolay yolu: Yanındaki masada kim oturuyor? Aynı meslekten biri oturuyorsa functional, aynı ürün için çalışan farklı meslekten biri oturuyorsa divisional. Eksilerde de karıştırma: silos functional yapıya, duplication divisional yapıya aittir.</p>",
+          "ornek": "<p>Hayali “Fırın &amp; Co” başta tek bir üretim, tek bir satış ve tek bir finans departmanıyla çalışıyor: functional. Şirket büyüyünce ekmek, pasta ve catering olmak üzere üç bölüme ayrılıyor ve her bölüm kendi satış ve finans ekibini kuruyor: divisional. Artık müşteriye daha hızlı cevap veriyorlar, ama üç ayrı finans ekibine maaş ödüyorlar; bu da duplication.</p>",
+          "kaynak": [2],
+          "terimler": ["Functional structure", "Divisional structure"],
+          "soru": {
+            "q": "A toy maker has one marketing department, one production department and one finance department serving all of its products. Managers complain that departments rarely share information. Which structure and weakness fit?",
+            "o": [
+              "Functional structure, with silos between departments",
+              "Divisional structure, with duplicated functions",
+              "Functional structure, with too much decentralization",
+              "Divisional structure, with isolated product units"
+            ],
+            "x": "Her fonksiyondan tek bir departman olması ve hepsinin bütün ürünlere hizmet etmesi functional yapıdır; departmanların kendi içine kapanması da onun tipik zayıflığı olan silos. Divisional şıkları cazip görünür çünkü “isolated” kelimesi silolara benzer, ama burada ürün bölümleri yok."
+          }
+        },
+        {
+          "baslik": "Geographic ve matrix yapı",
+          "anlatim": "<p><b>Geographic structure</b> (coğrafi yapı) insanları müşterilerin bulunduğu yere göre toplar: bölgeler, ülkeler. Mantığı şudur: Müşteriler yere göre çok farklıysa, o yeri tanıyan bir birim karar vermelidir. Artısı <b>local knowledge</b> (yerel bilgi). Eksisi aşırı <b>decentralization</b> (ademimerkeziyet): her bölge kendi yolunu çizer ve merkez bütünlüğü kaybeder. Divisional yapıya benzer, ama senaryoda gruplama açıkça bölgeye veya ülkeye göreyse ve bölgelere yetki verilmişse cevap geographic olur.</p><p><b>Matrix structure</b> (matris yapı) iki boyutu aynı anda kullanır. Çalışan hem fonksiyonel bir patrona (örneğin mühendislik müdürü) hem de bir proje veya ürün patronuna rapor verir. Neden böyle bir şey kurulur? Çünkü uzmanı uzmanlık departmanında tutup aynı zamanda projeler arasında esnekçe kullanmak istersin. Artısı esneklik ve departmanlar arası (cross-functional) çalışmadır. Eksisi tam da iki patrondan doğar: kafa karışıklığı ve çatışma.</p><p>Sınavın en sevdiği cümle: “Engineers stay in their specialist departments but also report to product managers.” Kişinin departmanında kalması seni functional’a çekmesin; ikinci rapor hattı matrix demektir.</p>",
+          "ornek": "<p>Hayali bir danışmanlık şirketinde grafik tasarımcı Ece tasarım departmanına bağlı, ama aynı zamanda “hastane uygulaması” projesinde çalışıyor. Tasarım müdürü ondan önce logo işini, proje lideri ise önce ekran tasarımlarını istiyor. İki patron, iki öncelik: Bu matrix yapının hem esnekliğini hem de çatışma riskini gösteriyor.</p>",
+          "kaynak": [2],
+          "terimler": ["Geographic structure", "Matrix structure"],
+          "soru": {
+            "q": "At a furniture company, each designer belongs to the design department but is also assigned to a product launch team led by a product manager. The two managers sometimes give the same designer conflicting priorities. Which structure is this?",
+            "o": [
+              "Matrix structure",
+              "Divisional structure",
+              "Geographic structure",
+              "Functional structure"
+            ],
+            "x": "Tasarımcının hem departman müdürüne hem de ürün müdürüne bağlı olması iki rapor hattı demektir, bu da matrix yapıdır; çatışan öncelikler onun tipik eksisidir. Functional şıkkı cazip görünür çünkü tasarımcı departmanında kalıyor, ama ikinci patron functional yapıda yoktur."
+          }
+        },
+        {
+          "baslik": "Networked team ve virtual yapı",
+          "anlatim": "<p>Son iki yapı, klasik şemadan en uzak olanlardır.</p><p><b>Networked team structure</b> (ağ tipi takım yapısı) resmi olmayan, esnek ve yatay takımlardan oluşur; karar yetkisi dağıtılmıştır (decentralized). Takımlar bir iş için kurulur, iş bitince başka bir biçime girer. Artısı hız ve uyum yeteneğidir. Eksisi iletişimin belirsizleşmesi ve teknolojiye bağımlılıktır, çünkü kimin neyi yaptığı her zaman bir şemada yazmaz.</p><p><b>Virtual structure</b> (sanal yapı) <b>boundaryless</b> (sınırsız) bir organizasyondur ve tamamen <b>ICT</b> (bilgi ve iletişim teknolojileri) üzerinde durur. Genel merkez çoğu zaman tek sabit noktadır; ders notu Uber ve Airbnb’yi örnek verir. Artısı maliyet tasarrufu ve dünyanın her yerinden yetenek bulabilmektir. Eksisi yalnızlık ve daha az güvendir, çünkü insanlar birbirini hiç yüz yüze görmeyebilir.</p><p>İkisini nasıl ayırırsın? Networked team, takımların nasıl kurulduğunu anlatır: gayriresmî ve yatay. Virtual ise insanların nerede ve nasıl bağlandığını anlatır: fiziksel sınır yok, her şey teknoloji üzerinden. “Uzmanlar farklı ülkelerde, sadece online çalışıyor” cümlesi virtual demektir.</p>",
+          "ornek": "<p>Hayali bir çeviri girişiminin altı ülkede çevirmeni var; küçük bir merkez ofis dışında binası yok ve herkes paylaşılan yazılımla çalışıyor: virtual. Hayali bir bağımsız oyun stüdyosunda ise herkes aynı binada ama takımlar fikir etrafında kendiliğinden kurulup dağılıyor, kimin lider olduğu işe göre değişiyor: networked team.</p>",
+          "kaynak": [2],
+          "terimler": ["Networked team structure", "Virtual structure"],
+          "soru": {
+            "q": "An online language school has a tiny head office. Its teachers live in nine countries and work only through video calls and shared software. Which structure is this?",
+            "o": [
+              "Virtual structure",
+              "Networked team structure",
+              "Geographic structure",
+              "Matrix structure"
+            ],
+            "x": "Küçük bir merkez dışında fiziksel yapı yok ve herkes teknoloji üzerinden bağlanıyor: virtual. Geographic cazip görünür çünkü öğretmenler farklı ülkelerde, ama geographic yapı müşteri bölgelerine göre yetki verilen birimler kurar; burada ülkeler sadece insanların yaşadığı yerdir."
+          }
+        },
+        {
+          "baslik": "Senaryodan yapıyı teşhis etmek",
+          "anlatim": "<p>Part 2’de yapı adı nadiren yazılır; sen ipucunu bulursun. Şu sırayla sor, çünkü en belirgin işaretlerden başlıyor:</p><ol><li>İki patron var mı? Varsa <b>matrix</b>.</li><li>Fiziksel bir şirket neredeyse yok mu, herkes online mı? Varsa <b>virtual</b>.</li><li>Birimler bölgelere veya ülkelere göre mi kurulmuş ve bölgeler yetki sahibi mi? <b>Geographic</b>.</li><li>Birimler ürüne veya pazara göre mi ve her birinin kendi fonksiyonları mı var? <b>Divisional</b>.</li><li>Departmanlar uzmanlık alanına göre mi? <b>Functional</b>.</li><li>Takımlar gayriresmî, yatay ve sürekli değişiyor mu? <b>Networked team</b>.</li></ol><p>Eksiler de soru olur, onları yapının mantığından çıkar. Functional uzmanları ayırır, o yüzden silos. Divisional her bölüme her şeyi verir, o yüzden duplication. Geographic yetkiyi bölgelere dağıtır, o yüzden aşırı decentralization. Matrix iki patron verir, o yüzden çatışma. Networked team gayriresmîdir, o yüzden iletişim belirsizleşir. Virtual insanları ekranla bağlar, o yüzden yalnızlık ve düşük güven.</p><p>Mechanistic ve organic ise ayrı bir soru tipidir: yapının ne kadar katı veya esnek olduğunu ve hangi çevreye uyduğunu sorar.</p>",
+          "ornek": "<p>Hayali bir çay şirketi kuzey, güney ve sahil bölgelerine ayrı müdürler atıyor; her müdür kendi bölgesinde fiyatı ve ambalajı kendisi belirliyor. Bir yıl sonra her bölgede marka farklı görünüyor. Gruplama yere göre olduğu için yapı geographic, sorunun adı da aşırı decentralization.</p>",
+          "kaynak": [1, 2],
+          "terimler": ["Geographic structure", "Divisional structure", "Matrix structure"],
+          "soru": {
+            "q": "A cosmetics firm gives its regional heads in Scandinavia, the Gulf and South America full authority over products and prices. Head office now struggles to keep the brand consistent. Which structure and weakness fit?",
+            "o": [
+              "Geographic, with too much decentralization",
+              "Divisional, with every function duplicated",
+              "Matrix, with staff confused by two bosses",
+              "Virtual, with staff isolated from each other"
+            ],
+            "x": "Birimler bölgelere göre kurulmuş ve bölgelere tam yetki verilmiş: geographic. Merkezin kontrolü kaybetmesi de geographic yapının tipik eksisi olan aşırı decentralization. Divisional şıkkı cazip görünür çünkü birimler bağımsız, ama gruplama ürüne değil yere göre yapılmış."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Uzmanlık departmanında kalan ama ürün müdürüne de rapor veren mühendis functional yapıdadır.", "dogru": "İkinci bir rapor hattı varsa yapı <b>matrix</b> olur. Departmanda kalmak yanıltıcı ipucudur."},
+        {"yanlis": "Farklı ülkelerde yaşayıp online çalışan uzmanlar geographic yapıyı gösterir.", "dogru": "Sadece teknoloji üzerinden bağlanan, sınırsız bir organizasyon <b>virtual</b> yapıdır. <b>Geographic</b> yapıda bölgelere göre kurulmuş ve yetki sahibi birimler vardır."},
+        {"yanlis": "Duplication functional yapının zayıflığıdır.", "dogru": "Duplication <b>divisional</b> yapıya aittir; functional yapının zayıflığı <b>silos</b> ve yavaş koordinasyondur."},
+        {"yanlis": "Mechanistic yapı her zaman eski ve kötü bir yapıdır.", "dogru": "Stable, simple çevrede <b>mechanistic</b> yapı verimlidir; <b>organic</b> yapı unstable, complex çevreye uyar. Doğru cevap çevreye uyumdan gelir."},
+        {"yanlis": "PESTEL ve VRIO aynı çevreyi inceler.", "dogru": "PESTEL ve Porter’ın beş gücü dış çevreyi, VRIO ve value chain iç çevreyi inceler."}
+      ],
+      "ozet": [
+        "Dış çevre (PESTEL, Porter) kontrol edilemez; iç çevre (VRIO, value chain) şirketin kendi kaynaklarıdır.",
+        "Dış güçler, örneğin tariffs ve AI, şirketin iç yapısını değiştirebilir.",
+        "Mechanistic: hiyerarşi, kural, merkezî karar, dar kontrol alanı; durağan çevre.",
+        "Organic: düz, katılımcı, az kural, geniş kontrol alanı; değişken çevre.",
+        "Functional uzmanlığa göre gruplar; artısı uzmanlaşma, eksisi silos.",
+        "Divisional ürüne veya pazara göre gruplar; artısı odak, eksisi duplication.",
+        "Geographic müşteri bölgesine göre gruplar; artısı yerel bilgi, eksisi aşırı decentralization.",
+        "Matrix iki patron verir; artısı esneklik, eksisi çatışma.",
+        "Networked team gayriresmî ve yataydır; virtual ise ICT üzerine kurulu, sınırsız bir organizasyondur."
+      ],
+      "aklinda": "İki patron matrix, ofis yok virtual, bölgeye yetki geographic, ürüne bölüm divisional, uzmanlığa departman functional.",
+      "sinavda": "<p>Bu konu Part 2’de kısa senaryo olarak gelir: bir şirketin nasıl örgütlendiği anlatılır ve yapı adı ya da o yapının tipik eksisi sorulur. Yaklaşık 4 puanlık ağırlığı vardır. Senaryodaki rapor hattına, gruplama ölçütüne ve çevre tarifine bak.</p>"
+    },
+    {
+      "id": "c8b",
+      "ad": "Organizasyon kültürü: Schein, güçlü kültür ve diversity",
+      "sure": 30,
+      "neden": "<p>Kültür görünmez ama bir şirkette insanların neyi doğal, neyi ayıp saydığını belirler. Sınav sana bir ofis düzeni, bir tören ya da kurallara karşı çıkan bir ekip anlatır ve bunun hangi kültür kavramı olduğunu sorar. Katmanları ve benzer terimleri ayırabilirsen bu sorular kolay puandır.</p>",
+      "hedefler": [
+        "Organizasyon kültürünü tanımla ve neden rekabet avantajı olabileceğini açıkla.",
+        "Bir örneği Schein’in üç katmanından birine yerleştir.",
+        "Strong culture, subculture ve counterculture kavramlarını ayırt et.",
+        "Kültürün oluşma yollarını ve görünür işaretlerini bir senaryoda tanı.",
+        "Diversity’nin dört avantajını ve glass ceiling kavramını açıkla."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Kültür nedir, neden avantaj sağlar?",
+          "anlatim": "<p>Yeni bir işe başladığında kimse sana “burada toplantıya beş dakika erken gelinir” demez, ama birkaç gün içinde bunu öğrenirsin. İşte bunu öğreten şey kültürdür.</p><p><b>Organizational culture</b> (organizasyon kültürü), insanlara hangi davranışın uygun, hangisinin uygunsuz olduğunu gösteren ortak varsayımlar, değerler ve inançlar sistemidir. Ders notu bunu balığın suyuna benzetir: Balık suyu fark etmez ama su onun her hareketini belirler. Kültür de görünmezdir ama davranışı şekillendirir.</p><p>Neden önemli? Barney’ye göre nadir ve taklit edilmesi zor bir kültür <b>competitive advantage</b> (rekabet avantajı) olabilir. Mantığı şu: Rakip ürününü kopyalayabilir, fiyatını kopyalayabilir, ama yıllar içinde oluşmuş ortak inançları bir gecede kopyalayamaz. Yani avantajın kaynağı kültürün kendisi değil, nadir ve kopyalanması zor olmasıdır.</p><p>Kültürü yapıdan ayır: Yapı kimin kime rapor verdiğini gösteren şemadır, kültür ise o şemadaki insanların nasıl düşündüğüdür.</p>",
+          "ornek": "<p>Hayali “Mavi Kapı” lokantasında yeni garson Can, ilk hafta hiçbir garsonun masadan teşekkür etmeden ayrılmadığını fark ediyor. Bu kural hiçbir yerde yazmıyor, kimse ona söylemiyor, ama herkes uyuyor. Rakip lokanta aynı menüyü kopyalasa bile bu ortak davranışı kopyalayamıyor: Organizational culture burada bir avantaj.</p>",
+          "kaynak": [0],
+          "terimler": ["Organizational culture"],
+          "soru": {
+            "q": "Two rival bakeries sell almost identical bread. Customers keep choosing one because its staff share a deep belief in treating every visitor like family, which the rival cannot copy quickly. What does this illustrate?",
+            "o": [
+              "A rare, hard-to-imitate culture giving a competitive advantage",
+              "A counterculture whose values oppose the bakery's main culture",
+              "A written rule system that tightly controls staff behaviour",
+              "An artifact of culture such as the shop's physical layout"
+            ],
+            "x": "Ortak bir inanç personelin davranışını belirliyor ve rakip bunu hızla kopyalayamıyor; bu, nadir ve taklidi zor kültürün rekabet avantajı vermesidir. Artifact şıkkı cazip görünür çünkü kültürle ilgilidir, ama burada görünür bir nesne değil, paylaşılan bir inanç anlatılıyor."
+          }
+        },
+        {
+          "baslik": "Schein’in üç katmanı",
+          "anlatim": "<p>Kültür görünmezse onu nasıl incelersin? Schein yüzeyden derine üç katman önerir. Sıra her zaman aynıdır: artifacts, values, assumptions.</p><p><b>Artifacts</b> (eserler, görünür unsurlar) kültürün görülebilen, dokunulabilen yüzüdür: açık kapı politikası (open-door policy), ofisin yerleşimi, bilardo masaları, şirket pikniği. Bir yabancı bile ilk gün bunları görür.</p><p><b>Values</b> (değerler) paylaşılan ilkeler, standartlar ve hedeflerdir. İnsanlar bunları sorulduğunda söyleyebilir: eşitlikçilik (egalitarianism), eğlenmek gibi.</p><p><b>Assumptions</b> (temel varsayımlar) en derin katmandır. Bunlar o kadar doğal kabul edilir ki insanlar onlara inandıklarını fark etmez bile. Ders notundaki örnek: “Mutlu çalışanlar organizasyona fayda sağlar.”</p><p>Neden üç katman? Çünkü görünen her şey daha derindeki bir şeyin işaretidir. Bilardo masası (artifact) eğlenmeye verilen değerden (value) gelir, o değer de mutlu çalışanın iyi iş çıkardığı inancından (assumption). Ayırmak için sor: Görüp dokunabiliyor muyum? Artifact. İnsanlar bunu ilke olarak söyler mi? Value. Kimse fark etmeden mi inanıyor? Assumption.</p>",
+          "ornek": "<p>Hayali bir hastane servisinde başhemşirenin odasının kapısı hiç kapanmıyor ve koridorda herkesin görebildiği bir görev panosu var: artifacts. Ekip sorulduğunda “önce hasta güvenliği” diyor: value. Kimsenin tartışmadığı inanç ise “paylaşılan hata, önlenmiş hatadır”: assumption. Pano ve açık kapı bu inancın görünür izleri.</p>",
+          "kaynak": [1],
+          "terimler": ["Artifacts", "Assumptions"],
+          "soru": {
+            "q": "At a design agency, nobody questions the belief that clients always know less than the designers; staff are not even aware they hold this belief. At which Schein level is it?",
+            "o": [
+              "Assumptions",
+              "Values",
+              "Artifacts",
+              "Rituals"
+            ],
+            "x": "İnanç sorgulanmıyor ve çalışanlar ona sahip olduklarının farkında bile değil: Bu en derin katman olan assumptions. Values cazip görünür, ama değerler insanların bilinçli olarak söyleyebildiği ilkelerdir. Rituals ise Schein’in katmanlarından biri değil, kültürün işaretlerinden biridir."
+          }
+        },
+        {
+          "baslik": "Kültürün boyutları ve strong culture",
+          "anlatim": "<p>Kültürler birbirinden neyi ödüllendirdiklerine göre ayrılır. Ders notu yedi boyut sayar:</p><ul><li><b>Innovative</b> (yenilikçi): risk almayı ve yeni fikri ödüllendirir.</li><li><b>Aggressive</b> (saldırgan, rekabetçi): rakibi geçmeyi ödüllendirir.</li><li><b>Outcome-oriented</b> (sonuç odaklı): yoldan çok sonuca bakar.</li><li><b>Stable</b> (istikrarlı): öngörülebilirliği ve kurala bağlılığı ödüllendirir.</li><li><b>People-oriented</b> (insan odaklı): adil ve destekleyici olmayı öne koyar.</li><li><b>Team-oriented</b> (takım odaklı): birlikte çalışmayı ödüllendirir.</li><li><b>Detail-oriented</b> (ayrıntı odaklı): titizliği ve kesinliği ödüllendirir.</li></ul><p><b>Strong culture</b> (güçlü kültür), çalışanların çoğunun şirketin değerlerini paylaştığı kültürdür. Burada “güçlü” iyi anlamına gelmez, yaygın anlamına gelir. Güçlü kültür bir varlık (asset) olabilir, çünkü herkes aynı yöne bakar. Ama bir yük (liability) de olabilir: değiştirmesi zordur ve birleşmelerde başka bir güçlü kültürle çatışabilir. Ders notu Daimler-Chrysler birleşmesini örnek verir. Sebebi açık: Herkesin içtenlikle inandığı alışkanlıkları bırakması, sadece bir kural değiştirmekten çok daha zordur.</p>",
+          "ornek": "<p>Hayali “Kesin Hesap” muhasebe firmasında neredeyse herkes titizliğe inanıyor: detail-oriented ve strong culture. Firma, hızı ve deneme yanılmayı seven hayali bir reklam ajansıyla birleşiyor. İki taraf da kendi alışkanlıklarından vazgeçmiyor ve projeler kilitleniyor. Güçlü kültür burada varlık olmaktan çıkıp yük oluyor.</p>",
+          "kaynak": [2],
+          "terimler": ["Strong culture"],
+          "soru": {
+            "q": "Two firms, each with a very strong but opposite culture, merge. A year later staff on both sides still refuse to adopt the other's habits. What does this show about strong cultures?",
+            "o": [
+              "They can be a liability because they are hard to change",
+              "They disappear quickly once a merger is announced",
+              "They exist only where many countercultures are present",
+              "They are always an asset in any merger situation"
+            ],
+            "x": "Güçlü kültürde çoğu çalışan aynı değerlere bağlıdır, bu yüzden değiştirmek zordur ve birleşmelerde çatışma çıkar; yani kültür bir yük olabilir. “Always an asset” şıkkı cazip görünür çünkü güçlü kelimesi olumlu duyulur, ama ders notu güçlü kültürün hem varlık hem yük olabileceğini söyler."
+          }
+        },
+        {
+          "baslik": "Subculture ve counterculture",
+          "anlatim": "<p>Büyük bir şirkette herkesin kültürü birebir aynı değildir. Departmanlar ve şubeler kendi küçük kültürlerini geliştirir. Burada iki kavramı ayırman gerekir ve sınav bunları sık karıştırır.</p><p><b>Subculture</b> (alt kültür), bir departman, şube veya lokasyonda oluşan kültürdür. Kendi şakaları, kendi alışkanlıkları, kendi giyim tarzı olabilir, ama ana kültürle uyumludur. Ana değerlere karşı çıkmaz, onların içinde kendine has bir renk taşır.</p><p><b>Counterculture</b> (karşı kültür) ise değerleri ana kültüre açıkça karşı çıkan bir gruptur. Fark, “farklı” ile “karşıt” arasındaki farktır. Alt kültür ana kültürün bir lehçesi gibidir; karşı kültür ise aynı dili konuşmayı reddeder.</p><p>Senaryoda şu kelimelere bak: “has its own habits but supports the company's values” subculture demektir; “openly rejects” ya da “opposes the values” counterculture demektir. Strong culture ise bunlardan ayrı bir şeydir: tek bir grubun değil, çalışanların çoğunun aynı değerleri paylaşmasını anlatır.</p>",
+          "ornek": "<p>Hayali bir üniversite kütüphanesinde gece vardiyası kendi müziğini dinliyor ve kendi şakalarını yapıyor, ama “sessizlik ve özen” değerine bağlı: subculture. Aynı kütüphanedeki yeni dijital ekip ise bu değerlerin eskidiğini açıkça söylüyor ve okuma salonunda gürültülü etkinlikler düzenliyor: counterculture.</p>",
+          "kaynak": [2],
+          "terimler": ["Subculture", "Counterculture"],
+          "soru": {
+            "q": "In a careful, rule-driven insurance firm, the claims team in one city has its own dress style and lunch habits but fully supports the firm's values. This team is best described as a:",
+            "o": [
+              "Subculture",
+              "Counterculture",
+              "Strong culture",
+              "Ritual"
+            ],
+            "x": "Ekibin kendine ait alışkanlıkları var ama şirketin değerlerini destekliyor: Bu bir subculture. Counterculture cazip görünür çünkü ekip farklı davranıyor, ama karşı kültür için ana değerlere açıkça karşı çıkmak gerekir."
+          }
+        },
+        {
+          "baslik": "Kültür nasıl oluşur ve korunur?",
+          "anlatim": "<p>Kültür bir gecede kurulmaz ve kendi kendine de sürmez. Ders notu altı kaynak sayar ve her birinin arkasında basit bir mantık vardır.</p><ul><li><b>Founder values</b> (kurucunun değerleri): İlk kuralları kurucu koyar, ilk çalışanlar onu izler.</li><li><b>Industry demands</b> (sektörün gerekleri): Bir hastane ile bir reklam ajansı aynı kültürü taşıyamaz, çünkü işin doğası farklı davranış ister.</li><li><b>Attraction-selection-attrition</b> (çekim, seçim, ayrılma): Benzer insanlar şirkete çekilir, uyumlu görünenler seçilir, uymayanlar zamanla ayrılır. Sonuç: kültür kendini çoğaltır.</li><li><b>Onboarding</b> (işe alıştırma): Yeni çalışanların ihtiyaç duyduğu tutumları, bilgileri ve davranışları öğrendiği süreçtir.</li><li><b>Leadership</b> (liderlik): Çalışanlar yöneticinin ne söylediğinden çok ne yaptığına bakar.</li><li><b>Reward systems</b> (ödül sistemleri): Neyi ödüllendirirsen ondan daha çok görürsün.</li></ul><p>Onboarding ile attraction-selection-attrition’ı karıştırma: İlki şirkete girdikten sonra öğrenmeyi, ikincisi kimin girip kimin kaldığını anlatır.</p>",
+          "ornek": "<p>Hayali bir yazılım girişiminin kurucusu uzun toplantılardan nefret ediyor ve her şeyi yazılı yürütüyor: founder values. Bu tarzı seven adaylar başvuruyor, uyumlu olanlar işe alınıyor, toplantı isteyenler birkaç ay içinde ayrılıyor: attraction-selection-attrition. Yeni gelenler ilk hafta bir “yol arkadaşıyla” bu yazılı düzeni öğreniyor: onboarding.</p>",
+          "kaynak": [3],
+          "terimler": ["Onboarding"],
+          "soru": {
+            "q": "A climbing gym attracts staff who love adventure, hires the applicants who seem to fit, and people who prefer quiet routines soon quit. Which culture-building mechanism is this?",
+            "o": [
+              "Attraction-selection-attrition",
+              "Onboarding of new employees",
+              "Reward systems",
+              "Industry demands"
+            ],
+            "x": "Üç adım da senaryoda var: benzer insanlar çekiliyor, uyumlu olanlar seçiliyor, uymayanlar ayrılıyor. Onboarding cazip görünür ama o, işe girdikten sonra tutum ve davranışların öğrenilmesidir; burada anlatılan ise kimin girip kimin kaldığı."
+          }
+        },
+        {
+          "baslik": "Kültürün işaretleri",
+          "anlatim": "<p>Bir şirketin kültürünü dışarıdan okumak istiyorsan beş işarete bakarsın. Bunlar kültürün kendisi değil, kültürün bıraktığı izlerdir.</p><ul><li><b>Mission statement</b> (misyon ifadesi): Şirketin yazılı amacı, neyi önemsediğini ilan eder.</li><li><b>Rituals</b> (ritüeller): Değerleri öğreten ve aidiyet yaratan, tekrar eden etkinliklerdir. Tekrar ettiği için öğretir.</li><li><b>Rules and policies</b> (kurallar ve politikalar): Hangi davranışın beklendiğini yazıya döker.</li><li><b>Physical layout</b> (fiziksel düzen): Açık ofis mi, kapalı odalar mı? Yerleşim, kimin kime ne kadar kolay ulaştığını gösterir.</li><li><b>Stories and language</b> (hikâyeler ve dil): Şirkette anlatılan efsaneler ve kullanılan özel kelimeler.</li></ul><p>Burada bir çakışmaya dikkat et: Ofis düzeni hem bir kültür işaretidir hem de Schein modelinde bir artifact’tır. Ama asla bir value değildir. Ritüel ile hikâyeyi de ayır: Ritüel düzenli olarak yapılan bir şeydir, hikâye ise anlatılan bir olaydır.</p>",
+          "ornek": "<p>Hayali bir restoran mutfağında her cuma kapanıştan sonra bütün ekip yeni bir yemeği birlikte tadıyor ve oylama yapıyor: ritual. Aynı mutfakta herkes, elektrik kesildiğinde mum ışığında yemek yetiştiren kurucunun olayını yeni gelenlere anlatıyor: stories. İkisi de kültürü gösteriyor ama biri tekrar eden bir etkinlik, diğeri anlatılan bir olay.</p>",
+          "kaynak": [4],
+          "terimler": ["Rituals"],
+          "soru": {
+            "q": "Every Monday morning, all agents at a call centre stand up, clap three times together and read the customer promise aloud before taking calls. Which sign of culture is this mainly?",
+            "o": [
+              "A ritual",
+              "A mission statement",
+              "Rules and policies",
+              "Physical layout"
+            ],
+            "x": "Her hafta tekrar eden, değeri öğreten ve aidiyet yaratan ortak bir etkinlik: ritual. Mission statement cazip görünür çünkü müşteri sözü okunuyor, ama işaret olarak öne çıkan şey yazılı metnin kendisi değil, onu her pazartesi birlikte okuma eylemidir."
+          }
+        },
+        {
+          "baslik": "Diversity ve dört avantajı",
+          "anlatim": "<p><b>Diversity</b> (çeşitlilik) ders notunda geniş anlamda kullanılır. Sadece cinsiyet veya köken değil, kişilik, düşünme tarzı (cognitive style), eğitim ve sosyal geçmiş farkları da çeşitliliktir.</p><p>Ders notu dört avantaj sayar ve her birinin mantığını görebilirsin:</p><ul><li><b>Enhances creativity</b> (yaratıcılığı artırır): Farklı geçmişler bir soruna farklı açılardan bakar.</li><li><b>Enhances image</b> (imajı güçlendirir): Toplum çeşitliliği önemseyen şirketi daha olumlu görür.</li><li><b>Improves outreach</b> (yeni pazarlara erişimi artırır): Bir topluluğu tanıyan çalışan, o topluluğa nasıl ulaşılacağını da bilir.</li><li><b>Improves morale</b> (moral yükseltir): Değer gördüğünü hisseden çalışan daha istekli çalışır.</li></ul><p>BCG’nin bulgusu da bu listeye eklenir: Çeşitlilik organizasyonun dayanıklılığını (resilience) ve uyum yeteneğini (adaptiveness) artırır. Sınavda avantajları karıştırmamak için sonuca bak: Yeni fikir çıktıysa creativity, dış görünüş düzeldiyse image, yeni müşteri grubu kazanıldıysa outreach, çalışanların motivasyonu arttıysa morale.</p>",
+          "ornek": "<p>Hayali bir dil öğrenme uygulaması ekibine farklı bölgelerden ve farklı yaş gruplarından insanlar katılıyor. Bir ay içinde yaşlı kullanıcılar için büyük yazılı bir mod fikri çıkıyor: creativity. Bu mod sayesinde daha önce uygulamayı kullanmayan emekliler kaydoluyor: outreach. Aynı olay iki farklı avantajı gösteriyor.</p>",
+          "kaynak": [5],
+          "terimler": [],
+          "soru": {
+            "q": "After a hospital starts treating staff from all backgrounds as equally valued, employees report feeling more respected and more motivated at work. Which advantage of diversity is this?",
+            "o": [
+              "It improves morale",
+              "It enhances image",
+              "It improves outreach",
+              "It enhances creativity"
+            ],
+            "x": "Sonuç çalışanların kendini değerli ve motive hissetmesi: Bu morale avantajıdır. Image cazip görünür çünkü hastane olumlu bir şey yapıyor, ama image dışarıdan nasıl görüldüğünü anlatır; burada değişen şey içerideki motivasyon."
+          }
+        },
+        {
+          "baslik": "Cinsiyet, glass ceiling ve cinsel yönelim",
+          "anlatim": "<p>Çeşitliliğin avantajlarını gördün; şimdi engellere bakalım.</p><p>Ders notuna göre kadınlar daha fazla diploma alıyor, ama yükselirken üç sorunla karşılaşıyor. Birincisi <b>glass ceiling</b> (cam tavan): önyargıya dayanan ve kadınların üst kademelere çıkmasını engelleyen görünmez bir bariyer. “Cam” dendiği için görünmezdir: Hiçbir yazılı kural yasaklamaz, ama yukarı çıkılamaz. İkincisi <b>pay gap</b> (ücret farkı): aynı iş için daha az ücret. Üçüncüsü <b>sexual harassment</b> (cinsel taciz). Bunun iki biçimi vardır: <b>quid pro quo</b> (bir iş avantajını cinsel talebe bağlamak) ve <b>hostile environment</b> (düşmanca çalışma ortamı). Ders notu bu konuda “Me too” hareketini anar.</p><p><b>Sexual orientation and gender identity</b> (cinsel yönelim ve cinsiyet kimliği) konusunda ders notunun mesajı şudur: Cinsel azınlıklar ortalamada daha yüksek eğitim düzeyine sahip, ama yine de işe alımda ve iş yerindeki muamelede ayrımcılıkla karşılaşıyor.</p><p>Glass ceiling ile pay gap’i karıştırma: Biri yükselmenin, diğeri ücretin önündeki engeldir.</p>",
+          "ornek": "<p>Hayali bir mühendislik firmasında yeni mezun alımlarının yarısı kadın ve performans notları yüksek. Yine de on yıldır hiçbir kadın takım liderinin üstüne çıkamıyor ve bunu yasaklayan hiçbir kural yok. Görünmez bir engel yükselişi durduruyor: glass ceiling. Maaşlar eşit olsa bile bu durum değişmez, çünkü sorun ücrette değil yükselmede.</p>",
+          "kaynak": [5],
+          "terimler": ["Glass ceiling"],
+          "soru": {
+            "q": "At a law firm, women make up half of the junior lawyers and receive strong reviews, yet for years none has been promoted to partner, although no written rule blocks them. What does this describe?",
+            "o": [
+              "The glass ceiling",
+              "The pay gap",
+              "A hostile environment",
+              "A counterculture"
+            ],
+            "x": "Kadınlar iyi performans gösteriyor ama yazılı bir engel olmadan üst kademeye çıkamıyor: Bu görünmez bariyer glass ceiling’dir. Pay gap cazip görünür çünkü o da cinsiyet eşitsizliğidir, ama pay gap ücretle ilgilidir; burada sorun terfidir."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Ofis düzeni şirketin değerlerinden biridir.", "dogru": "Ofis düzeni görünür bir unsurdur, yani <b>artifact</b>’tır ve aynı zamanda kültürün bir işaretidir. Değer değildir."},
+        {"yanlis": "Kendi alışkanlıkları olan her departman counterculture’dır.", "dogru": "Ana değerleri destekleyen farklı bir grup <b>subculture</b>’dır. <b>Counterculture</b> için ana değerlere açıkça karşı çıkmak gerekir."},
+        {"yanlis": "Strong culture her zaman iyidir.", "dogru": "<b>Strong culture</b> sadece çalışanların çoğunun değerleri paylaştığı anlamına gelir; değiştirmesi zor olduğu için birleşmelerde yük olabilir."},
+        {"yanlis": "Schein’in katmanları yüzeyden derine assumptions, values, artifacts sırasıyla gider.", "dogru": "Yüzeyden derine sıra <b>artifacts, values, assumptions</b>’dır: görünen en üstte, fark edilmeyen en altta. Sorunun hangi yönü istediğini önce oku."},
+        {"yanlis": "Glass ceiling ile pay gap aynı şeydir.", "dogru": "<b>Glass ceiling</b> yükselmenin önündeki görünmez engeldir, <b>pay gap</b> ise ücret farkıdır."}
+      ],
+      "ozet": [
+        "Organizational culture: uygun davranışı gösteren ortak varsayımlar, değerler ve inançlar.",
+        "Nadir ve taklidi zor kültür rekabet avantajı olabilir (Barney).",
+        "Schein, yüzeyden derine: artifacts, values, assumptions.",
+        "Yedi boyut: innovative, aggressive, outcome, stable, people, team, detail.",
+        "Strong culture: çoğunluk değerleri paylaşır; hem varlık hem yük olabilir.",
+        "Subculture ana kültüre uyar, counterculture ona karşı çıkar.",
+        "Kültürün kaynakları: kurucu, sektör, attraction-selection-attrition, onboarding, liderlik, ödüller.",
+        "Kültürün beş işareti: misyon ifadesi (mission statement), ritüeller (rituals), kurallar ve politikalar, fiziksel düzen, hikâyeler ve dil.",
+        "Diversity dört avantaj getirir: yaratıcılık, imaj, yeni pazarlara erişim ve moral; önündeki engeller cam tavan (glass ceiling), ücret farkı ve tacizdir."
+      ],
+      "aklinda": "Gördüğün artifact, söylediğin value, fark etmeden inandığın assumption.",
+      "sinavda": "<p>Part 2’de bir şirket sahnesi anlatılır: bir ofis düzeni, haftalık bir tören, kurallara karşı çıkan bir ekip ya da terfi edemeyen kadın çalışanlar. Senden doğru kavramı seçmen istenir. Yaklaşık 4 puanlık ağırlığı vardır; en çok Schein katmanları ve subculture ile counterculture ayrımı sorulur.</p>"
+    },
+    {
+      "id": "c9a",
+      "ad": "Ulusal kültür: Hofstede’in boyutları ve GLOBE",
+      "sure": 28,
+      "neden": "<p>Aynı yönetici bir ülkede saygı görürken başka bir ülkede kaba ya da zayıf bulunabilir. Hofstede ve GLOBE bunun nedenini birkaç boyutla açıklar. Part 1’de bu boyutların tanımları ve hangi çerçeveye ait oldukları sorulur, bu yüzden her boyutu kendi cümlenle anlatabilmelisin.</p>",
+      "hedefler": [
+        "Hofstede’in kültür tanımını ve araştırmasını açıkla.",
+        "Dört Hofstede boyutunu bir davranış örneğinden tanı.",
+        "Uncertainty avoidance ile uzun vadeli planlamayı ayır.",
+        "GLOBE’u Hofstede’den yıl, kapsam ve iki özgün boyutla ayırt et.",
+        "Psychic distance kavramını bir yurt dışı senaryosunda kullan."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Hofstede: kültür bir zihin programıdır",
+          "anlatim": "<p>Bölüm 8’de kültürü bir şirketin içinde gördün. Hofstede aynı soruyu ülke ölçeğinde sorar: Bir ülkenin insanları işte neden birbirine benzer davranır?</p><p>Hollandalı bir sosyal psikolog olan Hofstede kültürü şöyle tanımlar: “bir grubun veya insan kategorisinin üyelerini diğerlerinden ayıran, zihnin kolektif programlanması.” Bu, <b>Culture (Hofstede)</b> (Hofstede’ye göre kültür) tanımıdır ve sınavda sık sorulur. Benzetmeyi düşün: Bir bilgisayar yazılımla çalışır, insan da büyürken grubundan öğrendiği görünmez bir “yazılımla”. Aynı yazılımı öğrenen insanlar benzer tepkiler verir.</p><p>Hofstede bu fikri büyük bir ankete dayandırdı: 72 ülkede 88.000’den fazla IBM çalışanı. Sonuçta dört boyut çıktı: <b>power distance</b>, <b>individualism/collectivism</b>, <b>uncertainty avoidance</b> ve <b>masculinity</b>. Ders notları bu çalışmayı 1960’lara yerleştirir ve dört boyutun daha sonra altıya çıktığını belirtir. Sınav için kilit bilgiler şunlar: IBM, 1960’lar, dört özgün boyut.</p><p>Bu tanımı Schein’le karıştırma: Schein bir organizasyonun kültür katmanlarını anlatır, Hofstede ise ülkeleri karşılaştırır.</p>",
+          "ornek": "<p>Hayali bir yaz kampına iki farklı şehirden çocuklar geliyor. Bir grubun çocukları yemekte herkes oturana kadar beklemeden başlamıyor, diğer grup ise hemen başlıyor. Kimse onlara kampta bunu söylemedi; davranış evde öğrenilen ortak bir “programdan” geliyor. Hofstede’nin kültür tanımı tam olarak bu grup düzeyindeki ortak programı anlatır.</p>",
+          "kaynak": [0],
+          "terimler": ["Culture (Hofstede)"],
+          "soru": {
+            "q": "A researcher argues that employees from one country react alike at work because they learned the same unwritten mental software while growing up. Which concept matches this idea?",
+            "o": [
+              "Hofstede's collective programming of the mind",
+              "GLOBE's dimension of performance orientation",
+              "Schein's deepest level of basic assumptions",
+              "Psychic distance between two home countries"
+            ],
+            "x": "Bir grubun üyelerini diğerlerinden ayıran, öğrenilmiş ortak zihin programı Hofstede’nin kültür tanımıdır. Schein’in assumptions katmanı cazip görünür çünkü o da fark edilmeyen inançlardır, ama Schein organizasyon kültürünü anlatır; burada bir ülkenin insanları karşılaştırılıyor."
+          }
+        },
+        {
+          "baslik": "Power distance",
+          "anlatim": "<p>İlk boyut güç ve otoriteyle ilgilidir. <b>Power distance</b> (güç mesafesi), bir toplumun üyelerinin güç ve otorite farklarını ne ölçüde kabul ettiğidir. Dikkat et: Boyut, güç farkının ne kadar büyük olduğunu değil, insanların bu farkı ne kadar normal karşıladığını ölçer.</p><p>Ders notundaki örnekler: Power distance yüksek ülkeler Mexico, India, Brazil, China; düşük ülkeler US, UK, Denmark.</p><p>Yönetim için anlamı şudur: Power distance yüksek bir kültürde liderin otoritesini göstermesi beklenir ve astlar net talimat bekler. Patronu sorgulamak tuhaf karşılanır. Power distance düşük bir kültürde ise çalışan, yöneticisine adıyla hitap edip kararına itiraz edebilir. Bu yüzden düşük güç mesafeli bir ülkeden gelen yönetici, yüksek güç mesafeli bir ülkede herkesi tartışmaya davet ettiğinde çalışanlar rahatlamaz, tersine huzursuzlanabilir.</p><p>Bu boyutu uncertainty avoidance ile karıştırma: “Net talimat” ifadesi iki boyutta da geçebilir. Talimat beklentisinin kaynağı otoriteye saygıysa power distance, belirsizlikten kaçmaksa uncertainty avoidance.</p>",
+          "ornek": "<p>Hayali bir tekstil şirketinde yeni müdür Lale, ilk toplantıda “bana Lale deyin, kararlarımı istediğiniz gibi eleştirin” diyor. Ekip ise ona “Lale Hanım” demeye devam ediyor ve her işte ondan net bir talimat bekliyor. Ekibin kültüründe otorite farkı doğal kabul ediliyor: power distance yüksek.</p>",
+          "kaynak": [0],
+          "terimler": ["Power distance"],
+          "soru": {
+            "q": "A Danish manager moves to a branch in Brazil and invites everyone to challenge her decisions openly. Staff seem uneasy and keep waiting for clear instructions from her. Which dimension best explains this?",
+            "o": [
+              "Power distance",
+              "Uncertainty avoidance",
+              "Individualism",
+              "Masculinity"
+            ],
+            "x": "Ders notuna göre Brazil yüksek, Denmark düşük power distance örneğidir; yüksek güç mesafesinde astlar liderden otorite ve net talimat bekler. Uncertainty avoidance cazip görünür çünkü talimat beklentisi var, ama burada huzursuzluk kurallardan değil, patronun eleştirilmesinin tuhaf görünmesinden geliyor."
+          }
+        },
+        {
+          "baslik": "Individualism ve collectivism",
+          "anlatim": "<p>İkinci boyut şu soruya cevap verir: Bu toplumda önce ben mi gelirim, yoksa grup mu?</p><p><b>Individualism</b> (bireycilik) bireyin gruba olan ilişkisine odaklanır; insanlar kişisel hedeflerini ve bağımsızlıklarını öne koyar. Ders notundaki bireyci örnekler US, UK ve Canada’dır. <b>Collectivism</b> (kolektivizm) ise grubun bütününe odaklanır; grubun uyumu ve başarısı kişisel başarıdan önce gelir. Daha kolektivist bölgeler olarak Asia ve Latin America verilir.</p><p>Bu boyut yönetim kararlarını doğrudan etkiler. Ders notuna göre kolektivist bir kültürde işe alım ve kararlar gruba dayanır ve uzlaşma (consensus) aranır. Mantığı açık: Grubun uyumunu önemseyen insanlar, birinin öne çıkarılıp diğerlerinden ayrılmasından rahatsız olur. Bu yüzden ödülleri ve hedefleri grubun performansına bağlamak orada daha iyi işler. Bireyci bir kültürde ise bireysel prim ve kişisel tanınma daha motive edicidir.</p><p>Bunu bölüm 10’daki takım kavramıyla karıştırma: Collectivism bir ülkenin kültür boyutudur, takım ise bir çalışma birimidir.</p>",
+          "ornek": "<p>Hayali bir yazılım şirketinin iki ofisi var. Birinde yönetim “ayın çalışanı” ödülü verince herkes yarışmaya başlıyor ve verim artıyor: bireyci kültür. Diğer ofiste aynı ödül çalışanları utandırıyor; ödülü kazanan kişi bile primi ekibiyle paylaşmak istiyor. Orada ekip primi çok daha iyi sonuç veriyor: kolektivist kültür.</p>",
+          "kaynak": [0],
+          "terimler": ["Individualism", "Collectivism"],
+          "soru": {
+            "q": "In a new office, a manager asks each employee to compete for an individual 'employee of the month' prize. Staff feel uncomfortable and ask that any reward be shared by the whole team. Their culture most likely scores high on:",
+            "o": [
+              "Collectivism",
+              "Individualism",
+              "Power distance",
+              "Masculinity"
+            ],
+            "x": "Çalışanlar bireysel yarıştan rahatsız oluyor ve ödülün grupça paylaşılmasını istiyor: Bu kolektivist kültürün işaretidir. Masculinity cazip görünür çünkü ödül ve başarı geçiyor, ama burada mesele başarıya verilen önem değil, başarının bireye mi gruba mı ait olduğu."
+          }
+        },
+        {
+          "baslik": "Uncertainty avoidance",
+          "anlatim": "<p>Üçüncü boyut belirsizlikle ilgilidir. <b>Uncertainty avoidance</b> (belirsizlikten kaçınma), insanların risk, belirsizlik ve öngörülemeyen durumlar karşısında ne kadar rahat olduğudur. Yüksek uncertainty avoidance, insanların net kurallar istediği anlamına gelir: ne olacağı önceden yazılı olsun, sürpriz olmasın. Düşük uncertainty avoidance ise belirsizliğe tolerans demektir.</p><p>Ders notundaki örnekler: Yüksek olanlar France, Greece, Japan; düşük olanlar Denmark, US, UK.</p><p>Bu boyutun mantığını şöyle kur: Belirsizlik kaygı yaratır. Kaygıyı azaltmanın yolu kurallar, sözleşmeler ve prosedürlerdir. Bu yüzden belirsizlikten çok kaçınan bir kültürde ayrıntılı kurallar ve planlar rahatlatıcıdır, belirsizliğe toleranslı bir kültürde ise aynı kurallar gereksiz bürokrasi gibi görünür.</p><p>Sınavın bilinen tuzağı burada: Uncertainty avoidance uzun vadeli planlama değildir. Uzun vadeye, tasarrufa ve sabra odaklanmak <b>long-term orientation</b> adlı ayrı bir boyuttur. Uncertainty avoidance geleceği ne kadar uzağa planladığınla değil, belirsizlik karşısında ne kadar huzursuz olduğunla ilgilidir.</p>",
+          "ornek": "<p>Hayali bir tur şirketi iki ülkede gezi düzenliyor. Birinde müşteriler her dakikası yazılı bir program, iptal koşulları ve yedek planlar istiyor; programda değişiklik olunca şikâyet yağıyor: yüksek uncertainty avoidance. Diğerinde müşteriler “gidince bakarız” diyerek esnek turları seçiyor: düşük uncertainty avoidance.</p>",
+          "kaynak": [0],
+          "terimler": ["Uncertainty avoidance"],
+          "soru": {
+            "q": "Staff at a branch in a new country ask for written procedures for every situation and feel stressed whenever plans change at short notice. Which dimension is likely high in their culture?",
+            "o": [
+              "Uncertainty avoidance",
+              "Long-term orientation",
+              "Power distance",
+              "Collectivism"
+            ],
+            "x": "Her durum için yazılı prosedür istemek ve ani değişiklikte gerilmek, belirsizlikle rahat olmamanın işaretidir: yüksek uncertainty avoidance. Long-term orientation cazip görünür çünkü planlamayla ilgili gibi durur, ama o geleceğe ve sabra odaklanmaktır; burada konu belirsizlik karşısındaki huzursuzluk."
+          }
+        },
+        {
+          "baslik": "Masculinity",
+          "anlatim": "<p>Dördüncü boyut bir toplumun neyi başarı saydığıyla ilgilidir. <b>Masculinity</b> (erillik), geleneksel olarak eril kabul edilen niteliklere verilen önemdir: başarı (achievement), yükselme (advancement) ve kazanç (earnings). Bu kültürlerde cinsiyet rolleri de net ayrılmıştır. Karşı ucu <b>femininity</b> (dişillik) ise işbirliğine ve yaşam kalitesine önem verir.</p><p>Ders notundaki örnekler: Masculinity yüksek ülkeler Japan, Mexico, Germany; düşük ülkeler Denmark ve Finland.</p><p>Mantık şu: Bir toplum başarıyı terfi ve para ile ölçüyorsa, iş hayatın merkezine yerleşir ve uzun çalışma saatleri normal görülür. Yaşam kalitesine ve işbirliğine önem veren toplumda ise iş ile özel hayat arasındaki denge daha değerlidir.</p><p>İki karışıklığa dikkat et. Birincisi, bu boyut bireylerin cinsiyetini değil, bir toplumun değerlerini ölçer. İkincisi, GLOBE’daki <b>performance orientation</b> da başarıya önem verir. Soru Hofstede’yi soruyorsa cevap masculinity’dir, çünkü performance orientation sadece GLOBE’da vardır.</p>",
+          "ornek": "<p>Hayali iki reklam ajansını düşün. Birinde iş ilanları hızlı terfi, yüksek prim ve “en iyi olmak” vurgusu yapıyor, akşam dokuzda ofis hâlâ dolu: masculinity yüksek bir ortam. Diğerinde ilanlar esnek saat, iyi ekip havası ve aileye zaman ayırma vurgusu yapıyor: femininity tarafına yakın bir ortam.</p>",
+          "kaynak": [0],
+          "terimler": ["Masculinity"],
+          "soru": {
+            "q": "In one country, job ads stress fast promotion, high bonuses and beating targets, and long working hours are seen as normal. Which Hofstede dimension is likely high?",
+            "o": [
+              "Masculinity",
+              "Performance orientation",
+              "Individualism",
+              "Uncertainty avoidance"
+            ],
+            "x": "Başarıya, yükselmeye ve kazanca verilen önem Hofstede’nin masculinity boyutudur. Performance orientation cazip görünür çünkü o da başarıyı ödüllendirir, ama soru Hofstede’yi soruyor ve performance orientation yalnızca GLOBE’da bulunan bir boyuttur."
+          }
+        },
+        {
+          "baslik": "GLOBE ve iki özgün boyutu",
+          "anlatim": "<p>Hofstede tek bir şirketin çalışanlarına dayanıyordu. 1990’larda daha geniş bir proje geldi: <b>GLOBE</b> (Global Leadership and Organizational Behavior Effectiveness). Kapsamı büyüktür: 170 araştırmacı, 17.000 yönetici, 62 ülke. GLOBE dokuz boyut kullanır ve adından da anlaşılacağı gibi kültürü liderlikle ilişkilendirir.</p><p>Dokuz boyutun çoğu Hofstede’yle örtüşür: uncertainty avoidance, power distance, future orientation, assertiveness, gender egalitarianism, institutional collectivism ve societal collectivism. Bunlar yedi boyut eder. GLOBE’a özgü iki boyut ise şunlardır:</p><ul><li><b>Performance orientation</b> (performans yönelimi): bir toplumun performansa, gelişmeye ve başarıya verdiği önem.</li><li><b>Humane orientation</b> (insancıl yönelim): adalet, özgecilik (altruism) ve başkalarını önemsemeye verilen değer.</li></ul><p>Sınavda iki çerçeveyi şu ikililerle ayır: Hofstede IBM, 1960’lar, dört özgün boyut. GLOBE 1990’lar, 62 ülke, dokuz boyut ve bunların arasında performance ile humane orientation. Bir soru “fairness, altruism, caring” diyorsa cevap humane orientation, “excellence, improvement” diyorsa performance orientation olur.</p>",
+          "ornek": "<p>Hayali bir uluslararası gönüllü kuruluşu iki ülkede yönetici yetiştiriyor. Birinci ülkede yöneticiler en çok çalışanlarına adil ve şefkatli davranmalarıyla takdir ediliyor: humane orientation yüksek. İkinci ülkede ise en çok sürekli gelişme ve hedeflerin aşılması ödüllendiriliyor: performance orientation yüksek. İkisi de GLOBE’un Hofstede’ye eklediği boyutlar.</p>",
+          "kaynak": [1],
+          "terimler": ["GLOBE", "Performance orientation", "Humane orientation"],
+          "soru": {
+            "q": "A cross-cultural trainer compares two frameworks. One of them includes a dimension measuring how strongly a society rewards fairness, generosity and caring for others. Which framework and dimension is this?",
+            "o": [
+              "GLOBE, humane orientation",
+              "Hofstede, humane orientation",
+              "GLOBE, performance orientation",
+              "Hofstede, masculinity"
+            ],
+            "x": "Adalete, cömertliğe ve başkalarını önemsemeye verilen değer humane orientation’dır ve bu boyut sadece GLOBE’da vardır. “Hofstede, humane orientation” şıkkı cazip görünür çünkü boyut adı doğru, ama Hofstede’nin dört özgün boyutu arasında böyle bir boyut yoktur."
+          }
+        },
+        {
+          "baslik": "Ülke kümeleri, liderlik tarzları ve psychic distance",
+          "anlatim": "<p>GLOBE ülkeleri tek tek değil, benzerliklerine göre <b>clusters</b> (kümeler) halinde gruplar. Ders notunda geçen kümeler: Anglo, Confucian Asia, Germanic Europe, Nordic Europe, Latin America, Middle East ve Sub-Saharan Africa. Her kümenin tercih ettiği liderlik tarzları farklıdır. GLOBE’un liderlik tarzları şunlardır: charismatic (karizmatik), team-oriented (takım odaklı), participative (katılımcı), humane-oriented (insancıl), autonomous (özerk) ve self-protective (kendini koruyan). Fikir şudur: Bir kümede saygı gören liderlik tarzı, başka bir kümede aynı etkiyi yaratmayabilir.</p><p>Bu bölümün son kavramı <b>Psychic distance</b> (psişik mesafe): ülkeler arasındaki dil, kültür, kurumlar ve iş yapma biçimi farklılıkları. Coğrafi mesafeyle karıştırma. İki komşu ülke arasında psişik mesafe büyük olabilir, birbirinden çok uzak iki ülke arasında ise küçük olabilir. Mantığı açık: Dil, kurallar ve iş alışkanlıkları ne kadar farklıysa, bir şirketin orada iş yapmak için o kadar çok şey öğrenmesi ve uyarlaması gerekir.</p><p>Bu kavram bir sonraki derse köprüdür: Şirketler yurt dışına açılırken hangi ülkeye ve hangi yolla gireceğini seçerken bu farkları hesaba katar.</p>",
+          "ornek": "<p>Hayali bir kitapçı zinciri iki ülkeye açılmak istiyor. Birincisi uzakta ama dili, yasaları ve iş alışkanlıkları kendi ülkesine çok benziyor; açılış kolay oluyor. İkincisi sınır komşusu ama dil, sözleşme kuralları ve pazarlık tarzı tamamen farklı; aylarca uyum sağlamaya çalışıyorlar. Zorluk kilometreden değil psychic distance’tan geliyor.</p>",
+          "kaynak": [1],
+          "terimler": ["Psychic distance", "GLOBE"],
+          "soru": {
+            "q": "A Dutch software firm finds it easy to work in a country with a similar language and business habits, but struggles in another country where contracts, customs and language all differ. Which concept explains the difference?",
+            "o": [
+              "Psychic distance",
+              "Power distance",
+              "Uncertainty avoidance",
+              "Globalization"
+            ],
+            "x": "İki ülke arasındaki dil, kültür, kurum ve iş yapma farkları psychic distance’ı oluşturur; fark ne kadar büyükse iş o kadar zorlaşır. Power distance cazip görünür çünkü adında “distance” geçer, ama o tek bir toplumun içinde otorite farkının kabulünü ölçer, iki ülke arasındaki farkı değil."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Uncertainty avoidance uzun vadeli planlama yapma eğilimidir.", "dogru": "<b>Uncertainty avoidance</b> risk ve belirsizlik karşısındaki rahatlıktır; yüksekse insanlar net kural ister. Uzun vadeye odaklanmak ayrı bir boyuttur (long-term orientation)."},
+        {"yanlis": "Power distance, bir ülkedeki gelir eşitsizliğinin büyüklüğüdür.", "dogru": "<b>Power distance</b>, güç ve otorite farklarının ne ölçüde kabul edildiğidir. Ölçülen şey kabuldür."},
+        {"yanlis": "Performance orientation Hofstede’nin boyutlarından biridir.", "dogru": "<b>Performance orientation</b> ve <b>humane orientation</b> GLOBE’a özgüdür. Hofstede’de başarıya önem veren boyut <b>masculinity</b>’dir."},
+        {"yanlis": "Hofstede 1990’larda 62 ülkede yapıldı.", "dogru": "Hofstede: IBM, 1960’lar, dört özgün boyut. <b>GLOBE</b>: 1990’lar, 62 ülke, dokuz boyut."},
+        {"yanlis": "Psychic distance iki ülke arasındaki kilometre farkıdır.", "dogru": "<b>Psychic distance</b> dil, kültür, kurum ve iş yapma biçimi farkıdır; coğrafi yakınlık onu küçültmeyebilir."}
+      ],
+      "ozet": [
+        "Hofstede kültürü “zihnin kolektif programlanması” olarak tanımlar.",
+        "Hofstede: 72 ülkede 88.000’den fazla IBM çalışanı, 1960’lar, dört özgün boyut.",
+        "Power distance: güç ve otorite farkının kabulü; yüksekse astlar net talimat bekler.",
+        "Collectivism: grup önce gelir; grup temelli işe alım, karar ve uzlaşma.",
+        "Uncertainty avoidance (belirsizlikten kaçınma): belirsizlik karşısındaki rahatlık; yüksekse insanlar net kural ister.",
+        "Masculinity: başarı, yükselme, kazanç ve net cinsiyet rolleri.",
+        "GLOBE: 1990’lar, 170 araştırmacı, 17.000 yönetici, 62 ülke, dokuz boyut.",
+        "GLOBE’a özgü iki boyut: performance orientation ve humane orientation.",
+        "Psychic distance: ülkeler arası dil, kültür, kurum ve iş yapma farkı."
+      ],
+      "aklinda": "Hofstede = IBM, 1960’lar, 4 boyut. GLOBE = 1990’lar, 62 ülke, 9 boyut, artı performance ve humane.",
+      "sinavda": "<p>Part 1’de tanım ve eşleştirme soruları olarak gelir: Bir boyutun anlamı, kısa bir davranış örneğinin hangi boyuta ait olduğu ya da hangi boyutun yalnızca GLOBE’da bulunduğu sorulur. Yaklaşık 4 puanlık ağırlığı vardır. Uncertainty avoidance ve power distance tanımları en sık sorulanlardır.</p>"
+    },
+    {
+      "id": "c9b",
+      "ad": "Küreselleşme, global stratejiler ve yurt dışına giriş yolları",
+      "sure": 24,
+      "neden": "<p>Bir şirket yurt dışına açılırken iki karar verir: Ürününü her yerde aynı mı satacak, yoksa uyarlayacak mı? Ve oraya hangi yolla girecek? Sınav bu kararları kısa örneklerle sorar ve özellikle joint venture ile tamamen sahip olunan yan şirketi karıştırmanı bekler.</p>",
+      "hedefler": [
+        "Küreselleşmeyi ve onu hızlandıran üç etkeni açıkla.",
+        "Global, regional ve local stratejiyi bir örnekten tanı.",
+        "Beş giriş yolunu bağlılık düzeyine göre sırala.",
+        "Licensing ile franchising’i, joint venture ile FDI’ı ayırt et."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Küreselleşme ve ticaret engellerinin düşmesi",
+          "anlatim": "<p><b>Globalization</b> (küreselleşme), ticaret engelleri ortadan kalkarken ülkelerin birbirine giderek daha fazla bağlanmasıdır. Ders notu buradan bir sonuç çıkarır: Ülkeler bu kadar bağlıysa, yöneticilerin uluslararası liderlik becerisine ihtiyacı vardır. Önceki dersteki kültür boyutları bu yüzden önemlidir.</p><p>Küreselleşmeyi üç etken hızlandırır. Bu adımda birincisini, sonraki adımda diğer ikisini göreceksin.</p><p>Birinci etken <b>lowering trade barriers</b> (ticaret engellerinin düşmesi): Ticaret anlaşmaları ve politikalar sınır ötesi engelleri kaldırır. En bilinen engel <b>Tariffs</b> (gümrük vergileri), yani ithal ürünlerin fiyatına eklenen vergilerdir. Mantığı şöyle kur: Gümrük vergisi ithal ürünü pahalılaştırır ve yabancı ürünün rekabet etmesini zorlaştırır. Vergi kalkınca ürün ucuzlar ve ülkeler arasında ticaret artar.</p><p>Bölüm 8’in ilk dersiyle bağlantıya dikkat et: Orada 2025 ABD gümrük vergileri, şirketlerin iç yapısını değiştiren bir dış güç örneğiydi. Gümrük vergileri artarsa engel yükselir, düşerse küreselleşme hızlanır.</p>",
+          "ornek": "<p>Hayali bir meyve suyu üreticisi yıllarca portakalı yurt içinden alıyor, çünkü ithal portakala yüksek gümrük vergisi uygulanıyor. İki ülke bir ticaret anlaşması imzalayıp bu vergiyi kaldırınca, firma daha ucuz ithal portakala geçiyor ve ürününü komşu ülkede de satmaya başlıyor. Engel düştü, iki pazar birbirine bağlandı.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Globalization", "Tariffs"],
+          "soru": {
+            "q": "Two countries sign an agreement removing import taxes on each other's fruit. A small juice maker can now buy cheaper oranges from abroad. Which globalization factor is at work?",
+            "o": [
+              "Lowering trade barriers",
+              "Foreign direct investment",
+              "The spread of the Internet",
+              "A strategic alliance"
+            ],
+            "x": "İthalat vergilerinin, yani tariffs’in kaldırılması bir ticaret engelinin düşmesidir. Foreign direct investment cazip görünür çünkü yurt dışıyla ilgili bir etkendir, ama firma yurt dışında bir şeye sahip olmuyor, sadece daha ucuz ürün satın alıyor."
+          }
+        },
+        {
+          "baslik": "FDI ve Internet",
+          "anlatim": "<p>İkinci etken <b>FDI</b> (foreign direct investment, doğrudan yabancı yatırım): Bir şirketin başka bir ülkedeki şirketlerde sahiplik payı edinerek o ülkeye yatırım yapmasıdır. Kilit kelime “ownership”, yani sahipliktir. Sadece mal satmak FDI değildir; orada bir şeye sahip olmak gerekir. Ders notu 2017’de küresel FDI’ın 1,52 trilyon dolar olduğunu belirtir. Bu kadar yatırım, şirketlerin ülkeler arasında ne kadar iç içe geçtiğini gösterir.</p><p>Üçüncü etken <b>the Internet</b> (internet): Artık her şirket dünyadaki herkese satış yapabilir ve sosyal medya dünya çapında ilişki kurmayı sağlar. Mantığı şu: Eskiden yurt dışına satmak için orada mağaza veya distribütör gerekiyordu; şimdi küçük bir işletme bile bir web sitesiyle başka bir kıtadaki müşteriye ulaşabiliyor.</p><p>Bir karışıklığı baştan çöz: FDI hem küreselleşmenin üç etkeninden biridir hem de dersin sonunda göreceğin giriş yollarından biridir. Soru “why is the world more interconnected?” diye soruyorsa FDI bir etkendir; “how does this company enter the market?” diye soruyorsa FDI bir giriş yoludur. Tanım ikisinde de aynı: sahiplik yoluyla yatırım.</p>",
+          "ornek": "<p>Hayali bir İspanyol mobilya şirketi Polonya’daki bir fabrikanın yüzde altmışını satın alıyor: Bu FDI’dır, çünkü yurt dışında sahiplik edindi. Aynı dönemde hayali küçük bir seramik atölyesi hiçbir yurt dışı yatırımı yapmadan, sadece kendi web sitesi ve sosyal medya hesabıyla on iki ülkeye kupa satıyor: Bu internet etkenidir.</p>",
+          "kaynak": [1],
+          "terimler": ["FDI"],
+          "soru": {
+            "q": "A small ceramics studio with no foreign offices starts selling mugs to customers in twelve countries through its own website and social media. Which globalization factor does this illustrate?",
+            "o": [
+              "The Internet",
+              "Foreign direct investment",
+              "Lowering trade barriers",
+              "A regional strategy"
+            ],
+            "x": "Atölye yurt dışında hiçbir şeye sahip olmadan, sadece çevrim içi kanallarla dünyaya satış yapıyor: internet etkeni. Foreign direct investment cazip görünür çünkü yurt dışı satış var, ama FDI için başka ülkede sahiplik payı edinmek gerekir."
+          }
+        },
+        {
+          "baslik": "Global, regional ve local strateji",
+          "anlatim": "<p>Yurt dışına açılan bir şirketin ilk sorusu şudur: Dünyadaki müşterilerim birbirine benziyor mu? Bu sorunun cevabı üç stratejiden birine götürür.</p><p><b>Global strategy</b> (küresel strateji), dünyanın birbirine bağlı olduğunu ve tüketimin oldukça benzer (homogeneous) olduğunu varsayar. Bu yüzden her yerde aynı ürün satılır. Varsayım doğruysa tek bir ürünü her yerde satmak işi basitleştirir.</p><p><b>Regional strategy</b> (bölgesel strateji), marketing ve finance gibi faaliyetleri kilit coğrafi bölgeler etrafında örgütler. Ders notu örnek olarak Toyota’yı verir. Bu orta yoldur: Her ülke ayrı ele alınmaz ama dünya da tek parça sayılmaz; bölge düzeyinde ayarlama yapılır.</p><p><b>Local strategy</b> (yerel strateji), ürünleri her yerel pazarın ihtiyaçlarına ve değerlerine göre uyarlar. Müşteriler ülkeden ülkeye çok farklıysa bu strateji seçilir.</p><p>İki karışıklığa dikkat et. Birincisi, global strategy ile globalization aynı şey değildir: Biri bir şirketin seçimi, diğeri dünyanın bir eğilimidir. İkincisi, regional ile local’ı ayırırken uyarlamanın düzeyine bak: Bölge düzeyindeyse regional, her pazarın kendi zevkine göreyse local.</p>",
+          "ornek": "<p>Hayali bir telefon kılıfı markası her ülkede aynı tasarımı, aynı ambalajı ve aynı reklamı kullanıyor: global. Hayali bir dondurma zinciri ise her ülkede o ülkenin sevdiği tatları sunuyor, bir ülkede fıstıklı, başka birinde çay aromalı: local. Hayali bir otomobil kiralama firması pazarlamasını Avrupa, Asya ve Amerika bölge merkezlerinden yönetiyor: regional.</p>",
+          "kaynak": [2],
+          "terimler": ["Global strategy", "Regional strategy", "Local strategy"],
+          "soru": {
+            "q": "A phone-case brand sells exactly the same designs, packaging and adverts in every country, believing that customers everywhere want the same things. Which strategy is this?",
+            "o": [
+              "Global strategy",
+              "Regional strategy",
+              "Local strategy",
+              "Licensing strategy"
+            ],
+            "x": "Her yerde aynı ürün ve tüketimin benzer olduğu varsayımı global strategy’nin tanımıdır. Regional strategy cazip görünebilir çünkü o da birçok ülkeyi kapsar, ama regional strategy faaliyetleri bölgelere göre örgütler; burada hiçbir bölgesel ayrım yok."
+          }
+        },
+        {
+          "baslik": "Exporting, licensing ve franchising",
+          "anlatim": "<p>Strateji belli olunca ikinci soru gelir: Pazara nasıl gireceğiz? Ders notu beş <b>entry mode</b> (giriş yolu) sayar. Bunları şirketin yurt dışına ne kadar bağlandığına göre, en az bağlılıktan en çoğa doğru sıralayabilirsin: exporting, licensing ve franchising, strategic alliance, FDI. Bu adımda ilk üçünü görüyorsun.</p><p><b>Exporting</b> (ihracat), yurt içinde üretilen ürünleri başka ülkelerde satmaktır. En kolay yoldur, çünkü yurt dışında fabrika ya da ortak gerekmez. Ders notuna göre ihracat yapan şirketler yaklaşık yüzde 17 daha kârlıdır.</p><p><b>Licensing</b> (lisanslama), bir telif veya ücret karşılığında başka bir şirketin senin marka adını, bilgi birikimini (know-how) ya da teknolojini kullanmasına izin vermektir.</p><p><b>Franchising</b> (franchise verme) ise lisanslamanın genişletilmiş halidir: Bütün iş modeli, yani marka, yapı ve eğitim birlikte verilir.</p><p>Licensing ile franchising’i ayırmak için şunu sor: Karşı taraf sadece bir adı, bir tarifi ya da bir teknolojiyi mi kullanıyor? Licensing. Dükkânın nasıl kurulacağını, personelin nasıl eğitileceğini, işin nasıl yürütüleceğini de mi alıyor? Franchising.</p>",
+          "ornek": "<p>Hayali bir zeytinyağı firması şişelerini kendi ülkesinde doldurup Almanya’ya gönderiyor: exporting. Hayali bir çizgi film stüdyosu, karakterinin yurt dışında oyuncak ve tişört üzerinde kullanılmasına ücret karşılığında izin veriyor: licensing. Hayali bir tatlıcı zinciri ise yurt dışındaki bir ortağa adını, tariflerini, dükkân tasarımını ve personel eğitimini bir arada veriyor: franchising.</p>",
+          "kaynak": [3],
+          "terimler": ["Exporting", "Licensing"],
+          "soru": {
+            "q": "A dessert chain lets a partner abroad open shops using its name, recipes, store design and staff training, in return for fees. Which entry mode is this?",
+            "o": [
+              "Franchising",
+              "Licensing",
+              "Exporting",
+              "Joint venture"
+            ],
+            "x": "Ortak sadece adı değil, tariften dükkân tasarımına ve eğitime kadar bütün iş modelini alıyor: franchising. Licensing cazip görünür çünkü o da ücret karşılığı marka kullanımıdır, ama licensing’de bütün iş modeli değil, belirli bir marka, bilgi veya teknoloji verilir."
+          }
+        },
+        {
+          "baslik": "Strategic alliance, joint venture ve FDI",
+          "anlatim": "<p>Sıralamanın üst basamaklarında şirket yurt dışına daha çok bağlanır.</p><p><b>Strategic alliance</b> (stratejik ittifak), farklı ülkelerden iki veya daha fazla şirketin birlikte iş yapmak için anlaşmasıdır. Bunun özel bir biçimi <b>Joint venture</b> (ortak girişim): Ortaklar birlikte sahip oldukları yeni bir işletme kurar. Ders notuna göre bu yol özellikle gelişmekte olan pazarlarda (emerging markets) tercih edilir. Mantığı açık: Yabancı bir şirket pazarı, kuralları ve müşterileri tanımaz; yerel ortak ise bunları zaten bilir.</p><p><b>FDI</b> giriş yolu olarak, ev sahibi ülkeye tamamen yatırım yapıp orada tesis kurmaktır. Örneği <b>wholly owned subsidiary</b> (tamamen sahip olunan yan şirket). Burada ortak yoktur; risk de kontrol de tek bir şirkettedir.</p><p>Sınavın bilinen tuzağı burada: “Yerel bir şirketle birlikte sahip olduğu yeni bir işletme kurdu” cümlesi joint venture’dır, wholly owned subsidiary değildir. Ayırt etmek için tek bir soru sor: Yeni işletmenin sahibi kaç kişi? Birden fazlaysa joint venture, tek bir ana şirketse FDI ile kurulmuş yan şirket.</p>",
+          "ornek": "<p>Hayali bir Danimarkalı rüzgâr türbini üreticisi, Hindistan’da türbin üretmek için Hintli bir mühendislik firmasıyla yüzde elli yüzde elli sahip oldukları yeni bir şirket kuruyor: joint venture. Beş yıl sonra pazarı tanıdığına güvenip komşu bir ülkede tamamen kendisine ait bir fabrika açıyor: FDI ile kurulmuş wholly owned subsidiary.</p>",
+          "kaynak": [3],
+          "terimler": ["Strategic alliance", "Joint venture", "FDI"],
+          "soru": {
+            "q": "A Canadian coffee chain and a Vietnamese food company create a brand-new firm together to open cafés in Vietnam, with each partner owning half. What is this?",
+            "o": [
+              "A joint venture",
+              "A wholly owned subsidiary",
+              "A licensing agreement",
+              "A franchise agreement"
+            ],
+            "x": "İki şirket birlikte sahip oldukları yeni bir işletme kuruyor: joint venture, yani bir strategic alliance biçimi. Wholly owned subsidiary cazip görünür çünkü yeni bir şirket kuruluyor, ama o tek bir ana şirkete aittir; burada sahiplik ikiye bölünmüş."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Şirket yerel bir ortakla birlikte yeni bir işletme kurduğunda, ortaya çıkan şey tek başına sahip olduğu bir yan şirkettir.", "dogru": "Birlikte sahip olunan yeni işletme <b>joint venture</b>’dır (strategic alliance). Tek bir ana şirkete ait olan ise FDI ile kurulmuş yan şirkettir."},
+        {"yanlis": "Licensing ile franchising aynı şeydir.", "dogru": "<b>Licensing</b> bir marka, bilgi veya teknolojiyi verir; <b>franchising</b> markayla birlikte yapıyı ve eğitimi, yani bütün iş modelini verir."},
+        {"yanlis": "FDI sadece bir giriş yoludur.", "dogru": "<b>FDI</b> hem küreselleşmenin üç etkeninden biri hem de bir giriş yoludur. Tanım aynıdır: başka ülkede sahiplik yoluyla yatırım."},
+        {"yanlis": "Global strategy, küreselleşme ile aynı anlama gelir.", "dogru": "Globalization dünyanın bir eğilimidir; <b>global strategy</b> ise bir şirketin her yerde aynı ürünü satma seçimidir."},
+        {"yanlis": "Toyota’nın faaliyetlerini bölgelere göre örgütlemesi local strategy’dir.", "dogru": "Bölgeler etrafında örgütlenmek <b>regional strategy</b>’dir. Local strategy her pazarın kendi ihtiyacına uyarlamaktır."}
+      ],
+      "ozet": [
+        "Globalization: ticaret engelleri kalkarken ülkelerin birbirine bağlanması.",
+        "Üç etken: ticaret engellerinin düşmesi, FDI ve internet.",
+        "Tariffs ithal ürünlere eklenen vergilerdir; düşmeleri ticareti artırır.",
+        "FDI: başka ülkede sahiplik payı yoluyla yatırım; 2017’de 1,52 trilyon dolar.",
+        "Global her yerde aynı ürün, regional bölgelere göre örgütlenme, local her pazara uyarlama.",
+        "Giriş yolları, en az bağlılıktan en çoğa: exporting, licensing ve franchising, strategic alliance, FDI.",
+        "Exporting en kolay yoldur; ihracatçılar yaklaşık yüzde 17 daha kârlıdır.",
+        "Joint venture ortakların birlikte sahip olduğu yeni işletmedir; gelişmekte olan pazarlarda tercih edilir."
+      ],
+      "aklinda": "Sat (export), izin ver (license), modeli ver (franchise), ortak ol (alliance, JV), sahip ol (FDI).",
+      "sinavda": "<p>Part 1’de tanım ve kısa örnek soruları olarak gelir: üç etkenin adları, tariffs veya FDI tanımı, bir şirketin seçtiği stratejinin ya da giriş yolunun adı. Yaklaşık 4 puanlık ağırlığı vardır. En bilinen soru joint venture ile tamamen sahip olunan yan şirketi ayırmanı ister.</p>"
+    },
+    {
+      "id": "c10a",
+      "ad": "Takımlar: Tuckman’ın aşamaları ve takım çeşitliliği",
+      "sure": 22,
+      "neden": "<p>Her proje grubunun bir kavga dönemi olur ve bu genellikle bir başarısızlık değil, gelişmenin bir aşamasıdır. Tuckman bu aşamalara isim verir. Part 2’de bir takımın o anki davranışı anlatılır ve hangi aşamada olduğu sorulur; özellikle yeni üye gelince takımın geri sarması sık sorulur.</p>",
+      "hedefler": [
+        "Grup ile takım arasındaki farkı açıkla.",
+        "Tuckman’ın beş aşamasını bir takımın davranışından tanı.",
+        "Aşamaların neden doğrusal olmadığını bir senaryoyla göster.",
+        "Çeşitli takımların neden daha iyi karar verdiğini açıkla."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Grup ile takım arasındaki fark",
+          "anlatim": "<p>Ders notu takım çalışmasının hiç bu kadar önemli olmadığını söyler. İki alanda bu açıkça görülür: üretimde kendi kendini yöneten takımlar (self-directed teams) ve bilgi ekonomisi (knowledge economy). Bilgiyle çalışan işlerde tek bir kişi bütün bilgiye sahip olmadığı için insanların birlikte düşünmesi gerekir.</p><p>Burada iki kelimeyi ayır. <b>Group</b> (grup) sadece bir araya gelmiş bireylerden oluşan bir topluluktur. <b>Team</b> (takım) ise ortak bir gündem (shared agenda) için birlikte çalışan, birbirine bağlı (cohesive) bir koalisyondur. Fark şudur: Gruptaki insanlar aynı yerde olabilir ama her biri kendi işini yapar. Takımdaki insanlar ortak bir sonuç için birbirine bağımlıdır; birinin başarısızlığı herkesin başarısızlığıdır.</p><p>Bu farkı Tuckman’la bağla: Tuckman’ın aşamaları aslında bir grubun nasıl takıma dönüştüğünü anlatır. İlk aşamada insanlar daha çok bir grup gibidir, son aşamalara doğru gerçek bir takım olurlar. Ders notu bu yolculuğu Katzenbach &amp; Smith’in <b>team performance curve</b> (takım performans eğrisi) ile de anlatır: working group’tan high-performing team’e.</p>",
+          "ornek": "<p>Hayali bir sınıfta beş öğrenci rapor bölümlerini ayrı ayrı yazıp teslimden önceki gece zımbalıyor; kimse diğerinin bölümünü okumuyor: Bu bir group. Başka bir beşli ise her hafta buluşup bölümleri birlikte tartışıyor ve ortak bir sonuç cümlesi üzerinde anlaşıyor: Bu bir team, çünkü ortak bir gündem için birbirine bağlı çalışıyorlar.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Team"],
+          "soru": {
+            "q": "Five students each write a separate chapter of a report and staple them together the night before the deadline, without reading each other's work. Which description fits best?",
+            "o": [
+              "A group, as they work side by side without a shared agenda",
+              "A team, as they share a deadline and a single final report",
+              "A team in the performing stage, as they need no direction",
+              "A team in the norming stage, as they have agreed on rules"
+            ],
+            "x": "Öğrenciler aynı rapora katkı veriyor ama birbirine bağlı çalışmıyor ve ortak bir gündem etrafında birleşmiyor: Bu bir group. İkinci şık cazip görünür çünkü ortak bir teslim tarihi var, ama ortak bir son tarih tek başına insanları cohesive bir takıma çevirmez."
+          }
+        },
+        {
+          "baslik": "Forming ve storming",
+          "anlatim": "<p>Tuckman’ın modeli bir takımın geçirdiği aşamaları sıralar. Sırayı ezberlemek yerine mantığını kur: Önce tanışırsın, sonra kimin ne yapacağı konusunda çatışırsın, sonra kurallar koyarsın, sonra iş üretirsin, en sonda dağılırsın.</p><p><b>Forming</b> (oluşma) kibar aşamadır: tanışmalar, heves ve takımın yapı ve yön için lidere bakması. İnsanlar henüz birbirini tanımadığı için kimse risk almaz, herkes nazik davranır ve lider ne derse onu bekler.</p><p><b>Storming</b> (çatışma) ise ders notunun deyişiyle “win-lose” (biri kazanır, biri kaybeder) aşamasıdır. Üyeler kontrol için yarışır, çatışır ve taraf tutar; hedefler ve roller konusunda hayal kırıklığı yaşanır. Neden olur? Çünkü kibarlık bitince herkes kendi fikrini ve kendi yerini savunmaya başlar.</p><p>İki aşamayı ayırmak için tona bak: Forming’de herkes nazik ve lidere bağımlıdır. Storming’de insanlar artık nazik değildir, liderliği ve hedefleri sorgular. Storming kötü bir şey gibi görünse de takımın rolleri netleştirmesi için gerekli bir adımdır.</p>",
+          "ornek": "<p>Hayali bir üniversite robot yarışması takımı ilk toplantıda herkes gülümseyerek kendini tanıtıyor ve danışman hocanın görev dağıtmasını bekliyor: forming. İki hafta sonra iki üye kimin kaptan olacağı konusunda tartışıyor, diğerleri taraf tutuyor ve robotun neyi başarması gerektiği bile tartışma konusu oluyor: storming.</p>",
+          "kaynak": [1],
+          "terimler": ["Forming", "Storming"],
+          "soru": {
+            "q": "Two weeks into a hackathon, members argue about who should lead, split into camps and question whether the project goal even makes sense. Which stage is the team in?",
+            "o": [
+              "Storming",
+              "Forming",
+              "Norming",
+              "Adjourning"
+            ],
+            "x": "Liderlik için yarış, taraf tutma ve hedefler konusunda hayal kırıklığı storming’in işaretleridir. Forming cazip görünür çünkü takım hâlâ yeni, ama forming’de üyeler kibardır ve lidere bakar; burada liderliğin kendisi tartışılıyor."
+          }
+        },
+        {
+          "baslik": "Norming ve performing",
+          "anlatim": "<p>Çatışma bir şekilde çözülünce takım yeni bir düzene geçer.</p><p><b>Norming</b> (kurallaşma) aşamasında takım iyi çalışmaya başlar. Ortak çalışma kuralları (ground rules) oluşur, sorumluluk paylaşılır ve üyeler birbirine saygı gösterir. Adı da buradan gelir: Takım kendi normlarını, yani “burada işler böyle yapılır” kurallarını kurar.</p><p><b>Performing</b> (performans) aşamasında takım kendi kendini yönetir (self-directed), kendine güvenir ve sonuç alır. Çok az yönlendirmeye ihtiyaç duyar. Lider artık talimat vermek yerine takımın önündeki engelleri kaldırır.</p><p>Bu iki aşama birbirine çok yakındır ve sınavda ayırt etmen istenir. Norming’in odağı ilişkiler ve kurallardır: “kurallar üzerinde anlaştılar, sorumluluğu paylaşıyorlar, birbirlerine saygı duyuyorlar.” Performing’in odağı sonuçtur: “yönlendirme olmadan çalışıyorlar ve hedefleri aşıyorlar.” Kısacası norming takımın nasıl çalışacağını kurar, performing ise o düzeni kullanarak iş çıkarır.</p>",
+          "ornek": "<p>Hayali bir hastane gece vardiyası ekibi birkaç zor haftadan sonra kimin hangi hastaya bakacağını ve vardiya devrinin nasıl yapılacağını birlikte kararlaştırıyor: norming. Birkaç ay sonra ekip, sorumlu hemşireye sormadan sorunları kendi çözüyor ve servisin bütün hedeflerini düzenli olarak tutturuyor: performing.</p>",
+          "kaynak": [1],
+          "terimler": ["Norming", "Performing"],
+          "soru": {
+            "q": "A hospital night-shift team now plans its own work, solves problems without asking the head nurse, and consistently meets its targets. Which stage is it in?",
+            "o": [
+              "Performing",
+              "Norming",
+              "Forming",
+              "Storming"
+            ],
+            "x": "Kendi kendini yönetmek, yönlendirmeye ihtiyaç duymamak ve düzenli sonuç almak performing’in işaretleridir. Norming cazip görünür çünkü takım uyum içinde, ama norming’in odağı kuralları ve sorumluluğu oturtmaktır; burada vurgu kendi başına sonuç almakta."
+          }
+        },
+        {
+          "baslik": "Adjourning ve geri sarma",
+          "anlatim": "<p>Tuckman modeline 1977’de beşinci bir aşama eklendi: <b>Adjourning</b> (dağılma). Proje bitince takım dağılır. Bu aşama özellikle belirli süreli projeler için anlamlıdır: hedefe ulaşıldı, iş teslim edildi, üyeler kendi departmanlarına döner.</p><p>Modelin en çok sınava giren yanı şudur: Aşamalar doğrusal değildir (not linear). Takıma yeni bir üye eklemek ya da kafa karıştırıcı yeni bir görev vermek takımı daha önceki bir aşamaya geri gönderebilir; takım yeniden storming veya forming yaşayabilir. Mantığını kur: Yeni biri gelince roller yeniden belirsizleşir. Kimin ne yaptığı belirsizleşince de kontrol ve roller için yarış, yani storming, yeniden başlar.</p><p>Sınavdaki klasik zincir şöyle işler: Performing durumundaki bir takıma yeni üyeler gelir ve roller konusunda belirsizlik çıkar: storming. Lider herkesi toplayıp yeni ortak çalışma kuralları belirlemelerine yardım eder: norming. Yani sırayı takımın o anki davranışına bakarak bul, takımın daha önce nerede olduğuna bakarak değil.</p>",
+          "ornek": "<p>Hayali bir kafede aylardır sorunsuz çalışan bir ekip var. Sahibi iki yeni barista alıyor ve bir de catering hizmeti başlatıyor. Kısa süre içinde kimin bulaşığı yıkayacağı, kimin catering siparişini hazırlayacağı konusunda tartışmalar başlıyor: Ekip storming’e geri döndü. Yaz sonunda catering projesi bittiğinde o iş için kurulan küçük ekip dağılıyor: adjourning.</p>",
+          "kaynak": [1],
+          "terimler": ["Adjourning", "Storming", "Norming"],
+          "soru": {
+            "q": "A garden-design team had worked smoothly for a year. After the company adds three new members and a large new client, staff start arguing about who is responsible for what. What is the best explanation?",
+            "o": [
+              "The team slid back to storming, since the stages are not linear",
+              "The team moved on to adjourning, since the stages are linear",
+              "The team stayed in performing, since arguing is normal there",
+              "The team moved back to forming, since roles are now very clear"
+            ],
+            "x": "Yeni üyeler ve yeni bir görev rolleri yeniden belirsizleştirir ve takım storming’e geri döner; çünkü aşamalar doğrusal değildir. Adjourning şıkkı cazip görünebilir çünkü bir değişim anlatılıyor, ama adjourning takımın proje sonunda dağılmasıdır; burada takım dağılmıyor, tartışıyor."
+          }
+        },
+        {
+          "baslik": "Takım çeşitliliği neden işe yarar?",
+          "anlatim": "<p>Bölüm 8’de çeşitliliğin şirkete sağladığı avantajları gördün. Bu adım aynı soruyu takım ölçeğinde sorar: Farklı geçmişlerden gelen insanlar birlikte daha mı iyi karar verir?</p><p>Ders notuna göre çeşitli takımlar karar vermede ve problem çözmede daha iyidir. Üç neden verilir: Gerçeklere (facts) daha çok odaklanırlar, gerçekleri yeniden gözden geçirirler ve <b>groupthink</b>’ten (grup düşüncesi) kaçınırlar. Groupthink, herkesin birbirine benzediği bir takımda uyumu korumak için fikirlerin sorgulanmadan kabul edilmesidir. Benzer insanlar aynı şeyleri varsayar, bu yüzden kimse “bu veriden emin miyiz?” diye sormaz. Farklı biri bu soruyu sorar ve takım verileri bir daha kontrol eder. Çeşitli takımlar ayrıca daha yenilikçidir (innovative).</p><p>Ders notu McKinsey verisini de verir: Yönetimde etnik çeşitlilik açısından en üst çeyrekte (top quartile) olan şirketlerin sektör getirisini geçme olasılığı yüzde 35 daha fazladır; cinsiyet çeşitliliği için bu oran yüzde 15’tir. İki sayıyı karıştırma: 35 etnik, 15 cinsiyet.</p><p>Dikkat: Çeşitli bir takım daha hızlı anlaşan takım değildir. Avantajı daha çok sorgulamasından gelir.</p>",
+          "ornek": "<p>Hayali bir bisiklet paylaşım uygulaması yeni bir fiyat planı hazırlıyor. Ekipte bir istatistikçi, bir eski kurye, bir öğrenci ve emekli bir mühendis var. Eski kurye anketteki verilerin sadece şehir merkezinden toplandığını fark ediyor ve takım verileri yeniden inceliyor. Daha geç ama daha sağlam bir karar çıkıyor: Groupthink’ten kaçınmanın bir örneği.</p>",
+          "kaynak": [2],
+          "terimler": ["Team"],
+          "soru": {
+            "q": "A product team made up of people with very different backgrounds keeps questioning each other's data before deciding. According to the course, why does this tend to improve its decisions?",
+            "o": [
+              "It focuses more on facts and is less prone to groupthink",
+              "It reaches agreement faster because there are fewer questions",
+              "It depends more on a strong leader to settle every dispute",
+              "It skips the storming stage and goes straight to performing"
+            ],
+            "x": "Ders notuna göre çeşitli takımlar gerçeklere daha çok odaklanır, onları yeniden inceler ve groupthink’ten kaçınır. “Daha hızlı anlaşır” şıkkı cazip görünür çünkü sonuç daha iyi, ama avantaj tam tersine daha çok sorgulamaktan gelir, hızdan değil."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Performing bir takıma yeni üyeler gelip roller belirsizleşince takım hâlâ performing’dedir.", "dogru": "Aşamalar doğrusal değildir; rollerde belirsizlik çıkınca takım <b>storming</b>’e geri döner. Ortak kurallar yeniden kurulunca <b>norming</b> olur."},
+        {"yanlis": "Ortak çalışma kuralları üzerinde anlaşmak performing aşamasıdır.", "dogru": "Kurallar, paylaşılan sorumluluk ve saygı <b>norming</b>’dir. <b>Performing</b> az yönlendirmeyle sonuç almaktır."},
+        {"yanlis": "Tuckman’ın modeli baştan beri beş aşamadır.", "dogru": "Özgün dört aşama forming, storming, norming, performing’dir; <b>adjourning</b> 1977’de eklendi."},
+        {"yanlis": "Bir araya gelmiş her insan topluluğu bir takımdır.", "dogru": "Group bireylerin toplamıdır; <b>team</b> ortak bir gündem için birbirine bağlı çalışan bir koalisyondur."},
+        {"yanlis": "Çeşitli takımlar daha hızlı anlaştıkları için daha iyi karar verir.", "dogru": "Çeşitli takımlar gerçeklere odaklanıp onları yeniden incelediği ve groupthink’ten kaçındığı için daha iyi karar verir."}
+      ],
+      "ozet": [
+        "Group bireylerin toplamıdır; team ortak bir gündem için birbirine bağlı bir koalisyondur.",
+        "Forming: kibar tanışma, takım yön için lidere bakar.",
+        "Storming: kontrol için yarış, çatışma, taraf tutma, roller konusunda hayal kırıklığı.",
+        "Norming: ortak kurallar, paylaşılan sorumluluk ve saygı.",
+        "Performing: kendi kendini yöneten, kendine güvenen ve sonuç alan takım.",
+        "Adjourning 1977’de eklendi: proje sonunda takım dağılır.",
+        "Aşamalar doğrusal değildir; yeni üye veya yeni görev takımı geri sarar.",
+        "Çeşitli takımlar gerçeklere odaklanır, groupthink’ten kaçınır ve daha yenilikçidir.",
+        "McKinsey: etnik çeşitlilikte yüzde 35, cinsiyet çeşitliliğinde yüzde 15 daha olası üstün getiri."
+      ],
+      "aklinda": "Forming, storming, norming, performing, adjourning: tanış, çatış, kural koy, üret, dağıl. Yeni üye gelirse çatışmaya geri dön.",
+      "sinavda": "<p>Part 2’de bir takımın kısa hikâyesi anlatılır ve hangi aşamada olduğu, ya da bir değişiklikten sonra hangi aşamalardan geçtiği sorulur. Yaklaşık 3 puanlık ağırlığı vardır. Yeni üyelerden sonra storming, ardından norming zinciri en sık sorulan kalıptır.</p>"
+    },
+    {
+      "id": "c10b",
+      "ad": "Sosyal ağlar: ties, üç ilke ve Ibarra’nın ağ türleri",
+      "sure": 28,
+      "neden": "<p>Organizasyon şeması kimin kime rapor verdiğini gösterir, ama bilgi ve yardım çoğu zaman başka yollardan akar. Sosyal ağ kavramları bu görünmez yolları adlandırır. Part 2’de birinin kurduğu bir ilişki anlatılır ve hangi bağ türü, hangi ilke ya da hangi Ibarra ağı olduğu sorulur.</p>",
+      "hedefler": [
+        "Sosyal ağı ve liderlere sağladığı üç avantajı açıkla.",
+        "Strong ties, weak ties ve bridging tie kavramlarını ayırt et.",
+        "Reciprocity, exchange ve similarity ilkelerini bir örnekten tanı.",
+        "Ibarra’nın operational, personal ve strategic ağlarını bir senaryoda ayır."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Sosyal ağ: görünmez organizasyon",
+          "anlatim": "<p>Bir şirkette bir sorun çıktığında herkes kime gider? Çoğu zaman şemadaki yöneticiye değil, “işi bilen” birine. Bu davranış bir sosyal ağın varlığını gösterir.</p><p><b>Social network</b> (sosyal ağ), iki veya daha fazla kişi (<b>actors</b>, aktörler) arasındaki belirli bir düzene sahip ilişkiler bütünüdür. Bu ilişkiler bir <b>sociogram</b> (sosyogram) ile çizilir: kişiler nokta, ilişkiler çizgi olur. Ders notu ağları “the invisible organization” (görünmez organizasyon) diye adlandırır, çünkü iletişimin ve kaynakların gerçekte nasıl aktığını onlar gösterir. Şema resmi yolu gösterir, ağ ise fiilî yolu.</p><p>Ağlar liderlere üç avantaj sağlar:</p><ul><li><b>Access to information and knowledge</b> (bilgiye erişim): Kimi tanıyorsan, onun bildiğini de öğrenebilirsin.</li><li><b>Access to diverse skill sets</b> (farklı becerilere erişim): Kendinde olmayan bir beceriyi tanıdığın biri getirir.</li><li><b>Power</b> (güç): Çok kişiyi birbirine bağlayan biri, işlerin yönünü etkileyebilir.</li></ul><p>Sosyal ağı bölüm 8’deki networked team yapısıyla karıştırma: O resmî bir yapı türüdür, sosyal ağ ise herhangi bir yapının içinde var olan ilişkiler dokusudur.</p>",
+          "ornek": "<p>Hayali bir matbaada şemaya göre bütün arıza bildirimleri üretim müdürüne gider. Ama yeni müdür Kerem, çalışanların önce yirmi yıllık teknisyen Hüsnü Usta’ya sorduğunu fark ediyor. Hüsnü Usta şemada sıradan bir teknisyen, ama bilginin aktığı ağın merkezinde. Görünmez organizasyon şemadan farklı çalışıyor.</p>",
+          "kaynak": [0],
+          "terimler": ["Social network"],
+          "soru": {
+            "q": "A new manager sees that the official chart routes all requests through her, yet staff actually ask a long-serving technician for help first. What does the technician's role reveal?",
+            "o": [
+              "The informal network through which resources really flow",
+              "A formal matrix reporting line that gives staff two bosses",
+              "A counterculture whose values oppose the firm's main culture",
+              "A weak tie in which no resources are exchanged at all"
+            ],
+            "x": "Çalışanların resmî yolu değil, teknisyeni kullanması bilginin ve yardımın gerçekte aktığı sosyal ağı, yani görünmez organizasyonu gösterir. Matrix şıkkı cazip görünür çünkü iki farklı kişiye başvuruluyor, ama matrix resmî bir rapor hattıdır; burada teknisyen resmî bir patron değil."
+          }
+        },
+        {
+          "baslik": "Strong ties ve weak ties",
+          "anlatim": "<p>Ağdaki çizgilere <b>ties</b> (bağlar) denir. Bir bağ doğrudan (direct, tek bir bağlantı) ya da dolaylı (indirect, başkaları üzerinden) olabilir. Bağların gücü de farklıdır.</p><p><b>Strong ties</b> (güçlü bağlar): Birbirini iyi tanıyan ve sık alışveriş yapan aktörler. Yakın arkadaşların, her gün birlikte çalıştığın ekip arkadaşların.</p><p><b>Weak ties</b> (zayıf bağlar): Birbirini en azından adıyla veya ününden tanıyan ama düzenli bir alışverişi olmayan aktörler. Eski bir sınıf arkadaşı, bir kez tanıştığın bir meslektaş.</p><p>Akla ilk gelen, güçlü bağların daha faydalı olduğudur. Ama Granovetter insanların işi çoğunlukla zayıf bağlar üzerinden bulduğunu gösterdi. Nedenini kendin kurabilirsin: Yakın arkadaşların seninle aynı çevrede dolaşır, bu yüzden senin bildiğini bilirler. Uzaktaki tanıdık ise başka bir çevrede dolaşır ve senin hiç duymadığın bir fırsatı duyar. Yani zayıf bağ yeni bilgi taşır.</p><p>Ayırt etmek için iki şeye bak: ne kadar iyi tanışıyorlar ve ne sıklıkla alışveriş yapıyorlar. İkisi de yüksekse strong, tanışıklık var ama alışveriş seyrekse weak.</p>",
+          "ornek": "<p>Hayali öğrenci Deniz staj arıyor. Her gün görüştüğü yakın arkadaşları da aynı ilanları biliyor ve yeni bir şey söyleyemiyor: strong ties. Yılda bir kez karşılaştığı eski bir lise arkadaşı ise çalıştığı ajansta henüz ilana çıkmamış bir staj yerinden bahsediyor: weak tie. Granovetter’ın bulgusu tam olarak bu.</p>",
+          "kaynak": [1],
+          "terimler": ["Strong ties", "Weak ties"],
+          "soru": {
+            "q": "Deniz hears about a job opening from a former classmate she meets perhaps once a year, not from the close friends she sees daily. Which idea best explains this?",
+            "o": [
+              "Weak ties more often bring new, non-overlapping information",
+              "Strong ties more often bring new, non-overlapping information",
+              "Indirect ties carry no information about job opportunities",
+              "Close friends usually hide job openings from each other"
+            ],
+            "x": "Granovetter’a göre insanlar işi çoğunlukla weak ties üzerinden bulur, çünkü uzak tanıdıklar başka çevrelerden yeni bilgi getirir. Strong ties şıkkı cazip görünür çünkü yakın arkadaşlar daha istekli yardım eder, ama onlar zaten senin bildiklerini bilir."
+          }
+        },
+        {
+          "baslik": "Bridging tie, centrality ve density",
+          "anlatim": "<p>Bazı bağlar ağda özel bir rol oynar. <b>Bridging tie</b> (köprü bağ), <b>non-redundant</b> (tekrar etmeyen) bilgi ve kaynak sağlayan bağdır. “Non-redundant” şu demek: Bu bilgiyi başka bir yoldan alamazsın. Köprü bağ genellikle birbirinden kopuk iki grubu birbirine bağlar; bir gruptaki bilgi ancak o bağ üzerinden diğer gruba geçer. Bu yüzden köprü konumundaki kişi değerlidir: Her iki taraf da ona ihtiyaç duyar.</p><p>Ağın genel görüntüsünü anlatan iki kavram daha var. <b>Centrality</b> (merkezîlik), bir aktörün ağda ne kadar merkezde olduğudur: Ne kadar çok kişi ona bağlıysa veya ne kadar çok bilgi onun üzerinden geçiyorsa o kadar merkezdedir. <b>Density</b> (yoğunluk), ağdaki insanların ne kadarının birbirine bağlı olduğudur. Yoğun bir ağda herkes herkesi tanır.</p><p>Bridging tie ile weak tie’ı karıştırma. Weak tie bağın gücünü anlatır (ne kadar tanışık, ne sıklıkla alışveriş). Bridging tie ise bağın işlevini anlatır (başka yerden alınamayacak bilgi taşıyor mu). Bir soru “information neither group gets elsewhere” diyorsa cevap bridging tie’dır.</p>",
+          "ornek": "<p>Hayali bir hastanede hemşire Mert, hem bilgi işlem ekibiyle hem de ameliyathane ekibiyle düzenli konuşan tek kişi. Bilgi işlemin yeni sistem planını ameliyathaneye, ameliyathanenin şikâyetlerini bilgi işleme o taşıyor. Mert’in bağları bridging tie, çünkü iki grup bu bilgiyi başka bir yoldan alamıyor. Bu da Mert’in centrality’sini artırıyor.</p>",
+          "kaynak": [1],
+          "terimler": ["Bridging tie"],
+          "soru": {
+            "q": "At a museum, Selim is the only person who talks regularly with both the curators and the marketing team, and he passes on information that neither group can get anywhere else. His link is best described as a:",
+            "o": [
+              "Bridging tie",
+              "Strong tie",
+              "Indirect tie",
+              "Weak tie"
+            ],
+            "x": "Selim iki grubu bağlıyor ve onların başka yoldan alamayacağı, yani non-redundant bilgiyi taşıyor: bridging tie. Strong tie cazip görünür çünkü düzenli konuşuyor, ama soru bağın gücünü değil, taşıdığı benzersiz bilgiyi vurguluyor."
+          }
+        },
+        {
+          "baslik": "Reciprocity ve exchange ilkeleri",
+          "anlatim": "<p>Ağlar rastgele büyümez. Kilduff ve Tsai bağların hangi ilkelerle oluştuğunu üç maddede anlatır. Bu adımda ilk ikisini, sonraki adımda üçüncüsünü göreceksin.</p><p><b>Principle of reciprocity</b> (karşılıklılık ilkesi): Yaklaşık eşit değerde iyilik alışverişi yapmak. “Sen bana raporda yardım ettin, ben de sana sunumda yardım edeyim.” Mantığı adalet duygusudur: Aldığını geri verirsin, bu yüzden ilişki sürer.</p><p><b>Principle of exchange</b> (değiş tokuş ilkesi): Senden farklı olan insanlarla iyilik alışverişi yapmak. Burada kazanç farklılıktan gelir: Tamamlayıcı (complementary) kaynaklar daha fazla değer yaratır. Bir yazılımcının yazılımcıdan alabileceği şey sınırlıdır, ama bir pazarlamacıdan alacağı şey ona hiç olmayan bir şeydir.</p><p>İkisini ayırmak için şuna bak: Vurgu iyiliğin eşit değerde geri ödenmesinde mi, yoksa tarafların farklı ve birbirini tamamlayan beceriler getirmesinde mi? Eşit karşılıksa reciprocity, tamamlayıcı farklılıksa exchange. İki ilkede de alışveriş vardır; fark, değerin nereden geldiğidir.</p>",
+          "ornek": "<p>Hayali bir apartmanda iki komşu her hafta sırayla birbirinin çocuğunu okuldan alıyor: eşit değerde iyilik, yani reciprocity. Aynı apartmanda pasta yapmayı bilen ama internet bilgisi olmayan Ayten Hanım, sosyal medyadan anlayan genç komşusuyla anlaşıyor: o pastaları yapıyor, komşusu satışı internetten yürütüyor. Birbirini tamamlayan beceriler: exchange.</p>",
+          "kaynak": [2],
+          "terimler": ["Principle of reciprocity", "Principle of exchange"],
+          "soru": {
+            "q": "A café owner who is excellent at baking teams up with a neighbour who runs social media campaigns, because each has a skill the other lacks. Which networking principle is at work?",
+            "o": [
+              "Exchange",
+              "Reciprocity",
+              "Similarity",
+              "Centrality"
+            ],
+            "x": "İki taraf birbirinden farklı ve birbirini tamamlayan beceriler getiriyor: Bu exchange ilkesidir. Reciprocity cazip görünür çünkü o da iyilik alışverişidir, ama reciprocity’de vurgu eşit değerde karşılık vermektir, farklı becerilerin birleşmesi değil."
+          }
+        },
+        {
+          "baslik": "Similarity ilkesi ve yankı odası",
+          "anlatim": "<p>Üçüncü ilke en kendiliğinden olanıdır. <b>Principle of similarity</b> (benzerlik ilkesi): Bağlar, ortak geçmişi, değerleri ve ilgi alanları olan insanlar arasında kendiliğinden oluşur. Aynı okuldan mezun olanlar, aynı takımı tutanlar, aynı hobiye sahip olanlar birbirini kolayca bulur. Bunun nedeni basit: Benzer biriyle konuşmak kolaydır, ortak dil hazırdır, güven daha çabuk oluşur.</p><p>Ama bu ilkenin bir riski vardır: <b>echo chamber</b> (yankı odası). Herkes birbirine benzerse herkes aynı şeyleri düşünür ve aynı bilgileri bilir. Yeni fikir gelmez, söylenen her şey geri yankılanır. Bu riski önceki adımlarla bağla: Benzer insanlar çoğunlukla aynı bilgileri paylaşır; başka yerden alınamayan bilgi ise farklı çevrelere uzanan bağlardan, örneğin bridging ties üzerinden gelir. Bu, c10a’daki groupthink fikrine de çok yakındır.</p><p>Similarity ile exchange’i ayırmak kolaydır, çünkü birbirinin tersidir. Similarity benzerlikten doğar ve rahatlık getirir; exchange farklılıktan doğar ve tamamlayıcı değer getirir.</p>",
+          "ornek": "<p>Hayali bir girişimin kurucusu ekibini yalnızca aynı bölümden mezun, aynı hobileri olan arkadaşlarından kuruyor. İlk aylar çok rahat geçiyor, herkes hemen anlaşıyor: similarity. Bir yıl sonra bütün fikirler birbirine benziyor ve kimse bir müşterinin farklı bakış açısını dile getirmiyor: echo chamber.</p>",
+          "kaynak": [2],
+          "terimler": ["Principle of similarity"],
+          "soru": {
+            "q": "A start-up founder hires only friends from her own university course who share her hobbies and opinions. After a year, all new ideas sound the same. Which principle and which risk fit best?",
+            "o": [
+              "Similarity, leading to an echo chamber",
+              "Exchange, leading to an echo chamber",
+              "Similarity, leading to many weak ties",
+              "Reciprocity, leading to unequal favours"
+            ],
+            "x": "Ortak geçmiş ve ilgi alanları üzerinden kurulan bağlar similarity ilkesidir ve riski yeni fikir gelmeyen bir echo chamber’dır. “Exchange, echo chamber” şıkkı cazip görünür çünkü risk doğru, ama exchange farklı insanlarla kurulan bağdır; burada herkes birbirine benziyor."
+          }
+        },
+        {
+          "baslik": "Ibarra: operational ve personal network",
+          "anlatim": "<p>Ibarra yöneticilere üç tür ağ kurmalarını önerir. Her birinin amacı farklıdır. Ayırmanın en kolay yolu “bu ağ hangi zamana bakıyor ve kime hizmet ediyor?” diye sormaktır.</p><p><b>Operational network</b> (operasyonel ağ), bugünkü işini verimli yapmana yardım eden kişilerdir. Projeni engelleyebilecek ya da destekleyebilecek insanlar bu ağdadır: başka departmandaki meslektaşın, onay veren yönetici, malzemeyi sağlayan tedarikçi. Bu ağ bugüne bakar ve mevcut işe hizmet eder. Üyelerini büyük ölçüde iş belirler, sen seçmezsin.</p><p><b>Personal network</b> (kişisel ağ), kişisel ve mesleki gelişimin içindir: referanslar, dışarıdan bilgi, koçluk ve mentorluk. Ders notunun örnekleri mezun grupları, kulüpler ve meslek dernekleridir. Bu ağ genellikle şirketin dışındadır ve sana, kariyerine hizmet eder.</p><p>İkisini karıştırmamak için şuna bak: Kişi bugünkü projeyi bitirmek için mi bağlantı kuruyor, yoksa kendini geliştirmek ve kariyerine destek bulmak için mi? Proje ise operational, kişisel gelişim ise personal. “Şirket dışından koçluk ve kariyer tavsiyesi” cümlesi her zaman personal demektir.</p>",
+          "ornek": "<p>Hayali bir inşaat firmasında proje müdürü Burcu, binayı zamanında bitirmek için satın alma departmanı ve belediye görevlisiyle düzenli görüşüyor: operational network. Akşamları ise bir meslek derneğine gidiyor ve başka bir şirketteki emekli bir mühendisten kariyeri hakkında koçluk alıyor: personal network.</p>",
+          "kaynak": [3],
+          "terimler": ["Operational network", "Personal network"],
+          "soru": {
+            "q": "A junior architect meets monthly with a retired engineer from another firm who coaches her on her career, and she also joins a women-in-construction association. Which Ibarra network is she building?",
+            "o": [
+              "Personal network",
+              "Operational network",
+              "Strategic network",
+              "Bridging network"
+            ],
+            "x": "Şirket dışından koçluk, mentorluk ve meslek derneği kişisel gelişim içindir: personal network. Operational network cazip görünür çünkü bağlantılar işle ilgili, ama operational ağ bugünkü projeyi bitirmeye yardım eden kişilerden oluşur; burada amaç kariyer gelişimi."
+          }
+        },
+        {
+          "baslik": "Ibarra: strategic network",
+          "anlatim": "<p>Üçüncü tür geleceğe bakar. <b>Strategic network</b> (stratejik ağ), gelecekteki öncelikleri ve zorlukları anlamana ve bunlar için paydaşların (stakeholders) desteğini kazanmana yardım eden kişilerdir. Bu ağda sektör uzmanları, başka alanlardan liderler, yatırımcılar ve topluluk temsilcileri olabilir. Amaç bugünün işini bitirmek değil, yarın nereye gidileceğini görmek ve oraya giderken arkanda destek toplamaktır.</p><p>Üç ağı zaman ekseninde yan yana koy: Operational bugünü, personal kendi gelişimini, strategic ise geleceği ve organizasyonun yönünü hedefler. Sınavın bilinen ayrımı şudur: Kariyer tavsiyesi veren dış kişiler personal; gelecekteki eğilimleri ve fırsatları görmene yardım eden kişiler strategic; bugünkü görevlerin için ihtiyaç duyduğun meslektaşlar operational.</p><p>Ders notu bu ilkelerin büyük ölçekte de işe yarayabileceğini Barack Obama’nın 2008 kampanyasıyla örnekler: Kampanya sosyal ağ ilkelerini kullandı. Bu örnek ağ kavramlarının sadece kişisel kariyer için değil, büyük bir organizasyonu harekete geçirmek için de kullanıldığını gösterir.</p>",
+          "ornek": "<p>Hayali bir otel müdürü Selin, şehir planlamacıları, turizm uzmanları ve yerel yatırımcılarla düzenli buluşuyor. Amacı beş yıl sonra seyahatin nasıl değişeceğini anlamak ve otelin yeşil dönüşüm planına destek toplamak. Bu bağlantılar bugünkü rezervasyonlara yardım etmiyor, geleceği gösteriyor: strategic network.</p>",
+          "kaynak": [3],
+          "terimler": ["Strategic network"],
+          "soru": {
+            "q": "A hotel manager meets regularly with city planners, tourism experts and investors to understand where travel is heading over the next five years and to win their support for a new plan. Which Ibarra network is this?",
+            "o": [
+              "Strategic network",
+              "Operational network",
+              "Personal network",
+              "Similarity network"
+            ],
+            "x": "Gelecekteki eğilimleri anlamak ve paydaş desteği kazanmak strategic network’ün amacıdır. Personal network cazip görünür çünkü bağlantılar şirket dışında, ama personal ağ kişinin kendi kariyer gelişimi içindir; burada amaç organizasyonun geleceği."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Şirket dışından koçluk ve kariyer tavsiyesi veren kişiler strategic network’tür.", "dogru": "Kişisel gelişim, koçluk ve mentorluk <b>personal network</b>’tür. Gelecekteki eğilimleri ve fırsatları görmeni sağlayanlar <b>strategic network</b>’tür."},
+        {"yanlis": "En değerli bilgi her zaman en yakın arkadaşlardan gelir.", "dogru": "Granovetter’a göre insanlar işi çoğunlukla <b>weak ties</b> üzerinden bulur; uzak tanıdıklar yeni bilgi taşır."},
+        {"yanlis": "Reciprocity ile exchange aynı ilkedir, ikisi de iyilik alışverişidir.", "dogru": "<b>Reciprocity</b> eşit değerde karşılıktır; <b>exchange</b> farklı insanlarla tamamlayıcı kaynak alışverişidir."},
+        {"yanlis": "Bridging tie, zayıf bağın başka bir adıdır.", "dogru": "Weak tie bağın gücünü anlatır; <b>bridging tie</b> başka yoldan alınamayan, non-redundant bilgi taşıyan bağdır."},
+        {"yanlis": "Benzer insanlarla kurulan ağ en güçlü ve en yenilikçi ağdır.", "dogru": "<b>Similarity</b> rahat bağlar kurar ama <b>echo chamber</b> riski taşır: yeni fikir gelmez."}
+      ],
+      "ozet": [
+        "Social network: aktörler arasında düzenli ilişkiler bütünü; sociogram ile çizilir.",
+        "Ağlar görünmez organizasyondur: iletişim ve kaynakların gerçek akışını gösterir.",
+        "Liderlere üç avantaj: bilgiye erişim, farklı becerilere erişim, güç.",
+        "Strong ties sık alışveriş, weak ties seyrek alışveriş; iş çoğunlukla weak ties ile bulunur.",
+        "Bridging tie başka yoldan alınamayan bilgiyi taşır; centrality ve density ağın şeklini anlatır.",
+        "Kilduff ve Tsai: reciprocity eşit karşılık, exchange tamamlayıcı farklılık, similarity ortak geçmiş.",
+        "Similarity’nin riski echo chamber’dır.",
+        "Ibarra: operational bugünkü iş, personal kişisel gelişim, strategic gelecek ve paydaş desteği."
+      ],
+      "aklinda": "Bugün için operational, kendin için personal, yarın için strategic.",
+      "sinavda": "<p>Part 2’de birinin kurduğu bir ilişki ya da bir iyilik alışverişi anlatılır ve hangi bağ türü, hangi ilke veya hangi Ibarra ağı olduğu sorulur. Yaklaşık 3 puanlık ağırlığı vardır. Personal ile strategic ağ ayrımı ve reciprocity ile exchange ayrımı en çok dikkat isteyen noktalardır.</p>"
+    }
+  ]
+}

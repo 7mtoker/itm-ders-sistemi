@@ -1,0 +1,3273 @@
+{
+ "units": [
+  {
+   "id": "c1a",
+   "ch": 1,
+   "t": "Management & the P-O-L-C framework",
+   "terms": [
+    "Management",
+    "Planning",
+    "Organizing",
+    "Leading",
+    "Controlling",
+    "Strategic planning",
+    "Tactical planning",
+    "Operational planning",
+    "Entrepreneurship",
+    "Intrapreneur",
+    "Triple bottom line",
+    "OCB",
+    "Process loss",
+    "Empowerment"
+   ]
+  },
+  {
+   "id": "c1b",
+   "ch": 1,
+   "t": "Managers: Mintzberg's roles & Katz's skills",
+   "terms": [
+    "Line manager",
+    "General manager",
+    "Figurehead",
+    "Liaison",
+    "Monitor",
+    "Disseminator",
+    "Spokesperson",
+    "Disturbance handler",
+    "Resource allocator",
+    "Technical skills",
+    "Conceptual skills",
+    "Interpersonal skills"
+   ]
+  },
+  {
+   "id": "c2a",
+   "ch": 2,
+   "t": "Personality & values",
+   "terms": [
+    "Personality",
+    "Openness",
+    "Conscientiousness",
+    "Extraversion",
+    "Agreeableness",
+    "Neuroticism",
+    "Self-monitoring",
+    "Proactive personality",
+    "Self-esteem",
+    "Self-efficacy",
+    "Values"
+   ]
+  },
+  {
+   "id": "c2b",
+   "ch": 2,
+   "t": "Work attitudes & fit",
+   "terms": [
+    "Attitude",
+    "Job satisfaction",
+    "Organizational commitment",
+    "Psychological contract",
+    "Distributive justice",
+    "Procedural justice",
+    "Interactional justice",
+    "Role ambiguity",
+    "Role conflict",
+    "Exit interview",
+    "Person-job fit",
+    "Person-organization fit"
+   ]
+  },
+  {
+   "id": "c3a",
+   "ch": 3,
+   "t": "Leadership, power & influence",
+   "terms": [
+    "Leadership",
+    "Formal leader",
+    "Informal leader",
+    "Emergent leader",
+    "Legitimate power",
+    "Reward power",
+    "Coercive power",
+    "Expert power",
+    "Referent power",
+    "Theory X / Theory Y"
+   ]
+  },
+  {
+   "id": "c3b",
+   "ch": 3,
+   "t": "Trait & behavioural approaches",
+   "terms": [
+    "Trait approach",
+    "Drive",
+    "Emotional intelligence (EQ)",
+    "Task-oriented behaviour",
+    "People-oriented behaviour",
+    "Authoritarian decision-making",
+    "Democratic decision-making",
+    "Laissez-faire decision-making"
+   ]
+  },
+  {
+   "id": "c4a",
+   "ch": 4,
+   "t": "Contemporary leadership approaches",
+   "terms": [
+    "Transformational leaders",
+    "Transactional leaders",
+    "Contingent rewards",
+    "Active management by exception",
+    "Passive management by exception",
+    "Charisma",
+    "Intellectual stimulation",
+    "Individualized consideration",
+    "Servant leadership",
+    "Authentic leadership",
+    "LMX"
+   ]
+  },
+  {
+   "id": "c4b",
+   "ch": 4,
+   "t": "Values-based & ethical leadership, trends, inclusion",
+   "terms": [
+    "Ethical leadership",
+    "Authentic leadership",
+    "Vulnerability",
+    "SCQA",
+    "Social movement",
+    "Inclusive leadership",
+    "Six Cs",
+    "Ethnocentrism"
+   ]
+  },
+  {
+   "id": "c5a",
+   "ch": 5,
+   "t": "Communication: process, barriers & channels",
+   "terms": [
+    "Communication",
+    "Sender",
+    "Encoding",
+    "Receiver",
+    "Decoding",
+    "Noise",
+    "Filtering",
+    "Selective perception",
+    "Information overload",
+    "Grapevine",
+    "Active listening",
+    "Information richness"
+   ]
+  },
+  {
+   "id": "c5b",
+   "ch": 5,
+   "t": "Decision making: types, models & groups",
+   "terms": [
+    "Programmed decision",
+    "Nonprogrammed decision",
+    "Rational model",
+    "Bounded rationality",
+    "Satisfice",
+    "Intuitive model",
+    "Incubation",
+    "Escalation of commitment",
+    "Anchoring",
+    "Groupthink",
+    "Social loafing",
+    "Nominal Group Technique",
+    "Delphi Technique"
+   ]
+  },
+  {
+   "id": "c6a",
+   "ch": 6,
+   "t": "Mission, vision, stakeholders & the strategy process",
+   "terms": [
+    "Mission statement",
+    "Vision statement",
+    "Values statement",
+    "Stakeholders",
+    "Stakeholder analysis",
+    "Strategic management",
+    "Strategy formulation",
+    "Strategy implementation"
+   ]
+  },
+  {
+   "id": "c6b",
+   "ch": 6,
+   "t": "Levels of strategy & how firms compete",
+   "terms": [
+    "Corporate strategy",
+    "Business strategy",
+    "Functional strategy",
+    "Synergy",
+    "Diversification",
+    "Cost leadership",
+    "Differentiation",
+    "Sustainable competitive advantage"
+   ]
+  },
+  {
+   "id": "c6c",
+   "ch": 6,
+   "t": "Internal analysis: value chain, VRIO, BCG",
+   "terms": [
+    "Value chain",
+    "Primary activities",
+    "Support activities",
+    "VRIO",
+    "Competitive parity",
+    "Temporary competitive advantage",
+    "Star",
+    "Question mark",
+    "Cash cow",
+    "Dog"
+   ]
+  },
+  {
+   "id": "c6d",
+   "ch": 6,
+   "t": "External analysis: SWOT, PESTEL, Porter's 5 forces",
+   "terms": [
+    "SWOT",
+    "Opportunities",
+    "Threats",
+    "PESTEL",
+    "Porter's five forces",
+    "Threat of substitutes",
+    "Bargaining power of buyers"
+   ]
+  },
+  {
+   "id": "c6e",
+   "ch": 6,
+   "t": "How strategies emerge: intended vs realized",
+   "terms": [
+    "Intended strategy",
+    "Deliberate strategy",
+    "Emergent strategy",
+    "Realized strategy",
+    "Design school",
+    "Emergence (learning) school"
+   ]
+  },
+  {
+   "id": "c7a",
+   "ch": 7,
+   "t": "Goals, MBO, Balanced Scorecard, SMART, KPI, CSR",
+   "terms": [
+    "Goals",
+    "Objectives",
+    "MBO",
+    "Balanced Scorecard",
+    "SMART",
+    "KPI",
+    "CSR",
+    "Triple bottom line"
+   ]
+  },
+  {
+   "id": "c7b",
+   "ch": 7,
+   "t": "Motivation theories",
+   "terms": [
+    "Motivation",
+    "Maslow's hierarchy",
+    "ERG theory",
+    "Hygiene factors",
+    "Motivators",
+    "Equity theory",
+    "Referent",
+    "Goal-setting theory",
+    "Expectancy"
+   ]
+  },
+  {
+   "id": "c8a",
+   "ch": 8,
+   "t": "Environments & organizational structures",
+   "terms": [
+    "Macro (general, external) environment",
+    "Mechanistic structure",
+    "Organic structure",
+    "Functional structure",
+    "Divisional structure",
+    "Geographic structure",
+    "Matrix structure",
+    "Networked team structure",
+    "Virtual structure"
+   ]
+  },
+  {
+   "id": "c8b",
+   "ch": 8,
+   "t": "Organizational culture & diversity (DEI)",
+   "terms": [
+    "Organizational culture",
+    "Artifacts",
+    "Assumptions",
+    "Strong culture",
+    "Subculture",
+    "Counterculture",
+    "Rituals",
+    "Onboarding",
+    "Glass ceiling"
+   ]
+  },
+  {
+   "id": "c9a",
+   "ch": 9,
+   "t": "Hofstede & GLOBE",
+   "terms": [
+    "Culture (Hofstede)",
+    "Power distance",
+    "Individualism",
+    "Collectivism",
+    "Uncertainty avoidance",
+    "Masculinity",
+    "GLOBE",
+    "Performance orientation",
+    "Humane orientation",
+    "Psychic distance"
+   ]
+  },
+  {
+   "id": "c9b",
+   "ch": 9,
+   "t": "Globalization & expanding globally",
+   "terms": [
+    "Globalization",
+    "Tariffs",
+    "FDI",
+    "Global strategy",
+    "Regional strategy",
+    "Local strategy",
+    "Exporting",
+    "Licensing",
+    "Strategic alliance",
+    "Joint venture"
+   ]
+  },
+  {
+   "id": "c10a",
+   "ch": 10,
+   "t": "Teams: Tuckman & team diversity",
+   "terms": [
+    "Team",
+    "Forming",
+    "Storming",
+    "Norming",
+    "Performing",
+    "Adjourning"
+   ]
+  },
+  {
+   "id": "c10b",
+   "ch": 10,
+   "t": "Social networks",
+   "terms": [
+    "Social network",
+    "Strong ties",
+    "Weak ties",
+    "Bridging tie",
+    "Principle of reciprocity",
+    "Principle of exchange",
+    "Principle of similarity",
+    "Operational network",
+    "Personal network",
+    "Strategic network"
+   ]
+  },
+  {
+   "id": "c11a",
+   "ch": 11,
+   "t": "Innovative culture & failure to innovate",
+   "terms": [
+    "Innovative culture",
+    "Intrapreneurship",
+    "Innovation time",
+    "Open lab / co-creation",
+    "Innovation portfolio",
+    "Lack of market orientation"
+   ]
+  },
+  {
+   "id": "c11b",
+   "ch": 11,
+   "t": "Innovation networks & why organizations change",
+   "terms": [
+    "Innovation network",
+    "Organizational change",
+    "Nothing fails like success"
+   ]
+  },
+  {
+   "id": "c11c",
+   "ch": 11,
+   "t": "Reactions & resistance to change",
+   "terms": [
+    "Active resistance",
+    "Passive resistance",
+    "Compliance",
+    "Enthusiastic support",
+    "Prevalence of change",
+    "Perceived loss of power"
+   ]
+  },
+  {
+   "id": "c11d",
+   "ch": 11,
+   "t": "Lewin's three stages & Kotter's eight steps",
+   "terms": [
+    "Unfreeze",
+    "Refreeze",
+    "Guiding coalition",
+    "Volunteer army",
+    "Short-term wins",
+    "Institute change",
+    "Learning organization"
+   ]
+  },
+  {
+   "id": "c11e",
+   "ch": 11,
+   "t": "Schein's culture change & comparing the models",
+   "terms": [
+    "Role modeling",
+    "New symbols and stories",
+    "Changing key players",
+    "Schein's model"
+   ]
+  }
+ ],
+ "rcase": [
+  {
+   "i": 0,
+   "title": "SolarNest Energy",
+   "ch": "Ch 6"
+  },
+  {
+   "i": 1,
+   "title": "MedLink Connect",
+   "ch": "Ch 6"
+  },
+  {
+   "i": 2,
+   "title": "HarborTech Manufacturing",
+   "ch": "Ch 11"
+  },
+  {
+   "i": 3,
+   "title": "FreshLoop Packaging",
+   "ch": "Ch 6"
+  },
+  {
+   "i": 4,
+   "title": "GreenCity Permits",
+   "ch": "Ch 11"
+  },
+  {
+   "i": 5,
+   "title": "UrbanStay Hotels",
+   "ch": "Ch 6"
+  },
+  {
+   "i": 6,
+   "title": "CareConnect Hospital",
+   "ch": "Ch 11"
+  },
+  {
+   "i": 7,
+   "title": "NorthSea Foods",
+   "ch": "Ch 6"
+  },
+  {
+   "i": 8,
+   "title": "AeroLogistics",
+   "ch": "Ch 11"
+  }
+ ],
+ "questions": [
+  {
+   "key": "0-0",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A manager studies customer complaints and industry reports to identify developments that may affect the organization. Which Mintzberg managerial role is illustrated?",
+   "o": [
+    "Monitor",
+    "Resource allocator",
+    "Leader",
+    "Negotiator"
+   ],
+   "a": 0,
+   "x": "Studying complaints, reports and trends = collecting information, so the monitor role (informational)."
+  },
+  {
+   "key": "0-1",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which statement best reflects the view that management is “the art of getting things done through the efforts of other people”?",
+   "o": [
+    "Managers achieve objectives by coordinating and supporting the work of others.",
+    "Managers are responsible only for measuring employee performance.",
+    "Managers contribute mainly by creating formal rules and procedures.",
+    "Managers should personally complete the organization's most important tasks."
+   ],
+   "a": 0,
+   "x": "Management = reaching goals through other people, so coordinating and supporting their work."
+  },
+  {
+   "key": "0-2",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What is organizational commitment?",
+   "o": [
+    "Emotional attachment to the company",
+    "Our pay level",
+    "A job task list",
+    "Compliance with organizational rules and policies"
+   ],
+   "a": 0,
+   "x": "Organizational commitment = the emotional attachment people have to the company they work for."
+  },
+  {
+   "key": "0-3",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which is a key job attitude at work?",
+   "o": [
+    "Charisma",
+    "Job characteristics",
+    "Personality",
+    "Job satisfaction"
+   ],
+   "a": 3,
+   "x": "The two key work attitudes are job satisfaction and organizational commitment. Personality and charisma are traits; job characteristics are causes of attitudes."
+  },
+  {
+   "key": "0-4",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which decision type sets the organization’s course?",
+   "o": [
+    "Strategic",
+    "Tactical",
+    "Operational",
+    "Programmed"
+   ],
+   "a": 0,
+   "x": "Strategic decisions set the organization's long-term course; tactical and operational decisions implement it."
+  },
+  {
+   "key": "0-5",
+   "set": "Mock set 1",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which is a nonverbal communication cue?",
+   "o": [
+    "Facial expressions",
+    "Memo",
+    "Phone call",
+    "Text"
+   ],
+   "a": 0,
+   "x": "Facial expressions are nonverbal. Memos, texts and phone calls use words (verbal or written)."
+  },
+  {
+   "key": "0-6",
+   "set": "Mock set 1",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A manufacturer is replacing a polluting production process with cleaner technology. The operations director defines conversion targets, assigns responsibilities, and monitors deadlines. She also invites employees from different backgrounds and job levels to discuss how the change may affect them and adapt the training accordingly. Which description best summarizes the director’s leadership behavior?",
+   "o": [
+    "Task-oriented and people-oriented leadership balancing targets with employee inclusion",
+    "Task-oriented and autocratic leadership emphasizing targets and centralized managerial control",
+    "People-oriented and democratic leadership emphasizing consultation without formal performance targets",
+    "Laissez-faire and people-oriented leadership allowing employees to direct implementation independently"
+   ],
+   "a": 0,
+   "x": "Targets, responsibilities and deadlines = task-oriented. Inviting employees and adapting training = people-oriented. She does both."
+  },
+  {
+   "key": "0-7",
+   "set": "Mock set 1",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "An international energy crisis sharply increases operating costs. A hotel CEO offers managers short-term rewards for meeting immediate energy-saving targets. At the same time, she communicates a longer-term vision of transforming the hotel group into a climate-neutral business and encourages experimentation with new technologies. Which pair of leadership approaches is demonstrated by the CEO?",
+   "o": [
+    "Laissez-faire leadership for short-term targets and autocratic leadership for long-term change",
+    "Ethical leadership for short-term targets and charismatic leadership for long-term change",
+    "Servant leadership for short-term targets and authentic leadership for long-term change",
+    "Transactional leadership for short-term targets and transformational leadership for long-term change"
+   ],
+   "a": 3,
+   "x": "Short-term rewards for hitting targets = transactional (contingent reward). A long-term vision plus encouraging experimentation = transformational."
+  },
+  {
+   "key": "0-8",
+   "set": "Mock set 1",
+   "sec": "Long case · SolarNest Energy (Ch 6)",
+   "cs": 0,
+   "skip": 0,
+   "dupOf": null,
+   "q": "In a PESTEL analysis, the planned reduction of government solar subsidies is primarily which factor?",
+   "o": [
+    "An economic factor involving household income and changing consumer purchasing power; this classification clarifies which external force is shaping the organization's strategic environment.",
+    "A social factor involving household preferences and community attitudes toward renewable energy; this classification clarifies which external force is shaping the organization's strategic environment.",
+    "A political factor involving priorities and public support for solar adoption; this classification clarifies which external force is shaping the organization's strategic environment",
+    "A technological factor involving battery performance and digital energy-management systems; this classification clarifies which external force is shaping the organization's strategic environment.",
+    "A legal factor involving binding court judgments and contractual disputes with customers; this classification clarifies which external force is shaping the organization's strategic environment.",
+    "An environmental factor involving emissions targets and the physical effects of climate change; this classification clarifies which external force is shaping the organization's strategic environment."
+   ],
+   "a": 2,
+   "x": "Subsidies are a government policy choice, so a political factor. A binding law or court ruling would be legal."
+  },
+  {
+   "key": "1-0",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which function of management focuses on defining goals and determining how to achieve them?",
+   "o": [
+    "Organizing",
+    "Controlling",
+    "Planning",
+    "Leading"
+   ],
+   "a": 2,
+   "x": "Planning = setting goals and deciding how to reach them."
+  },
+  {
+   "key": "1-1",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A department manager compares actual monthly expenses with the approved budget and investigates significant differences. Which management function is the manager performing?",
+   "o": [
+    "Controlling",
+    "Organizing",
+    "Planning",
+    "Leading"
+   ],
+   "a": 0,
+   "x": "Comparing actual performance with a standard and investigating the differences = controlling."
+  },
+  {
+   "key": "1-2",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "An employee consistently prepares carefully, meets deadlines, and follows through on commitments. What work attitude is predominant?",
+   "o": [
+    "Organizational Commitment",
+    "Agreeableness",
+    "Extraversion",
+    "Openness to experience"
+   ],
+   "a": 0,
+   "x": "Careful, punctual and reliable is the trait conscientiousness, which is not an option here. The question asks for a work attitude, and organizational commitment is the only work attitude listed; the other three are Big Five traits. Read 'attitude' versus 'trait' carefully."
+  },
+  {
+   "key": "1-3",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which job characteristic links to satisfaction?",
+   "o": [
+    "Stress",
+    "Autonomy at work",
+    "Organizational justice",
+    "Personality"
+   ],
+   "a": 1,
+   "x": "Autonomy is a job characteristic (with skill variety, feedback and task significance). Justice and stress are other causes of attitudes, and personality is not a feature of the job."
+  },
+  {
+   "key": "1-4",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A manager must communicate a sensitive restructuring decision, answer employees’ questions, and observe their reactions immediately. Which communication channel is most appropriate?",
+   "o": [
+    "A standard monthly report",
+    "A notice on the staff portal",
+    "A prerecorded audio message",
+    "A face-to-face meeting"
+   ],
+   "a": 3,
+   "x": "A sensitive message where you must answer questions and see reactions needs the richest channel: face to face."
+  },
+  {
+   "key": "1-5",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Before presenting a proposal, a manager converts her ideas into words, diagrams, and numerical tables. Which part of the communication process is this?",
+   "o": [
+    "Encoding",
+    "Filtering",
+    "Decoding",
+    "Feedback"
+   ],
+   "a": 0,
+   "x": "Turning ideas into words, diagrams and numbers = encoding."
+  },
+  {
+   "key": "1-6",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which goal best satisfies the SMART criteria?",
+   "o": [
+    "Improve customer service significantly.",
+    "Encourage employees to respond to customers more quickly.",
+    "Become the industry's most respected company.",
+    "Reduce average customer waiting time from eight to five minutes by 30 June."
+   ],
+   "a": 3,
+   "x": "Only this goal is specific, measurable (8 → 5 minutes) and time-bound (by 30 June)."
+  },
+  {
+   "key": "1-7",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What is a goal?",
+   "o": [
+    "An outcome statement of what to accomplish",
+    "A time-based measurable action",
+    "A detailed strategy plan",
+    "A company's mission statement"
+   ],
+   "a": 0,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "1-8",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A company enters a foreign market by creating a new business that it owns together with a local company. Which global expansion strategy is this?",
+   "o": [
+    "Wholly owned subsidiary",
+    "Exporting",
+    "Joint venture",
+    "Licensing"
+   ],
+   "a": 2,
+   "x": "A new business owned together with a local firm = joint venture."
+  },
+  {
+   "key": "1-9",
+   "set": "Mock set 2",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "In a strongly collectivist culture, which managerial practice is most likely to be effective?",
+   "o": [
+    "Avoiding long-term relationships among team members",
+    "Emphasizing only individual competition and personal recognition",
+    "Assigning work without considering group membership",
+    "Connecting rewards and goals to the performance of the group"
+   ],
+   "a": 3,
+   "x": "Collectivist cultures put the group first, so tie rewards and goals to group performance."
+  },
+  {
+   "key": "1-10",
+   "set": "Mock set 2",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A cybersecurity specialist influences an executive team because of her knowledge and experience, although she has no formal managerial position. Which source of power explains her influence?",
+   "o": [
+    "Reward power",
+    "Coercive power",
+    "Legitimate power",
+    "Expert power"
+   ],
+   "a": 3,
+   "x": "Influence from knowledge and experience without a formal position = expert power."
+  },
+  {
+   "key": "1-11",
+   "set": "Mock set 2",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A company enters a country where unofficial payments are commonly used to speed up permits. Although competitors follow this practice, the regional director refuses to authorize such payments. She openly explains that the company’s anti-corruption principles apply in every market, even if expansion becomes slower. Which pair of leadership approaches is demonstrated by the director?",
+   "o": [
+    "Transactional and charismatic leadership emphasizing exchange and personal influence",
+    "Servant and transformational leadership emphasizing employee development and organizational vision",
+    "Laissez-faire and autocratic leadership emphasizing independence and centralized authority",
+    "Ethical and authentic leadership emphasizing integrity and consistency with stated principles"
+   ],
+   "a": 3,
+   "x": "Refusing bribes even at a cost = ethical leadership. Openly acting consistently with stated principles in every market = authentic leadership."
+  },
+  {
+   "key": "1-12",
+   "set": "Mock set 2",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A manager discovers that a highly profitable supplier uses unsafe working conditions. She ends the contract despite the short-term financial cost because the supplier’s conduct conflicts with the organization’s stated principles. What most clearly guides her decision?",
+   "o": [
+    "Values-based leadership",
+    "Laissez-faire leadership",
+    "Management by exception",
+    "Coercive leadership"
+   ],
+   "a": 0,
+   "x": "Ending the contract because it conflicts with the organization's stated principles = values-based leadership."
+  },
+  {
+   "key": "1-13",
+   "set": "Mock set 2",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "An electronics company creates teams to design energy-efficient products for customers with different physical abilities. Engineers remain members of specialist departments but also report to product managers. Each team includes employees with varied professional, cultural, and personal backgrounds. Which combination of organizational concepts appears in the case?",
+   "o": [
+    "Matrix structure with dual reporting and a professionally diverse product team",
+    "Geographic structure with regional authority and a culturally uniform product team",
+    "Virtual structure with remote coordination and a geographically uniform product team",
+    "Functional structure with specialization and a professionally uniform product team"
+   ],
+   "a": 0,
+   "x": "Reporting to a specialist department and a product manager at once = matrix (dual reporting). Varied backgrounds = a diverse team."
+  },
+  {
+   "key": "1-14",
+   "set": "Mock set 2",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A consumer-goods company forms a team to reduce plastic packaging. Members come from engineering, marketing, logistics, and several cultural backgrounds. The leader establishes inclusive discussion rules and ensures that each member’s expertise is considered before decisions are made. Which interpretation best explains the value of the team’s approach?",
+   "o": [
+    "Similar cultural experience increases agreement, while informal norms reduce competing viewpoints",
+    "Shared professional knowledge increases consistency, while majority voting limits extended discussion",
+    "Diverse member knowledge increases alternatives, while inclusive norms support constructive discussion",
+    "Centralized leader knowledge increases speed, while fixed procedures reduce alternative proposals"
+   ],
+   "a": 2,
+   "x": "Diverse knowledge gives more alternatives; inclusive discussion rules keep the debate constructive (and prevent groupthink)."
+  },
+  {
+   "key": "1-15",
+   "set": "Mock set 2",
+   "sec": "Long case · MedLink Connect (Ch 6)",
+   "cs": 1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which option correctly interprets the hospitals’ price negotiations using Porter’s Five Forces?",
+   "o": [
+    "Competitive rivalry because rural patients can negotiate directly over MedLink's institutional contract prices; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes.",
+    "Threat of substitutes because teaching hospitals can influence data-protection rules across national markets; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes.",
+    "Complementor power because medical regulators can replace hospitals as the platform's principal customers; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes.",
+    "Threat of entrants because existing hospital customers can create mandatory cybersecurity standards; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes.",
+    "Supplier power because software developers can determine the prices hospitals pay for consultations; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes.",
+    "Buyer power because major hospital customers can pressure MedLink during contract negotiations; this interpretation clarifies how customer concentration influences competitive pressure and negotiation outcomes."
+   ],
+   "a": 5,
+   "x": "A few large hospital groups buy most subscriptions, so they can push on price: bargaining power of buyers."
+  },
+  {
+   "key": "1-16",
+   "set": "Mock set 2",
+   "sec": "Long case · MedLink Connect (Ch 6)",
+   "cs": 1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "The cybersecurity department’s detailed plan for implementing stronger data protection is which strategy level?",
+   "o": [
+    "Stakeholder strategy because it only classifies hospitals according to their relative power and interest; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach.",
+    "Realized strategy because it necessarily emerges without management planning or formal organizational approval; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach",
+    "Corporate strategy because it determines the countries and industries in which MedLink will operate; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach.",
+    "Divisional strategy because it decides whether MedLink should acquire unrelated healthcare companies; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach.",
+    "Business strategy because it establishes the platform's overall competitive position against market rivals; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach.",
+    "Functional strategy because it translates broader priorities into departmental actions and procedures; this classification connects departmental priorities with the organization's broader strategic direction and competitive approach."
+   ],
+   "a": 5,
+   "x": "A department translating broader priorities into its own actions and procedures = functional strategy."
+  },
+  {
+   "key": "1-17",
+   "set": "Mock set 2",
+   "sec": "Long case · MedLink Connect (Ch 6)",
+   "cs": 1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which PESTEL combination best captures the new privacy rules and improving telehealth technology?",
+   "o": [
+    "Social and environmental factors involving patient expectations and the physical effects of climate change; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction.",
+    "Environmental and social factors involving resource use and public attitudes toward remote consultations; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction.",
+    "Economic and political factors involving inflation rates and government healthcare spending priorities; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction.",
+    "Legal and technological factors involving data obligations and advances in digital healthcare systems; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction",
+    "Political and economic factors involving government stability and changing healthcare purchasing power; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction.",
+    "Technological and economic factors involving software development and hospital budget limitations only; this interpretation separates regulatory obligations from technological developments affecting the organization's future direction."
+   ],
+   "a": 3,
+   "x": "Privacy legislation = legal. Better encryption, video and integration = technological."
+  },
+  {
+   "key": "1-18",
+   "set": "Mock set 2",
+   "sec": "Long case · HarborTech Manufacturing (Ch 11)",
+   "cs": 2,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which action in the case most clearly represents Lewin’s unfreezing stage?",
+   "o": [
+    "Standardizing the tested workflow and documenting it as the permanent assembly procedure; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced.",
+    "Explaining competitive threats and showing why existing production practices must change; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced",
+    "Embedding robot-related responsibilities in job descriptions and formal performance-management systems; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced.",
+    "Measuring long-term performance after the technology has become part of normal operations; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced.",
+    "Installing robots across every production line after the pilot has demonstrated stable results; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced.",
+    "Rewarding employees who consistently use the finalized robotic assembly procedures correctly; this interpretation identifies the stage concerned with creating readiness before new behavior is introduced."
+   ],
+   "a": 1,
+   "x": "Unfreezing creates readiness: showing the competitive threat and why the current way can't continue."
+  },
+  {
+   "key": "1-19",
+   "set": "Mock set 2",
+   "sec": "Long case · HarborTech Manufacturing (Ch 11)",
+   "cs": 2,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Employees who openly organize protests against the robots are demonstrating which reaction to change?",
+   "o": [
+    "Enthusiastic support because they publicly promote the new technology and encourage participation; this classification explains the visibility and intensity of employees' response to the proposed organizational change.",
+    "Compliance because they follow instructions despite having personal doubts about the technology; this classification explains the visibility and intensity of employees' response to the proposed organizational change.",
+    "Passive acceptance because they privately support the change without becoming actively involved; this classification explains the visibility and intensity of employees' response to the proposed organizational change.",
+    "Passive resistance because they quietly delay work while avoiding any visible opposition; this classification explains the visibility and intensity of employees' response to the proposed organizational change.",
+    "Commitment because they personally invest effort in ensuring the change succeeds over time; this classification explains the visibility and intensity of employees' response to the proposed organizational change.",
+    "Active resistance because they openly challenge and organize opposition to the planned change; this classification explains the visibility and intensity of employees' response to the proposed organizational change."
+   ],
+   "a": 5,
+   "x": "Open, visible and organized opposition = active resistance."
+  },
+  {
+   "key": "1-20",
+   "set": "Mock set 2",
+   "sec": "Long case · HarborTech Manufacturing (Ch 11)",
+   "cs": 2,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which option best explains a practice associated with an innovative culture at HarborTech?",
+   "o": [
+    "Restricting improvement ideas to senior managers with formal authority over manufacturing decisions; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning.",
+    "Punishing unsuccessful experiments even when teams follow agreed learning and safety procedures; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning.",
+    "Evaluating employees only on short-term output and excluding learning from performance discussions; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning.",
+    "Preventing cross-functional communication so departments can protect their specialized operational knowledge; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning.",
+    "Requiring teams to preserve existing methods until competitors have proven every new technology; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning.",
+    "Supporting safe experiments, sharing lessons, and recognizing employees who propose responsible improvements; this interpretation shows how leadership practices can encourage responsible experimentation and organizational learning"
+   ],
+   "a": 5,
+   "x": "Innovative cultures support safe experiments, share lessons and reward responsible ideas instead of punishing failure."
+  },
+  {
+   "key": "2-0",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-1",
+   "q": "Which statement best reflects the view that management is “the art of getting things done through the efforts of other people”?",
+   "o": [
+    "Managers contribute mainly by creating formal rules and procedures.",
+    "Managers should personally complete the organization's most important tasks.",
+    "Managers are responsible only for measuring employee performance.",
+    "Managers achieve objectives by coordinating and supporting the work of others."
+   ],
+   "a": 3,
+   "x": "Management = reaching goals through other people, so coordinating and supporting their work."
+  },
+  {
+   "key": "2-1",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-0",
+   "q": "Which function of management focuses on defining goals and determining how to achieve them?",
+   "o": [
+    "Planning",
+    "Organizing",
+    "Controlling",
+    "Leading"
+   ],
+   "a": 0,
+   "x": "Planning = setting goals and deciding how to reach them."
+  },
+  {
+   "key": "2-2",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A manager redesigns the department by grouping related tasks and assigning responsibility for each group to a team leader. Which management function does this best illustrate?",
+   "o": [
+    "Leading",
+    "Organizing",
+    "Controlling",
+    "Forecasting"
+   ],
+   "a": 1,
+   "x": "Grouping tasks and assigning responsibility = designing structure, so organizing."
+  },
+  {
+   "key": "2-3",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-0",
+   "q": "A manager studies customer complaints and industry reports to identify developments that may affect the organization. Which Mintzberg managerial role is illustrated?",
+   "o": [
+    "Negotiator",
+    "Monitor",
+    "Leader",
+    "Resource allocator"
+   ],
+   "a": 1,
+   "x": "Studying complaints, reports and trends = collecting information, so the monitor role (informational)."
+  },
+  {
+   "key": "2-4",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-2",
+   "q": "What is organizational commitment?",
+   "o": [
+    "Our pay level",
+    "A job task list",
+    "Compliance with organizational rules and policies",
+    "Emotional attachment to the company"
+   ],
+   "a": 3,
+   "x": "Organizational commitment = the emotional attachment people have to the company they work for."
+  },
+  {
+   "key": "2-5",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-3",
+   "q": "Which is a key job attitude at work?",
+   "o": [
+    "Job satisfaction",
+    "Charisma",
+    "Personality",
+    "Job characteristics"
+   ],
+   "a": 0,
+   "x": "The two key work attitudes are job satisfaction and organizational commitment. Personality and charisma are traits; job characteristics are causes of attitudes."
+  },
+  {
+   "key": "2-6",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What does an attitude refer to?",
+   "o": [
+    "Our pay and benefits",
+    "A plan we make",
+    "A learned ability to perform a task",
+    "Our opinions, beliefs, and feelings about our environment"
+   ],
+   "a": 3,
+   "x": "An attitude = our opinions, beliefs and feelings about aspects of our environment."
+  },
+  {
+   "key": "2-7",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-2",
+   "q": "An employee consistently prepares carefully, meets deadlines, and follows through on commitments. What work attitude is predominant?",
+   "o": [
+    "Organizational Commitment",
+    "Extraversion",
+    "Openness to experience",
+    "Agreeableness"
+   ],
+   "a": 0,
+   "x": "Careful, punctual and reliable is the trait conscientiousness, which is not an option here. The question asks for a work attitude, and organizational commitment is the only work attitude listed; the other three are Big Five traits. Read 'attitude' versus 'trait' carefully."
+  },
+  {
+   "key": "2-8",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Two employees heard the same announcement. One interprets it as an opportunity, while the other interprets it as a threat because of previous experiences. Which communication barrier best explains the difference?",
+   "o": [
+    "Formalization",
+    "Channel expansion",
+    "Upward communication",
+    "Selective perception"
+   ],
+   "a": 3,
+   "x": "Interpreting the same message differently because of your own experiences and expectations = selective perception."
+  },
+  {
+   "key": "2-9",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which decision-making model aims for a “satisfactory” outcome?",
+   "o": [
+    "Intuitive",
+    "Creative",
+    "Rational",
+    "Bounded rationality"
+   ],
+   "a": 3,
+   "x": "Bounded rationality leads to satisficing: choosing the first alternative that meets your minimum criteria."
+  },
+  {
+   "key": "2-10",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-5",
+   "q": "Which is a nonverbal communication cue?",
+   "o": [
+    "Text",
+    "Phone call",
+    "Facial expressions",
+    "Memo"
+   ],
+   "a": 2,
+   "x": "Facial expressions are nonverbal. Memos, texts and phone calls use words (verbal or written)."
+  },
+  {
+   "key": "2-11",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which is a component of the communication process?",
+   "o": [
+    "Filtering",
+    "Strategic decision",
+    "Message",
+    "Creativity"
+   ],
+   "a": 2,
+   "x": "The message is part of the process (sender, message, channel, receiver, noise, feedback). Filtering is a barrier."
+  },
+  {
+   "key": "2-12",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A restaurant automatically reorders a standard quantity of ingredients whenever inventory reaches a predetermined level. What type of decision is this?",
+   "o": [
+    "Creative decision",
+    "Strategic decision",
+    "Nonprogrammed decision",
+    "Programmed decision"
+   ],
+   "a": 3,
+   "x": "A routine, recurring decision handled by a fixed rule = programmed decision."
+  },
+  {
+   "key": "2-13",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-7",
+   "q": "What is a goal?",
+   "o": [
+    "A time-based measurable action",
+    "A company's mission statement",
+    "An outcome statement of what to accomplish",
+    "A detailed strategy plan"
+   ],
+   "a": 2,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "2-14",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What does Management by Objectives (MBO) aim to do?",
+   "o": [
+    "Define the company mission and vision",
+    "Align subordinate objectives with overall goals",
+    "Translate mission into measures",
+    "Report on social and environmental results"
+   ],
+   "a": 1,
+   "x": "MBO (Drucker) aligns employees' objectives with the organization's overall goals."
+  },
+  {
+   "key": "2-15",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What does the Balanced Scorecard do?",
+   "o": [
+    "Lists only financial targets for the year",
+    "Sets individual pay levels",
+    "Turns mission and strategy into measurable goals and tracks them",
+    "Describes values for employee behavior"
+   ],
+   "a": 2,
+   "x": "It translates mission and strategy into measurable goals in four perspectives and tracks them."
+  },
+  {
+   "key": "2-16",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "An employee believes that she contributes more effort than a colleague but receives the same reward. She responds by reducing her effort. Which motivation theory best explains her response?",
+   "o": [
+    "Reinforcement theory",
+    "ERG theory",
+    "Equity theory",
+    "Maslow's hierarchy of needs"
+   ],
+   "a": 2,
+   "x": "Comparing your effort/reward ratio with a colleague and restoring fairness by working less = equity theory."
+  },
+  {
+   "key": "2-17",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What is an objective?",
+   "o": [
+    "A precise, time-based, measurable action",
+    "A broad vision of success",
+    "A long-term goal that defines direction of the organization",
+    "A general outcome statement"
+   ],
+   "a": 0,
+   "x": "An objective is precise, time-based and measurable. The broad outcome statement is a goal."
+  },
+  {
+   "key": "2-18",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A national culture strongly values cooperation, quality of life, and concern for others rather than competition and visible achievement. In Hofstede’s framework, this culture is relatively:",
+   "o": [
+    "Feminine",
+    "High in uncertainty avoidance",
+    "Masculine",
+    "High in power distance"
+   ],
+   "a": 0,
+   "x": "Valuing cooperation and quality of life over competition and achievement = a feminine culture (low masculinity)."
+  },
+  {
+   "key": "2-19",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "According to Hofstede’s Cultural Framework, what is meant by “uncertainty avoidance”?",
+   "o": [
+    "The preference for long-term planning and perseverance over short-term outcomes.",
+    "Trade between regions.",
+    "The preference for local markets.",
+    "The degree to which people in a society feel comfortable with risk and ambiguity."
+   ],
+   "a": 3,
+   "x": "Uncertainty avoidance = how comfortable people in a society are with risk and ambiguity."
+  },
+  {
+   "key": "2-20",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What is “power distance” in Hofstede’s model?",
+   "o": [
+    "Acceptance of power and authority differences",
+    "Preference for collective interests over individual ones",
+    "Focus on risk and uncertainty",
+    "Value of work and earnings"
+   ],
+   "a": 0,
+   "x": "Power distance = how much people accept unequal distribution of power and authority."
+  },
+  {
+   "key": "2-21",
+   "set": "Mock set 3",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A culture emphasizes persistence, future rewards, and future investment rather than immediate results. Which Hofstede dimension does this describe?",
+   "o": [
+    "Long-term orientation",
+    "Power distance",
+    "Masculinity",
+    "Individualism"
+   ],
+   "a": 0,
+   "x": "Persistence and future rewards over immediate results = long-term orientation."
+  },
+  {
+   "key": "2-22",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Employees accept a newly appointed director’s instructions because the director has formal authority over the department. Which source of power is being used?",
+   "o": [
+    "Legitimate power",
+    "Coercive power",
+    "Expert power",
+    "Referent power"
+   ],
+   "a": 0,
+   "x": "Following instructions because of formal authority = legitimate power."
+  },
+  {
+   "key": "2-23",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A design manager notices that senior employees dominate meetings while younger colleagues and employees with disabilities rarely contribute. She introduces structured speaking turns, asks quieter members for input, and uses their suggestions to improve product accessibility. Team members increasingly respect her commitment to inclusion. Which description best explains the manager’s approach and influence?",
+   "o": [
+    "Task-oriented leadership and coercive power based on targets and possible sanctions",
+    "Laissez-faire leadership and legitimate power based on independence and formal position",
+    "People-oriented leadership and referent power based on inclusion and earned respect",
+    "Autocratic leadership and reward power based on centralized decisions and incentives"
+   ],
+   "a": 2,
+   "x": "Drawing out quieter members and including them = people-oriented. The respect she earns from that = referent power."
+  },
+  {
+   "key": "2-24",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-11",
+   "q": "A company enters a country where unofficial payments are commonly used to speed up permits. Although competitors follow this practice, the regional director refuses to authorize such payments. She openly explains that the company’s anti-corruption principles apply in every market, even if expansion becomes slower. Which pair of leadership approaches is demonstrated by the director?",
+   "o": [
+    "Servant and transformational leadership emphasizing employee development and organizational vision",
+    "Transactional and charismatic leadership emphasizing exchange and personal influence",
+    "Laissez-faire and autocratic leadership emphasizing independence and centralized authority",
+    "Ethical and authentic leadership emphasizing integrity and consistency with stated principles"
+   ],
+   "a": 3,
+   "x": "Refusing bribes even at a cost = ethical leadership. Openly acting consistently with stated principles in every market = authentic leadership."
+  },
+  {
+   "key": "2-25",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-12",
+   "q": "A manager discovers that a highly profitable supplier uses unsafe working conditions. She ends the contract despite the short-term financial cost because the supplier’s conduct conflicts with the organization’s stated principles. What most clearly guides her decision?",
+   "o": [
+    "Coercive leadership",
+    "Laissez-faire leadership",
+    "Values-based leadership",
+    "Management by exception"
+   ],
+   "a": 2,
+   "x": "Ending the contract because it conflicts with the organization's stated principles = values-based leadership."
+  },
+  {
+   "key": "2-26",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-13",
+   "q": "An electronics company creates teams to design energy-efficient products for customers with different physical abilities. Engineers remain members of specialist departments but also report to product managers. Each team includes employees with varied professional, cultural, and personal backgrounds. Which combination of organizational concepts appears in the case?",
+   "o": [
+    "Functional structure with specialization and a professionally uniform product team",
+    "Geographic structure with regional authority and a culturally uniform product team",
+    "Virtual structure with remote coordination and a geographically uniform product team",
+    "Matrix structure with dual reporting and a professionally diverse product team"
+   ],
+   "a": 3,
+   "x": "Reporting to a specialist department and a product manager at once = matrix (dual reporting). Varied backgrounds = a diverse team."
+  },
+  {
+   "key": "2-27",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A food company operates in regions facing different climate risks and environmental rules. It reorganizes its operations into geographic divisions so that the managers can adapt sourcing, products, and sustainability practices to local conditions. Which interpretation best explains the organizational change?",
+   "o": [
+    "Internal technological pressures encourage a matrix structure tailored to temporary projects",
+    "Internal cultural pressures encourage a functional structure tailored to specialist occupations",
+    "External competitive pressures encourage a divisional structure tailored to separate product lines",
+    "External natural and legal pressures encourage a geographic structure tailored to regional conditions"
+   ],
+   "a": 3,
+   "x": "Climate risks (natural) and environmental rules (legal) are external pressures; reorganizing by region = geographic structure."
+  },
+  {
+   "key": "2-28",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A travel company plans sustainable services for a rapidly growing international market. Its project team includes members with different cultural backgrounds and professional expertise. The team also consults local community leaders, environmental experts, and industry partners to understand emerging expectations and opportunities. Which interpretation best explains the factors strengthening the response?",
+   "o": [
+    "Team diversity broadens market insight, while strategic networking identifies future trends and opportunities",
+    "Centralized expertise broadens international insight, while closed networking identifies future partnership opportunities",
+    "Cultural similarity broadens sustainability insight, while personal networking identifies future regulatory developments",
+    "Professional similarity broadens customer insight, while operational networking identifies future market developments"
+   ],
+   "a": 0,
+   "x": "Diverse members broaden insight; consulting outside leaders and experts about future trends = strategic networking."
+  },
+  {
+   "key": "2-29",
+   "set": "Mock set 3",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A shift toward hybrid work leads a company to add remote specialists from several countries to an established product team. The team leader notices uncertainty about roles, technology, and meeting expectations. She schedules orientation sessions and helps members rebuild shared working agreements. Which two team-development stages best match the change described?",
+   "o": [
+    "Storming after adding members, followed by performing after the first orientation session",
+    "Norming after adding members, followed by adjourning after agreements are established",
+    "Performing after adding members, followed by storming as role expectations become clear",
+    "Forming after adding members, followed by norming as shared agreements develop"
+   ],
+   "a": 3,
+   "x": "New members restart the team at forming (uncertainty about roles); rebuilding shared working agreements = norming."
+  },
+  {
+   "key": "2-30",
+   "set": "Mock set 3",
+   "sec": "Long case · FreshLoop Packaging (Ch 6)",
+   "cs": 3,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which option correctly classifies FreshLoop’s focus on durability, convenience, and patented freshness technology?",
+   "o": [
+    "Retrenchment based on reducing services, closing collection points, and limiting customer availability; this classification explains the basis on which the company intends to compete in its market.",
+    "Unrelated diversification based on entering industries with no connection to reusable food packaging; this classification explains the basis on which the company intends to compete in its market.",
+    "Differentiation based on distinctive durability, convenience, and food-preservation benefits for customers; this classification explains the basis on which the company intends to compete in its market",
+    "Vertical divestment based on selling the patented technology and outsourcing every customer interaction; this classification explains the basis on which the company intends to compete in its market.",
+    "Cost leadership based on offering standardized containers at the lowest possible market price; this classification explains the basis on which the company intends to compete in its market.",
+    "Market withdrawal based on leaving existing customers and ending all deposit-return activities; this classification explains the basis on which the company intends to compete in its market."
+   ],
+   "a": 2,
+   "x": "Competing on unique durability, convenience and patented technology = differentiation."
+  },
+  {
+   "key": "2-31",
+   "set": "Mock set 3",
+   "sec": "Long case · FreshLoop Packaging (Ch 6)",
+   "cs": 3,
+   "skip": 0,
+   "dupOf": null,
+   "q": "How should FreshLoop’s shift from retailer subscriptions to deposit-return services be classified?",
+   "o": [
+    "An intended strategy because it was fully planned before the customer pilots began; this classification explains how experience changed the strategy that the organization actually followed",
+    "A corporate mission because it defines the organization's fundamental purpose and principal stakeholders; this classification explains how experience changed the strategy that the organization actually followed.",
+    "A realized strategy because it emerged from experience and differed from the original plan; this classification explains how experience changed the strategy that the organization actually followed",
+    "A stakeholder map because it classifies external groups according to power and interest; this classification explains how experience changed the strategy that the organization actually followed.",
+    "A functional strategy because it concerns only one department's routine operational responsibilities; this classification explains how experience changed the strategy that the organization actually followed.",
+    "A vision statement because it describes the company's preferred position in the distant future; this classification explains how experience changed the strategy that the organization actually followed."
+   ],
+   "a": 2,
+   "x": "The pattern that emerged from the pilots and differed from the original plan = realized (emergent) strategy."
+  },
+  {
+   "key": "2-32",
+   "set": "Mock set 3",
+   "sec": "Long case · FreshLoop Packaging (Ch 6)",
+   "cs": 3,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which value-chain activity is most directly represented by FreshLoop’s collection points and cleaning hubs?",
+   "o": [
+    "Firm infrastructure involving governance, financial control, legal support, and strategic planning processes; this interpretation shows where the activity contributes directly or indirectly to customer value.",
+    "Operations involving the collection, cleaning, preparation, and recirculation of reusable containers; this interpretation shows where the activity contributes directly or indirectly to customer value",
+    "Human-resource management involving recruitment, training, compensation, and development of company employees; this interpretation shows where the activity contributes directly or indirectly to customer value.",
+    "Marketing and sales involving customer communication, pricing, promotion, and contract development; this interpretation shows where the activity contributes directly or indirectly to customer value.",
+    "Technology development involving research, product design, and improvement of the patented sealing system; this interpretation shows where the activity contributes directly or indirectly to customer value.",
+    "Procurement involving the selection and purchase of raw materials from approved external suppliers; this interpretation shows where the activity contributes directly or indirectly to customer value."
+   ],
+   "a": 1,
+   "x": "Collecting, cleaning and recirculating containers directly produces the service = operations, a primary activity."
+  },
+  {
+   "key": "2-33",
+   "set": "Mock set 3",
+   "sec": "Long case · GreenCity Permits (Ch 11)",
+   "cs": 4,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which Kotter step is represented by presenting waiting-time data and citizen complaints?",
+   "o": [
+    "Building a coalition by selecting influential people who can guide the change together; this classification identifies the early change step that challenges complacency and establishes a reason for action.",
+    "Enlisting volunteers by encouraging a broad group of employees to support implementation; this classification identifies the early change step that challenges complacency and establishes a reason for action.",
+    "Forming a vision by describing the desired future of accessible municipal permit services; this classification identifies the early change step that challenges complacency and establishes a reason for action.",
+    "Generating short-term wins by showing measurable improvement from a limited pilot project; this classification identifies the early change step that challenges complacency and establishes a reason for action.",
+    "Creating urgency by demonstrating why maintaining the current permit process is unacceptable; this classification identifies the early change step that challenges complacency and establishes a reason for action.",
+    "Anchoring change by embedding the portal in recruitment, training, and organizational culture; this classification identifies the early change step that challenges complacency and establishes a reason for action."
+   ],
+   "a": 4,
+   "x": "Using data and complaints to show the current situation is unacceptable = creating a sense of urgency (Kotter step 1)."
+  },
+  {
+   "key": "2-34",
+   "set": "Mock set 3",
+   "sec": "Long case · GreenCity Permits (Ch 11)",
+   "cs": 4,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which part of the case most clearly represents Kotter’s guiding coalition?",
+   "o": [
+    "The measured reduction in processing time produced by the pilot in one district; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change.",
+    "The online portal used by residents to submit documents and monitor permit progress; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change.",
+    "The group of employees, specialists, residents, and IT staff are owners of the change; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change",
+    "The waiting-time information and citizen complaints presented by the department head; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change.",
+    "The national accessibility standards that will become mandatory for municipal digital services; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change.",
+    "The vision describing accessible permit services with continuing human support when required; this interpretation identifies the group responsible for coordinating influence, expertise, and support during change."
+   ],
+   "a": 2,
+   "x": "The mixed group of employees, specialists, residents and IT staff that owns and steers the change = the guiding coalition."
+  },
+  {
+   "key": "2-35",
+   "set": "Mock set 3",
+   "sec": "Long case · GreenCity Permits (Ch 11)",
+   "cs": 4,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which case result should be classified as a short-term win supporting the change?",
+   "o": [
+    "The guiding group's inclusion of residents, specialists, employees, and information-technology staff; this classification connects visible early progress with stronger credibility and continued support for implementation.",
+    "Employees' concern that their administrative experience may become less valuable after digitization; this classification connects visible early progress with stronger credibility and continued support for implementation.",
+    "The pilot's measurable 30 percent reduction in processing time within one district; this classification connects visible early progress with stronger credibility and continued support for implementation.",
+    "The future legal requirement to meet national standards for accessible digital public services; this classification connects visible early progress with stronger credibility and continued support for implementation.",
+    "The long-term vision of accessible permits with continuing human assistance when residents need it; this classification connects visible early progress with stronger credibility and continued support for implementation.",
+    "The department's history of using paper files and offering appointments at municipal offices; this classification connects visible early progress with stronger credibility and continued support for implementation."
+   ],
+   "a": 2,
+   "x": "A measurable, visible early result (30% faster in one district) = a short-term win."
+  },
+  {
+   "key": "3-0",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-0",
+   "q": "Which function of management focuses on defining goals and determining how to achieve them?",
+   "o": [
+    "Organizing",
+    "Planning",
+    "Leading",
+    "Controlling"
+   ],
+   "a": 1,
+   "x": "Planning = setting goals and deciding how to reach them."
+  },
+  {
+   "key": "3-1",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which contemporary trends are most shaping management nowadays?",
+   "o": [
+    "Elimination of technology",
+    "Decline of globalization",
+    "Decrease in innovation",
+    "Focus on diversity and sustainability"
+   ],
+   "a": 3,
+   "x": "The course names diversity (DEI) and sustainability as the trends shaping management today."
+  },
+  {
+   "key": "3-2",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-2",
+   "q": "A manager redesigns the department by grouping related tasks and assigning responsibility for each group to a team leader. Which management function does this best illustrate?",
+   "o": [
+    "Forecasting",
+    "Leading",
+    "Controlling",
+    "Organizing"
+   ],
+   "a": 3,
+   "x": "Grouping tasks and assigning responsibility = designing structure, so organizing."
+  },
+  {
+   "key": "3-3",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-1",
+   "q": "Which statement best reflects the view that management is “the art of getting things done through the efforts of other people”?",
+   "o": [
+    "Managers achieve objectives by coordinating and supporting the work of others.",
+    "Managers contribute mainly by creating formal rules and procedures.",
+    "Managers should personally complete the organization's most important tasks.",
+    "Managers are responsible only for measuring employee performance."
+   ],
+   "a": 0,
+   "x": "Management = reaching goals through other people, so coordinating and supporting their work."
+  },
+  {
+   "key": "3-4",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What are the three critical skills identified by Robert Katz for successful leaders?",
+   "o": [
+    "Management, Communication, and Organizational skills",
+    "Technical, Interpersonal, and Conceptual skills",
+    "Strategic, Tactical, and Operational skills",
+    "Analytical, Emotional, and Practical skills"
+   ],
+   "a": 1,
+   "x": "Katz: technical, interpersonal (human) and conceptual skills."
+  },
+  {
+   "key": "3-5",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "An employee who has positive feelings towards their job, is exhibiting:",
+   "o": [
+    "Introversion",
+    "Conscientiousness",
+    "Agreeableness",
+    "Job satisfaction"
+   ],
+   "a": 3,
+   "x": "Positive feelings toward your job = job satisfaction (a work attitude)."
+  },
+  {
+   "key": "3-6",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-3",
+   "q": "Which is a key job attitude at work?",
+   "o": [
+    "Personality",
+    "Job satisfaction",
+    "Charisma",
+    "Job characteristics"
+   ],
+   "a": 1,
+   "x": "The two key work attitudes are job satisfaction and organizational commitment. Personality and charisma are traits; job characteristics are causes of attitudes."
+  },
+  {
+   "key": "3-7",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-6",
+   "q": "What does an attitude refer to?",
+   "o": [
+    "A learned ability to perform a task",
+    "Our pay and benefits",
+    "Our opinions, beliefs, and feelings about our environment",
+    "A plan we make"
+   ],
+   "a": 2,
+   "x": "An attitude = our opinions, beliefs and feelings about aspects of our environment."
+  },
+  {
+   "key": "3-8",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-2",
+   "q": "What is organizational commitment?",
+   "o": [
+    "Our pay level",
+    "A job task list",
+    "Emotional attachment to the company",
+    "Compliance with organizational rules and policies"
+   ],
+   "a": 2,
+   "x": "Organizational commitment = the emotional attachment people have to the company they work for."
+  },
+  {
+   "key": "3-9",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-4",
+   "q": "Which decision type sets the organization’s course?",
+   "o": [
+    "Strategic",
+    "Tactical",
+    "Programmed",
+    "Operational"
+   ],
+   "a": 0,
+   "x": "Strategic decisions set the organization's long-term course; tactical and operational decisions implement it."
+  },
+  {
+   "key": "3-10",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-12",
+   "q": "A restaurant automatically reorders a standard quantity of ingredients whenever inventory reaches a predetermined level. What type of decision is this?",
+   "o": [
+    "Creative decision",
+    "Programmed decision",
+    "Nonprogrammed decision",
+    "Strategic decision"
+   ],
+   "a": 1,
+   "x": "A routine, recurring decision handled by a fixed rule = programmed decision."
+  },
+  {
+   "key": "3-11",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which is a barrier to effective communication?",
+   "o": [
+    "Lack of attention",
+    "Information overload",
+    "Noise in the environment",
+    "Receiver"
+   ],
+   "a": 1,
+   "x": "Information overload is a communication barrier. Noise and the receiver are components of the process model."
+  },
+  {
+   "key": "3-12",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-9",
+   "q": "Which decision-making model aims for a “satisfactory” outcome?",
+   "o": [
+    "Rational",
+    "Creative",
+    "Intuitive",
+    "Bounded rationality"
+   ],
+   "a": 3,
+   "x": "Bounded rationality leads to satisficing: choosing the first alternative that meets your minimum criteria."
+  },
+  {
+   "key": "3-13",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-5",
+   "q": "Which is a nonverbal communication cue?",
+   "o": [
+    "Text",
+    "Phone call",
+    "Memo",
+    "Facial expressions"
+   ],
+   "a": 3,
+   "x": "Facial expressions are nonverbal. Memos, texts and phone calls use words (verbal or written)."
+  },
+  {
+   "key": "3-14",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "During a management meeting, members with doubts remain silent because they want to preserve agreement with the dominant majority. Which problem is the group experiencing?",
+   "o": [
+    "Groupthink",
+    "Social facilitation",
+    "Brainstorming",
+    "Cognitive diversity"
+   ],
+   "a": 0,
+   "x": "Staying silent to keep group harmony = groupthink."
+  },
+  {
+   "key": "3-15",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-8",
+   "q": "Two employees heard the same announcement. One interprets it as an opportunity, while the other interprets it as a threat because of previous experiences. Which communication barrier best explains the difference?",
+   "o": [
+    "Upward communication",
+    "Formalization",
+    "Channel expansion",
+    "Selective perception"
+   ],
+   "a": 3,
+   "x": "Interpreting the same message differently because of your own experiences and expectations = selective perception."
+  },
+  {
+   "key": "3-16",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-7",
+   "q": "What is a goal?",
+   "o": [
+    "A time-based measurable action",
+    "An outcome statement of what to accomplish",
+    "A company's mission statement",
+    "A detailed strategy plan"
+   ],
+   "a": 1,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "3-17",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-6",
+   "q": "Which goal best satisfies the SMART criteria?",
+   "o": [
+    "Become the industry's most respected company.",
+    "Reduce average customer waiting time from eight to five minutes by 30 June.",
+    "Improve customer service significantly.",
+    "Encourage employees to respond to customers more quickly."
+   ],
+   "a": 1,
+   "x": "Only this goal is specific, measurable (8 → 5 minutes) and time-bound (by 30 June)."
+  },
+  {
+   "key": "3-18",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-17",
+   "q": "What is an objective?",
+   "o": [
+    "A long-term goal that defines direction of the organization",
+    "A general outcome statement",
+    "A broad vision of success",
+    "A precise, time-based, measurable action"
+   ],
+   "a": 3,
+   "x": "An objective is precise, time-based and measurable. The broad outcome statement is a goal."
+  },
+  {
+   "key": "3-19",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-14",
+   "q": "What does Management by Objectives (MBO) aim to do?",
+   "o": [
+    "Align subordinate objectives with overall goals",
+    "Translate mission into measures",
+    "Define the company mission and vision",
+    "Report on social and environmental results"
+   ],
+   "a": 0,
+   "x": "MBO (Drucker) aligns employees' objectives with the organization's overall goals."
+  },
+  {
+   "key": "3-20",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-7",
+   "q": "What is a goal?",
+   "o": [
+    "An outcome statement of what to accomplish",
+    "A time-based measurable action",
+    "A detailed strategy plan",
+    "A company's mission statement"
+   ],
+   "a": 0,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "3-21",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "According to Herzberg’s two-factor theory, which action is most likely to increase motivation by providing a motivator rather than merely improving a hygiene factor?",
+   "o": [
+    "Improving the office temperature",
+    "Clarifying the company's administrative policies",
+    "Giving employees meaningful responsibility for complete projects",
+    "Increasing job security"
+   ],
+   "a": 2,
+   "x": "Meaningful responsibility is a motivator. Policies, office temperature and job security are hygiene factors."
+  },
+  {
+   "key": "3-22",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-9",
+   "q": "In a strongly collectivist culture, which managerial practice is most likely to be effective?",
+   "o": [
+    "Assigning work without considering group membership",
+    "Emphasizing only individual competition and personal recognition",
+    "Connecting rewards and goals to the performance of the group",
+    "Avoiding long-term relationships among team members"
+   ],
+   "a": 2,
+   "x": "Collectivist cultures put the group first, so tie rewards and goals to group performance."
+  },
+  {
+   "key": "3-23",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-20",
+   "q": "What is “power distance” in Hofstede’s model?",
+   "o": [
+    "Acceptance of power and authority differences",
+    "Focus on risk and uncertainty",
+    "Value of work and earnings",
+    "Preference for collective interests over individual ones"
+   ],
+   "a": 0,
+   "x": "Power distance = how much people accept unequal distribution of power and authority."
+  },
+  {
+   "key": "3-24",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-21",
+   "q": "A culture emphasizes persistence, future rewards, and future investment rather than immediate results. Which Hofstede dimension does this describe?",
+   "o": [
+    "Masculinity",
+    "Power distance",
+    "Long-term orientation",
+    "Individualism"
+   ],
+   "a": 2,
+   "x": "Persistence and future rewards over immediate results = long-term orientation."
+  },
+  {
+   "key": "3-25",
+   "set": "Mock set 4",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-18",
+   "q": "A national culture strongly values cooperation, quality of life, and concern for others rather than competition and visible achievement. In Hofstede’s framework, this culture is relatively:",
+   "o": [
+    "Masculine",
+    "Feminine",
+    "High in power distance",
+    "High in uncertainty avoidance"
+   ],
+   "a": 1,
+   "x": "Valuing cooperation and quality of life over competition and achievement = a feminine culture (low masculinity)."
+  },
+  {
+   "key": "3-26",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A financial-services company faces new regulations concerning artificial intelligence and growing customer concern about automated decisions. A manager with extensive AI knowledge explains the technical risks to senior leaders and consults employees who will use the systems before recommending procedural changes. Which pair of leadership concepts is demonstrated by the manager?",
+   "o": [
+    "Expert power and people-oriented leadership based on knowledge and consultation",
+    "Legitimate power and task-oriented leadership based on position and deadlines",
+    "Reward power and laissez-faire leadership based on incentives and employee independence",
+    "Referent power and democratic leadership based on admiration and formal voting"
+   ],
+   "a": 0,
+   "x": "Influence from AI knowledge = expert power. Consulting the employees who will use the systems = people-oriented."
+  },
+  {
+   "key": "3-27",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Severe flooding interrupts a company’s main supply route. The logistics director has formal authority to activate an emergency sourcing plan. She also relies on a climate-risk specialist whose knowledge helps the company evaluate more resilient and sustainable suppliers. Which pair correctly identifies the sources of power in the case?",
+   "o": [
+    "Reward power from the director and referent power from the specialist",
+    "Referent power from the director and coercive power from the specialist",
+    "Expert power from the director and legitimate power from the specialist",
+    "Legitimate power from the director and expert power from the specialist"
+   ],
+   "a": 3,
+   "x": "Formal authority = legitimate power (director). Specialist knowledge = expert power (specialist)."
+  },
+  {
+   "key": "3-28",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-6",
+   "q": "A manufacturer is replacing a polluting production process with cleaner technology. The operations director defines conversion targets, assigns responsibilities, and monitors deadlines. She also invites employees from different backgrounds and job levels to discuss how the change may affect them and adapt the training accordingly. Which description best summarizes the director’s leadership behavior?",
+   "o": [
+    "Task-oriented and autocratic leadership emphasizing targets and centralized managerial control",
+    "People-oriented and democratic leadership emphasizing consultation without formal performance targets",
+    "Laissez-faire and people-oriented leadership allowing employees to direct implementation independently",
+    "Task-oriented and people-oriented leadership balancing targets with employee inclusion"
+   ],
+   "a": 3,
+   "x": "Targets, responsibilities and deadlines = task-oriented. Inviting employees and adapting training = people-oriented. She does both."
+  },
+  {
+   "key": "3-29",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-10",
+   "q": "A cybersecurity specialist influences an executive team because of her knowledge and experience, although she has no formal managerial position. Which source of power explains her influence?",
+   "o": [
+    "Coercive power",
+    "Expert power",
+    "Reward power",
+    "Legitimate power"
+   ],
+   "a": 1,
+   "x": "Influence from knowledge and experience without a formal position = expert power."
+  },
+  {
+   "key": "3-30",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A nonprofit director learns that employees performing comparable work are paid differently across gender and ethnic groups. She openly acknowledges the problem, publishes the review method, corrects the pay gaps, and asks employees what support they need for future development. She accepts personal responsibility for maintaining fair practices. Which description best explains the director’s leadership styles?",
+   "o": [
+    "Charismatic and transformational leadership connecting personal influence with an inspiring vision",
+    "Authentic and servant leadership combining transparency for employees",
+    "Values-based and autocratic leadership combining organizational principles with centralized decisions",
+    "Transactional and ethical leadership linking fair treatment mainly to performance rewards"
+   ],
+   "a": 1,
+   "x": "Openly acknowledging the problem and taking responsibility = authentic. Asking what employees need to develop = servant leadership."
+  },
+  {
+   "key": "3-31",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "New international regulations require companies to explain automated hiring decisions. Public concern about discrimination is also increasing. A technology leader commissions independent bias audits, publishes the results, and sets a strategic goal to develop transparent and inclusive AI products. Which interpretation best explains the company’s leadership response?",
+   "o": [
+    "Servant leadership develops employees while leaving the automated system strategically unchanged",
+    "Authentic and charismatic leadership emphasizes personal identity and persuasive public communication",
+    "Ethical and transformational leadership connects transparency with inclusive strategic innovation",
+    "Transactional leadership maintains existing products through rewards linked to regulatory compliance"
+   ],
+   "a": 2,
+   "x": "Independent audits and publishing results = ethical. A strategic goal for transparent, inclusive innovation = transformational."
+  },
+  {
+   "key": "3-32",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A fashion retailer discovers that a low-cost supplier has unsafe working conditions and causes serious environmental damage. The CEO ends the contract despite the short-term cost. She communicates a vision of a fair, low-carbon supply chain and invites employees to redesign sourcing practices. Which description best explains the CEO’s leadership response?",
+   "o": [
+    "Transactional and servant leadership linking supplier decisions to rewards and employee development",
+    "Authentic and laissez-faire leadership expressing personal values while limiting organizational direction",
+    "Charismatic and transactional leadership using personal influence and performance-based exchanges",
+    "Ethical and transformational leadership protecting stakeholders while communicating a new vision"
+   ],
+   "a": 3,
+   "x": "Ending the contract to protect workers and the environment = ethical. A new vision plus involving employees = transformational."
+  },
+  {
+   "key": "3-33",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "New equality legislation strengthens protection for gender identity and sexual orientation. At the same time, qualified applicants increasingly expect remote and flexible work. A consulting company revises its inclusion policies, trains managers, and creates virtual teams that recruit talent from a wider geographic area. Which interpretation best explains the company’s organizational response?",
+   "o": [
+    "Economic pressures encourage divisional structures and standardized recruitment across all locations",
+    "Legal and sociocultural pressures encourage inclusive policies and geographically flexible virtual structures",
+    "Technological pressures encourage matrix structures and specialist recruitment within one location",
+    "Internal workforce pressures encourage functional structures and locally restricted recruitment practices"
+   ],
+   "a": 1,
+   "x": "New law = legal pressure; applicants expecting remote work = sociocultural. The response: inclusive policies and virtual teams."
+  },
+  {
+   "key": "3-34",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Growing demand for reusable products leads a furniture company to collaborate with repair businesses, recycling firms, and design startups. Teams from these organizations share knowledge and coordinate activities without being placed inside one traditional hierarchy. Which interpretation best describes the company’s strategic response?",
+   "o": [
+    "A geographic structure supports regional independence in response to changing national regulations",
+    "A networked structure supports external collaboration in response to the circular-economy trend",
+    "A divisional structure supports product independence in response to changing customer segments",
+    "A functional structure supports internal specialization in response to changing professional standards"
+   ],
+   "a": 1,
+   "x": "Collaborating with outside firms without one hierarchy = network (virtual) structure, responding to the circular-economy trend."
+  },
+  {
+   "key": "3-35",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A company displays diversity statements throughout its offices and lists inclusion as a core value. However, managers repeatedly promote employees who share the same background and dismiss reports of biased behavior. Employees conclude that the organization’s actual priorities differ from its public message. Which cultural levels are represented by the statements and promotion patterns?",
+   "o": [
+    "External environmental forces in the statements, with espoused values in repeated decisions",
+    "Underlying assumptions in the statements, with visible artifacts in repeated decisions",
+    "Artifacts and espoused values in the statements, with underlying assumptions in repeated decisions",
+    "Organizational structures in the statements, with external pressures in repeated decisions"
+   ],
+   "a": 2,
+   "x": "Displayed statements are artifacts and espoused values. What managers repeatedly do reveals the real underlying assumptions."
+  },
+  {
+   "key": "3-36",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "A newly diverse project team initially experiences disagreement about priorities and communication styles. Instead of removing members who disagree, the leader helps the team establish decision rules, clarify roles, and develop norms that ensure every member can contribute. Trust and cohesion begin to increase. Which two team-development stages are represented in sequence?",
+   "o": [
+    "Performing followed by adjourning as initial conflict gives way to role clarification",
+    "Norming followed by performing as shared expectations give way to initial conflict",
+    "Forming followed by storming as members first meet and then avoid disagreement",
+    "Storming followed by norming as disagreement gives way to shared expectations"
+   ],
+   "a": 3,
+   "x": "Disagreement about priorities = storming. Agreeing on rules, roles and norms = norming."
+  },
+  {
+   "key": "3-37",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-29",
+   "q": "A shift toward hybrid work leads a company to add remote specialists from several countries to an established product team. The team leader notices uncertainty about roles, technology, and meeting expectations. She schedules orientation sessions and helps members rebuild shared working agreements. Which two team-development stages best match the change described?",
+   "o": [
+    "Forming after adding members, followed by norming as shared agreements develop",
+    "Performing after adding members, followed by storming as role expectations become clear",
+    "Norming after adding members, followed by adjourning after agreements are established",
+    "Storming after adding members, followed by performing after the first orientation session"
+   ],
+   "a": 0,
+   "x": "New members restart the team at forming (uncertainty about roles); rebuilding shared working agreements = norming."
+  },
+  {
+   "key": "3-38",
+   "set": "Mock set 4",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-28",
+   "q": "A travel company plans sustainable services for a rapidly growing international market. Its project team includes members with different cultural backgrounds and professional expertise. The team also consults local community leaders, environmental experts, and industry partners to understand emerging expectations and opportunities. Which interpretation best explains the factors strengthening the response?",
+   "o": [
+    "Centralized expertise broadens international insight, while closed networking identifies future partnership opportunities",
+    "Cultural similarity broadens sustainability insight, while personal networking identifies future regulatory developments",
+    "Professional similarity broadens customer insight, while operational networking identifies future market developments",
+    "Team diversity broadens market insight, while strategic networking identifies future trends and opportunities"
+   ],
+   "a": 3,
+   "x": "Diverse members broaden insight; consulting outside leaders and experts about future trends = strategic networking."
+  },
+  {
+   "key": "3-39",
+   "set": "Mock set 4",
+   "sec": "Long case · UrbanStay Hotels (Ch 6)",
+   "cs": 5,
+   "skip": 0,
+   "dupOf": null,
+   "q": "How should the regional managers’ successful monthly packages be classified relative to the original discount plan?",
+   "o": [
+    "A functional strategy because the packages concern only maintenance procedures within individual hotel buildings; this classification distinguishes management's original plan from the pattern produced through organizational learning.",
+    "A mission statement because the packages redefine the organization's enduring purpose and stakeholders; this classification distinguishes management's original plan from the pattern produced through organizational learning.",
+    "An intended strategy because the packages were the original approach approved before local testing; this classification distinguishes management's original plan from the pattern produced through organizational learning.",
+    "A realized strategy because local experiments produced a different successful pattern of action; this classification distinguishes management's original plan from the pattern produced through organizational learning.",
+    "A corporate strategy because the packages automatically move UrbanStay into an unrelated industry; this classification distinguishes management's original plan from the pattern produced through organizational learning.",
+    "A stakeholder analysis because the packages classify remote professionals by power and organizational interest; this classification distinguishes management's original plan from the pattern produced through organizational learning"
+   ],
+   "a": 3,
+   "x": "The successful pattern that emerged locally and replaced the plan = realized strategy."
+  },
+  {
+   "key": "3-40",
+   "set": "Mock set 4",
+   "sec": "Long case · UrbanStay Hotels (Ch 6)",
+   "cs": 5,
+   "skip": 0,
+   "dupOf": null,
+   "q": "In a SWOT analysis, growing demand for extended work-from-anywhere stays is classified as what?",
+   "o": [
+    "A weakness because it is an internal limitation reducing the efficiency of hotel operations; this interpretation separates an external growth possibility from internal capabilities and environmental risks.",
+    "An opportunity because it is an external trend that UrbanStay can use for growth; this interpretation separates an external growth possibility from internal capabilities and environmental risks.",
+    "A core competence because it is a coordinated organizational capability that competitors cannot copy; this interpretation separates an external growth possibility from internal capabilities and environmental risks",
+    "A strength because it is an internal capability already controlled and protected by UrbanStay; this interpretation separates an external growth possibility from internal capabilities and environmental risks.",
+    "A value-chain activity because it is a process performed directly within UrbanStay's operations; this interpretation separates an external growth possibility from internal capabilities and environmental risks.",
+    "A threat because it is an external development that necessarily reduces demand for accommodation; this interpretation separates an external growth possibility from internal capabilities and environmental risks."
+   ],
+   "a": 1,
+   "x": "An external trend the company can use for growth = opportunity."
+  },
+  {
+   "key": "3-41",
+   "set": "Mock set 4",
+   "sec": "Long case · UrbanStay Hotels (Ch 6)",
+   "cs": 5,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which revised vision best describes an aspirational future for UrbanStay?",
+   "o": [
+    "UrbanStay operates hotels in business districts and maintains relationships with corporate travel departments; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities.",
+    "UrbanStay aims to become Europe's leading home for flexible and sustainable mobile professionals; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities.",
+    "UrbanStay provides dependable rooms and workspaces to current business and leisure travelers; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities.",
+    "UrbanStay follows legal standards for safety, employment, data protection, and environmental reporting; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities.",
+    "UrbanStay renovates meeting rooms, monitors energy use, and develops monthly accommodation packages; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities.",
+    "UrbanStay serves guests who currently require accommodation, workspaces, and local community activities; this wording distinguishes a desired future position from present purpose, activities, and compliance responsibilities."
+   ],
+   "a": 1,
+   "x": "A vision is aspirational and about the future: 'aims to become Europe's leading home…'. The others describe present activities or compliance."
+  },
+  {
+   "key": "3-42",
+   "set": "Mock set 4",
+   "sec": "Long case · CareConnect Hospital (Ch 11)",
+   "cs": 6,
+   "skip": 1,
+   "dupOf": null,
+   "q": "In Schein’s model, the belief that paper records are inherently safer is best classified as what?",
+   "o": [
+    "An espoused strategy because the belief is the hospital's formally published competitive plan; this interpretation locates the belief at the appropriate level of Schein's organizational culture model.",
+    "An underlying assumption because the belief is deeply taken for granted by experienced staff; this interpretation locates the belief at the appropriate level of Schein's organizational culture model",
+    "A visible artifact because the belief is a physical and directly observable feature of the hospital; this interpretation locates the belief at the appropriate level of Schein's organizational culture model.",
+    "A short-term win because the belief provides measurable evidence that the change is succeeding; this interpretation locates the belief at the appropriate level of Schein's organizational culture model.",
+    "A functional structure because the belief determines how specialist departments report to management; this interpretation locates the belief at the appropriate level of Schein's organizational culture model."
+   ],
+   "a": 1,
+   "x": "A deeply taken-for-granted belief = underlying assumption, the deepest level of culture."
+  },
+  {
+   "key": "3-43",
+   "set": "Mock set 4",
+   "sec": "Long case · CareConnect Hospital (Ch 11)",
+   "cs": 6,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which action most clearly represents Lewin’s refreezing stage?",
+   "o": [
+    "Embedding electronic documentation in job descriptions, audits, and performance reviews; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines",
+    "Providing initial training while employees are still learning the unfamiliar electronic procedures; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines.",
+    "Explaining why fragmented paper records create safety risks and unnecessary duplicated medical tests; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines.",
+    "Comparing software suppliers before management selects the electronic system for the hospital; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines.",
+    "Asking employees to discuss concerns before the first electronic-record pilot begins; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines.",
+    "Testing the electronic system in one department and revising the workflow during implementation; this classification identifies how new behavior becomes stabilized through formal systems, expectations, and routines."
+   ],
+   "a": 0,
+   "x": "Embedding the behaviour in job descriptions, audits and reviews makes it permanent = refreezing."
+  },
+  {
+   "key": "3-44",
+   "set": "Mock set 4",
+   "sec": "Long case · CareConnect Hospital (Ch 11)",
+   "cs": 6,
+   "skip": 0,
+   "dupOf": null,
+   "q": "How should employees who attend training but secretly continue using paper records be classified?",
+   "o": [
+    "Creative participation because they formally test alternatives and share results with the implementation team; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment.",
+    "Active support because they openly encourage colleagues to use the electronic system consistently; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment.",
+    "Passive resistance because they appear compliant but privately continue the previous behavior; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment",
+    "Enthusiastic adoption because they use the system beyond the minimum expectations of their roles; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment.",
+    "Commitment because they personally invest additional effort in making the new workflow successful; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment.",
+    "Active resistance because they organize visible protests and publicly reject management's authority; this interpretation distinguishes concealed noncompliance from open opposition, acceptance, and active commitment."
+   ],
+   "a": 2,
+   "x": "Looking compliant while quietly keeping the old behaviour = passive resistance."
+  },
+  {
+   "key": "4-0",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-2",
+   "q": "A manager redesigns the department by grouping related tasks and assigning responsibility for each group to a team leader. Which management function does this best illustrate?",
+   "o": [
+    "Organizing",
+    "Leading",
+    "Forecasting",
+    "Controlling"
+   ],
+   "a": 0,
+   "x": "Grouping tasks and assigning responsibility = designing structure, so organizing."
+  },
+  {
+   "key": "4-1",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-4",
+   "q": "What are the three critical skills identified by Robert Katz for successful leaders?",
+   "o": [
+    "Strategic, Tactical, and Operational skills",
+    "Technical, Interpersonal, and Conceptual skills",
+    "Management, Communication, and Organizational skills",
+    "Analytical, Emotional, and Practical skills"
+   ],
+   "a": 1,
+   "x": "Katz: technical, interpersonal (human) and conceptual skills."
+  },
+  {
+   "key": "4-2",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-1",
+   "q": "Which statement best reflects the view that management is “the art of getting things done through the efforts of other people”?",
+   "o": [
+    "Managers contribute mainly by creating formal rules and procedures.",
+    "Managers should personally complete the organization's most important tasks.",
+    "Managers achieve objectives by coordinating and supporting the work of others.",
+    "Managers are responsible only for measuring employee performance."
+   ],
+   "a": 2,
+   "x": "Management = reaching goals through other people, so coordinating and supporting their work."
+  },
+  {
+   "key": "4-3",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-1",
+   "q": "Which contemporary trends are most shaping management nowadays?",
+   "o": [
+    "Decrease in innovation",
+    "Focus on diversity and sustainability",
+    "Decline of globalization",
+    "Elimination of technology"
+   ],
+   "a": 1,
+   "x": "The course names diversity (DEI) and sustainability as the trends shaping management today."
+  },
+  {
+   "key": "4-4",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "According to Mintzberg, which role is part of the interpersonal category?",
+   "o": [
+    "Figurehead",
+    "Monitor",
+    "Disturbance handler",
+    "Spokesperson"
+   ],
+   "a": 0,
+   "x": "Interpersonal roles: figurehead, leader, liaison. Monitor and spokesperson are informational; disturbance handler is decisional."
+  },
+  {
+   "key": "4-5",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-2",
+   "q": "What is organizational commitment?",
+   "o": [
+    "A job task list",
+    "Emotional attachment to the company",
+    "Our pay level",
+    "Compliance with organizational rules and policies"
+   ],
+   "a": 1,
+   "x": "Organizational commitment = the emotional attachment people have to the company they work for."
+  },
+  {
+   "key": "4-6",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-3",
+   "q": "Which is a key job attitude at work?",
+   "o": [
+    "Personality",
+    "Charisma",
+    "Job characteristics",
+    "Job satisfaction"
+   ],
+   "a": 3,
+   "x": "The two key work attitudes are job satisfaction and organizational commitment. Personality and charisma are traits; job characteristics are causes of attitudes."
+  },
+  {
+   "key": "4-7",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-6",
+   "q": "What does an attitude refer to?",
+   "o": [
+    "Our pay and benefits",
+    "Our opinions, beliefs, and feelings about our environment",
+    "A learned ability to perform a task",
+    "A plan we make"
+   ],
+   "a": 1,
+   "x": "An attitude = our opinions, beliefs and feelings about aspects of our environment."
+  },
+  {
+   "key": "4-8",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-3",
+   "q": "Which job characteristic links to satisfaction?",
+   "o": [
+    "Personality",
+    "Organizational justice",
+    "Stress",
+    "Autonomy at work"
+   ],
+   "a": 3,
+   "x": "Autonomy is a job characteristic (with skill variety, feedback and task significance). Justice and stress are other causes of attitudes, and personality is not a feature of the job."
+  },
+  {
+   "key": "4-9",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-4",
+   "q": "Which decision type sets the organization’s course?",
+   "o": [
+    "Operational",
+    "Strategic",
+    "Programmed",
+    "Tactical"
+   ],
+   "a": 1,
+   "x": "Strategic decisions set the organization's long-term course; tactical and operational decisions implement it."
+  },
+  {
+   "key": "4-10",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-11",
+   "q": "Which is a component of the communication process?",
+   "o": [
+    "Filtering",
+    "Message",
+    "Strategic decision",
+    "Creativity"
+   ],
+   "a": 1,
+   "x": "The message is part of the process (sender, message, channel, receiver, noise, feedback). Filtering is a barrier."
+  },
+  {
+   "key": "4-11",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-4",
+   "q": "A manager must communicate a sensitive restructuring decision, answer employees’ questions, and observe their reactions immediately. Which communication channel is most appropriate?",
+   "o": [
+    "A face-to-face meeting",
+    "A notice on the staff portal",
+    "A prerecorded audio message",
+    "A standard monthly report"
+   ],
+   "a": 0,
+   "x": "A sensitive message where you must answer questions and see reactions needs the richest channel: face to face."
+  },
+  {
+   "key": "4-12",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-9",
+   "q": "Which decision-making model aims for a “satisfactory” outcome?",
+   "o": [
+    "Intuitive",
+    "Rational",
+    "Creative",
+    "Bounded rationality"
+   ],
+   "a": 3,
+   "x": "Bounded rationality leads to satisficing: choosing the first alternative that meets your minimum criteria."
+  },
+  {
+   "key": "4-13",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-5",
+   "q": "Which is a nonverbal communication cue?",
+   "o": [
+    "Text",
+    "Phone call",
+    "Facial expressions",
+    "Memo"
+   ],
+   "a": 2,
+   "x": "Facial expressions are nonverbal. Memos, texts and phone calls use words (verbal or written)."
+  },
+  {
+   "key": "4-14",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-14",
+   "q": "During a management meeting, members with doubts remain silent because they want to preserve agreement with the dominant majority. Which problem is the group experiencing?",
+   "o": [
+    "Social facilitation",
+    "Cognitive diversity",
+    "Brainstorming",
+    "Groupthink"
+   ],
+   "a": 3,
+   "x": "Staying silent to keep group harmony = groupthink."
+  },
+  {
+   "key": "4-15",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-11",
+   "q": "Which is a barrier to effective communication?",
+   "o": [
+    "Lack of attention",
+    "Information overload",
+    "Receiver",
+    "Noise in the environment"
+   ],
+   "a": 1,
+   "x": "Information overload is a communication barrier. Noise and the receiver are components of the process model."
+  },
+  {
+   "key": "4-16",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-17",
+   "q": "What is an objective?",
+   "o": [
+    "A general outcome statement",
+    "A long-term goal that defines direction of the organization",
+    "A broad vision of success",
+    "A precise, time-based, measurable action"
+   ],
+   "a": 3,
+   "x": "An objective is precise, time-based and measurable. The broad outcome statement is a goal."
+  },
+  {
+   "key": "4-17",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-15",
+   "q": "What does the Balanced Scorecard do?",
+   "o": [
+    "Turns mission and strategy into measurable goals and tracks them",
+    "Describes values for employee behavior",
+    "Lists only financial targets for the year",
+    "Sets individual pay levels"
+   ],
+   "a": 0,
+   "x": "It translates mission and strategy into measurable goals in four perspectives and tracks them."
+  },
+  {
+   "key": "4-18",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-7",
+   "q": "What is a goal?",
+   "o": [
+    "An outcome statement of what to accomplish",
+    "A time-based measurable action",
+    "A company's mission statement",
+    "A detailed strategy plan"
+   ],
+   "a": 0,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "4-19",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-7",
+   "q": "What is a goal?",
+   "o": [
+    "A detailed strategy plan",
+    "A company's mission statement",
+    "A time-based measurable action",
+    "An outcome statement of what to accomplish"
+   ],
+   "a": 3,
+   "x": "A goal is an outcome statement of what you want to accomplish. An objective is the precise, time-based, measurable action."
+  },
+  {
+   "key": "4-20",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-21",
+   "q": "According to Herzberg’s two-factor theory, which action is most likely to increase motivation by providing a motivator rather than merely improving a hygiene factor?",
+   "o": [
+    "Clarifying the company's administrative policies",
+    "Increasing job security",
+    "Giving employees meaningful responsibility for complete projects",
+    "Improving the office temperature"
+   ],
+   "a": 2,
+   "x": "Meaningful responsibility is a motivator. Policies, office temperature and job security are hygiene factors."
+  },
+  {
+   "key": "4-21",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-6",
+   "q": "Which goal best satisfies the SMART criteria?",
+   "o": [
+    "Improve customer service significantly.",
+    "Become the industry's most respected company.",
+    "Encourage employees to respond to customers more quickly.",
+    "Reduce average customer waiting time from eight to five minutes by 30 June."
+   ],
+   "a": 3,
+   "x": "Only this goal is specific, measurable (8 → 5 minutes) and time-bound (by 30 June)."
+  },
+  {
+   "key": "4-22",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-8",
+   "q": "A company enters a foreign market by creating a new business that it owns together with a local company. Which global expansion strategy is this?",
+   "o": [
+    "Licensing",
+    "Wholly owned subsidiary",
+    "Exporting",
+    "Joint venture"
+   ],
+   "a": 3,
+   "x": "A new business owned together with a local firm = joint venture."
+  },
+  {
+   "key": "4-23",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "What does GLOBE stand for?",
+   "o": [
+    "Global Leadership and Organizational Business Environment",
+    "Global Leadership and Organizational Behavior Effectiveness",
+    "Global Learning and Organizational Behavior Evaluation",
+    "Global Leadership and Operations Benchmarking Exercise"
+   ],
+   "a": 1,
+   "x": "GLOBE = Global Leadership and Organizational Behavior Effectiveness."
+  },
+  {
+   "key": "4-24",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-20",
+   "q": "What is “power distance” in Hofstede’s model?",
+   "o": [
+    "Preference for collective interests over individual ones",
+    "Focus on risk and uncertainty",
+    "Value of work and earnings",
+    "Acceptance of power and authority differences"
+   ],
+   "a": 3,
+   "x": "Power distance = how much people accept unequal distribution of power and authority."
+  },
+  {
+   "key": "4-25",
+   "set": "Mock set 5",
+   "sec": "Multiple choice",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-9",
+   "q": "In a strongly collectivist culture, which managerial practice is most likely to be effective?",
+   "o": [
+    "Emphasizing only individual competition and personal recognition",
+    "Avoiding long-term relationships among team members",
+    "Assigning work without considering group membership",
+    "Connecting rewards and goals to the performance of the group"
+   ],
+   "a": 3,
+   "x": "Collectivist cultures put the group first, so tie rewards and goals to group performance."
+  },
+  {
+   "key": "4-26",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Employees willingly support a team leader because they admire and identify with him. Which source of power is primarily illustrated?",
+   "o": [
+    "Legitimate power",
+    "Reward power",
+    "Referent power",
+    "Coercive power"
+   ],
+   "a": 2,
+   "x": "Support based on admiration and identification = referent power."
+  },
+  {
+   "key": "4-27",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-27",
+   "q": "Severe flooding interrupts a company’s main supply route. The logistics director has formal authority to activate an emergency sourcing plan. She also relies on a climate-risk specialist whose knowledge helps the company evaluate more resilient and sustainable suppliers. Which pair correctly identifies the sources of power in the case?",
+   "o": [
+    "Referent power from the director and coercive power from the specialist",
+    "Reward power from the director and referent power from the specialist",
+    "Legitimate power from the director and expert power from the specialist",
+    "Expert power from the director and legitimate power from the specialist"
+   ],
+   "a": 2,
+   "x": "Formal authority = legitimate power (director). Specialist knowledge = expert power (specialist)."
+  },
+  {
+   "key": "4-28",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Competitors are rapidly introducing low-carbon products, and investors expect measurable emission reductions. A production manager sets departmental carbon targets and links part of the team bonus to achieving them. She also holds regular discussions about the skills and resources employees need to meet the new expectations. Which combination of leadership mechanisms appears in the case?",
+   "o": [
+    "Reward power with task-oriented targets and people-oriented employee support",
+    "Referent power with autocratic targets and task-oriented employee support",
+    "Legitimate power with laissez-faire targets and coercive employee support",
+    "Coercive power with people-oriented targets and laissez-faire employee support"
+   ],
+   "a": 0,
+   "x": "Linking part of the bonus = reward power. Carbon targets = task-oriented. Discussing skills and resources employees need = people-oriented."
+  },
+  {
+   "key": "4-29",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "0-6",
+   "q": "A manufacturer is replacing a polluting production process with cleaner technology. The operations director defines conversion targets, assigns responsibilities, and monitors deadlines. She also invites employees from different backgrounds and job levels to discuss how the change may affect them and adapt the training accordingly. Which description best summarizes the director’s leadership behavior?",
+   "o": [
+    "Laissez-faire and people-oriented leadership allowing employees to direct implementation independently",
+    "Task-oriented and people-oriented leadership balancing targets with employee inclusion",
+    "People-oriented and democratic leadership emphasizing consultation without formal performance targets",
+    "Task-oriented and autocratic leadership emphasizing targets and centralized managerial control"
+   ],
+   "a": 1,
+   "x": "Targets, responsibilities and deadlines = task-oriented. Inviting employees and adapting training = people-oriented. She does both."
+  },
+  {
+   "key": "4-30",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-32",
+   "q": "A fashion retailer discovers that a low-cost supplier has unsafe working conditions and causes serious environmental damage. The CEO ends the contract despite the short-term cost. She communicates a vision of a fair, low-carbon supply chain and invites employees to redesign sourcing practices. Which description best explains the CEO’s leadership response?",
+   "o": [
+    "Authentic and laissez-faire leadership expressing personal values while limiting organizational direction",
+    "Transactional and servant leadership linking supplier decisions to rewards and employee development",
+    "Ethical and transformational leadership protecting stakeholders while communicating a new vision",
+    "Charismatic and transactional leadership using personal influence and performance-based exchanges"
+   ],
+   "a": 2,
+   "x": "Ending the contract to protect workers and the environment = ethical. A new vision plus involving employees = transformational."
+  },
+  {
+   "key": "4-31",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-31",
+   "q": "New international regulations require companies to explain automated hiring decisions. Public concern about discrimination is also increasing. A technology leader commissions independent bias audits, publishes the results, and sets a strategic goal to develop transparent and inclusive AI products. Which interpretation best explains the company’s leadership response?",
+   "o": [
+    "Servant leadership develops employees while leaving the automated system strategically unchanged",
+    "Ethical and transformational leadership connects transparency with inclusive strategic innovation",
+    "Authentic and charismatic leadership emphasizes personal identity and persuasive public communication",
+    "Transactional leadership maintains existing products through rewards linked to regulatory compliance"
+   ],
+   "a": 1,
+   "x": "Independent audits and publishing results = ethical. A strategic goal for transparent, inclusive innovation = transformational."
+  },
+  {
+   "key": "4-32",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-30",
+   "q": "A nonprofit director learns that employees performing comparable work are paid differently across gender and ethnic groups. She openly acknowledges the problem, publishes the review method, corrects the pay gaps, and asks employees what support they need for future development. She accepts personal responsibility for maintaining fair practices. Which description best explains the director’s leadership styles?",
+   "o": [
+    "Charismatic and transformational leadership connecting personal influence with an inspiring vision",
+    "Transactional and ethical leadership linking fair treatment mainly to performance rewards",
+    "Authentic and servant leadership combining transparency for employees",
+    "Values-based and autocratic leadership combining organizational principles with centralized decisions"
+   ],
+   "a": 2,
+   "x": "Openly acknowledging the problem and taking responsibility = authentic. Asking what employees need to develop = servant leadership."
+  },
+  {
+   "key": "4-33",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-33",
+   "q": "New equality legislation strengthens protection for gender identity and sexual orientation. At the same time, qualified applicants increasingly expect remote and flexible work. A consulting company revises its inclusion policies, trains managers, and creates virtual teams that recruit talent from a wider geographic area. Which interpretation best explains the company’s organizational response?",
+   "o": [
+    "Technological pressures encourage matrix structures and specialist recruitment within one location",
+    "Internal workforce pressures encourage functional structures and locally restricted recruitment practices",
+    "Economic pressures encourage divisional structures and standardized recruitment across all locations",
+    "Legal and sociocultural pressures encourage inclusive policies and geographically flexible virtual structures"
+   ],
+   "a": 3,
+   "x": "New law = legal pressure; applicants expecting remote work = sociocultural. The response: inclusive policies and virtual teams."
+  },
+  {
+   "key": "4-34",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-27",
+   "q": "A food company operates in regions facing different climate risks and environmental rules. It reorganizes its operations into geographic divisions so that the managers can adapt sourcing, products, and sustainability practices to local conditions. Which interpretation best explains the organizational change?",
+   "o": [
+    "External natural and legal pressures encourage a geographic structure tailored to regional conditions",
+    "External competitive pressures encourage a divisional structure tailored to separate product lines",
+    "Internal cultural pressures encourage a functional structure tailored to specialist occupations",
+    "Internal technological pressures encourage a matrix structure tailored to temporary projects"
+   ],
+   "a": 0,
+   "x": "Climate risks (natural) and environmental rules (legal) are external pressures; reorganizing by region = geographic structure."
+  },
+  {
+   "key": "4-35",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "1-13",
+   "q": "An electronics company creates teams to design energy-efficient products for customers with different physical abilities. Engineers remain members of specialist departments but also report to product managers. Each team includes employees with varied professional, cultural, and personal backgrounds. Which combination of organizational concepts appears in the case?",
+   "o": [
+    "Functional structure with specialization and a professionally uniform product team",
+    "Geographic structure with regional authority and a culturally uniform product team",
+    "Matrix structure with dual reporting and a professionally diverse product team",
+    "Virtual structure with remote coordination and a geographically uniform product team"
+   ],
+   "a": 2,
+   "x": "Reporting to a specialist department and a product manager at once = matrix (dual reporting). Varied backgrounds = a diverse team."
+  },
+  {
+   "key": "4-36",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Rapid e-commerce growth and new carbon standards are changing logistics. A manager works with warehouse supervisors, suppliers, and transport providers to meet current targets. She also builds relationships with regulators, sustainability experts, and potential technology partners to anticipate future developments. Which two network types are represented in the case?",
+   "o": [
+    "A strategic network for current coordination and a personal network for future developments",
+    "A personal network for current coordination and a closed network for future developments",
+    "An operational network for current coordination and a strategic network for future developments",
+    "A personal network for current coordination and an operational network for future developments"
+   ],
+   "a": 2,
+   "x": "Contacts for current targets = operational network. Contacts to anticipate the future = strategic network."
+  },
+  {
+   "key": "4-37",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "2-29",
+   "q": "A shift toward hybrid work leads a company to add remote specialists from several countries to an established product team. The team leader notices uncertainty about roles, technology, and meeting expectations. She schedules orientation sessions and helps members rebuild shared working agreements. Which two team-development stages best match the change described?",
+   "o": [
+    "Forming after adding members, followed by norming as shared agreements develop",
+    "Performing after adding members, followed by storming as role expectations become clear",
+    "Norming after adding members, followed by adjourning after agreements are established",
+    "Storming after adding members, followed by performing after the first orientation session"
+   ],
+   "a": 0,
+   "x": "New members restart the team at forming (uncertainty about roles); rebuilding shared working agreements = norming."
+  },
+  {
+   "key": "4-38",
+   "set": "Mock set 5",
+   "sec": "Mini cases",
+   "cs": -1,
+   "skip": 0,
+   "dupOf": "3-36",
+   "q": "A newly diverse project team initially experiences disagreement about priorities and communication styles. Instead of removing members who disagree, the leader helps the team establish decision rules, clarify roles, and develop norms that ensure every member can contribute. Trust and cohesion begin to increase. Which two team-development stages are represented in sequence?",
+   "o": [
+    "Forming followed by storming as members first meet and then avoid disagreement",
+    "Performing followed by adjourning as initial conflict gives way to role clarification",
+    "Storming followed by norming as disagreement gives way to shared expectations",
+    "Norming followed by performing as shared expectations give way to initial conflict"
+   ],
+   "a": 2,
+   "x": "Disagreement about priorities = storming. Agreeing on rules, roles and norms = norming."
+  },
+  {
+   "key": "4-39",
+   "set": "Mock set 5",
+   "sec": "Long case · NorthSea Foods (Ch 6)",
+   "cs": 7,
+   "skip": 0,
+   "dupOf": null,
+   "q": "How should the high-share plant-based brand in a high-growth market be classified in the BCG Matrix?",
+   "o": [
+    "A question mark because it has low market share within a rapidly growing product category; this classification indicates the investment role the brand is expected to play within the portfolio.",
+    "A cash cow because it has high market share within a mature, slow-growing product category; this classification indicates the investment role the brand is expected to play within the portfolio.",
+    "A dog because it has low market share within a mature, slow-growing product category; this classification indicates the investment role the brand is expected to play within the portfolio",
+    "A core competence because it represents a coordinated capability that competitors cannot easily imitate; this classification indicates the investment role the brand is expected to play within the portfolio.",
+    "A support activity because it provides infrastructure used by several primary value-chain activities; this classification indicates the investment role the brand is expected to play within the portfolio.",
+    "A star because it has high market share within a rapidly growing product category; this classification indicates the investment role the brand is expected to play within the portfolio"
+   ],
+   "a": 5,
+   "x": "High market share in a high-growth market = star."
+  },
+  {
+   "key": "4-40",
+   "set": "Mock set 5",
+   "sec": "Long case · NorthSea Foods (Ch 6)",
+   "cs": 7,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Study Exhibit 1A: BCG Matrix — NorthSea Foods Portfolio. NorthSea has limited investment resources and wants to allocate them according to each business unit’s market growth and relative market share.<br>The exhibit places:<br>the plant-based brand in Stars,<br>seaweed snacks in Question Marks,<br>traditional dairy in Cash Cows,<br>and the older dessert brand in Dogs.<br>Based on the positions shown in Exhibit 1A, which strategic resource-allocation decision BEST follows the logic of the BCG Matrix?",
+   "o": [
+    "Direct most available resources toward seaweed snacks because every Question Mark should automatically receive maximum investment.",
+    "Reduce investment in the plant-based brand because Stars should mainly generate cash rather than require further investment.",
+    "Give priority to the older dessert brand because low share in a low-growth market creates the greatest opportunity for expansion.",
+    "Invest equally across all four businesses because portfolio position should not influence corporate resource allocation.",
+    "Use cash generated by traditional dairy to support continued investment in the plant-based brand, selectively assess whether seaweed snacks can build market share, and limit major new investment in the older dessert brand.",
+    "Invest most heavily in traditional dairy because high market share means it also has the strongest market-growth potential."
+   ],
+   "a": 4,
+   "x": "BCG logic: use the cash cow's money to fund the star, be selective with question marks, and limit investment in dogs."
+  },
+  {
+   "key": "4-41",
+   "set": "Mock set 5",
+   "sec": "Long case · NorthSea Foods (Ch 6)",
+   "cs": 7,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Investing across dairy, plant-based foods, snacks, and desserts is primarily a decision at which strategy level?",
+   "o": [
+    "Business level because one product brand selects how it will compete against direct rivals; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain.",
+    "Team level because employees divide assignments within one temporary product-development project; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain.",
+    "Corporate level because leaders allocate resources across multiple businesses and product categories; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain.",
+    "Operational level because supervisors schedule individual production tasks for the following working week; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain.",
+    "Functional level because one department decides how to perform its specialized daily responsibilities; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain.",
+    "Individual level because employees select personal objectives for their annual performance discussions; this interpretation clarifies where responsibility for allocating resources across the organization's businesses should remain."
+   ],
+   "a": 2,
+   "x": "Allocating resources across several businesses = corporate-level strategy."
+  },
+  {
+   "key": "4-42",
+   "set": "Mock set 5",
+   "sec": "Long case · NorthSea Foods (Ch 6)",
+   "cs": 7,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Study Exhibit 1B: PESTEL Analysis — Key External Developments. NorthSea Foods wants to understand which external development most directly explains the voluntary growth in demand for plant-based products.<br>The exhibit shows several external forces, including inflation, agricultural policy, improved production technology, climate pressures, environmental labeling requirements, and changing consumer values and lifestyles.<br>Based on the evidence shown in Exhibit 1B, which PESTEL factor BEST explains why consumers are increasingly choosing plant-based products even in markets where no new labeling law or subsidy has been introduced?",
+   "o": [
+    "Environmental factors, because any consumer concern related to sustainability must be classified as an environmental factor.",
+    "Economic factors, because inflation and purchasing power explain the long-term shift toward plant-based consumption.",
+    "Social factors, because changing lifestyles, health concerns, animal-welfare values, identity, and environmental awareness are influencing consumer preferences.",
+    "Political factors, because government agricultural policies directly determine consumer food preferences.",
+    "Legal factors, because environmental labeling requirements are the main reason consumers voluntarily change their diets.",
+    "Technological factors, because improved production methods automatically create new consumer values and eating habits"
+   ],
+   "a": 2,
+   "x": "Voluntary demand driven by lifestyles, health, values and identity = social factors, even without laws or subsidies."
+  },
+  {
+   "key": "4-43",
+   "set": "Mock set 5",
+   "sec": "Long case · NorthSea Foods (Ch 6)",
+   "cs": 7,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Growing consumer interest in plant-based food is primarily due to which external trend?",
+   "o": [
+    "An environmental trend involving physical climate effects and the availability of natural resources; this classification helps managers distinguish changing consumer values from other external environmental forces.",
+    "A legal trend involving mandatory regulations, formal standards, and enforceable labeling requirements; this classification helps managers distinguish changing consumer values from other external environmental forces.",
+    "A technological trend involving production equipment, automation, and food-processing innovation; this classification helps managers distinguish changing consumer values from other external environmental forces.",
+    "A social trend involving changing lifestyles, values, preferences, and consumption patterns; this classification helps managers distinguish changing consumer values from other external environmental forces.",
+    "political trend involving changes in government stability and public administration priorities; this classification helps managers distinguish changing consumer values from other external environmental forces.",
+    "An economic trend involving interest rates, inflation, and consumers' general purchasing power; this classification helps managers distinguish changing consumer values from other external environmental forces."
+   ],
+   "a": 3,
+   "x": "Changing lifestyles, values and consumption preferences = a social trend."
+  },
+  {
+   "key": "4-44",
+   "set": "Mock set 5",
+   "sec": "Long case · AeroLogistics (Ch 11)",
+   "cs": 8,
+   "skip": 0,
+   "dupOf": null,
+   "q": "The pilot reduced delivery time from three hours to forty minutes while meeting safety requirements. Management communicates this result to employees and uses it to build support for expanding the drone-delivery initiative. According to Kotter’s 8-Step Change Model, what is management MOST clearly doing?",
+   "o": [
+    "Creating urgency by showing employees that the existing organizational culture must immediately be replaced.",
+    "Anchoring the change in organizational culture because one successful pilot means the new working methods are already institutionalized.",
+    "Creating the change vision because the pilot establishes the company's long-term strategic direction and future organizational structure.",
+    "Generating a short-term win that demonstrates the value of the change and helps build momentum for further implementation.",
+    "Forming a guiding coalition by demonstrating that drone technology is valuable and difficult for competitors to imitate.",
+    "Removing barriers because faster delivery automatically eliminates employee concerns about skills, responsibilities, and safety."
+   ],
+   "a": 3,
+   "x": "Communicating a visible early result to build momentum = generating a short-term win (Kotter step 6)."
+  },
+  {
+   "key": "4-45",
+   "set": "Mock set 5",
+   "sec": "Long case · AeroLogistics (Ch 11)",
+   "cs": 8,
+   "skip": 1,
+   "dupOf": null,
+   "q": "Which combination best classifies the external developments affecting AeroLogistics?",
+   "o": [
+    "Organizational artifacts, underlying assumptions, leadership traits, and internal reporting relationships; this classification organizes the environmental developments that influence the organization's innovation choices and risks.",
+    "Technological advances, legal uncertainty, competitive experiments, and changing community expectations; this classification organizes the environmental developments that influence the organization's innovation choices and risks",
+    "Reward power, legitimate power, referent power, and expert power within the organization; this classification organizes the environmental developments that influence the organization's innovation choices and risks.",
+    "Functional specialization, employee motivation, team development, and internal performance-management procedures; this classification organizes the environmental developments that influence the organization's innovation choices and risks.",
+    "Forming, storming, norming, and performing stages within the project-development team; this classification organizes the environmental developments that influence the organization's innovation choices and risks.",
+    "Mission statements, vision statements, corporate objectives, and departmental performance indicators; this classification organizes the environmental developments that influence the organization's innovation choices and risks."
+   ],
+   "a": 1,
+   "x": "Drone advances = technological; aviation rules = legal; competitor partnerships = competitive; community concerns = social."
+  },
+  {
+   "key": "4-46",
+   "set": "Mock set 5",
+   "sec": "Long case · AeroLogistics (Ch 11)",
+   "cs": 8,
+   "skip": 0,
+   "dupOf": null,
+   "q": "The Value Chain exhibit shows that drone delivery will affect operations, technology, employees, partnerships, and customer service. Some employees support the innovation but others worry about new responsibilities, safety expectations, and whether they have the skills required. Which management response BEST addresses resistance while supporting implementation of the innovation?",
+   "o": [
+    "Reduce communication about the project until management has finalized every operational decision to prevent uncertainty.",
+    "Allow each department to decide independently whether it wants to adopt drone delivery to minimize resistance.",
+    "Introduce the new process immediately because the successful pilot demonstrates that employee concerns are no longer relevant.",
+    "Reward employees who adopt the technology quickly and exclude resistant employees from further discussions about implementation.",
+    "Focus primarily on purchasing additional drones because technological capability is the main requirement for successful organizational change.",
+    "Involve affected employees in the change, provide training and clear communication, and use pilot feedback to improve the new processes before wider implementation."
+   ],
+   "a": 5,
+   "x": "Involving employees, training, clear communication and using pilot feedback is how you reduce resistance and support implementation."
+  },
+  {
+   "key": "4-47",
+   "set": "Mock set 5",
+   "sec": "Long case · AeroLogistics (Ch 11)",
+   "cs": 8,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which option best explains a feature of AeroLogistics’ innovative culture?",
+   "o": [
+    "Preventing healthcare customers and community representatives from joining innovation discussions; this explanation connects the organization's response to failure with psychological safety and responsible experimentation.",
+    "Treating responsible unsuccessful proposals as learning opportunities rather than automatic failures; this explanation connects the organization's response to failure with psychological safety and responsible experimentation.",
+    "Evaluating employees only on immediate financial outcomes from every proposed drone route; this explanation connects the organization's response to failure with psychological safety and responsible experimentation.",
+    "Requiring project teams to avoid experimentation whenever aviation regulations remain uncertain; this explanation connects the organization's response to failure with psychological safety and responsible experimentation.",
+    "Waiting until every competitor succeeds before considering any experimental delivery technology; this explanation connects the organization's response to failure with psychological safety and responsible experimentation.",
+    "Limiting new-route proposals to senior leaders who hold formal organizational authority; this explanation connects the organization's response to failure with psychological safety and responsible experimentation."
+   ],
+   "a": 1,
+   "x": "Innovative cultures treat responsible, well-designed failures as learning opportunities instead of punishing them."
+  },
+  {
+   "key": "4-48",
+   "set": "Mock set 5",
+   "sec": "Long case · AeroLogistics (Ch 11)",
+   "cs": 8,
+   "skip": 0,
+   "dupOf": null,
+   "q": "Which case evidence should be classified as a short-term win for the drone initiative?",
+   "o": [
+    "Community concerns regarding possible noise, privacy, and disruption from future drone routes; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation.",
+    "Competitors' decisions to cooperate with technology startups on similar delivery experiments; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation.",
+    "Uncertainty regarding how aviation rules may apply when the service expands nationally; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation.",
+    "Management's promise to review unsuccessful proposals for learning instead of automatic punishment; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation.",
+    "Employees' opportunity to suggest possible routes for later testing by the project team; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation.",
+    "The pilot's verified reduction in delivery time while meeting all required safety standards; this interpretation links measurable pilot evidence with credibility, learning, and continued support for innovation."
+   ],
+   "a": 5,
+   "x": "The verified, measurable pilot result (3 h → 40 min, safely) = a short-term win."
+  }
+ ]
+}

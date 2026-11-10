@@ -1,0 +1,1903 @@
+{
+ "paket": "B",
+ "chapters": [
+  4,
+  5,
+  7
+ ],
+ "units": [
+  {
+   "id": "c4a",
+   "ch": 4,
+   "pts": 4,
+   "t": "Contemporary leadership approaches",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Transformational vs transactional",
+     "html": "<h4>Transformational vs transactional</h4>\n<table class=\"rules\"><tr><th>Transformational</th><th>Transactional</th></tr>\n<tr><td>Aligns employee goals with the leader's and company's goals; followers start caring about the company's well-being</td><td>Gets the right behaviour by giving resources and rewards <b>in exchange</b></td></tr>\n<tr><td>Four tools: <b>charisma</b> · <b>inspirational motivation</b> (inspiring vision) · <b>intellectual stimulation</b> (challenge the status quo, think creatively) · <b>individualized consideration</b> (personal care)</td><td>Three methods: <b>contingent rewards</b> (reward for accomplishments) · <b>active management by exception</b> (prevent problems before they happen) · <b>passive management by exception</b> (wait until something goes wrong)</td></tr>\n<tr><td>Builds <b>trust</b>; strongest effect on effectiveness and satisfaction</td><td>Also effective, except passive management by exception</td></tr></table>\n<p>Best: show both. Charisma can be trained, isn't required, and has a dark side (Enron's Skilling).</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Charismatic leadership",
+     "html": "<h4>Charismatic leadership</h4>\n<p><b>Charisma</b>: a leader's charm and magnetism that inspires confidence, commitment and admiration. Leaders of social movements rely on charisma rather than authority.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Servant leadership",
+     "html": "<h4>Servant leadership</h4>\n<p>The leader's role is to <b>serve the needs of others</b>: develop employees, help them reach their goals, serve the community. Focus on ethics and self-sacrifice (Greenleaf; Abraham Lincoln).</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "Authentic leadership",
+     "html": "<h4>Authentic leadership</h4>\n<p>Key advice: “<b>be yourself</b>”. Authentic leaders are self-aware, act consistently with their values and draw strength from their own life experiences (Howard Schultz at Starbucks gave health insurance to part-timers because of his father's experience).</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "Leader-member exchange (LMX)",
+     "html": "<h4>Leader-member exchange (LMX)</h4>\n<p><b>High-quality LMX</b>: trust, liking, respect; both go beyond the job description (in-group). <b>Low-quality LMX</b>: just the formal job (out-group).</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>A leader who asks staff to challenge assumptions and find original solutions = transformational (<b>intellectual stimulation</b>), not transactional (mock Q25).<br>Bonus per target hit = transactional (contingent reward).<br>“Puts employees first and develops them” = servant. “True to own values and life story” = authentic.</div>",
+   "terms": [
+    [
+     "Transformational leaders",
+     "Align employee goals with company goals through charisma, inspiration, intellectual stimulation and individual consideration."
+    ],
+    [
+     "Transactional leaders",
+     "Influence behaviour through rewards and punishment, in exchange."
+    ],
+    [
+     "Contingent rewards",
+     "Rewards given for accomplishing goals."
+    ],
+    [
+     "Active management by exception",
+     "Leaving employees alone but proactively preventing problems."
+    ],
+    [
+     "Passive management by exception",
+     "Waiting until something goes wrong before stepping in."
+    ],
+    [
+     "Charisma",
+     "A leader's charm and magnetism that inspires confidence and commitment."
+    ],
+    [
+     "Intellectual stimulation",
+     "Challenging norms and the status quo; encouraging creative thinking."
+    ],
+    [
+     "Individualized consideration",
+     "Personal care and concern for each follower's well-being."
+    ],
+    [
+     "Servant leadership",
+     "The leader's role is serving the needs of others and developing them."
+    ],
+    [
+     "Authentic leadership",
+     "Being yourself: self-aware and acting consistently with your values."
+    ],
+    [
+     "LMX",
+     "Leader-member exchange: quality of the relationship between leader and each member."
+    ]
+   ]
+  },
+  {
+   "id": "c4b",
+   "ch": 4,
+   "pts": 4,
+   "t": "Values-based & ethical leadership, trends, inclusion",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Values-based leadership styles",
+     "html": "<h4>Values-based leadership styles</h4>\n<p>Copeland found three values-based styles most effective:</p>\n<table class=\"rules\"><tr><th>Style</th><th>Definition</th></tr>\n<tr><td><b>Authentic</b></td><td>Leaders are aware of their thoughts and behaviour within the context they operate in; “be real”</td></tr>\n<tr><td><b>Ethical</b></td><td>Demonstrating normatively appropriate conduct and promoting it to followers through two-way communication, reinforcement and decision making (Brown et al.)</td></tr>\n<tr><td><b>Transformational</b></td><td>Motivating others through a common mission or challenge that empowers followers to develop as leaders (Bass & Riggio)</td></tr></table>\n<p><b>Vulnerability</b>: taking risks and exposing yourself emotionally (sharing feelings and weaknesses). Builds trust.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Ethical decision making (SCQA)",
+     "html": "<h4>Ethical decision making (SCQA)</h4>\n<p class=\"ar\"><b>S</b>ituation: assess it. → <b>C</b>omplication: identify the stakeholders and see it from their view. → <b>Q</b>uestion: what alternatives do I have and how do they affect stakeholders? How does the action make me feel about myself? → <b>A</b>nswer: make a decision and monitor the outcomes.</p>\n<p><b>Corporations as social movements</b>: a social movement is group action on a political or social issue. Its leaders rely on <b>charisma rather than authority</b>.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "10 global trends",
+     "html": "<h4>10 global trends</h4>\n<table class=\"rules\"><tr><th>5 challenges</th><th>5 solutions</th></tr>\n<tr><td>Increasing concern for the environment<br>Greater personalization and customization<br>Faster pace of innovation<br>Increasing complexity<br>Increasing competition for talent</td><td>Becoming more connected<br>Becoming more global<br>Becoming more mobile<br>Rise of the creative class<br>Increasing collaboration</td></tr></table>"
+    },
+    {
+     "i": 3,
+     "baslik": "Inclusive leadership (DEI)",
+     "html": "<h4>Inclusive leadership (DEI)</h4>\n<p>“Having the courage to take conscious steps to break down barriers for people at risk of being excluded” (Bortini et al.). Centred on relationships and valuing differences.</p>\n<p><b>Six Cs</b> of inclusive leaders (Dillon & Bourke): <b>Commitment · Courage · Cognizance of bias · Curiosity · Cultural intelligence · Collaborative</b>.</p>\n<p><b>Ethnocentrism</b>: believing your own culture is superior to all others.</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "21st-century leaders (Conger)",
+     "html": "<h4>21st-century leaders (Conger)</h4>\n<p>Strategic opportunists, globally aware, able to manage decentralized organizations, sensitive to diversity, interpersonally competent, builders of community.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>A legal but harmful production method = an ethical dilemma because economic interests clash with stakeholder responsibilities (mock Q26).<br>Know the 6 Cs: “aware of personal and organizational biases” = cognizance of bias; “understands other cultures” = cultural intelligence.</div>",
+   "terms": [
+    [
+     "Ethical leadership",
+     "Modelling appropriate conduct and promoting it through two-way communication, reinforcement and decisions."
+    ],
+    [
+     "Authentic leadership",
+     "Self-aware leaders acting in line with their values."
+    ],
+    [
+     "Vulnerability",
+     "Taking risks by being transparent and sharing feelings and weaknesses."
+    ],
+    [
+     "SCQA",
+     "Situation, Complication, Question, Answer: a framework for ethical decisions."
+    ],
+    [
+     "Social movement",
+     "Group action focused on a political or social issue; leaders rely on charisma."
+    ],
+    [
+     "Inclusive leadership",
+     "Valuing differences and advocating for traditionally excluded voices."
+    ],
+    [
+     "Six Cs",
+     "Commitment, courage, cognizance of bias, curiosity, cultural intelligence, collaborative."
+    ],
+    [
+     "Ethnocentrism",
+     "Belief that your own culture is superior to all others."
+    ]
+   ]
+  },
+  {
+   "id": "c5a",
+   "ch": 5,
+   "pts": 4,
+   "t": "Communication: process, barriers & channels",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Communication</b>: a process by which information is exchanged between individuals through a common system of symbols, signs or behaviour. Managers spend 50–90% of their time communicating.</p>\n<p><b>Three functions</b> in an organization: transmitting information · coordinating effort · sharing emotions and feelings.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "The communication process",
+     "html": "<h4>The communication process</h4>\n<p class=\"ar\"><b>Sender</b> has an idea and <b>encodes</b> it (turns it into words, diagrams, numbers) → the <b>message</b> travels through a <b>channel/medium</b> (oral, written, nonverbal) → the <b>receiver</b> <b>decodes</b> it (gives it meaning) → <b>feedback</b> back to the sender. <b>Noise</b> = anything that distorts the message (in the environment, the receiver or the sender).</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "Barriers to effective communication",
+     "html": "<h4>Barriers to effective communication</h4>\n<table class=\"rules\"><tr><th>Barrier</th><th>Meaning</th></tr>\n<tr><td>Filtering</td><td>Distorting or withholding information to manage someone's reaction</td></tr>\n<tr><td>Selective perception</td><td>Filtering what you see and hear to fit your own needs and beliefs</td></tr>\n<tr><td>Information overload</td><td>Receiving more information than you can take in</td></tr>\n<tr><td>Emotional disconnects</td><td>Sender or receiver is upset, so the message is ignored or distorted</td></tr>\n<tr><td>Lack of source familiarity or credibility</td><td>No shared context, or an untrustworthy sender</td></tr>\n<tr><td>Workplace gossip (grapevine)</td><td>Unofficial information that may not be accurate</td></tr>\n<tr><td>Semantics / differences in meaning</td><td>Words mean different things to different people (age, culture, jargon)</td></tr>\n<tr><td>Gender differences</td><td>Different communication styles</td></tr>\n<tr><td>Biased language</td><td>Words that stereotype, offend or exclude</td></tr></table>\n<p><b>Listening</b>: workers listen 55% of the time, leaders up to 70%. <b>Active listening</b>: full attention, no interrupting, reflecting and asking questions.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "Types and channels",
+     "html": "<h4>Types and channels</h4>\n<table class=\"rules\"><tr><th>Type</th><th>Examples</th></tr>\n<tr><td>Verbal (oral)</td><td>Phone, video calls, meetings, in person. Better for <b>feelings</b>.</td></tr>\n<tr><td>Written</td><td>Memos, e-mails, texts, letters, manuals, policies. Better for <b>facts</b>.</td></tr>\n<tr><td>Nonverbal</td><td>Facial expressions, body stance, tone of voice. About <b>55%</b> of in-person communication; only 7% comes from the words.</td></tr></table>\n<p><b>Information richness</b>: face-to-face, phone and video are richest; e-mail, blogs and memos are medium; formal documents and spreadsheets are leanest.</p>\n<p><b>Direction</b>: downward (from leaders), upward (from the front line), horizontal/lateral (between peers), diagonal (across levels and departments).</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Turning ideas into words and diagrams = <b>encoding</b> (sender side). Interpreting = decoding (receiver side) (mock Q10).<br>Two people hear the same news, one sees an opportunity, one a threat because of past experiences = <b>selective perception</b> (mock Q9).<br>Facial expressions = nonverbal; a phone call is verbal; a memo or text is written (mock Q11).</div>",
+   "terms": [
+    [
+     "Communication",
+     "Exchange of information through a common system of symbols, signs or behaviour."
+    ],
+    [
+     "Sender",
+     "Originator who encodes the idea into a message."
+    ],
+    [
+     "Encoding",
+     "Translating an idea into words or other symbols."
+    ],
+    [
+     "Receiver",
+     "The person who receives and decodes the message."
+    ],
+    [
+     "Decoding",
+     "Assigning meaning to the message."
+    ],
+    [
+     "Noise",
+     "Anything that interferes with or distorts the message."
+    ],
+    [
+     "Filtering",
+     "Distorting or withholding information to manage someone's reaction."
+    ],
+    [
+     "Selective perception",
+     "Filtering what we see and hear to suit our own needs and beliefs."
+    ],
+    [
+     "Information overload",
+     "Receiving more information than we can take in."
+    ],
+    [
+     "Grapevine",
+     "Unofficial communication that may or may not be accurate."
+    ],
+    [
+     "Active listening",
+     "Full attention, no interrupting, reflecting and asking questions."
+    ],
+    [
+     "Information richness",
+     "How much nonverbal information a channel carries."
+    ]
+   ]
+  },
+  {
+   "id": "c5b",
+   "ch": 5,
+   "pts": 4,
+   "t": "Decision making: types, models & groups",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Decision making</b>: making choices among alternative courses of action, including inaction. About half of leaders' decisions fail.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Types of decisions",
+     "html": "<h4>Types of decisions</h4>\n<table class=\"rules\"><tr><th>By how often</th><th></th></tr>\n<tr><td><b>Programmed</b></td><td>Occur often enough to have an automated response (a <b>decision rule</b>). E.g. automatic reorder at a stock level.</td></tr>\n<tr><td><b>Nonprogrammed</b></td><td>Unique and important: conscious thinking, information gathering, careful consideration. E.g. a crisis, McDonald's dropping trans fats.</td></tr>\n<tr><th>By organizational level</th><th></th></tr>\n<tr><td>Strategic</td><td>Long term, set the course of the organization</td></tr>\n<tr><td>Tactical</td><td>How things will get done (mid-term action plans)</td></tr>\n<tr><td>Operational</td><td>Daily decisions employees make to run the organization</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Four decision-making models",
+     "html": "<h4>Four decision-making models</h4>\n<table class=\"rules\"><tr><th>Model</th><th>Definition</th><th>Use when</th></tr>\n<tr><td><b>Rational</b></td><td>Structured, logical steps to choose the optimal alternative</td><td>Information can be quantified, the decision is important, you want to maximize the outcome</td></tr>\n<tr><td><b>Bounded rationality</b></td><td>Limited information, time and brainpower → <b>satisfice</b>: take the first alternative that meets the minimum criteria</td><td>Minimum criteria are clear, little time, not maximizing</td></tr>\n<tr><td><b>Intuitive</b></td><td>Gut feeling, experience, pattern recognition, fast</td><td>Goals unclear, time pressure, you have experience</td></tr>\n<tr><td><b>Creative</b></td><td>Less structured, generates novel solutions</td><td>No clear solution, new ideas needed, you have time</td></tr></table>\n<p><b>Rational steps:</b> identify the problem → set criteria → weight criteria → generate all alternatives → evaluate them → choose the best → implement → evaluate the decision.</p>\n<p><b>Creative steps:</b> problem identification → <b>immersion</b> (gather information) → <b>incubation</b> (set it aside; unconscious work) → <b>illumination</b> (insight moment) → <b>verification and application</b>. Creativity is judged on fluency (number of ideas), flexibility (variety) and originality.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "Faulty decisions",
+     "html": "<h4>Faulty decisions</h4>\n<p class=\"bl\"><b>Overconfidence bias</b> (overestimating your abilities) · <b>hindsight bias</b> (mistakes look obvious afterwards) · <b>anchoring</b> (relying too much on one piece of information) · <b>framing bias</b> (influenced by how it's presented) · <b>escalation of commitment</b> (continuing a failing course because you already invested) · <b>analysis paralysis</b>.</p>"
+    },
+    {
+     "i": 4,
+     "baslik": "Individual vs group decisions",
+     "html": "<h4>Individual vs group decisions</h4>\n<p><b>Groups:</b> more experiences and perspectives, more creative, easier implementation, but slower, coordination problems, rarely beat their best member. Problems: <b>groupthink</b> (avoiding critical evaluation of ideas the group favours; members stay silent to keep agreement; Challenger launch) and <b>social loafing</b> (some members put in less effort).</p>\n<p><b>Techniques:</b> <b>Nominal Group Technique</b> (write ideas alone → share → discuss → vote) · <b>Delphi</b> (written questionnaires, no meeting, until consensus) · <b>majority rule</b> · <b>consensus</b> (everyone agrees) · <b>brainstorming</b> (no criticism, wild ideas, build on others) · <b>GDSS</b> (computer systems) · <b>decision trees</b>.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Automatic reorder at a set level = <b>programmed</b> decision (mock Q12).<br>Silent members preserving agreement = <b>groupthink</b> (mock Q13), not social loafing (that's about effort).<br>Taking the first option that's “good enough” = satisficing (bounded rationality).</div>",
+   "terms": [
+    [
+     "Programmed decision",
+     "Recurring decision with an automated response."
+    ],
+    [
+     "Nonprogrammed decision",
+     "Unique, important decision needing careful analysis."
+    ],
+    [
+     "Rational model",
+     "Series of steps to maximize the quality of the outcome."
+    ],
+    [
+     "Bounded rationality",
+     "Choosing from a limited set of options without an exhaustive search."
+    ],
+    [
+     "Satisfice",
+     "Accepting the first alternative that meets your minimum criteria."
+    ],
+    [
+     "Intuitive model",
+     "Decisions based on intuition or experience."
+    ],
+    [
+     "Incubation",
+     "Setting a problem aside so the brain works on it unconsciously."
+    ],
+    [
+     "Escalation of commitment",
+     "Continuing a failing course because you already invested in it."
+    ],
+    [
+     "Anchoring",
+     "Relying too heavily on one piece of information."
+    ],
+    [
+     "Groupthink",
+     "Tendency to avoid critically evaluating ideas the group favours."
+    ],
+    [
+     "Social loafing",
+     "Some members put in less effort when working in a group."
+    ],
+    [
+     "Nominal Group Technique",
+     "Write ideas alone, share, discuss, then vote."
+    ],
+    [
+     "Delphi Technique",
+     "Group decision through written questionnaires, without meeting."
+    ]
+   ]
+  },
+  {
+   "id": "c7a",
+   "ch": 7,
+   "pts": 4,
+   "t": "Goals, MBO, Balanced Scorecard, SMART, KPI, CSR",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Goals</b>: outcome statements that define what the organization is trying to accomplish. <b>Objectives</b>: very precise, time-based, measurable actions that support a goal (linked to SMART).</p>\n<p>Planning starts with vision and mission → strategy → goals and objectives show whether you're on track. Horizons: long term 3+ years, mid-range 1–3 years, short term under 1 year.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Tools",
+     "html": "<h4>Tools</h4>\n<table class=\"rules\"><tr><th>Tool</th><th>What it is</th></tr>\n<tr><td><b>Management by Objectives (MBO)</b></td><td>Drucker (1954). Systematic approach that aligns subordinates' objectives with the overall goals; employees help set their own objectives and timelines.</td></tr>\n<tr><td><b>Balanced Scorecard</b></td><td>Kaplan & Norton. Translates mission, vision and strategy into specific, measurable goals and monitors them in four areas: <b>financial, customer, internal business processes, learning & growth</b>. Financial + non-financial; leading and lagging measures.</td></tr>\n<tr><td><b>SMART</b></td><td>Specific, Measurable, Achievable, Realistic, Time-bound</td></tr>\n<tr><td><b>KPI</b></td><td>A measurable value that shows how effectively a company achieves key business objectives</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "CSR and the triple bottom line",
+     "html": "<h4>CSR and the triple bottom line</h4>\n<p class=\"bl\"><b>CSR</b>: how companies manage their business processes to produce an overall positive effect on society. The Balanced Scorecard can help make CSR values measurable (Crawford & Scaletta).</p>\n<p class=\"bl\"><b>Triple bottom line</b>: measuring performance on <b>social, environmental and economic</b> dimensions (people, planet, profit).</p>\n<p class=\"bl\">Examples in the slides: Dow Jones Sustainability Index (DJSI), UN Sustainable Development Goals (SDGs) for 2030, Net Zero targets.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>“An outcome statement of what to accomplish” = goal. “Precise, time-based, measurable action” = objective (mock Q16, Q17).<br>Balanced Scorecard = turns mission and strategy into measurable goals and tracks them (mock Q18), not “only financial targets”.</div>",
+   "terms": [
+    [
+     "Goals",
+     "Outcome statements that define what an organization is trying to accomplish."
+    ],
+    [
+     "Objectives",
+     "Precise, time-based, measurable actions that support a goal."
+    ],
+    [
+     "MBO",
+     "Management by Objectives: aligning subordinate objectives with organizational goals (Drucker)."
+    ],
+    [
+     "Balanced Scorecard",
+     "Translates mission and strategy into measurable goals in four perspectives."
+    ],
+    [
+     "SMART",
+     "Specific, measurable, achievable, realistic, time-bound."
+    ],
+    [
+     "KPI",
+     "Measurable value showing how effectively key objectives are achieved."
+    ],
+    [
+     "CSR",
+     "Managing business processes to produce an overall positive effect on society."
+    ],
+    [
+     "Triple bottom line",
+     "Performance on social, environmental and economic dimensions."
+    ]
+   ]
+  },
+  {
+   "id": "c7b",
+   "ch": 7,
+   "pts": 4,
+   "t": "Motivation theories",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p><b>Motivation</b>: “the intention of achieving a goal, leading to goal-directed behaviour”.</p>\n<div class=\"formula\">Performance = Motivation × Ability × Environment</div>"
+    },
+    {
+     "i": 1,
+     "baslik": "Need-based theories",
+     "html": "<h4>Need-based theories</h4>\n<table class=\"rules\"><tr><th>Theory</th><th>Core idea</th></tr>\n<tr><td><b>Maslow</b></td><td>Five needs in a hierarchy: physiological → safety → social → esteem → self-actualization. A satisfied need no longer motivates.</td></tr>\n<tr><td><b>ERG</b> (Alderfer)</td><td>Three groups: <b>E</b>xistence (= physiological + safety), <b>R</b>elatedness (= social), <b>G</b>rowth (= esteem + self-actualization). No fixed order, several needs at once, <b>frustration-regression</b>.</td></tr>\n<tr><td><b>Herzberg two-factor</b></td><td><b>Hygiene factors</b> (company policies, supervision, working conditions, salary, safety, security) prevent dissatisfaction but don't motivate. <b>Motivators</b> (achievement, recognition, interesting work, responsibility, advancement, growth) really motivate.</td></tr>\n<tr><td><b>McClelland</b></td><td>Acquired needs: achievement, affiliation, power</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Process-based theories",
+     "html": "<h4>Process-based theories</h4>\n<table class=\"rules\"><tr><th>Theory</th><th>Core idea</th></tr>\n<tr><td><b>Equity theory</b> (Adams)</td><td>We compare our <b>inputs</b> (effort, loyalty, skills) and <b>outputs</b> (pay, rewards) with a <b>referent</b>. Inequity creates tension → we reduce our own input, ask for more, distort perceptions, change referent or leave.</td></tr>\n<tr><td>Expectancy theory</td><td>Expectancy (effort → performance), instrumentality (performance → reward), valence (value of the reward)</td></tr>\n<tr><td><b>Goal-setting theory</b> (Locke & Latham)</td><td>Supported in 1,000+ studies. SMART goals give direction, energize, challenge and push creative thinking. Downsides: tunnel vision, ignoring unmeasured work, unethical behaviour.</td></tr>\n<tr><td>Reinforcement theory</td><td>Positive and negative reinforcement increase behaviour; extinction and punishment reduce it</td></tr></table>\n<p><b>Justice beyond equity:</b> distributive (fair outcomes), procedural (fair process), interactional (respectful treatment).</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Better office temperature, job security or clear policies = <b>hygiene</b>. Meaningful responsibility for complete projects = <b>motivator</b> (mock Q14).<br>She sees a colleague get the same reward for less effort and cuts her own effort = <b>equity theory</b> (mock Q15).</div>",
+   "terms": [
+    [
+     "Motivation",
+     "The intention of achieving a goal, leading to goal-directed behaviour."
+    ],
+    [
+     "Maslow's hierarchy",
+     "Physiological, safety, social, esteem, self-actualization."
+    ],
+    [
+     "ERG theory",
+     "Existence, relatedness, growth; several needs at once; frustration-regression."
+    ],
+    [
+     "Hygiene factors",
+     "Job context factors that cause dissatisfaction when missing (pay, policies, conditions)."
+    ],
+    [
+     "Motivators",
+     "Intrinsic job factors that truly motivate (achievement, recognition, responsibility)."
+    ],
+    [
+     "Equity theory",
+     "Motivation from fairness, comparing input/output ratios with a referent."
+    ],
+    [
+     "Referent",
+     "The person or group you compare yourself with."
+    ],
+    [
+     "Goal-setting theory",
+     "Specific, challenging (SMART) goals improve performance."
+    ],
+    [
+     "Expectancy",
+     "Belief that effort will lead to the desired outcome."
+    ]
+   ]
+  }
+ ],
+ "bank": [
+  {
+   "id": "c4a-95",
+   "u": "c4a",
+   "d": 1,
+   "q": "Transformational leaders:",
+   "o": [
+    "Align employees' goals with the company's, so they focus on the company's well-being",
+    "Give rewards in exchange for the right behaviour and correct mistakes when needed, using clear agreements",
+    "Wait until something goes wrong before they step in and take action",
+    "Leave employees to decide everything with minimal guidance or involvement"
+   ],
+   "x": "Transformational = alignment, inspiration. Exchange = transactional."
+  },
+  {
+   "id": "c4a-96",
+   "u": "c4a",
+   "d": 1,
+   "q": "Which are the four tools of transformational leaders?",
+   "o": [
+    "Charisma, inspirational motivation, intellectual stimulation, individualized consideration",
+    "Contingent rewards, active and passive management by exception, punishment",
+    "Planning, organizing, leading and controlling the work of followers and their teams",
+    "Reward, coercive, expert and referent power used in the right order"
+   ],
+   "x": "The four I's (charisma = idealized influence)."
+  },
+  {
+   "id": "c4a-97",
+   "u": "c4a",
+   "d": 1,
+   "q": "The key advice of authentic leadership is:",
+   "o": [
+    "Be yourself",
+    "Serve others first",
+    "Reward good behaviour",
+    "Challenge the status quo"
+   ],
+   "x": "Authentic = self-aware and true to your values."
+  },
+  {
+   "id": "c4a-98",
+   "u": "c4a",
+   "d": 1,
+   "q": "Servant leadership defines the leader's role as:",
+   "o": [
+    "Serving others and helping employees develop and reach their goals",
+    "Controlling performance closely and correcting deviations early, before they grow",
+    "Inspiring followers with a magnetic, charismatic personality",
+    "Exchanging rewards for results that meet the agreed targets"
+   ],
+   "x": "Servant leaders put employees first."
+  },
+  {
+   "id": "c4a-99",
+   "u": "c4a",
+   "d": 1,
+   "q": "Passive management by exception means the leader:",
+   "o": [
+    "Waits until something goes wrong before stepping in",
+    "Rewards employees for their accomplishments",
+    "Predicts problems early and prevents them from happening",
+    "Shows personal concern for each follower"
+   ],
+   "x": "Passive MBE is the only transactional method that isn't effective."
+  },
+  {
+   "id": "c4a-100",
+   "u": "c4a",
+   "d": 2,
+   "q": "A leader asks employees to challenge established assumptions and develop original solutions instead of following procedures. Which kind of leadership?",
+   "o": [
+    "Transformational leadership",
+    "Transactional leadership",
+    "Ethical leadership",
+    "Leadership by walking around"
+   ],
+   "x": "Intellectual stimulation is a transformational tool."
+  },
+  {
+   "id": "c4a-101",
+   "u": "c4a",
+   "d": 2,
+   "q": "A sales director pays a bonus to every rep who exceeds the quarterly target. Which approach?",
+   "o": [
+    "Transactional (contingent rewards)",
+    "Transformational (inspirational motivation)",
+    "Servant leadership",
+    "Authentic leadership"
+   ],
+   "x": "Rewards for accomplishments = contingent rewards, transactional."
+  },
+  {
+   "id": "c4a-102",
+   "u": "c4a",
+   "d": 2,
+   "q": "A manager leaves her team to work but keeps scanning for risks and steps in before small issues become problems. This is:",
+   "o": [
+    "Active management by exception",
+    "Passive management by exception",
+    "Laissez-faire",
+    "Individualized consideration"
+   ],
+   "x": "Proactively preventing problems = active MBE."
+  },
+  {
+   "id": "c4a-103",
+   "u": "c4a",
+   "d": 2,
+   "q": "A CEO who grew up watching his father struggle without health insurance gives every part-time worker full benefits, true to that experience. Which approach?",
+   "o": [
+    "Authentic leadership",
+    "Transactional leadership",
+    "Passive management by exception",
+    "Theory X"
+   ],
+   "x": "Howard Schultz: leading from your own life experience and values."
+  },
+  {
+   "id": "c4a-104",
+   "u": "c4a",
+   "d": 2,
+   "q": "A hospital manager spends hours coaching each nurse on their career goals and sometimes sacrifices her own time to help them succeed. Which approach?",
+   "o": [
+    "Servant leadership",
+    "Transactional leadership",
+    "Authoritarian leadership",
+    "Active management by exception"
+   ],
+   "x": "Putting employees' development first = servant."
+  },
+  {
+   "id": "c4a-105",
+   "u": "c4a",
+   "d": 2,
+   "q": "A manager has a close, trust-based relationship with three team members who go beyond their job descriptions, and a purely formal one with the others. Which theory explains this?",
+   "o": [
+    "Leader-member exchange (LMX)",
+    "Herzberg's two-factor theory",
+    "Theory X and Theory Y",
+    "The trait approach"
+   ],
+   "x": "High- and low-quality LMX relationships (in-group vs out-group)."
+  },
+  {
+   "id": "c4a-106",
+   "u": "c4a",
+   "d": 3,
+   "q": "Why is transformational leadership often more effective than transactional leadership?",
+   "o": [
+    "Followers trust them more, because they show care and appeal to values",
+    "Transformational leaders use more punishment, so followers work harder",
+    "Transactional leadership never works, so any alternative is better",
+    "Transformational leaders don't set goals, so followers feel less pressure"
+   ],
+   "x": "Trust is the key factor; transactional (except passive MBE) also works."
+  },
+  {
+   "id": "c4a-107",
+   "u": "c4a",
+   "d": 3,
+   "q": "Which statement about charisma is correct?",
+   "o": [
+    "Charisma can be trained, isn't required for effectiveness and has a dark side",
+    "Charisma is purely genetic, so it cannot be developed through training",
+    "Charismatic CEOs always improve their company's future performance and share price",
+    "Charisma is the same as transactional leadership with a strong personality"
+   ],
+   "x": "Book: trainable, not necessary, and harmful leaders can be charismatic too."
+  },
+  {
+   "id": "c4a-108",
+   "u": "c4a",
+   "d": 3,
+   "q": "A leader combines a bonus system for targets with an inspiring vision and personal coaching. The book's advice on this mix is:",
+   "o": [
+    "Good: leaders should show both transformational and transactional behaviour",
+    "Bad: the two styles cancel each other out, so the leader should choose one",
+    "Only acceptable in the public sector, where bonuses are tied to clear rules",
+    "Bad: transactional behaviour always harms the trust built by the vision"
+   ],
+   "x": "Maximize effectiveness by using both."
+  },
+  {
+   "id": "c4b-109",
+   "u": "c4b",
+   "d": 1,
+   "q": "Which three values-based leadership styles did Copeland find most effective?",
+   "o": [
+    "Authentic, ethical and transformational",
+    "Transactional, autocratic and servant",
+    "Charismatic, laissez-faire and democratic",
+    "Task-oriented, people-oriented and participative"
+   ],
+   "x": "Copeland (2016): authentic, ethical, transformational."
+  },
+  {
+   "id": "c4b-110",
+   "u": "c4b",
+   "d": 1,
+   "q": "Ethical leadership is defined as:",
+   "o": [
+    "Showing appropriate conduct and promoting it to followers through two-way communication",
+    "Maximizing shareholder value while staying within the limits of the law",
+    "Being yourself and true to your values, regardless of the context and the people you work with",
+    "Rewarding people for hitting their targets and correcting them when they fail"
+   ],
+   "x": "Brown et al. (2005)."
+  },
+  {
+   "id": "c4b-111",
+   "u": "c4b",
+   "d": 1,
+   "q": "Which trends are among the book's top five CHALLENGE trends?",
+   "o": [
+    "Increasing concern for the environment and increasing competition for talent",
+    "Becoming more connected and becoming more mobile in how and where we work",
+    "Rise of the creative class and increasing collaboration inside organizations",
+    "Becoming more global and more connected through technology and trade"
+   ],
+   "x": "Challenges: environment, personalization, pace of innovation, complexity, competition for talent."
+  },
+  {
+   "id": "c4b-112",
+   "u": "c4b",
+   "d": 1,
+   "q": "Which is one of Dillon and Bourke's six characteristics of inclusive leaders?",
+   "o": [
+    "Cognizance of bias",
+    "Coercive power",
+    "Contingent rewards",
+    "Conformity"
+   ],
+   "x": "The six Cs: commitment, courage, cognizance of bias, curiosity, cultural intelligence, collaborative."
+  },
+  {
+   "id": "c4b-113",
+   "u": "c4b",
+   "d": 1,
+   "q": "In the SCQA framework for ethical decisions, SCQA stands for:",
+   "o": [
+    "Situation, Complication, Question, Answer",
+    "Strategy, Culture, Quality, Action",
+    "Stakeholders, Costs, Quality, Alternatives",
+    "Scan, Check, Question, Act"
+   ],
+   "x": "Situation, complication, question, answer."
+  },
+  {
+   "id": "c4b-114",
+   "u": "c4b",
+   "d": 1,
+   "q": "Ethnocentrism is:",
+   "o": [
+    "The belief that your own culture's norms are superior to all others",
+    "Respect for all cultures and openness to learning from them",
+    "A type of matrix structure used by multinational companies",
+    "A GLOBE dimension measuring how future-oriented and planning-focused a society is"
+   ],
+   "x": "Book key term."
+  },
+  {
+   "id": "c4b-115",
+   "u": "c4b",
+   "d": 2,
+   "q": "A multinational can legally use a low-cost production process in one country, but it seriously harms local communities. What makes this an ethical dilemma?",
+   "o": [
+    "The decision involves competing economic and stakeholder responsibilities",
+    "The local culture automatically determines what the right decision is",
+    "The company lacks the authority to choose its own production method",
+    "It can be solved simply by choosing the cheapest legal option available"
+   ],
+   "x": "Ethical dilemma = legitimate interests clash."
+  },
+  {
+   "id": "c4b-116",
+   "u": "c4b",
+   "d": 2,
+   "q": "A CEO openly admits in a town hall that she doesn't have all the answers and shares her own mistakes. This shows:",
+   "o": [
+    "Vulnerability",
+    "Coercive power",
+    "Passive management by exception",
+    "Ethnocentrism"
+   ],
+   "x": "Taking emotional risks by sharing weaknesses = vulnerability."
+  },
+  {
+   "id": "c4b-117",
+   "u": "c4b",
+   "d": 2,
+   "q": "An inclusive leader introduces anonymous CV screening because she knows personal and organizational biases affect hiring. Which C is this?",
+   "o": [
+    "Cognizance of bias",
+    "Curiosity about others",
+    "Courage",
+    "Collaboration"
+   ],
+   "x": "Awareness of bias + structures to prevent it."
+  },
+  {
+   "id": "c4b-118",
+   "u": "c4b",
+   "d": 2,
+   "q": "A leader learns about her team members' cultural norms and adjusts her style to them. Which inclusive-leadership characteristic?",
+   "o": [
+    "Cultural intelligence",
+    "Commitment to diversity",
+    "Cognizance of bias",
+    "Courage"
+   ],
+   "x": "Understanding other cultures and adapting = cultural intelligence."
+  },
+  {
+   "id": "c4b-119",
+   "u": "c4b",
+   "d": 2,
+   "q": "Before deciding whether to close a factory, a manager first lists all stakeholders and considers the situation from each one's point of view. Which part of the ethical decision process is this?",
+   "o": [
+    "Identifying the stakeholders (complication)",
+    "Monitoring the outcomes of the decision (answer)",
+    "Making the decision itself (answer)",
+    "Assessing your own feelings (question)"
+   ],
+   "x": "Step two: identify stakeholders and see it from their view."
+  },
+  {
+   "id": "c4b-120",
+   "u": "c4b",
+   "d": 3,
+   "q": "A company leads a movement for plastic-free oceans. Its leaders rely mostly on charisma instead of formal authority. This illustrates:",
+   "o": [
+    "A corporation as a social movement",
+    "Transactional leadership with contingent rewards",
+    "A mechanistic structure",
+    "Passive management by exception"
+   ],
+   "x": "Social movements depend on charisma rather than authority."
+  },
+  {
+   "id": "c4b-121",
+   "u": "c4b",
+   "d": 3,
+   "q": "Which pair correctly classifies two of the book's global trends?",
+   "o": [
+    "Faster pace of innovation: challenge · Rise of the creative class: solution",
+    "Increasing collaboration: challenge · Increasing complexity: solution",
+    "Becoming more mobile: challenge · Greater personalization: solution",
+    "Increasing competition for talent: solution · Becoming more global: challenge"
+   ],
+   "x": "Check both halves: innovation pace is a challenge, the creative class a solution."
+  },
+  {
+   "id": "c4b-122",
+   "u": "c4b",
+   "d": 3,
+   "q": "Which description fits transformational leadership in Copeland's values-based view (Bass & Riggio)?",
+   "o": [
+    "Motivating others through a common mission that empowers them to develop as leaders",
+    "Being aware of one's own thoughts and behaviour and of the context one works in",
+    "Demonstrating appropriate conduct and promoting it to followers through two-way communication",
+    "Rewarding employees for meeting targets and correcting them when they miss them"
+   ],
+   "x": "The others are authentic, ethical and transactional."
+  },
+  {
+   "id": "c5a-123",
+   "u": "c5a",
+   "d": 1,
+   "q": "Which are the components of the communication process?",
+   "o": [
+    "Sender, message, channel, receiver, noise (and feedback)",
+    "Planning, organizing, leading, controlling (and evaluating)",
+    "Strategy, structure, systems, staff, skills (and style)",
+    "Input, output, referent, comparison (and reaction)"
+   ],
+   "x": "Sender encodes → message → channel → receiver decodes; noise distorts."
+  },
+  {
+   "id": "c5a-124",
+   "u": "c5a",
+   "d": 1,
+   "q": "Which are the three main functions of communication in an organization?",
+   "o": [
+    "Transmitting information, coordinating effort, sharing emotions",
+    "Hiring, training and promoting the right employees",
+    "Planning, budgeting and reporting results to shareholders and the board",
+    "Selling, buying and negotiating with partners"
+   ],
+   "x": "Book: three functions."
+  },
+  {
+   "id": "c5a-125",
+   "u": "c5a",
+   "d": 1,
+   "q": "Noise in the communication process is:",
+   "o": [
+    "Anything that interferes with or distorts the message",
+    "Only the loud sounds in an open-plan office",
+    "The feedback the receiver sends back to the sender after decoding the message",
+    "The channel used to deliver the message"
+   ],
+   "x": "Noise can be in the environment, the receiver or the sender."
+  },
+  {
+   "id": "c5a-126",
+   "u": "c5a",
+   "d": 1,
+   "q": "Information overload is:",
+   "o": [
+    "Receiving more information than you can take in",
+    "Deliberately withholding information",
+    "Using words that mean different things to different people",
+    "Gossip on the grapevine"
+   ],
+   "x": "Too much information."
+  },
+  {
+   "id": "c5a-127",
+   "u": "c5a",
+   "d": 1,
+   "q": "About what share of in-person communication comes from nonverbal cues, according to the slides?",
+   "o": [
+    "55%",
+    "7%",
+    "25%",
+    "90%"
+   ],
+   "x": "55% nonverbal; only 7% from the words themselves."
+  },
+  {
+   "id": "c5a-128",
+   "u": "c5a",
+   "d": 2,
+   "q": "Before presenting a proposal, a manager turns his ideas into words, diagrams and tables. Which part of the communication process is this?",
+   "o": [
+    "Encoding",
+    "Decoding",
+    "Feedback",
+    "Filtering"
+   ],
+   "x": "The sender translates ideas into symbols = encoding."
+  },
+  {
+   "id": "c5a-129",
+   "u": "c5a",
+   "d": 2,
+   "q": "Two employees hear the same announcement. One sees an opportunity, the other a threat because of previous experiences. Which barrier explains the difference?",
+   "o": [
+    "Selective perception",
+    "Information overload",
+    "Filtering",
+    "Semantics"
+   ],
+   "x": "Interpreting to fit your own beliefs and experiences = selective perception."
+  },
+  {
+   "id": "c5a-130",
+   "u": "c5a",
+   "d": 2,
+   "q": "Which of these is a nonverbal communication cue?",
+   "o": [
+    "Facial expressions",
+    "A short text message",
+    "A phone call",
+    "A written memo"
+   ],
+   "x": "Text and memo are written; a phone call is verbal."
+  },
+  {
+   "id": "c5a-131",
+   "u": "c5a",
+   "d": 2,
+   "q": "A department head tells her boss only the good news about a project so he won't get upset. Which barrier?",
+   "o": [
+    "Filtering",
+    "Selective perception",
+    "Information overload",
+    "Emotional disconnect"
+   ],
+   "x": "Distorting or withholding to manage a reaction = filtering."
+  },
+  {
+   "id": "c5a-132",
+   "u": "c5a",
+   "d": 2,
+   "q": "A furious customer service agent ignores most of what her manager says during feedback. Which barrier?",
+   "o": [
+    "Emotional disconnect",
+    "Semantics",
+    "Information overload",
+    "Lack of source familiarity"
+   ],
+   "x": "An upset receiver distorts or ignores the message."
+  },
+  {
+   "id": "c5a-133",
+   "u": "c5a",
+   "d": 2,
+   "q": "A manager must tell an employee he didn't get the promotion. Which channel is most appropriate?",
+   "o": [
+    "A face-to-face conversation",
+    "A formal written memo",
+    "A spreadsheet with the scores",
+    "A group e-mail to the team"
+   ],
+   "x": "Emotional messages need rich, verbal channels."
+  },
+  {
+   "id": "c5a-134",
+   "u": "c5a",
+   "d": 2,
+   "q": "A customer service representative sends a suggestion directly to the head of the manufacturing department. Which direction of communication?",
+   "o": [
+    "Diagonal",
+    "Downward",
+    "Horizontal between peers",
+    "Upward to own manager"
+   ],
+   "x": "Across levels AND departments = diagonal."
+  },
+  {
+   "id": "c5a-135",
+   "u": "c5a",
+   "d": 3,
+   "q": "Which channel has the LOWEST information richness?",
+   "o": [
+    "A spreadsheet with the budget",
+    "A video call with the team",
+    "A face-to-face meeting",
+    "A phone call with the manager"
+   ],
+   "x": "Formal documents and spreadsheets are the leanest."
+  },
+  {
+   "id": "c5a-136",
+   "u": "c5a",
+   "d": 3,
+   "q": "A young employee uses slang that his older colleagues interpret differently. Which pair describes the barrier and the stage where it hits?",
+   "o": [
+    "Differences in meaning (semantics), at the receiver's decoding",
+    "Filtering of information, at the sender's encoding stage",
+    "Information overload, in the channel the message travels through",
+    "Selective perception, in the feedback the receiver sends back"
+   ],
+   "x": "Different meanings for words → wrong decoding by the receiver."
+  },
+  {
+   "id": "c5a-137",
+   "u": "c5a",
+   "d": 3,
+   "q": "According to the book, when should you choose written over verbal communication?",
+   "o": [
+    "When you mainly want to convey facts; verbal is better for feelings",
+    "When the message is emotional and you want to show empathy and personal care",
+    "When you want the receiver to get maximum nonverbal information",
+    "Never: verbal communication is always better than written"
+   ],
+   "x": "Facts → written; feelings → verbal."
+  },
+  {
+   "id": "c5b-138",
+   "u": "c5b",
+   "d": 1,
+   "q": "Decision making refers to:",
+   "o": [
+    "Making choices among alternatives, which may include inaction",
+    "Following a manager's order without questioning it or looking at other options",
+    "Collecting information without choosing between options",
+    "Only the long-term strategic planning of top managers"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c5b-139",
+   "u": "c5b",
+   "d": 1,
+   "q": "Programmed decisions are:",
+   "o": [
+    "Decisions that occur often enough that we develop an automated response",
+    "Unique, important decisions that need careful analysis every single time they occur",
+    "Decisions made only by computers without any human involvement",
+    "Long-term strategic decisions taken by the top management team"
+   ],
+   "x": "Recurring + decision rule = programmed."
+  },
+  {
+   "id": "c5b-140",
+   "u": "c5b",
+   "d": 1,
+   "q": "To satisfice means to:",
+   "o": [
+    "Accept the first alternative that meets your minimum criteria",
+    "Search all alternatives to find the best possible one",
+    "Decide by gut feeling, based on experience and recognizing familiar patterns",
+    "Let the group vote and follow the majority decision"
+   ],
+   "x": "Part of bounded rationality."
+  },
+  {
+   "id": "c5b-141",
+   "u": "c5b",
+   "d": 1,
+   "q": "Groupthink is:",
+   "o": [
+    "The tendency to avoid critically evaluating ideas the group favours",
+    "Some members putting in less effort because others will do the work",
+    "Generating as many ideas as possible without judging them",
+    "Deciding by majority vote after a short group discussion"
+   ],
+   "x": "Groupthink ≠ social loafing."
+  },
+  {
+   "id": "c5b-142",
+   "u": "c5b",
+   "d": 1,
+   "q": "In the creative decision-making model, which step follows immersion?",
+   "o": [
+    "Incubation",
+    "Illumination",
+    "Verification and application",
+    "Problem identification"
+   ],
+   "x": "Problem identification → immersion → incubation → illumination → verification."
+  },
+  {
+   "id": "c5b-143",
+   "u": "c5b",
+   "d": 1,
+   "q": "Decisions that employees make every day to run the organization are:",
+   "o": [
+    "Operational decisions",
+    "Strategic decisions",
+    "Tactical decisions",
+    "Nonprogrammed decisions"
+   ],
+   "x": "Strategic sets the course, tactical = how, operational = daily."
+  },
+  {
+   "id": "c5b-144",
+   "u": "c5b",
+   "d": 2,
+   "q": "A restaurant automatically reorders a standard quantity of ingredients whenever inventory reaches a set level. What type of decision is this?",
+   "o": [
+    "Programmed decision",
+    "Nonprogrammed decision",
+    "Creative decision",
+    "Strategic decision"
+   ],
+   "x": "Recurring with an automated rule = programmed."
+  },
+  {
+   "id": "c5b-145",
+   "u": "c5b",
+   "d": 2,
+   "q": "During a management meeting, members with doubts stay silent because they want to keep agreement with the majority. Which problem?",
+   "o": [
+    "Groupthink",
+    "Social loafing",
+    "Escalation of commitment",
+    "Anchoring"
+   ],
+   "x": "Silence to preserve agreement = groupthink."
+  },
+  {
+   "id": "c5b-146",
+   "u": "c5b",
+   "d": 2,
+   "q": "A company keeps investing in a failing IT project because it has already spent €2 million on it. This is:",
+   "o": [
+    "Escalation of commitment",
+    "Hindsight bias (knew-it-all-along)",
+    "Framing bias",
+    "Overconfidence bias"
+   ],
+   "x": "Continuing a failing course because of past investment."
+  },
+  {
+   "id": "c5b-147",
+   "u": "c5b",
+   "d": 2,
+   "q": "An experienced ER doctor decides in seconds which patient to treat first, based on pattern recognition. Which model?",
+   "o": [
+    "Intuitive",
+    "Rational",
+    "Bounded rationality",
+    "Creative"
+   ],
+   "x": "Gut feeling and experience under time pressure = intuitive."
+  },
+  {
+   "id": "c5b-148",
+   "u": "c5b",
+   "d": 2,
+   "q": "A team first writes ideas down individually and silently, then shares them, discusses them and votes. Which technique?",
+   "o": [
+    "Nominal Group Technique",
+    "Delphi Technique",
+    "Brainstorming session",
+    "Majority rule voting"
+   ],
+   "x": "NGT: write alone → share → discuss → vote."
+  },
+  {
+   "id": "c5b-149",
+   "u": "c5b",
+   "d": 2,
+   "q": "Experts in different countries answer a series of written questionnaires until they reach consensus, without ever meeting. Which technique?",
+   "o": [
+    "Delphi Technique",
+    "Nominal Group Technique",
+    "Brainstorming",
+    "GDSS"
+   ],
+   "x": "Delphi = written rounds, no meeting."
+  },
+  {
+   "id": "c5b-150",
+   "u": "c5b",
+   "d": 2,
+   "q": "A buyer judges every supplier's offer against the first price she heard, even though it was unusually high. Which bias?",
+   "o": [
+    "Anchoring",
+    "Overconfidence",
+    "Hindsight",
+    "Escalation of commitment"
+   ],
+   "x": "Relying too heavily on one piece of information."
+  },
+  {
+   "id": "c5b-151",
+   "u": "c5b",
+   "d": 3,
+   "q": "When should you use the rational decision-making model?",
+   "o": [
+    "When information can be quantified, the decision is important and you want the best outcome",
+    "When there is extreme time pressure, goals are unclear and you must act on experience",
+    "When minimum criteria are clear and you have little time to compare every option",
+    "When no solution exists yet and the group first needs many new, creative ideas to choose from"
+   ],
+   "x": "Others describe intuitive, bounded rationality and creative."
+  },
+  {
+   "id": "c5b-152",
+   "u": "c5b",
+   "d": 3,
+   "q": "Which pair correctly matches a group problem with its description?",
+   "o": [
+    "Social loafing: some put in less effort · Groupthink: avoiding critical evaluation of favoured ideas",
+    "Social loafing: avoiding critical evaluation of favoured ideas · Groupthink: some put in less effort",
+    "Social loafing: generating too many ideas · Groupthink: generating too few ideas",
+    "Social loafing: a group decision rule · Groupthink: a creative decision technique"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c5b-153",
+   "u": "c5b",
+   "d": 3,
+   "q": "Which is a real advantage of group decision making over individual decision making?",
+   "o": [
+    "Implementation is easier because members are invested in the decision",
+    "Groups are always faster than individuals, because work is divided",
+    "Groups always outperform their best member on every type of task",
+    "Groups never suffer from process losses when all of their members are experienced experts"
+   ],
+   "x": "Groups are slower, rarely beat their best member and do suffer process losses."
+  },
+  {
+   "id": "c5b-154",
+   "u": "c5b",
+   "d": 3,
+   "q": "A manager reasons after a failed launch: 'It was obvious this would fail.' Which bias?",
+   "o": [
+    "Hindsight bias",
+    "Anchoring",
+    "Framing bias",
+    "Overconfidence bias"
+   ],
+   "x": "Mistakes seem obvious only afterwards."
+  },
+  {
+   "id": "c7a-217",
+   "u": "c7a",
+   "d": 1,
+   "q": "What is an objective?",
+   "o": [
+    "A precise, time-based, measurable action that supports a goal",
+    "A broad vision of success",
+    "A long-term goal that defines the direction of the organization",
+    "A general outcome statement"
+   ],
+   "x": "Objectives are precise and measurable."
+  },
+  {
+   "id": "c7a-218",
+   "u": "c7a",
+   "d": 1,
+   "q": "What is a goal?",
+   "o": [
+    "An outcome statement of what the organization is trying to accomplish",
+    "A time-based, measurable action that is specific, achievable and realistic",
+    "A company's mission statement explaining its reason for being",
+    "A detailed strategy plan with budgets for each department"
+   ],
+   "x": "Goal = outcome statement."
+  },
+  {
+   "id": "c7a-219",
+   "u": "c7a",
+   "d": 1,
+   "q": "What does the Balanced Scorecard do?",
+   "o": [
+    "Turns mission and strategy into measurable goals and tracks them",
+    "Sets individual pay levels based on each employee's performance",
+    "Lists only the financial targets the company wants to reach this year",
+    "Describes the core values that guide employee behaviour"
+   ],
+   "x": "Kaplan & Norton."
+  },
+  {
+   "id": "c7a-220",
+   "u": "c7a",
+   "d": 1,
+   "q": "SMART stands for:",
+   "o": [
+    "Specific, measurable, achievable, realistic, time-bound",
+    "Simple, motivating, ambitious, relevant, tested",
+    "Strategic, monitored, aligned, reviewed, tracked",
+    "Specific, managed, accurate, rewarded, timely"
+   ],
+   "x": "Book version: achievable and realistic."
+  },
+  {
+   "id": "c7a-221",
+   "u": "c7a",
+   "d": 1,
+   "q": "A KPI is:",
+   "o": [
+    "A measurable value showing how effectively a company achieves key objectives",
+    "A personality test used to predict which job candidates will perform best",
+    "A type of organizational structure built around key processes",
+    "A motivation theory about how people compare inputs and outcomes"
+   ],
+   "x": "Key Performance Indicator."
+  },
+  {
+   "id": "c7a-222",
+   "u": "c7a",
+   "d": 1,
+   "q": "Management by Objectives (MBO) was first outlined by:",
+   "o": [
+    "Peter Drucker (1954)",
+    "Abraham Maslow (1943)",
+    "Henry Mintzberg (1973)",
+    "Geert Hofstede (1980)"
+   ],
+   "x": "Drucker, The Practice of Management."
+  },
+  {
+   "id": "c7a-223",
+   "u": "c7a",
+   "d": 2,
+   "q": "Which of these is a SMART objective?",
+   "o": [
+    "Reduce customer complaints by 20% before 31 December",
+    "Become the best company in the world within ten years",
+    "Improve customer happiness as much as possible",
+    "Work harder next year and keep customers satisfied"
+   ],
+   "x": "Specific, measurable and time-bound."
+  },
+  {
+   "id": "c7a-224",
+   "u": "c7a",
+   "d": 2,
+   "q": "A company's managers agree with each employee on personal objectives that support the department's goals, with deadlines. This is:",
+   "o": [
+    "Management by Objectives",
+    "Herzberg's two-factor theory",
+    "A BCG analysis",
+    "The triple bottom line"
+   ],
+   "x": "Aligning subordinate objectives with organizational goals."
+  },
+  {
+   "id": "c7a-225",
+   "u": "c7a",
+   "d": 2,
+   "q": "A firm reports its results on profit, its carbon footprint and its community programmes. This reflects:",
+   "o": [
+    "The triple bottom line",
+    "A matrix structure",
+    "Equity theory",
+    "Programmed decisions"
+   ],
+   "x": "People, planet, profit."
+  },
+  {
+   "id": "c7a-226",
+   "u": "c7a",
+   "d": 2,
+   "q": "A Balanced Scorecard measures performance in which four areas?",
+   "o": [
+    "Financial, customer, internal processes, learning & growth",
+    "Political, economic, social, technological, legal, environmental",
+    "Strengths, weaknesses, opportunities and threats",
+    "Planning, organizing, leading and controlling"
+   ],
+   "x": "The four perspectives."
+  },
+  {
+   "id": "c7a-227",
+   "u": "c7a",
+   "d": 3,
+   "q": "Which statement about CSR and the Balanced Scorecard is correct?",
+   "o": [
+    "The Balanced Scorecard can help make CSR values and visions measurable",
+    "CSR can never be measured, so it cannot appear on a Balanced Scorecard",
+    "The Balanced Scorecard only covers financial results, not CSR goals",
+    "CSR means only complying with the law, so no scorecard is needed"
+   ],
+   "x": "Crawford & Scaletta."
+  },
+  {
+   "id": "c7a-228",
+   "u": "c7a",
+   "d": 3,
+   "q": "Which pairing is correct?",
+   "o": [
+    "Goal: “be the most sustainable retailer in the region” · Objective: “cut packaging waste 25% by 2027”",
+    "Goal: “cut packaging waste 25% by 2027” · Objective: “be the most sustainable retailer in the region”",
+    "Goal: a KPI that tracks packaging waste · Objective: the company's mission statement",
+    "Goal: a hygiene factor such as working conditions · Objective: a motivator such as recognition"
+   ],
+   "x": "Goal = outcome statement; objective = precise and measurable."
+  },
+  {
+   "id": "c7a-229",
+   "u": "c7a",
+   "d": 3,
+   "q": "CSR is best described as:",
+   "o": [
+    "How companies manage their processes to have an overall positive effect on society",
+    "Maximizing profit for shareholders while staying within the limits of the law and regulation",
+    "A type of decision-making bias where firms overvalue their own reputation",
+    "A form of marketing used only to improve the brand's image with customers"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c7b-230",
+   "u": "c7b",
+   "d": 1,
+   "q": "Motivation is defined as:",
+   "o": [
+    "The intention of achieving a goal, leading to goal-directed behaviour",
+    "Being paid well enough to stay with the same company for a long period of time",
+    "Being satisfied with one's job, colleagues and working conditions",
+    "Having the skills and knowledge needed to do the job well"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c7b-231",
+   "u": "c7b",
+   "d": 1,
+   "q": "According to the motivation equation, performance depends on:",
+   "o": [
+    "Motivation, ability and environment",
+    "Pay, working hours and job title",
+    "Personality and intelligence only",
+    "Goals, objectives and deadlines only"
+   ],
+   "x": "Performance = motivation × ability × environment."
+  },
+  {
+   "id": "c7b-232",
+   "u": "c7b",
+   "d": 1,
+   "q": "What is the correct order of Maslow's hierarchy, from bottom to top?",
+   "o": [
+    "Physiological, safety, social, esteem, self-actualization",
+    "Safety, physiological, esteem, social, self-actualization",
+    "Social, safety, physiological, esteem, self-actualization",
+    "Esteem, social, safety, physiological, self-actualization"
+   ],
+   "x": "Bottom: physiological. Top: self-actualization."
+  },
+  {
+   "id": "c7b-233",
+   "u": "c7b",
+   "d": 1,
+   "q": "ERG theory groups needs into:",
+   "o": [
+    "Existence, relatedness, growth",
+    "Esteem, recognition and growth",
+    "Effort, reward, goals",
+    "Equity, relatedness, gain"
+   ],
+   "x": "Alderfer."
+  },
+  {
+   "id": "c7b-234",
+   "u": "c7b",
+   "d": 1,
+   "q": "In Herzberg's theory, which are hygiene factors?",
+   "o": [
+    "Company policies, supervision, working conditions, salary",
+    "Achievement, recognition, responsibility and the interesting work itself",
+    "Responsibility, advancement and personal growth",
+    "Self-actualization, esteem and social belonging"
+   ],
+   "x": "Hygiene = job context; motivators = the work itself."
+  },
+  {
+   "id": "c7b-235",
+   "u": "c7b",
+   "d": 1,
+   "q": "Equity theory says people are motivated by:",
+   "o": [
+    "A sense of fairness, comparing their input/output ratio with a referent",
+    "Satisfying needs in a fixed hierarchy, from physiological to self-actualization",
+    "Specific, difficult goals that are accepted and come with feedback",
+    "Rewards that follow every desired behaviour, so it is repeated"
+   ],
+   "x": "Adams."
+  },
+  {
+   "id": "c7b-236",
+   "u": "c7b",
+   "d": 2,
+   "q": "According to Herzberg, which action is most likely to increase motivation, rather than just improve a hygiene factor?",
+   "o": [
+    "Giving employees meaningful responsibility for complete projects",
+    "Clarifying the company's administrative policies and procedures",
+    "Improving the office temperature, lighting and furniture",
+    "Increasing job security with longer, permanent contracts"
+   ],
+   "x": "Responsibility is a motivator."
+  },
+  {
+   "id": "c7b-237",
+   "u": "c7b",
+   "d": 2,
+   "q": "An employee believes she contributes more effort than a colleague but receives the same reward. She responds by reducing her effort. Which theory explains this?",
+   "o": [
+    "Equity theory",
+    "Maslow's hierarchy of needs",
+    "Goal-setting theory",
+    "Herzberg's two-factor theory"
+   ],
+   "x": "Inequity → reduce own input."
+  },
+  {
+   "id": "c7b-238",
+   "u": "c7b",
+   "d": 2,
+   "q": "An employee frustrated by the lack of growth opportunities starts spending more time socializing with coworkers. Which theory explains this best?",
+   "o": [
+    "ERG theory (frustration-regression)",
+    "Maslow's hierarchy of needs",
+    "Equity theory (comparison with a referent)",
+    "Goal-setting theory"
+   ],
+   "x": "Frustrated growth needs → regression to relatedness."
+  },
+  {
+   "id": "c7b-239",
+   "u": "c7b",
+   "d": 2,
+   "q": "A worker who just lost his home cares about nothing but finding safe housing. Which Maslow level drives him?",
+   "o": [
+    "Safety needs",
+    "Esteem needs",
+    "Self-actualization",
+    "Social needs"
+   ],
+   "x": "Lower needs dominate until satisfied."
+  },
+  {
+   "id": "c7b-240",
+   "u": "c7b",
+   "d": 2,
+   "q": "A manager sets each rep a specific, challenging target with a deadline, and performance improves. Which theory?",
+   "o": [
+    "Goal-setting theory",
+    "Equity theory",
+    "ERG theory",
+    "Herzberg's hygiene theory"
+   ],
+   "x": "Locke & Latham."
+  },
+  {
+   "id": "c7b-241",
+   "u": "c7b",
+   "d": 2,
+   "q": "Marie compares her pay with Spencer, a new hire in the same job. In equity theory, Spencer is Marie's:",
+   "o": [
+    "Referent",
+    "Hygiene factor",
+    "Valence",
+    "Motivator"
+   ],
+   "x": "The comparison person."
+  },
+  {
+   "id": "c7b-242",
+   "u": "c7b",
+   "d": 3,
+   "q": "Which statement about Herzberg is correct?",
+   "o": [
+    "Removing hygiene factors' problems prevents dissatisfaction; only motivators motivate",
+    "Better pay always motivates more, because salary is Herzberg's strongest motivator",
+    "Hygiene factors are intrinsic to the work itself, while motivators are extrinsic",
+    "Motivators cause dissatisfaction when absent, just like hygiene factors do when they are poor"
+   ],
+   "x": "Fixing hygiene → neutral, not motivated."
+  },
+  {
+   "id": "c7b-243",
+   "u": "c7b",
+   "d": 3,
+   "q": "How does ERG theory differ from Maslow?",
+   "o": [
+    "ERG allows several needs at once, has no fixed order and includes frustration-regression",
+    "ERG has more levels than Maslow, adding separate needs for safety and esteem",
+    "ERG says only one need operates at a time, in a strict order from existence up to growth needs",
+    "ERG ignores growth needs and focuses only on existence and relatedness needs"
+   ],
+   "x": "Alderfer relaxed Maslow's assumptions."
+  },
+  {
+   "id": "c7b-244",
+   "u": "c7b",
+   "d": 3,
+   "q": "Which is a downside of goal setting according to the book?",
+   "o": [
+    "People may focus only on measured activities and ignore other parts of the job",
+    "Goals never improve performance, because people stop trying once they are set",
+    "Goals remove all direction, because employees no longer know what matters",
+    "SMART goals discourage creative thinking in every type of job and team"
+   ],
+   "x": "Tunnel vision, quality suffering, even unethical behaviour."
+  },
+  {
+   "id": "c7b-245",
+   "u": "c7b",
+   "d": 3,
+   "q": "Which pairing of theory and category is correct?",
+   "o": [
+    "Maslow: need-based · Equity theory: process-based",
+    "Maslow: process-based · Equity theory: need-based",
+    "Herzberg: process-based · Goal-setting: need-based",
+    "ERG: process-based · Equity: need-based"
+   ],
+   "x": "Need-based: Maslow, ERG, Herzberg, McClelland. Process-based: equity, expectancy, goal setting, reinforcement."
+  }
+ ],
+ "caseQuestions": [],
+ "glossary": [
+  {
+   "g": "Performance",
+   "ch": "Ch 7",
+   "t": [
+    [
+     "Balanced Scorecard",
+     "Measures performance from four perspectives: financial, customer, internal processes, learning & growth."
+    ],
+    [
+     "Financial perspective",
+     "Balanced Scorecard question: are we making money for our owners?"
+    ],
+    [
+     "Customer perspective",
+     "Balanced Scorecard question: are customers satisfied and loyal?"
+    ],
+    [
+     "Internal process perspective",
+     "Balanced Scorecard question: are our operations efficient and of good quality?"
+    ],
+    [
+     "Learning & growth perspective",
+     "Balanced Scorecard question: are our people and the organization improving?"
+    ],
+    [
+     "KPI",
+     "A measurable value that shows how well a company achieves a key objective."
+    ],
+    [
+     "SMART",
+     "Specific, measurable, achievable, realistic, time-bound: the test for a good objective."
+    ]
+   ]
+  },
+  {
+   "g": "Biases & group decisions",
+   "ch": "Ch 5",
+   "t": [
+    [
+     "Confirmation bias",
+     "Looking for information that supports what you already believe."
+    ],
+    [
+     "Anchoring bias",
+     "Relying too much on the first piece of information you receive."
+    ],
+    [
+     "Availability bias",
+     "Judging by the information that comes most easily to mind."
+    ],
+    [
+     "Hindsight bias",
+     "Believing after the fact that you knew all along what would happen."
+    ],
+    [
+     "Overconfidence bias",
+     "Overestimating your own knowledge or abilities."
+    ],
+    [
+     "Halo effect",
+     "One positive trait makes you see everything about a person positively."
+    ],
+    [
+     "Horn effect",
+     "One negative trait makes you see everything about a person negatively."
+    ],
+    [
+     "Escalation of commitment",
+     "Continuing a failing course of action because you already invested time or money."
+    ],
+    [
+     "Groupthink",
+     "A group avoids critically evaluating ideas it favours, to keep harmony."
+    ],
+    [
+     "Stereotyping",
+     "Judging someone based on assumptions about the group they belong to."
+    ]
+   ]
+  },
+  {
+   "g": "Communication",
+   "ch": "Ch 5",
+   "t": [
+    [
+     "Sender",
+     "The person who has the idea and starts the communication."
+    ],
+    [
+     "Encoding",
+     "Turning an idea into words, symbols or gestures."
+    ],
+    [
+     "Message",
+     "The information being communicated."
+    ],
+    [
+     "Channel",
+     "The medium used to send the message: e-mail, phone, face to face."
+    ],
+    [
+     "Receiver",
+     "The person the message is meant for."
+    ],
+    [
+     "Decoding",
+     "Interpreting the message and giving it meaning."
+    ],
+    [
+     "Feedback",
+     "The receiver's response, which shows whether the message was understood."
+    ],
+    [
+     "Noise",
+     "Anything that interferes with or distorts the message."
+    ]
+   ]
+  },
+  {
+   "g": "Motivation",
+   "ch": "Ch 7",
+   "t": [
+    [
+     "Hygiene factors",
+     "Herzberg: salary, job security, policies, supervision, working conditions. They only prevent dissatisfaction."
+    ],
+    [
+     "Motivators",
+     "Herzberg: achievement, recognition, responsibility, growth. They create real motivation."
+    ],
+    [
+     "Physiological needs",
+     "Maslow level 1: food, water, sleep and other basic needs."
+    ],
+    [
+     "Safety needs",
+     "Maslow level 2: security and stability."
+    ],
+    [
+     "Social (belonging) needs",
+     "Maslow level 3: relationships, friendship, being part of a group."
+    ],
+    [
+     "Esteem needs",
+     "Maslow level 4: respect, status and recognition."
+    ],
+    [
+     "Self-actualization",
+     "Maslow level 5: reaching your full potential."
+    ],
+    [
+     "Existence",
+     "ERG: basic material and physical needs."
+    ],
+    [
+     "Relatedness",
+     "ERG: relationships with other people."
+    ],
+    [
+     "Growth",
+     "ERG: personal development."
+    ],
+    [
+     "Frustration-regression",
+     "ERG: when a higher need is blocked, people fall back on a lower need."
+    ],
+    [
+     "Expectancy theory",
+     "People work harder when effort leads to performance and performance leads to rewards they value."
+    ],
+    [
+     "Equity theory",
+     "People compare their input/output ratio with a referent and want fairness."
+    ],
+    [
+     "Goal-setting theory",
+     "Specific, difficult but accepted goals improve performance."
+    ]
+   ]
+  },
+  {
+   "g": "Leadership",
+   "ch": "Ch 3–4",
+   "t": [
+    [
+     "Trait approach",
+     "Which personal characteristics make someone a (successful) leader?"
+    ],
+    [
+     "Behavioural approach",
+     "Looks at what leaders do instead of who they are."
+    ],
+    [
+     "LMX",
+     "Leader-member exchange: leaders build different relationships with different employees (in-group vs out-group)."
+    ],
+    [
+     "In-group",
+     "LMX: employees who get more trust, responsibility and support."
+    ],
+    [
+     "Out-group",
+     "LMX: employees with a more formal, limited relationship with the leader."
+    ],
+    [
+     "Theory X",
+     "Managers assume people dislike work and need control and close supervision."
+    ],
+    [
+     "Theory Y",
+     "Managers assume people enjoy responsibility and can motivate themselves."
+    ],
+    [
+     "Passive management by exception",
+     "The leader only steps in after problems or mistakes have occurred."
+    ],
+    [
+     "Task-oriented",
+     "Focus on structuring roles, targets, deadlines and getting the work done."
+    ],
+    [
+     "People-oriented",
+     "Focus on employees' feelings, relationships and well-being."
+    ],
+    [
+     "Authoritarian (autocratic)",
+     "The leader makes the decision alone."
+    ],
+    [
+     "Democratic",
+     "The leader involves employees in the decision."
+    ],
+    [
+     "Laissez-faire",
+     "Employees decide with little guidance or involvement from the leader."
+    ]
+   ]
+  }
+ ],
+ "compare": [
+  [
+   "SWOT vs PESTEL",
+   "SWOT has internal strengths/weaknesses and external opportunities/threats. PESTEL looks only at the external macro environment."
+  ],
+  [
+   "PESTEL vs Five Forces",
+   "PESTEL = broad macro environment. Porter = competition inside the industry."
+  ],
+  [
+   "Maslow vs ERG",
+   "Maslow: 5 levels in a fixed order. ERG: 3 groups, several needs at once, and you can fall back (frustration-regression)."
+  ],
+  [
+   "Herzberg vs Maslow",
+   "Maslow explains human needs in general. Herzberg explains what causes job satisfaction vs dissatisfaction."
+  ],
+  [
+   "Theory X vs Theory Y",
+   "X assumes people need control. Y assumes people can motivate themselves."
+  ],
+  [
+   "Lewin vs Kotter",
+   "Lewin: 3 broad stages for any change. Kotter: 8 detailed steps for large transformations (steps 1–4 = unfreeze)."
+  ],
+  [
+   "Functional vs Divisional",
+   "Functional groups people by department. Divisional groups them by product, market or region."
+  ],
+  [
+   "Mechanistic vs Organic",
+   "Mechanistic = strict rules and hierarchy. Organic = flexible, flat, adaptable."
+  ],
+  [
+   "Democratic vs Authoritarian",
+   "Democratic involves employees in decisions. Authoritarian decides alone."
+  ],
+  [
+   "Task- vs People-oriented",
+   "Task-oriented focuses on results and deadlines. People-oriented on relationships and well-being."
+  ],
+  [
+   "Coercive vs Reward power",
+   "Coercive uses punishment. Reward uses incentives and benefits."
+  ],
+  [
+   "Line vs Staff manager",
+   "Line contributes directly to the product or service. Staff gives indirect specialist support."
+  ],
+  [
+   "Subculture vs Counterculture",
+   "A subculture fits within the main culture. A counterculture opposes it."
+  ],
+  [
+   "Hofstede vs GLOBE",
+   "Hofstede: IBM, 1960s, 4 then 6 dimensions. GLOBE: 1990s, 62 countries, 9 dimensions incl. performance and humane orientation."
+  ]
+ ]
+}

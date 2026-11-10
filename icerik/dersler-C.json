@@ -1,0 +1,550 @@
+{
+  "chapters": [
+    {
+      "ch": 6,
+      "ad": "Strateji: misyondan rekabete, analizden ortaya çıkan stratejiye",
+      "giris": "<p>Bu bölüm, bir kurumun yönünü nasıl seçtiğini ve o yöne nasıl yürüdüğünü anlatır. Önce mission, vision ve values ile amacı netleştirirsin, sonra strategic management sürecinin dört adımını öğrenirsin. Ardından stratejinin üç düzeyini ve bir firmanın pazarda nasıl kazandığını görürsün. Seçim yapmadan önce analiz gerekir: value chain, VRIO ve BCG şirketin içine, SWOT, PESTEL ve Porter's five forces ise dışarısına bakar. Son ders, masada yazılan planın sahada nasıl değiştiğini, yani intended ile realized strategy arasındaki farkı anlatır.</p>",
+      "baglanti": "<p>Bu bölüm P-O-L-C'nin planning ayağını derinleştirir. Kaynak notu, misyon ve vizyonun dört fonksiyonun hepsine yön verdiğini söyler. Bu yüzden burada kurduğun amaç ve strateji, örgüt yapısı, liderlik ve kontrol gibi yönetimin diğer fonksiyonlarını konuşurken de çıkış noktası olarak karşına çıkar.</p>",
+      "sinav": "<p>Part 3'teki iki uzun vakadan biri bu bölümden gelir. Part 3'te toplam altı soru vardır; her biri altı seçeneklidir ve 5 puan değerindedir. Vaka sorularında kavramı tanımlamak yetmez: hikâyedeki bir cümleyi doğru kavrama yerleştirmen ve çoğu zaman iki yarıyı birden doğru sınıflandırman gerekir.</p>",
+      "okul": {
+        "once": "Dersten önce bu bölümün beş kavram tablosuna göz at (ifadeler, strateji düzeyleri, value chain, dış analiz araçları, intended ve realized) ve şu soruyu yanına al: bir şirket doğru stratejiyi seçtiğini nasıl anlar?",
+        "odak": [
+          "Hocanın mission ile vision'ı ayırmak için kullandığı ipucu kelimeler.",
+          "Bir faaliyeti value chain'de primary ya da support yapan ölçüt.",
+          "VRIO'da hangi soruda durulunca hangi sonucun çıktığı.",
+          "PESTEL faktörleri ile Porter kuvvetlerinin hangi örneklerle ayrıldığı.",
+          "Planın değiştiği örneklerde emergent ve realized strategy'nin nasıl adlandırıldığı."
+        ],
+        "sonra": "Dersten sonra bu sitede dersleri sırayla aç: önce misyon ve süreç dersi, sonra strateji düzeyleri, ardından iç analiz ve dış analiz, en son ortaya çıkan strateji. Her adımın sorusunu çöz, yanlış yaptığın adımın anlatımını yeniden oku, sonra dersin tuzaklar bölümünü gözden geçir."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c6a",
+      "ad": "Mission, vision, values, stakeholders ve strategic management süreci",
+      "sure": 18,
+      "neden": "<p>Bir kurumun stratejisini anlamak için önce nereye gitmek istediğini ve kime hizmet ettiğini bilmen gerekir. Vakada bir web sitesi cümlesi verilip bunun hangi ifade olduğu sorulur; ayrıca bir yöneticinin yaptığı işin sürecin hangi adımına düştüğünü seçmen istenir. İkisi de ipucu kelimelerle hızla çözülür.</p>",
+      "hedefler": [
+        "Bir cümlenin mission, vision ya da values statement olduğunu ipucu kelimelerden ayırt et.",
+        "Stakeholders kavramını açıkla ve bir stakeholder analysis örneğini tanı.",
+        "Strategic management sürecinin dört adımını doğru sırayla say.",
+        "Bir senaryodaki işi formulation ya da implementation olarak sınıflandır."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Mission ve vision: bugün neden varız, yarın ne olmak istiyoruz?",
+          "anlatim": "<p>Bir kurum yön seçmeden önce iki soruya cevap verir: “Biz şu an neden varız?” ve “İleride ne olmak istiyoruz?” Bu iki soru iki ayrı ifadeye dönüşür.</p><p><b>Mission statement</b> (misyon ifadesi) kurumun var olma nedenini ve kilit paydaşlarına nasıl hizmet ettiğini anlatır. Zamanı bugündür: “we provide…”, “our purpose is…” gibi şimdiki zamanlı cümleler kurar. <b>Vision statement</b> (vizyon ifadesi) ise geleceğe dönük bir amaç ve hedef ilanıdır: kurumun ne olmak istediğini söyler. Cümlede bir yıl, “become” ya da “leading” görürsen bu vizyon sinyalidir, örneğin “to be the leading… by 2035”.</p><p>Neden ikisine birden ihtiyaç var? Misyon günlük işin pusulasıdır, vizyon ise o işin varmak istediği nokta. Vizyonsuz misyon yönsüz bir rutine, misyonsuz vizyon da dayanaksız bir hayale döner. Sınavda ayırmanın en hızlı yolu zamana bakmaktır: bugünkü hizmet misyon, gelecekteki hedef vizyondur.</p>",
+          "ornek": "<p>Hayali “Mavi Fincan” kafesinin duvarında iki cümle var. “Mahallemize her sabah taze ve uygun fiyatlı kahve sunuyoruz” bir <b>mission statement</b>: bugün ne yaptıklarını ve kime hizmet ettiklerini söylüyor. “2030'a kadar şehrin en sevilen semt kafesi olmak” ise bir <b>vision statement</b>: bir yıl ve “olmak” fiiliyle geleceği tarif ediyor.</p>",
+          "kaynak": [0],
+          "terimler": ["Mission statement", "Vision statement"],
+          "soru": {
+            "q": "A fictional bakery chain prints this on its bags: “By 2032, we will become the region's best-known name in sourdough bread.” How should this be classified?",
+            "o": ["Vision statement", "Mission statement", "Values statement", "Stakeholder analysis"],
+            "x": "Doğru cevap vision statement: bir yıl (2032) ve “become” kelimesi geleceğe dönük bir hedefi gösteriyor. En çekici yanlış mission statement; ama misyon kurumun bugün neden var olduğunu ve kime hizmet ettiğini anlatır. Burada şimdiki bir hizmet değil, gelecekte ulaşılmak istenen bir konum var."
+          }
+        },
+        {
+          "baslik": "Values ve üç ifadenin P-O-L-C ile bağı",
+          "anlatim": "<p>Misyon ve vizyon “ne” ve “nereye” sorularını cevaplar, ama yolda nasıl davranacağını söylemez. Bunu <b>Values statement</b> (değerler ifadesi) yapar: kurumun temel inançlarını ve yol gösterici ilkelerini sıralar. Tipik görünümü kısa bir kelime listesidir: “integrity, respect, curiosity”. Cümlede ne bugünkü bir hizmet ne de bir hedef yılı vardır, sadece ilkeler vardır.</p><p>Bu ifadeler duvar süsü değildir; yönetimin dört fonksiyonuna, yani <b>P-O-L-C</b>'ye yön verir. Planning (planlama) misyon ve vizyondan başlar, çünkü neyi planlayacağını amacın belirler. Organizing (örgütleme) yapıyı bu amaca göre hizalar. Leading (liderlik) neredeyse misyon ve vizyonla eş anlamlıdır, çünkü lider insanlara bu yönü anlatıp onları peşinden sürükler. Controlling (kontrol) ise bu hedeflere doğru ne kadar ilerlendiğini kontrol eder. Kısacası misyon ve vizyon planla bitmez, yönetimin her adımında kullanılır.</p>",
+          "ornek": "<p>Hayali bir gençlik futbol kulübünün tüzüğünde “Fair play, saygı ve takım ruhu” yazıyor. Bu bir <b>values statement</b>: ne bugünkü hizmeti ne de gelecekteki hedefi anlatıyor, sadece oyuncuların ve antrenörlerin nasıl davranacağını belirleyen ilkeleri sayıyor. Antrenör hakeme bağıran bir oyuncuyu uyardığında aslında bu değerlere göre kontrol yapıyor.</p>",
+          "kaynak": [0],
+          "terimler": ["Values statement"],
+          "soru": {
+            "q": "A manager at a fictional theatre says the mission and vision only matter when the yearly plan is written. According to the course note, which P-O-L-C functions do they actually guide?",
+            "o": ["All four: planning, organizing, leading and controlling", "Only planning, because every plan starts from them", "Only leading, because leaders must communicate them", "Only controlling, because progress is checked against them"],
+            "x": "Doğru cevap dört fonksiyonun hepsi: planning misyon ve vizyondan başlar, organizing yapıyı onlarla hizalar, leading neredeyse onlarla eş anlamlıdır, controlling da onlara doğru ilerlemeyi kontrol eder. En çekici yanlış “only planning”, çünkü misyon ilk olarak plan yazarken akla gelir; ama not, etkisinin planla bitmediğini açıkça söylüyor."
+          }
+        },
+        {
+          "baslik": "Stakeholders ve stakeholder analysis",
+          "anlatim": "<p>Misyon “kilit paydaşlara nasıl hizmet ettiğimizi” anlatıyorsa, bu paydaşların kim olduğunu bilmek gerekir. <b>Stakeholders</b> (paydaşlar), kurumun hedeflediği sonuçları üretme yeteneğinde çıkarı olan kişi ya da gruplardır. Not altı örnek sayar: customers (müşteriler), employees (çalışanlar), investors (yatırımcılar), suppliers (tedarikçiler), government (devlet) ve communities (yerel topluluklar). Paydaş sadece hisse sahibi değildir; kurumun başarısından etkilenen herkes bu çemberin içindedir. Bazıları içeridedir (çalışanlar), bazıları dışarıda (devlet, topluluk).</p><p><b>Stakeholder analysis</b> (paydaş analizi) ise bu grupların ihtiyaçlarını ve beklentilerini belirlemek ve anlamak için kullanılan tekniklerin adıdır. Neden gerekli? Çünkü grupların beklentileri çatışabilir: yatırımcı düşük maliyet isterken mahalle sakinleri sessiz bir çevre ister. Strateji yazmadan önce kimin ne beklediğini haritalamazsan, planın uygulamada dirençle karşılaşır. Ayrımı net tut: paydaşlar bir grup kavramıdır, stakeholder analysis ise o grupları sistemli biçimde inceleme işidir.</p>",
+          "ornek": "<p>Hayali bir belediye kütüphanesi çalışma saatlerini değiştirmeden önce öğrencilere anket yapıyor, kütüphanecilerle toplantı yapıyor, belediye meclisinin bütçe görüşünü alıyor ve yakındaki kafelerle konuşuyor. Bu bir <b>stakeholder analysis</b>: içerideki ve dışarıdaki her grubun ihtiyacını tek tek ortaya çıkarıyor. Konuşulan grupların hepsi de kütüphanenin <b>stakeholders</b>'ıdır.</p>",
+          "kaynak": [1],
+          "terimler": ["Stakeholders", "Stakeholder analysis"],
+          "soru": {
+            "q": "Before opening a second branch, a fictional bike shop interviews its regular customers, its mechanics, the parts wholesaler and the neighbourhood association. What is the shop doing?",
+            "o": ["Stakeholder analysis", "Value chain analysis", "Strategic evaluation and control", "Writing a values statement"],
+            "x": "Doğru cevap stakeholder analysis: dükkân, sonuçlarında çıkarı olan içerideki ve dışarıdaki grupların ihtiyaçlarını sistemli biçimde öğreniyor. Strategic evaluation and control çekici görünebilir, çünkü bir tür bilgi toplama var; ama kontrol, uygulanmış bir planın sonuçlarını hedeflerle karşılaştırmaktır ve burada henüz uygulanan bir plan yok."
+          }
+        },
+        {
+          "baslik": "Strategic management ve sürecin ilk iki adımı",
+          "anlatim": "<p><b>Strategic management</b> (stratejik yönetim), bir firmanın misyonuna ve vizyonuna ulaşmak için yaptıklarının toplamıdır. Carpenter & Sanders bunu “bir firmanın stratejisinin formulation ve implementation'ını yönettiği süreç” olarak tanımlar. Tanımdaki “ve” önemlidir: yalnızca karar vermek ya da yalnızca uygulamak yetmez, ikisini birlikte yönetmek gerekir. Karar uygulanmazsa kâğıtta kalır, karar olmadan uygulama da yönsüz kalır.</p><p>Süreç dört adımdır; bu adımda ilk ikisini görüyorsun. 1. adım <b>Strategic objectives & analysis</b> (stratejik hedefler ve analiz): vision, mission ve values netleşir, SWOT ve PESTEL gibi araçlarla durum incelenir. Nereye gitmek istediğini ve hangi koşullarda olduğunu bilmeden karar veremezsin. 2. adım <b>Strategy formulation</b> (strateji oluşturma): ne yapılacağına karar verilir, planlar yazılır, gerekli kaynaklar toplanır. Buna business planning ya da strategic planning da denir. Formulation'ın özü karardır: henüz sahada kimse bir şey değiştirmemiştir, masada bir yol seçilmiştir.</p>",
+          "ornek": "<p>Hayali bir öğrenci proje grubu kampüste bisiklet tamir standı açmak istiyor. Önce amaçlarını yazıp rakipleri ve kampüs kurallarını inceliyorlar: objectives & analysis. Sonra “haftada iki gün, sadece lastik ve fren tamiri, yedek parça sponsor bir dükkândan” kararını yazıya döküyorlar. İkinci kısım <b>strategy formulation</b>: ne yapılacağı seçildi ama henüz uygulanmadı.</p>",
+          "kaynak": [2],
+          "terimler": ["Strategic management", "Strategy formulation"],
+          "soru": {
+            "q": "A fictional pet-food startup has finished its SWOT. The founders now choose which product line to launch and write a plan for raising the money it needs. Which step of the process is this?",
+            "o": ["Strategy formulation", "Strategy implementation", "Strategic objectives & analysis", "Strategic evaluation & control"],
+            "x": "Doğru cevap strategy formulation: kurucular ne yapılacağına karar veriyor, planı yazıyor ve kaynak toplamayı planlıyor. En çekici yanlış strategic objectives & analysis, çünkü SWOT'tan söz ediliyor; ama SWOT zaten bitmiş, şimdi analizden karara geçilmiş durumda."
+          }
+        },
+        {
+          "baslik": "Implementation ve evaluation & control",
+          "anlatim": "<p>Karar verildikten sonra iş sahaya iner. 3. adım <b>Strategy implementation</b> (strateji uygulaması), stratejiyi hayata geçirmek için yapılan eylemlerdir: personeli eğitmek, bütçeleri ve diğer kaynakları birimlere dağıtmak, yeni işleyişi başlatmak. Formulation “ne yapalım?” sorusunu cevaplar, implementation ise “yapıyoruz” aşamasıdır. Sınavın en sevdiği tuzak burada: kaynak dağıtmak kulağa planlama gibi gelir, ama not training ve allocating resources'ı açıkça implementation'a koyar. Para kararı masada veriliyorsa formulation, para fiilen departmanlara aktarılıyorsa implementation.</p><p>4. adım <b>Strategic evaluation & control</b> (stratejik değerlendirme ve kontrol): sonuçlar hedeflerle karşılaştırılır ve gerekirse düzeltme yapılır. Bu adım döngüyü kapatır, çünkü düzeltmeler yeniden analize ve karara geri döner. Sırayı akılda tutmanın yolu dört fiildir: analyse, decide, do, check. Önce durumu anla, sonra seç, sonra yap, en son kontrol et.</p>",
+          "ornek": "<p>Hayali “Kuzey Hastanesi” acil servisi için yeni bir hasta sıralama planı onaylandı. Başhemşire bütün ekibe iki günlük eğitim veriyor, yönetim de yeni bir bekleme alanı için bütçeyi servise aktarıyor: bu <b>strategy implementation</b>. Üç ay sonra bekleme sürelerini hedefle karşılaştırıp vardiya düzenini değiştiriyorlar: bu da evaluation & control.</p>",
+          "kaynak": [2],
+          "terimler": ["Strategy implementation"],
+          "soru": {
+            "q": "After a fictional cinema chain approves its new loyalty plan, the regional manager runs workshops for cashiers and transfers marketing budgets to each branch. Which step is this?",
+            "o": ["Strategy implementation", "Strategy formulation", "Strategic objectives & analysis", "Strategic evaluation & control"],
+            "x": "Doğru cevap strategy implementation: plan zaten onaylanmış, şimdi çalışanlar eğitiliyor ve bütçeler fiilen dağıtılıyor. Formulation çekici bir yanlış, çünkü bütçe kelimesi planlamayı çağrıştırır; ama formulation ne yapılacağına karar verme adımıdır ve karar burada çoktan verilmiş."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "“Leading”, “become” ya da bir yıl içeren cümle misyondur.", "dogru": "Bunlar <b>vision</b> sinyalidir. Misyon “reason for being” ve bugünkü hizmettir; şimdiki zamanı ve “we provide…” kalıbını ara."},
+        {"yanlis": "Personeli eğitmek ve bütçe dağıtmak formulation'dır, çünkü planın parçasıdır.", "dogru": "Bunlar <b>implementation</b>. Formulation karar vermek ve plan yazmaktır; eylem başladıysa implementation."},
+        {"yanlis": "Vision bugünkü durumu, mission istenen geleceği anlatır.", "dogru": "Tam tersi: <b>mission</b> bugünkü amaç, <b>vision</b> gelecekteki hedeftir."},
+        {"yanlis": "Stakeholders sadece şirketin sahipleri ve hissedarlarıdır.", "dogru": "Müşteriler, çalışanlar, yatırımcılar, tedarikçiler, devlet ve topluluklar da <b>stakeholders</b>'dır."},
+        {"yanlis": "Sonuçları hedeflerle karşılaştırmak analysis adımıdır.", "dogru": "Uygulamadan sonra sonuçları kontrol edip düzeltmek <b>evaluation & control</b> adımıdır."}
+      ],
+      "ozet": [
+        "<b>Mission</b>: bugün neden varız ve kime hizmet ediyoruz.",
+        "<b>Vision</b>: gelecekte ne olmak istiyoruz; yıl, “become” ve “leading” ipucudur.",
+        "<b>Values</b>: temel inançlar ve ilkeler, genelde kısa bir kelime listesi.",
+        "Misyon ve vizyon P-O-L-C'nin dört fonksiyonuna da yön verir.",
+        "<b>Stakeholders</b> sonuçlarda çıkarı olan iç ve dış gruplardır; <b>stakeholder analysis</b> beklentilerini inceler.",
+        "Süreç: objectives & analysis, formulation, implementation, evaluation & control.",
+        "Karar vermek formulation, eğitim ve kaynak dağıtmak implementation."
+      ],
+      "aklinda": "Analyse, decide, do, check. Mission bugün, vision yarın, values nasıl.",
+      "sinavda": "<p>Bu konu vakada çoğunlukla bir web sitesi ya da broşür cümlesiyle gelir: cümlenin zamanına ve ipucu kelimelerine bakıp mission, vision veya values seçersin. İkinci tip soru, bir yöneticinin yaptığı işi (eğitim, bütçe dağıtma, sonuç karşılaştırma) sürecin doğru adımına yerleştirmeni ister.</p>"
+    },
+    {
+      "id": "c6b",
+      "ad": "Strateji düzeyleri ve firmaların nasıl rekabet ettiği",
+      "sure": 20,
+      "neden": "<p>Vaka sorularında bir kararın hangi düzeyde verildiğini ve firmanın pazarda hangi yolla kazandığını seçmen istenir. Seçenekler hep aynı aileden gelir (corporate, business, functional ya da cost leadership, differentiation, focus). Her birinin hangi soruya cevap verdiğini bilirsen doğru seçeneği hızla bulursun.</p>",
+      "hedefler": [
+        "Bir kararı corporate, business ya da functional düzeye yerleştir.",
+        "Synergy ile diversification arasındaki farkı bir örnekle açıkla.",
+        "Cost leadership, differentiation ve focus yaklaşımlarını bir senaryoda ayırt et.",
+        "Sustainable competitive advantage'ın neden kolay kopyalanamaması gerektiğini açıkla."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Üç düzey, üç soru",
+          "anlatim": "<p>Büyük bir şirkette herkes “strateji” der, ama aynı şeyi kastetmez. Bu yüzden strateji üç düzeye ayrılır ve her düzey farklı bir soruya cevap verir.</p><p><b>Corporate strategy</b> (kurumsal strateji): “Hangi iş(ler)de olmalıyız?” Bunu üst yönetim yanıtlar. Bir işi satın almak, satmak ya da yeni bir sektöre girmek bu düzeydedir. Araçları PESTEL, BCG ve geniş bir SWOT'tur, çünkü bütün portföye ve geniş çevreye bakmak gerekir. <b>Business strategy</b> (iş stratejisi): “Bu pazarda nasıl rekabet ederiz?” Bunu iş birimi yöneticileri yanıtlar. Araçları Porter's 5 forces, VRIO ve value chain'dir, çünkü tek bir pazardaki rekabete odaklanırlar. <b>Functional strategy</b> (fonksiyonel strateji): “Her departman bunu nasıl destekler?” Pazarlama, finans, İK gibi departmanlar yanıtlar; araçları departman düzeyinde SWOT ve ayrıntılı value chain'dir.</p><p>Ayırt etmenin kısa yolu: bütün bir işi kapsayan alım ya da satım corporate, bir pazarda nasıl kazanılacağı business, tek bir departmanın rutin planı functional düzeydir.</p>",
+          "ornek": "<p>Hayali “Lezzet Grubu” hem bir burger zinciri hem de bir dondurma markası işletiyor. Yönetim kurulunun dondurma markasını satma kararı <b>corporate strategy</b>. Burger zincirinin müdürünün “en hızlı servisle kazanacağız” demesi <b>business strategy</b>. İK departmanının hızlı servis için yeni kasiyer eğitim takvimi hazırlaması ise <b>functional strategy</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Corporate strategy", "Business strategy", "Functional strategy"],
+          "soru": {
+            "q": "The board of a fictional media group decides to buy a small chain of music schools and enter the education market. At which level of strategy is this decision made?",
+            "o": ["Corporate strategy", "Business strategy", "Functional strategy", "Values statement"],
+            "x": "Doğru cevap corporate strategy: grup “hangi işlerde olmalıyız?” sorusunu yanıtlayıp yeni bir sektöre giriyor. Business strategy çekici, çünkü yeni bir pazardan söz ediliyor; ama business düzeyi zaten içinde bulunulan bir pazarda nasıl rekabet edileceğidir, hangi pazara girileceği değil."
+          }
+        },
+        {
+          "baslik": "Diversification: riski yaymak",
+          "anlatim": "<p>Corporate düzeyde verilen en tipik karar, kaç farklı işte olunacağıdır. <b>Diversification</b> (çeşitlendirme), birbirinden farklı birden çok işte yer almaktır ve amacı riski yaymaktır. Mantığı bütün yumurtaları aynı sepete koymamaktır: bir iş kötü giderse diğerleri şirketi ayakta tutar. Kaynaktaki örnek YUM! Brands: KFC, Pizza Hut ve Taco Bell gibi ayrı markaları aynı çatı altında işletir.</p><p>Ters yöndeki karar da aynı düzeydedir. Kaynağa göre McDonald's 2006'da Chipotle'ı satarak tek bir markaya odaklandı. Bu da bir corporate karardır, çünkü cevaplanan soru yine “hangi işlerde olmalıyız?” sorusudur. Yani bir işi eklemek de çıkarmak da corporate strategy'dir. Diversification'ı synergy ile karıştırma: diversification kaç farklı işte olduğunu ve riskin dağılmasını anlatır, synergy ise işlerin birlikte daha fazla değer üretip üretmediğini.</p>",
+          "ornek": "<p>Hayali bir aile şirketi yıllarca sadece kışlık mont üretiyordu ve ılık geçen kışlarda zarar ediyordu. Yönetim bir plaj havlusu markasını ve bir kamp malzemeleri dükkânını satın aldı. Bu <b>diversification</b>: birbirinden farklı işlere girerek tek bir kötü mevsimin bütün şirketi batırma riskini dağıttılar.</p>",
+          "kaynak": [0],
+          "terimler": ["Diversification"],
+          "soru": {
+            "q": "A fictional company that only made garden furniture buys a coffee roastery and a language school so that one bad season cannot sink the whole firm. This is an example of:",
+            "o": ["Diversification", "Synergy", "Differentiation", "Functional strategy"],
+            "x": "Doğru cevap diversification: firma birbirinden farklı işlere girerek riski yayıyor. Synergy çekici bir yanlış, ama synergy işlerin birlikte, ayrı ayrı olduklarından daha fazla değer yaratmasıdır; burada işlerin birbirine katkısından değil, riskin dağıtılmasından söz ediliyor."
+          }
+        },
+        {
+          "baslik": "Synergy: 1 + 1 = 3",
+          "anlatim": "<p>Bir şirket iki işi bir araya getirdiğinde şu soru doğar: bu iki iş birlikte, ayrı ayrı olduklarından daha mı iyi? <b>Synergy</b> (sinerji), iki ya da daha fazla faaliyetin birlikte, tek tek etkilerinin toplamından daha büyük bir etki yaratmasıdır. Kaynağın formülü 1 + 1 = 3. İki iş aynı müşteri listesini, aynı dağıtım ağını ya da ortak bir sadakat programını paylaştığında her biri tek başına ulaşamayacağı satışa ulaşabilir.</p><p>Synergy'yi iki komşu kavramdan ayır. Diversification farklı işlerde olmak ve riski dağıtmaktır; işler birbirine hiç katkı yapmasa bile diversification sayılır. İki departmanı birleştirip maliyet kesmek de tek başına synergy değildir, çünkü synergy toplamdan fazlasını, yani ek bir etkiyi anlatır. Sınavda “both sell more together than apart” gibi bir ifade görürsen aklına synergy gelmeli.</p>",
+          "ornek": "<p>Hayali bir spor salonu zinciri ile aynı gruba ait bir sağlıklı yemek kafesi ortak üyelik kartı çıkarıyor. Salon üyeleri kafede indirim alıyor, kafe müşterileri ilk ay salona ücretsiz giriyor. Bir yıl sonra ikisi de tek başına olacağından fazla satıyor. Bu <b>synergy</b>: birlikte yarattıkları etki, ayrı etkilerin toplamından büyük.</p>",
+          "kaynak": [0],
+          "terimler": ["Synergy"],
+          "soru": {
+            "q": "A fictional bookshop and the publishing house in the same group start sharing author events, and both earn more than they did on their own. What does this illustrate?",
+            "o": ["Synergy", "Diversification", "Cost leadership", "Corporate mission"],
+            "x": "Doğru cevap synergy: iki iş birlikte, ayrı ayrı olacaklarından daha fazla kazanıyor, yani 1 + 1 = 3. Diversification çekici, çünkü aynı grupta iki ayrı iş var; ama diversification riski yaymayı anlatır, işlerin birbirine ek değer katmasını değil."
+          }
+        },
+        {
+          "baslik": "Cost leadership ve differentiation",
+          "anlatim": "<p>Hangi pazarda olacağına karar verdikten sonra business düzeyindeki soru gelir: müşteri seni neden rakibine tercih etsin? Kaynak iki temel cevap verir.</p><p><b>Cost leadership</b> (maliyet liderliği): en ucuz olarak kazanmak. Ürün standarttır, maliyetler en aşağı çekilir, fiyat da en düşük olur. Mantığı şu: maliyetin rakiplerinkinden düşükse, en düşük fiyatı verip yine de kâr edebilirsin; fiyat savaşında da en son sen pes edersin. <b>Differentiation</b> (farklılaştırma): benzersiz olarak kazanmak. Kalite, tasarım, teknoloji ya da dayanıklılık gibi bir özellikle öne çıkarsın ve müşteri bunun için daha fazla öder. Amaç ucuzluk değil, rakibin sunamadığı bir şeydir.</p><p>Ayırt etmenin ipucu fiyatın yönüdür. “Cheapest”, “lowest cost”, standart ürün görürsen cost leadership. “Patented”, “unique”, “durable” ile birlikte daha yüksek fiyat görürsen differentiation. Patentli, dayanıklı, benzersiz bir ürünü daha yüksek fiyata satmak tipik bir differentiation sorusudur.</p>",
+          "ornek": "<p>Aynı caddede iki hayali bisiklet dükkânı var. Birincisi tek bir standart model satıyor, deposu şehir dışında, süs yok ve şehrin en düşük fiyatı onda: <b>cost leadership</b>. İkincisi kendi tasarladığı patentli vites sistemiyle, ömür boyu garantili el yapımı bisikletler satıyor ve iki kat fiyat istiyor: <b>differentiation</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Cost leadership", "Differentiation"],
+          "soru": {
+            "q": "A fictional headphone maker sells a model with a patented noise filter and a ten-year guarantee, priced well above every rival. How does it compete?",
+            "o": ["Differentiation", "Cost leadership", "Diversification", "Competitive parity"],
+            "x": "Doğru cevap differentiation: patentli bir özellik ve uzun garanti ürünü benzersiz kılıyor, müşteri de bunun için daha fazla ödüyor. Cost leadership en sık karıştırılan seçenek, ama ters yönü anlatır: standart ürün, en düşük maliyet ve en düşük fiyat."
+          }
+        },
+        {
+          "baslik": "Focus: dar bir segmentte kazanmak",
+          "anlatim": "<p>Üçüncü yol, bütün pazarı değil küçük bir parçasını hedeflemektir. <b>Focus</b> (odaklanma), cost leadership ya da differentiation'ı tek bir dar segmentte uygulamaktır. Yani focus yeni bir kazanma mantığı değildir; önceki iki mantıktan birini seçip onu belli bir müşteri grubuna daraltırsın. Dar segment belli bir müşteri tipi, bölge ya da ihtiyaç olabilir.</p><p>Neden daralırsın? Bütün pazara hizmet eden büyük rakiplerle her yerde yarışmak yerine, küçük bir grubun ihtiyacını herkesten iyi karşılayabilirsin. Sınavda iki soruyu sırayla sor. Önce: bütün pazar mı, dar bir grup mu? Dar bir grupsa focus. Sonra: ucuzluk mu, benzersizlik mi? Böylece doğru cevap “focus (differentiation in a narrow segment)” gibi birleşik bir seçenek olabilir. Sadece belli bir meraklı kitleye çok pahalı ve özel ürün satan bir firma genel differentiation değil, focus örneğidir.</p>",
+          "ornek": "<p>Hayali “Tırmanış Atölyesi” yalnızca profesyonel kaya tırmanıcılarına ayağa özel ölçülmüş ayakkabı yapıyor ve yüksek fiyat istiyor. Dar bir segmente benzersiz ürün sunduğu için bu <b>focus</b>, daha doğrusu dar segmentte <b>differentiation</b>. Aynı şehirde sadece öğrencilere en ucuz öğle yemeğini sunan bir yemekhane ise dar segmentte <b>cost leadership</b> uyguluyor.</p>",
+          "kaynak": [1],
+          "terimler": ["Cost leadership", "Differentiation"],
+          "soru": {
+            "q": "A fictional bakery sells only gluten-free cakes for people with coeliac disease and charges premium prices for its special recipes. Its approach is best described as:",
+            "o": ["Focus (differentiation in a narrow segment)", "Cost leadership across the whole market", "Differentiation across the whole market", "Diversification into unrelated markets"],
+            "x": "Doğru cevap focus: fırın sadece dar bir müşteri grubuna özel tariflerle benzersiz bir ürün sunuyor. En çekici yanlış bütün pazarda differentiation, çünkü ürün gerçekten farklı ve pahalı; ama müşteri kitlesi bilerek dar bir segmentle sınırlanmış, bu da focus'u gösterir."
+          }
+        },
+        {
+          "baslik": "Competitive advantage ve kalıcı olanı",
+          "anlatim": "<p>Cost leadership, differentiation ya da focus; hepsinin amacı bir <b>competitive advantage</b> (rekabet avantajı) yaratmaktır, yani seni rakiplerinden ayıran bir güç. Ama her avantaj uzun ömürlü değildir. Rakibin bir ay içinde taklit edebileceği bir kampanya ya da özellik seni ancak kısa bir süre öne taşır.</p><p><b>Sustainable competitive advantage</b> (sürdürülebilir rekabet avantajı) iki koşulu birden ister: kolayca kopyalanamamalı ve çevredeki değişimlerle kolayca değersizleşmemeli. Birinci koşul rakiplere karşı, ikinci koşul dünyadaki değişime karşı bir kalkandır. Taklit edilmesi zor bir yetenek bile, müşterilerin istekleri tamamen değişirse değerini kaybedebilir. Bu yüzden “şu an rakipten daha iyiyiz” demek tek başına sürdürülebilirlik değildir. Bu fikir bir sonraki derste VRIO ile ölçülebilir hale gelir: oradaki “hard to imitate” sorusu tam olarak kopyalanma koşulunu test eder.</p>",
+          "ornek": "<p>Hayali bir pizzacı “ikinci pizza bedava” kampanyası başlattı ve satışları arttı, ama yan dükkân ertesi hafta aynısını yaptı: bu kısa ömürlü bir avantajdı. Aynı pizzacının yıllar içinde geliştirdiği ve kimsenin bilmediği hamur mayalama yöntemi ise kolay kopyalanamıyor ve damak zevkleri değişmedikçe değerli kalıyor: bu bir <b>sustainable competitive advantage</b> adayı.</p>",
+          "kaynak": [1],
+          "terimler": ["Sustainable competitive advantage"],
+          "soru": {
+            "q": "Which situation best describes a sustainable competitive advantage for a fictional tea brand?",
+            "o": ["A secret blending skill that rivals cannot easily copy and that stays valuable", "A summer discount that made it cheaper than rivals until they matched it", "A new flavour that two competitors launched in similar form a month later", "A popular advert that won customers before a rival ran a similar one"],
+            "x": "Doğru cevap gizli harmanlama becerisi: hem kolay kopyalanamıyor hem de değerini koruyor, yani iki koşulu da sağlıyor. İndirim seçeneği çekici, çünkü gerçekten bir avantaj yaratmış; ama rakipler hemen eşitledi ve kopyalanabilen bir avantaj sürdürülebilir sayılmaz."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Bütün bir işi satmak business strategy'dir, çünkü tek bir işle ilgilidir.", "dogru": "Bütün bir işi almak ya da satmak <b>corporate</b> düzeyidir: “hangi işlerde olmalıyız?” sorusunu yanıtlar."},
+        {"yanlis": "Pazarlamanın gelecek çeyrek kampanya planı business strategy'dir.", "dogru": "Tek bir departmanın rutin planı <b>functional</b> düzeydir."},
+        {"yanlis": "Patentli, dayanıklı ürünü yüksek fiyata satmak cost leadership'tir, çünkü verimli üretilir.", "dogru": "Benzersiz ürün artı yüksek fiyat <b>differentiation</b>'dır."},
+        {"yanlis": "Diversification ile synergy aynı şeydir.", "dogru": "<b>Diversification</b> riski yaymak için farklı işlerde olmaktır; <b>synergy</b> birlikte toplamdan fazla etki yaratmaktır."},
+        {"yanlis": "Dar bir kitleye pahalı ve özel ürün satmak genel differentiation'dır.", "dogru": "Hedef dar bir segmentse yaklaşım <b>focus</b>'tur (dar segmentte differentiation)."},
+        {"yanlis": "Rakiplere karşı her üstünlük sürdürülebilir bir avantajdır.", "dogru": "<b>Sustainable</b> olması için kolayca kopyalanamamalı ve değişimle değersizleşmemeli."}
+      ],
+      "ozet": [
+        "<b>Corporate</b>: hangi işlerde olalım? Üst yönetim; PESTEL, BCG, geniş SWOT.",
+        "<b>Business</b>: bu pazarda nasıl rekabet edelim? Porter, VRIO, value chain.",
+        "<b>Functional</b>: her departman bunu nasıl destekler?",
+        "<b>Diversification</b>: riski yaymak için birbirinden farklı işlerde olmak.",
+        "<b>Synergy</b>: birlikte toplamdan fazlası, yani 1 + 1 = 3.",
+        "<b>Cost leadership</b> en ucuz olarak kazanmak; <b>differentiation</b> ise müşterinin fazladan ödediği benzersiz bir özellikle kazanmak.",
+        "<b>Focus</b>: bu ikisinden birini dar bir segmentte uygulamak.",
+        "<b>Sustainable competitive advantage</b>: kopyalanması ve değersizleşmesi zor güç."
+      ],
+      "aklinda": "Corporate “hangi iş?”, business “nasıl kazanırız?”, functional “departman ne yapar?”. Synergy: 1 + 1 = 3.",
+      "sinavda": "<p>Vakada çoğunlukla birleşik bir seçenek gelir, örneğin firmanın cost leadership ile rekabet ettiği ve iki işin birlikte synergy yarattığı. Her iki yarıyı ayrı ayrı kontrol et; bir yarı doğru diğeri yanlışsa seçenek yanlıştır. Düzey sorularında kararın bütün bir işi mi, bir pazardaki rekabeti mi, yoksa tek bir departmanı mı ilgilendirdiğine bak.</p>"
+    },
+    {
+      "id": "c6c",
+      "ad": "İç analiz: value chain, VRIO ve BCG matrix",
+      "sure": 25,
+      "neden": "<p>Bu üç araç vakalarda en sık sorulan konular arasındadır. Bir faaliyeti value chain'de doğru kutuya koymak, bir kaynağın VRIO sonucunu bulmak ve bir ürünü BCG'de yerleştirmek ezber değil, kısa bir mantık zinciri ister. Mantığı kurarsan altı seçenekli sorularda bile çeldiricileri hızla elersin.</p>",
+      "hedefler": [
+        "İç analiz araçlarını dış analiz araçlarından ayır.",
+        "Bir faaliyeti value chain'de primary ya da support olarak sınıflandır.",
+        "VRIO sorularını sırayla sorup ilk “no”da durarak sonucu bul.",
+        "Bir ürünü pazar büyümesi ve pazar payına göre BCG matrix'te yerleştir."
+      ],
+      "adimlar": [
+        {
+          "baslik": "İç analiz ve value chain fikri",
+          "anlatim": "<p>Strateji kurarken iki yere bakarsın: içeriye ve dışarıya. İç analiz araçları <b>strengths</b> (güçlü yönler) ve <b>weaknesses</b> (zayıf yönler) bulur, yani şirketin içinde olan ve şirketin kontrol edebildiği şeyleri. Bu derste üç iç araç var: value chain, VRIO ve BCG. Dış araçlar (PESTEL ve Porter's five forces) ise şirketin kontrol edemediği çevreye bakar; onlar bir sonraki derste.</p><p><b>Value chain</b> (değer zinciri) Michael Porter'ın modelidir: bir ürünü ya da hizmeti oluşturmak için bir araya gelen bütün faaliyetleri adım adım gösterir. Neden işe yarar? Çünkü “şirketimiz iyi” demek yerine “hangi faaliyette iyiyiz, hangisinde zayıfız?” diye sorabilirsin. Zincir iki gruba ayrılır: ürünü doğrudan yaratan ve müşteriye ulaştıran primary activities ile arka planda onlara yardım eden support activities. Ayrım sorusu hep aynıdır: bu iş müşterinin ödediği ürünü ya da hizmeti doğrudan mı oluşturuyor, yoksa onu oluşturanları mı destekliyor?</p>",
+          "ornek": "<p>Hayali bir lokanta sahibi neden kâr edemediğini anlamak istiyor. <b>Value chain</b> ile her adımı ayrı ayrı inceliyor: sebze teslimatı, mutfak, paket servis, reklam, müşteri şikâyetleri, muhasebe, personel eğitimi. Sorunun mutfakta değil, sebzelerin depoda bozulmasında olduğunu görüyor. Araç ona genel bir “işler kötü” yerine somut bir zayıf halka gösterdi.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Value chain"],
+          "soru": {
+            "q": "A fictional furniture maker wants to find out which of its own activities are strengths and which are weaknesses. Which tool fits this internal question best?",
+            "o": ["Value chain analysis", "PESTEL analysis", "Porter's five forces", "Opportunities and threats list"],
+            "x": "Doğru cevap value chain: şirketin kendi faaliyetlerini tek tek inceleyerek iç güçlü ve zayıf yönleri bulur. PESTEL çekici bir yanlış, çünkü o da bir analiz aracı; ama PESTEL şirketin dışındaki makro çevreye bakar ve kontrol edilemeyen faktörleri inceler."
+          }
+        },
+        {
+          "baslik": "Beş primary activity",
+          "anlatim": "<p><b>Primary activities</b> (birincil faaliyetler) ürünü doğrudan yaratan ve müşteriye ulaştıran beş adımdır. Sıraları bir malın şirketin içinden geçiş yolunu izler; bu yüzden ezberlemek yerine akışı hayal etmen yeter.</p><ol><li><b>Inbound logistics</b> (içe lojistik): girdileri teslim almak ve depolamak.</li><li><b>Operations</b> (operasyonlar): girdileri ürüne dönüştürmek.</li><li><b>Outbound logistics</b> (dışa lojistik): ürünü müşteriye ulaştırmak.</li><li><b>Marketing & sales</b> (pazarlama ve satış): müşterinin ürünü tanıması ve satın alması.</li><li><b>Service</b> (servis): satıştan sonra tamir, iade ve destek.</li></ol><p>Önemli bir incelik: hizmet şirketlerinde “ürün” fiziksel bir eşya olmayabilir. Müşterinin ödediği hizmeti çalışır halde tutan iş de operations ya da logistics'tir. Örneğin yeniden kullanılan ambalaj işinde iade edilen kapları toplamak, temizlemek ve yeniden dağıtmak arka planda kalan bir iş gibi görünür; ama primary'dir, çünkü müşterinin satın aldığı hizmetin ta kendisidir. Müşteri görmüyor diye bir iş support olmaz.</p>",
+          "ornek": "<p>Hayali bir çamaşırhane servisi düşün. Kirli çamaşırları evlerden toplamak inbound logistics, yıkayıp ütülemek operations, temiz çamaşırları geri götürmek outbound logistics, yurtlara broşür dağıtmak marketing & sales, kaybolan çorap şikâyetlerini çözmek de service. Beşi de müşterinin ödediği hizmeti doğrudan oluşturduğu için <b>primary activities</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Primary activities"],
+          "soru": {
+            "q": "A fictional e-scooter rental firm sends a night crew to collect scooters from the streets, charge them and put them back at busy corners. In the value chain this is:",
+            "o": ["A primary activity, because it keeps the service customers pay for working", "A support activity, because the crew works at night when customers are away", "Procurement, because the scooters and batteries were bought from suppliers", "Firm infrastructure, because the night routes have to be planned and managed"],
+            "x": "Doğru cevap primary activity: scooter'ları toplayıp şarj etmek, müşterinin ödediği kiralama hizmetini doğrudan çalışır tutuyor. “Gece çalışıyor, müşteri görmüyor” gerekçesi en çekici yanlış; ama görünmez olmak bir işi support yapmaz, belirleyici olan hizmeti doğrudan oluşturup oluşturmadığıdır."
+          }
+        },
+        {
+          "baslik": "Dört support activity",
+          "anlatim": "<p><b>Support activities</b> (destek faaliyetleri) ürünü kendisi oluşturmaz; primary activities'in iyi çalışmasını sağlar. Dört tanedir:</p><ul><li><b>Firm infrastructure</b> (firma altyapısı): yönetim, finans, hukuk, planlama.</li><li><b>Human resource management</b> (insan kaynakları yönetimi): insanları işe almak, eğitmek, ödüllendirmek.</li><li><b>Technology development</b> (teknoloji geliştirme): Ar-Ge (R&D) ve bilgi teknolojisi (IT).</li><li><b>Procurement</b> (satın alma): tedarikçilerden girdi satın almak.</li></ul><p>En sık karışan çift procurement ile inbound logistics'tir. Procurement satın alma kararı ve işlemidir: hangi tedarikçiden, kaça alınacak. Inbound logistics ise satın alınan malın fiziksel olarak gelip depoya yerleşmesidir. İkinci karışıklık HRM ile ilgilidir: bir işi bir ekip yapıyor diye o iş HRM olmaz; HRM sadece insanları bulma, yetiştirme ve ödüllendirme işidir. Üçüncüsü: yazılımı bakımda tutan ya da patentli bir parçayı geliştiren ekip technology development'tır, çünkü R&D ve IT bu kutudadır.</p>",
+          "ornek": "<p>Hayali bir çikolata atölyesinde kakao tedarikçisiyle fiyat pazarlığı yapan kişi procurement, yeni ustalara eğitim veren kişi human resource management, sipariş sistemini güncelleyen yazılımcı technology development, vergi beyannamesini hazırlayan muhasebeci ise firm infrastructure'da çalışıyor. Hiçbiri çikolatayı kendisi yapmıyor ama hepsi yapılmasını mümkün kılıyor: hepsi <b>support activities</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Support activities"],
+          "soru": {
+            "q": "At a fictional toy company, one team negotiates contracts with plastic suppliers and places all orders for raw materials. Which value-chain activity is this?",
+            "o": ["Procurement (support)", "Inbound logistics (primary)", "Operations (primary)", "Firm infrastructure (support)"],
+            "x": "Doğru cevap procurement: tedarikçilerle sözleşme yapmak ve girdi siparişi vermek satın alma işidir, yani bir support activity. Inbound logistics en çekici yanlış; ama o, satın alınan malın fiziksel olarak teslim alınıp depolanmasıdır, satın alma kararı değil."
+          }
+        },
+        {
+          "baslik": "VRIO: dört soru, sırayla",
+          "anlatim": "<p>Value chain sana hangi faaliyette iyi olduğunu gösterir. Ama iyi olmak rakiplerden ayrışmak için yeterli mi? <b>VRIO</b> bunu ölçer: bir kaynağın ya da yeteneğin rekabet avantajı verip vermediğini dört soruyla test eder.</p><ul><li><b>V, Valuable</b> (değerli): Bu kaynak değer yaratıyor mu?</li><li><b>R, Rare</b> (nadir): Rakiplerin çoğunda yok mu?</li><li><b>I, hard to Imitate</b> (taklit edilmesi zor): Rakipler kolayca kopyalayamıyor mu?</li><li><b>O, Organized</b> (örgütlenmiş): Şirket bu kaynağı kullanacak şekilde örgütlenmiş mi?</li></ul><p>Kural: soruları sırayla sor ve ilk “no”da dur. Sıra neden önemli? Çünkü her soru bir öncekinin üzerine kurulur. Değeri olmayan bir şeyin nadir olması işe yaramaz. Nadir ama kolay kopyalanan bir şey kısa sürede herkeste olur. Bütün bunlara sahip olsan bile kullanmazsan avantaj kâğıt üzerinde kalır. Kaynağın kitap örneği Disney: pazarlama ve tasarım becerileri dört sorudan da geçer.</p>",
+          "ornek": "<p>Hayali bir dondurmacının kendi geliştirdiği gizli bir tarçınlı dondurma tarifi var. Müşteriler bayılıyor (V evet), başka kimsede yok (R evet), tarifi tadından çözmek çok zor (I evet), dükkânın da her gün bu tarifle üretim yapan bir ekibi var (O evet). Dört “evet” aldığı için <b>VRIO</b> sonucu sustained competitive advantage.</p>",
+          "kaynak": [2],
+          "terimler": ["VRIO"],
+          "soru": {
+            "q": "A fictional travel agency has a booking assistant that customers value, that no rival offers, that would take years to copy, and that its staff use every day. VRIO result?",
+            "o": ["Sustained competitive advantage", "Temporary competitive advantage", "Unused competitive advantage", "Competitive parity"],
+            "x": "Doğru cevap sustained competitive advantage: dört sorunun dördüne de “evet” geliyor. Unused competitive advantage çekici olabilir, çünkü ilk üç koşul tutuyor; ama personel aracı her gün kullanıyor, yani şirket bu kaynağı kullanacak şekilde örgütlenmiş ve O da “evet”."
+          }
+        },
+        {
+          "baslik": "VRIO sonuçları: parity, temporary, unused",
+          "anlatim": "<p>Hangi soruda durduğun sonucu belirler. Beş olası sonucu sırayla kur:</p><ul><li>V “no”: <b>competitive disadvantage</b> (rekabet dezavantajı). Değeri olmayan bir kaynak seni geri çeker.</li><li>V evet, R “no”: <b>Competitive parity</b> (rekabet eşitliği). Değerli ama herkeste var; rakiplere yetişirsin, öne geçemezsin.</li><li>V ve R evet, I “no”: <b>Temporary competitive advantage</b> (geçici rekabet avantajı). Değerli ve nadir ama kolay kopyalanır; rakipler taklit edene kadar öndesin.</li><li>V, R ve I evet, O “no”: <b>unused competitive advantage</b> (kullanılmayan rekabet avantajı). Her şey var, ama şirket bunu kullanacak ekip ya da süreç kurmamış.</li><li>Dördü de evet: <b>sustained competitive advantage</b> (uzun vadeli rekabet avantajı).</li></ul><p>Sınavda en çok ortadaki üç sonuç karışır. Kısa ipuçları: “herkeste var” görürsen parity, “bir yıl içinde kopyalanabilir” görürsen temporary, “ama kullanacak ekip yok” görürsen unused. Sonuç zamanla da değişebilir: önce nadir olan bir beceri, rakipler benzer insanları işe alınca parity'ye düşer.</p>",
+          "ornek": "<p>Hayali üç kafe düşün. Birincisinin mobil sipariş uygulaması var ama şehirdeki bütün kafelerde de var: <b>competitive parity</b>. İkincisi şehirdeki tek soğuk demleme kahveyi sunuyor ama gereken ekipmanı herkes alabilir: <b>temporary competitive advantage</b>. Üçüncüsü özel bir kavurma yönteminin patentini almış ama bunu uygulayacak bir kavurma ustası işe almamış: unused competitive advantage.</p>",
+          "kaynak": [2],
+          "terimler": ["Competitive parity", "Temporary competitive advantage"],
+          "soru": {
+            "q": "A fictional gym built the city's only climbing wall, which members love, but any rival could build the same wall within a year. VRIO result?",
+            "o": ["Temporary competitive advantage", "Competitive parity", "Unused competitive advantage", "Sustained competitive advantage"],
+            "x": "Doğru cevap temporary competitive advantage: duvar değerli (V evet) ve şehirde tek (R evet), ama bir yılda kopyalanabilir, yani I sorusunda duruyoruz. Competitive parity çekici, ama parity için kaynağın zaten herkeste olması gerekir; burada şu an yalnızca bu salonda var."
+          }
+        },
+        {
+          "baslik": "BCG matrix: iki eksen, yüksek büyüme kutuları",
+          "anlatim": "<p>Value chain ve VRIO şirketin faaliyetlerine ve kaynaklarına bakar. <b>BCG matrix</b> ise birden çok ürün ya da işten oluşan bir portföye bakar ve her birini iki soruyla yerleştirir: Pazar ne kadar hızlı büyüyor (market growth)? O pazarda ne kadar payımız var (market share)? İki soru, her birine yüksek ya da düşük cevap, toplam dört kutu.</p><p>Yüksek büyümeli pazardaki iki kutu şunlardır. <b>Star</b> (yıldız): yüksek büyüme, yüksek pay. Hızla büyüyen bir pazarda öndesin. <b>Question mark</b> (soru işareti): yüksek büyüme, düşük pay. Pazar cazip ama sen henüz küçük bir oyuncusun; adı da ürünün geleceğinin belirsiz olmasından gelir. İkisini ayıran tek şey pazar payıdır, çünkü büyüme ikisinde de yüksektir. Soruda önce pazarın büyüme hızını, sonra şirketin o pazardaki payını bul; iki bilgiyi birleştirince kutu kendiliğinden çıkar.</p>",
+          "ornek": "<p>Hayali bir oyuncak şirketinin iki yeni ürünü var. Kodlama robotu, hızla büyüyen eğitici oyuncak pazarında satışların yarısını alıyor: <b>star</b>. Sanal gerçeklik gözlüğü de hızla büyüyen bir pazarda, ama satışların ancak küçük bir kısmını alabiliyor: <b>question mark</b>. Büyüme ikisinde de yüksek; farkı pazar payı yaratıyor.</p>",
+          "kaynak": [3],
+          "terimler": ["Star", "Question mark"],
+          "soru": {
+            "q": "A fictional food company launched a plant-based yoghurt. The market for it is booming, but the brand holds only a tiny share against bigger rivals. BCG classification?",
+            "o": ["Question mark", "Star", "Cash cow", "Dog"],
+            "x": "Doğru cevap question mark: pazar hızla büyüyor ama markanın payı küçük. Star en çekici yanlış, çünkü büyüme yüksek; ama star olmak için pazar payının da yüksek olması gerekir."
+          }
+        },
+        {
+          "baslik": "Cash cow ve dog: yavaş büyüyen pazarlar",
+          "anlatim": "<p>Düşük büyümeli pazardaki iki kutu şunlardır. <b>Cash cow</b> (nakit ineği): düşük büyüme, yüksek pay. Pazar artık durgun ama sen orada güçlüsün. Kaynak bu kutunun diğerlerini finanse ettiğini söyler: güçlü konumdaki olgun bir ürün düzenli para getirir ve bu para star ve question mark gibi ürünlere aktarılabilir. Sağılan inek benzetmesi buradan gelir. <b>Dog</b> (köpek): düşük büyüme, düşük pay. Pazar yerinde sayıyor ve sen o pazarda küçüksün. Kaynağa göre olağan karar satmak ya da kapatmaktır.</p><p>Portföy mantığı şöyle çalışır: şirket her ürünü tek başına değil, birbirine bağlı bir bütün olarak yönetir. Cash cow'un getirdiği para geleceğin ürünlerine yatırılır; dog ise kaynakları boşa bağladığı için elden çıkarılmaya adaydır. Sınavda iki kutuyu karıştırma: “düşük büyüme, yüksek pay, kârı yeni ürünleri finanse ediyor” cash cow; “düşük büyüme, düşük pay” dog. Star ile cash cow'u da ayır: ikisinde de pay yüksektir, farkı pazarın büyüme hızı yaratır.</p>",
+          "ornek": "<p>Hayali bir kırtasiye markasının klasik kurşun kalemi, neredeyse hiç büyümeyen kalem pazarının lideri ve her yıl istikrarlı kâr getiriyor; bu kâr yeni dijital çizim tableti projesini finanse ediyor: <b>cash cow</b>. Aynı markanın faks kâğıdı ise küçülen bir pazarda çok küçük bir paya sahip ve yönetim üretimi durdurmayı tartışıyor: <b>dog</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Cash cow", "Dog"],
+          "soru": {
+            "q": "A fictional cereal brand leads a market that has stopped growing, and the steady profits from it pay for the company's newer products. BCG classification?",
+            "o": ["Cash cow", "Star", "Question mark", "Dog"],
+            "x": "Doğru cevap cash cow: pazar büyümüyor ama marka lider ve kârı diğer ürünleri finanse ediyor. Star çekici, çünkü marka lider; ama star yüksek büyümeli bir pazar ister, burada büyüme durmuş."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "İade edilen kapları toplamak, temizlemek ve yeniden dağıtmak arka plan işidir, yani support activity.", "dogru": "Müşterinin ödediği hizmeti doğrudan oluşturduğu için <b>primary</b> (operations ya da logistics)."},
+        {"yanlis": "Değerli bir kaynak her zaman rekabet avantajı sağlar.", "dogru": "Değerli ama herkeste varsa <b>competitive parity</b>; sadece rakiplere yetişirsin."},
+        {"yanlis": "Benzersiz ama kolay kopyalanan kaynak sustained advantage verir.", "dogru": "Bu <b>temporary competitive advantage</b>; I sorusunda durursun."},
+        {"yanlis": "Her şarta sahip ama kullanılmayan kaynak sustained advantage verir.", "dogru": "O “no” ise sonuç <b>unused competitive advantage</b>."},
+        {"yanlis": "Procurement, malların depoya teslim alınmasıdır.", "dogru": "Teslim alma ve depolama <b>inbound logistics</b>; <b>procurement</b> satın alma işidir."},
+        {"yanlis": "Star ve cash cow ikisi de lider olduğu için aynı kutudur.", "dogru": "Fark pazar büyümesindedir: <b>star</b> yüksek, <b>cash cow</b> düşük büyüme."}
+      ],
+      "ozet": [
+        "İç araçlar (value chain, VRIO, BCG) şirketin kontrol ettiği güçlü ve zayıf yönleri bulur.",
+        "<b>Primary</b> beş adımdır: inbound logistics, operations, outbound logistics, marketing & sales, service.",
+        "<b>Support</b> arka planda yardım eden dört faaliyettir: firm infrastructure (yönetim, finans), HRM (insan kaynakları), technology development (Ar-Ge, IT) ve procurement (satın alma).",
+        "Müşterinin ödediği hizmeti doğrudan oluşturan iş, görünmese bile primary'dir.",
+        "<b>VRIO</b>: soruları sırayla sor, ilk “no”da dur.",
+        "Değerli değilse dezavantaj, nadir değilse parity, taklidi kolaysa temporary, şirket kullanmıyorsa unused; dört koşul da sağlanıyorsa sustained.",
+        "<b>BCG</b>: star yüksek büyüme ve yüksek pay, question mark yüksek büyüme ve düşük pay.",
+        "Cash cow düşük büyüme ve yüksek pay, diğerlerini finanse eder; dog düşük ve düşük, satılır ya da kapatılır."
+      ],
+      "aklinda": "VRIO: sırayla sor, ilk “no”da dur. BCG: önce büyüme, sonra pay.",
+      "sinavda": "<p>Vakalarda bu ders üç biçimde gelir: bir faaliyetin value chain'deki yeri (çoğu zaman gerekçesiyle, örneğin “primary: operations, because…”), bir kaynağın VRIO sonucu ve iki ürünün BCG kutuları. Gerekçeli seçeneklerde kutunun yanında gerekçenin de doğru olduğunu kontrol et.</p>"
+    },
+    {
+      "id": "c6d",
+      "ad": "Dış analiz: SWOT, PESTEL ve Porter's five forces",
+      "sure": 25,
+      "neden": "<p>Vakalarda sık gelen bir soru tipi, iki dış gelişmeyi aynı anda sınıflandırmandır: biri bir PESTEL faktörü, diğeri bir Porter kuvveti. Seçenekler birbirine çok benzer, bu yüzden her aracın neye baktığını ve her kategorinin sınırını net bilmen gerekir.</p>",
+      "hedefler": [
+        "Bir faktörü SWOT'ta iç (S ya da W) veya dış (O ya da T) olarak doğru yere koy.",
+        "Bir dış gelişmeyi altı PESTEL faktöründen birine yerleştir.",
+        "Porter'ın beş kuvvetini ayırt et, özellikle new entrants ile substitutes'u.",
+        "PESTEL ile Porter's five forces arasındaki farkı açıkla."
+      ],
+      "adimlar": [
+        {
+          "baslik": "SWOT: içerisi ve dışarısı",
+          "anlatim": "<p><b>SWOT</b>, Ken Andrews'un 1970'lerin başında geliştirdiği bir çerçevedir. İki soruyu çaprazlar: Bu faktör içeride mi, dışarıda mı? Bize yardım mı ediyor, zarar mı veriyor? İki soru dört kutu verir.</p><ul><li><b>Strengths</b> (güçlü yönler): iç ve yardımcı.</li><li><b>Weaknesses</b> (zayıf yönler): iç ve zararlı.</li><li><b>Opportunities</b> (fırsatlar): dış ve yardımcı.</li><li><b>Threats</b> (tehditler): dış ve zararlı.</li></ul><p>İç ve dış ayrımının anahtarı kontroldür. İç faktörler şirketin kontrol edebildiği şeylerdir: personelin becerisi, sistemlerin yaşı, müşteri sadakati. Dış faktörler şirketin kontrol edemediği şeylerdir: yasalar, faiz oranları, yeni rakipler. Bu yüzden yeni bir yasa ne kadar faydalı olursa olsun asla strength olamaz; en fazla opportunity olur. Sınıflandırırken önce “kontrol bizde mi?”, sonra “iyi mi kötü mü?” diye sor.</p>",
+          "ornek": "<p>Hayali bir mahalle fırınının <b>SWOT</b>'u: ustanın kırk yıllık ekşi maya tecrübesi bir strength, eski ve sık bozulan fırın bir weakness; ikisi de içeride ve fırının elinde. Mahallede yeni bir okul açılması bir opportunity, karşıya büyük bir market zincirinin şubesinin açılması bir threat; ikisi de dışarıda ve fırın bunları kontrol edemez.</p>",
+          "kaynak": [0],
+          "terimler": ["SWOT"],
+          "soru": {
+            "q": "In a fictional hotel's SWOT, which pair is classified correctly?",
+            "o": ["Friendly, multilingual staff: strength · A new budget airline route to the city: opportunity", "Friendly, multilingual staff: opportunity · A new budget airline route to the city: strength", "Friendly, multilingual staff: strength · A new budget airline route to the city: weakness", "Friendly, multilingual staff: threat · A new budget airline route to the city: opportunity"],
+            "x": "Doğru seçenekte çalışanlar içeride ve otelin kontrolünde, yani strength; yeni havayolu hattı dışarıda ve misafir getirebilir, yani opportunity. En çekici yanlış hattı weakness yapan seçenek; ama weakness iç bir faktördür ve otelin kontrol edemediği bir gelişme asla S ya da W olamaz."
+          }
+        },
+        {
+          "baslik": "Opportunities, threats ve iyi bir SWOT stratejisi",
+          "anlatim": "<p>SWOT'un dış yarısına yakından bak. <b>Opportunities</b> (fırsatlar), kuruma fayda sağlayabilecek dış faktörlerdir. <b>Threats</b> (tehditler), kontrolün dışında olan ve işi riske atan dış faktörlerdir. İkisi de aynı dış dünyadan gelir; fark yalnızca etkinin yönüdür. Bu yüzden aynı gelişme bir şirket için fırsat, başka bir şirket için tehdit olabilir: tek kullanımlık şişeleri yasaklayan bir kural, doldurulabilir şişe satan bir firma için opportunity, plastik şişe üreticisi için threat'tir. Bir gelişmeyi sınıflandırırken her zaman “bu şirket için” diye düşün.</p><p>SWOT dört liste yazmakla bitmez. Kaynağa göre iyi bir strateji güçlü yönleri fırsatlardan yararlanmak ve tehditleri azaltmak için kullanır, bu arada zayıf yönleri de yönetir. Yani kutular birbiriyle konuşmalı: “Bu güçlü yönümüzle hangi fırsatı yakalarız? Hangi tehdide karşı bizi korur?” Zayıflıklar yok sayılmaz; strateji onları düzeltecek ya da onların etrafından dolaşacak şekilde kurulur.</p>",
+          "ornek": "<p>Hayali bir bisiklet tamircisinin güçlü yönü hızlı ve ucuz tamir. Belediye yeni bisiklet yolları yapıyor (<b>opportunity</b>), büyük bir mağaza da ücretsiz ilk bakım kampanyası başlatıyor (<b>threat</b>). Tamirci hızını öne çıkarıp yeni yollar boyunca “30 dakikada tamir” noktaları kuruyor: güçlü yönüyle fırsatı yakalıyor ve rakibin kampanyasının etkisini azaltıyor.</p>",
+          "kaynak": [0],
+          "terimler": ["Opportunities", "Threats"],
+          "soru": {
+            "q": "A fictional city bans diesel cars from its centre. For a local electric-taxi company, how is this best classified?",
+            "o": ["An external opportunity", "An internal strength", "An external threat", "An internal weakness"],
+            "x": "Doğru cevap external opportunity: yasak şirketin kontrolü dışında ve elektrikli taksilere müşteri getirir. Internal strength en çekici yanlış, çünkü gelişme şirkete yarıyor; ama şirketin kontrol etmediği bir kural iç faktör olamaz. Dizel taksi işleten bir firma için aynı yasak bir threat olurdu."
+          }
+        },
+        {
+          "baslik": "PESTEL: makro çevre (P, E, S)",
+          "anlatim": "<p>SWOT'taki O ve T'yi nereden bulursun? Bir yol <b>PESTEL</b>'dir: şirketin içinde bulunduğu geniş makro çevreyi altı başlıkla tarar. Altı harf, dış dünyayı unutmadan gözden geçirmek için bir kontrol listesidir. İlk üçü:</p><ul><li><b>Political</b> (siyasi): hükümet politikası, siyasi istikrar, ticaret kısıtlamaları, gümrük vergileri (tariffs), vergi politikası.</li><li><b>Economic</b> (ekonomik): büyüme, döviz kurları, faiz oranları, enflasyon, işsizlik.</li><li><b>Sociocultural</b> (sosyokültürel): nüfus, yaş yapısı, yaşam tarzı, sağlık bilinci.</li></ul><p>Political ile economic sınırı bazen bulanıklaşır. Hükümetin aldığı bir karar (tarife, vergi, sübvansiyon) political başlığa girer; ama etkisi fiyatlar ve gelir üzerinden olduğu için vakalar bunu “political/economic” diye birlikte de sınıflandırabilir. Faiz oranı ya da enflasyon gibi piyasa göstergeleri ise doğrudan economic'tir. Sociocultural başlıkta insanların kim olduğuna ve nasıl yaşadığına bakarsın: yaşlanan nüfus ya da artan sağlık bilinci buradadır.</p>",
+          "ornek": "<p>Hayali bir oyuncak ithalatçısı <b>PESTEL</b> yapıyor. Hükümetin ithal oyuncaklara yeni gümrük vergisi koyması political, yerel paranın euro karşısında değer kaybetmesi economic, doğum oranlarının düşmesiyle çocuk sayısının azalması sociocultural. Üçü de şirketin kontrolü dışında ve üçü de bu ithalatçı için threat.</p>",
+          "kaynak": [1],
+          "terimler": ["PESTEL"],
+          "soru": {
+            "q": "The central bank raises interest rates, and fewer people take loans to buy sofas from a fictional furniture importer. Which PESTEL factor and SWOT category fit?",
+            "o": ["Economic; threat", "Political; weakness", "Sociocultural; threat", "Economic; weakness"],
+            "x": "Doğru cevap economic ve threat: faiz oranı ekonomik bir göstergedir, şirketin dışındadır ve satışları azaltır. “Economic; weakness” en çekici yanlış, çünkü faktör doğru; ama weakness iç bir faktördür, şirketin kontrol edemediği faiz oranı ancak threat ya da opportunity olabilir."
+          }
+        },
+        {
+          "baslik": "PESTEL: T, E, L ve SWOT'a taşımak",
+          "anlatim": "<p>Son üç harf:</p><ul><li><b>Technological</b> (teknolojik): yenilik, otomasyon, Ar-Ge, yapay zekâ (AI).</li><li><b>Environmental</b> (çevresel): iklim, çevre politikası, sivil toplum kuruluşlarının (NGO) baskısı.</li><li><b>Legal</b> (hukuki): istihdam, tüketicinin korunması, rekabet (antitrust), patent, sağlık ve güvenlik yasaları.</li></ul><p>Environmental ile legal sık karışır. Environmental doğanın kendisi (iklim) ve çevre konusundaki politika ve baskılardır; legal ise yürürlüğe giren somut bir yasadır. Tek kullanımlık ambalajı yasaklayan bir AB kuralı bir yasa olduğu için vakalar onu legal olarak sınıflandırır. Technological başlıkta soru, dış dünyada hangi yeni teknolojilerin çıktığıdır. Şirketin kendi Ar-Ge ekibi ise bir iç faktördür ve value chain'de technology development'a girer.</p><p>PESTEL'in sonucunu SWOT'a taşırken tek kural var: PESTEL'deki her şey dışarıdadır, bu yüzden her biri opportunity ya da threat olur, asla strength ya da weakness olmaz. Yeni bir yasa ya da tarife hangi kılıkta sorulursa sorulsun cevap budur.</p>",
+          "ornek": "<p>Hayali bir çiçekçi zinciri için üç gelişme: yeni bir yapay zekâ aracının buket siparişlerini tahmin etmeyi kolaylaştırması technological, art arda gelen kurak yazların çiçek fiyatlarını artırması environmental, yeni bir yasanın tüm bitkiler için menşe etiketini zorunlu kılması legal. <b>PESTEL</b> sonucu SWOT'a taşınınca ilki opportunity, diğer ikisi bu çiçekçi için threat olur.</p>",
+          "kaynak": [1],
+          "terimler": ["PESTEL"],
+          "soru": {
+            "q": "A fictional coffee chain learns that a new national law will require every cup to show calorie information. Which PESTEL factor best fits?",
+            "o": ["Legal", "Sociocultural", "Environmental", "Technological"],
+            "x": "Doğru cevap legal: yürürlüğe giren bir tüketici koruma yasası söz konusu. Sociocultural çekici, çünkü kuralın arkasında artan sağlık bilinci olabilir; ama soruda sınıflandırılan şey insanların yaşam tarzı değil, uyulması zorunlu bir yasadır."
+          }
+        },
+        {
+          "baslik": "Porter's five forces: rivalry, new entrants, substitutes",
+          "anlatim": "<p>PESTEL bütün makro çevreye bakar. <b>Porter's five forces</b> (Porter'ın beş kuvveti) ise daha yakına, şirketin bulunduğu sektöre bakar ve o sektörde rekabetin ne kadar sert olduğunu beş kuvvetle açıklar. Merkezde <b>rivalry among existing competitors</b> (mevcut rakipler arasındaki rekabet) durur: sektörde zaten var olan firmaların birbiriyle mücadelesi. Diğer dört kuvvet bu merkezi dört yönden sıkıştırır.</p><p>İlk ikisi en sık karışanlardır. <b>Threat of new entrants</b> (yeni girenlerin tehdidi): pazara yeni şirketlerin girmesi; bunlar aynı türde ürün satan yeni rakiplerdir. <b>Threat of substitutes</b> (ikame ürünlerin tehdidi): müşterinin aynı ihtiyacı karşılayan farklı türde bir ürüne geçmesi. Ayırt etme sorusu: yeni gelen aynı tür ürünü mü satıyor, yoksa aynı işi farklı bir ürünle mi görüyor? Yeni bir film yayın servisi, film yayın servisleri için new entrant'tır; aynı akşam eğlencesini sağlayan bir video oyunu ise substitute'tur. Var olan rakiplerin birbirine karşı fiyat ya da reklam savaşı ise rivalry'dir.</p>",
+          "ornek": "<p>Hayali bir şehirdeki kuaförler için üç durum. Aynı caddeye iki yeni kuaför salonu açılıyor: threat of new entrants. Gençler evde kendi saçlarını kesmek için ucuz tıraş makinesi almaya başlıyor: <b>threat of substitutes</b>, çünkü farklı bir ürün aynı ihtiyacı karşılıyor. Yıllardır var olan üç salon birbirine karşı indirim yarışına giriyor: rivalry among existing competitors. Üçü de <b>Porter's five forces</b> içinde ayrı kuvvetlerdir.</p>",
+          "kaynak": [2],
+          "terimler": ["Porter's five forces", "Threat of substitutes"],
+          "soru": {
+            "q": "More and more office workers hold video calls instead of travelling to meetings. For a fictional business-hotel chain, which force does this represent?",
+            "o": ["Threat of substitutes", "Threat of new entrants", "Bargaining power of buyers", "Rivalry among existing competitors"],
+            "x": "Doğru cevap threat of substitutes: video görüşme bir otel değil, ama toplantı ihtiyacını farklı bir yolla karşılıyor. Threat of new entrants çekici, çünkü dışarıdan yeni bir şey geliyor; ama new entrant aynı türde ürün satan yeni bir firmadır, yani yeni bir otel zinciri olurdu."
+          }
+        },
+        {
+          "baslik": "Buyer power ve supplier power",
+          "anlatim": "<p>Kalan iki kuvvet, sektörün iki ucundaki pazarlık gücüdür. <b>Bargaining power of buyers</b> (alıcıların pazarlık gücü): müşterilerin fiyatları aşağı itme gücü. Bir müşteri satışlarının büyük kısmını tek başına alıyorsa, “fiyatı düşür yoksa başka yerden alırım” diyebilir. <b>Bargaining power of suppliers</b> (tedarikçilerin pazarlık gücü): tedarikçilerin fiyatları yukarı itme gücü. Örneğin bir parçanın tek bir üreticisi varsa, o tedarikçi fiyatı neredeyse istediği gibi belirler.</p><p>İkisini karıştırmamanın yolu yönü takip etmektir. Önce sorunun hangi şirket için olduğunu bul ve onu ortaya koy. O şirketten ürün satın alan taraf baskı yapıyor ve fiyatı aşağı çekiyorsa buyer power. O şirkete girdi satan taraf baskı yapıyor ve fiyatı yukarı çekiyorsa supplier power. Bir tarafın büyük ve güçlü olması tek başına ipucu değildir: büyük bir süpermarket zincirinin bir üreticiden indirim istemesi buyer power'dır, çünkü süpermarket o üreticinin müşterisidir.</p>",
+          "ornek": "<p>Hayali bir peynir mandırası düşün. Ürettiğinin yarısını alan büyük bir market zinciri “gelecek yıl yüzde on indirim yoksa rafları boşaltırız” diyor: <b>bargaining power of buyers</b>. Bölgedeki tek süt kooperatifi de süt fiyatını artırıyor ve mandıranın başka seçeneği yok: bargaining power of suppliers. Mandıra iki yönden birden sıkışıyor.</p>",
+          "kaynak": [2],
+          "terimler": ["Bargaining power of buyers"],
+          "soru": {
+            "q": "A fictional sportswear maker sells most of its output to one huge online retailer, which now insists on lower prices or it will drop the brand. Which force is at work?",
+            "o": ["Bargaining power of buyers", "Bargaining power of suppliers", "Threat of new entrants", "Rivalry among existing competitors"],
+            "x": "Doğru cevap bargaining power of buyers: online perakendeci üreticinin müşterisi ve fiyatı aşağı itiyor. Supplier power en çekici yanlış, çünkü perakendeci büyük ve güçlü; ama üreticiye girdi satmıyor, ondan ürün alıyor, bu yüzden alıcıdır."
+          }
+        },
+        {
+          "baslik": "Üç aracı birbirinden ayırmak",
+          "anlatim": "<p>Bu üç araç sınavda sık sık karıştırılır, çünkü üçü de çevreye bakıyor gibi görünür. Farkı, her birinin bakış açısının genişliğinde ara.</p><p><b>SWOT</b> hem içeriye hem dışarıya bakar: S ve W iç, O ve T dış. <b>PESTEL</b> sadece dışarıya, geniş makro çevreye bakar: devlet, ekonomi, toplum, teknoloji, doğa, hukuk. Bunlar birçok sektörü aynı anda etkileyen büyük güçlerdir. <b>Porter's five forces</b> da dışarıya bakar, ama daha dar bir alana: şirketin sektöründeki rekabet ortamına. Rakipler, yeni girenler, ikameler, alıcılar ve tedarikçiler o sektörün oyuncularıdır.</p><p>Pratikte üçü birlikte çalışır: PESTEL ve Porter dış dünyadaki gelişmeleri bulur, bunlar SWOT'ta O ve T kutularına yazılır; value chain ve VRIO gibi iç araçlar da S ve W kutularını doldurur. Bir gelişme gördüğünde sor: bu bütün ekonomiyi etkileyen bir güç mü (PESTEL), yoksa sektördeki belli bir oyuncunun hamlesi mi (Porter)? Faiz artışı PESTEL'dir; yeni bir rakibin pazara girmesi Porter'dır.</p>",
+          "ornek": "<p>Hayali bir sinema zinciri için iki haber: ülke genelinde enflasyon yükseliyor ve şehre iki yeni sinema şirketi geliyor. Enflasyon makro bir güç, yani <b>PESTEL</b>'de economic bir threat. Yeni sinema şirketlerinin gelmesi sektörün oyuncularıyla ilgili, yani <b>Porter's five forces</b>'ta threat of new entrants. İkisi de dışarıda olduğu için <b>SWOT</b>'ta T kutusuna gider.</p>",
+          "kaynak": [0, 1, 2],
+          "terimler": ["SWOT", "PESTEL", "Porter's five forces"],
+          "soru": {
+            "q": "A fictional bus company studies two developments: fuel taxes are rising nationwide, and a cheap new coach operator has started selling tickets on its routes. Which combination is correct?",
+            "o": ["Fuel taxes: PESTEL factor · New operator: threat of new entrants", "Fuel taxes: Porter force · New operator: sociocultural PESTEL factor", "Fuel taxes: internal weakness · New operator: threat of new entrants", "Fuel taxes: PESTEL factor · New operator: threat of substitutes"],
+            "x": "Doğru seçenekte iki yarı da doğru: yakıt vergisi devletin aldığı makro bir karar, yani PESTEL; aynı türde hizmet satan yeni bir otobüs firması ise threat of new entrants. Son seçenek çekici çünkü ilk yarısı doğru; ama yeni firma farklı bir ürün değil aynı hizmeti sattığı için substitute değil, new entrant'tır."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Yeni bir yasa ya da tarife şirket için bir strength ya da weakness'tir.", "dogru": "Yasa ve tarife dışarıdadır (PESTEL): sadece <b>opportunity</b> ya da <b>threat</b> olabilir."},
+        {"yanlis": "Pazara dışarıdan gelen her şey substitute'tur.", "dogru": "Aynı türde ürün satan yeni firma <b>new entrant</b>; aynı ihtiyacı farklı bir ürünle karşılayan şey <b>substitute</b>."},
+        {"yanlis": "Fiyat indirimi isteyen büyük müşteri supplier power'dır, çünkü güçlüdür.", "dogru": "Müşteri fiyatı aşağı itiyorsa <b>bargaining power of buyers</b>."},
+        {"yanlis": "SWOT da PESTEL gibi sadece dış çevreye bakar.", "dogru": "<b>SWOT</b> iç (S, W) ve dış (O, T) birlikte; <b>PESTEL</b> sadece dış makro çevre."},
+        {"yanlis": "PESTEL ile Porter aynı aracın iki adıdır.", "dogru": "<b>PESTEL</b> geniş makro çevre, <b>Porter</b> sektördeki rekabet ortamı."}
+      ],
+      "ozet": [
+        "<b>SWOT</b>: S ve W iç ve kontrol edilebilir, O ve T dış ve kontrol edilemez.",
+        "İyi strateji güçlü yönlerle fırsatları yakalar, tehditleri azaltır, zayıflıkları yönetir.",
+        "<b>PESTEL</b> altı dış başlıktır: political, economic, sociocultural, technological, environmental, legal.",
+        "PESTEL'deki her şey dışarıdadır: opportunity ya da threat olur, asla S ya da W.",
+        "<b>Porter</b>: merkezde rivalry; çevresinde new entrants, substitutes, buyer ve supplier gücü.",
+        "Aynı ürünü satan yeni firma new entrant, aynı ihtiyacı farklı ürünle karşılayan substitute.",
+        "Müşteri fiyatı aşağı iter (buyer power), tedarikçi yukarı iter (supplier power).",
+        "PESTEL makro çevreye, Porter sektör çevresine bakar."
+      ],
+      "aklinda": "İçerisi S ve W, dışarısı O ve T. Yasa asla strength değildir.",
+      "sinavda": "<p>Vakalarda tipik soru iki dış gelişmeyi birleşik bir seçenekte sınıflandırmaktır: biri bir Porter kuvveti, diğeri bir PESTEL faktörü ve fırsat mı tehdit mi olduğu. Her iki yarıyı ayrı ayrı kontrol et; çeldiriciler genellikle bir yarıyı doğru, diğerini yanlış bırakır.</p>"
+    },
+    {
+      "id": "c6e",
+      "ad": "Stratejiler nasıl ortaya çıkar: intended, deliberate, emergent, realized",
+      "sure": 20,
+      "neden": "<p>Vakalar sık sık bir planın yolda değiştiği bir hikâye anlatır ve yeni yolun nasıl sınıflandırılacağını sorar. Bu dersin terimlerini birbirine bağlı bir denklem olarak kurarsan, hikâyedeki her parçayı doğru etikete koyarsın.</p>",
+      "hedefler": [
+        "Bir şirket hikâyesindeki her parçayı intended, deliberate, unrealized, emergent ya da realized strategy olarak doğru etikete koy.",
+        "Realized strategy'nin deliberate ve emergent parçalardan oluştuğunu açıkla.",
+        "Design school ile emergence (learning) school arasındaki farkı anlat.",
+        "Çevrenin oynaklığının emergence'ın rolünü nasıl etkilediğini açıkla."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Intended strategy: masada çizilen plan",
+          "anlatim": "<p>Önceki derslerde stratejinin nasıl analiz edilip seçildiğini gördün. Bu ders başka bir şey sorar: masada çizilen plan sahada aynen gerçekleşir mi? Çoğu zaman hayır. Bu dersin terimleri, plan ile gerçek arasındaki farkı adlandırmak için var.</p><p>Başlangıç noktası <b>Intended strategy</b> (amaçlanan strateji): üst yönetim ekibinin tasarladığı stratejidir. Kaynağa göre bu strateji tek bir kişinin kafasından çıkmaz; yöneticiler arasında müzakere, pazarlık ve uzlaşmayla oluşur. Yani daha en başta bile birkaç farklı görüşün ortak noktası olan bir plandır. Intended strategy “ne yapmayı amaçladık?” sorusunun cevabıdır, “ne yaptık?” sorusunun değil. Sınavda “the board planned…” ya da “top management decided at the start…” gibi ifadeler intended'a işaret eder. Plan sonradan gerçekleşse de gerçekleşmese de, en baştaki hali intended olarak kalır.</p>",
+          "ornek": "<p>Hayali “Deniz Kitabevi”nin yönetim kurulu yıl başında toplanıyor. Bir üye üç yeni şube, diğeri büyük bir online mağaza istiyor; uzun bir tartışmadan sonra “iki yeni şube ve küçük bir online mağaza” planında uzlaşıyorlar. Bu uzlaşmayla çıkan plan kitabevinin <b>intended strategy</b>'si: henüz hiçbir şey uygulanmadı, sadece amaçlandı.</p>",
+          "kaynak": [0],
+          "terimler": ["Intended strategy"],
+          "soru": {
+            "q": "At the start of the year, the managers of a fictional ski resort argue for weeks and finally agree on a plan to build two new lifts and a hotel. What is this agreed plan called?",
+            "o": ["Intended strategy", "Realized strategy", "Emergent strategy", "Unrealized strategy"],
+            "x": "Doğru cevap intended strategy: üst yönetimin müzakere ve uzlaşmayla tasarladığı plan. Realized strategy çekici bir yanlış, çünkü plan kesinleşmiş gibi görünüyor; ama realized sonunda gerçekten uygulanan stratejidir ve burada henüz hiçbir şey uygulanmadı."
+          }
+        },
+        {
+          "baslik": "Deliberate, unrealized ve design school",
+          "anlatim": "<p>Plan sahaya çıkınca ikiye ayrılır. <b>Deliberate strategy</b> (kasıtlı strateji): intended strategy'nin gerçekten uygulanan kısmıdır; planlandı ve yapıldı. <b>Unrealized strategy</b> (gerçekleşmeyen strateji): planın hiç hayata geçmeyen kısımlarıdır.</p><p>Planlar neden gerçekleşmez? Kaynak üç neden sayar: plan kötü kurulmuştur, rakipler planı baltalar ya da uygulama zayıftır. Kaynağa göre Mintzberg, intended strategy'nin yalnızca yüzde 10 ile 30 arasının gerçekleştiğini söyler. Yani planın büyük kısmı unrealized kalır.</p><p>Deliberate strategy'nin arkasındaki düşünce okulu <b>Design school</b> (tasarım okulu): stratejiyi rasyonel, bilinçli ve yukarıdan aşağıya bir planlama işi olarak görür. Üst yönetim analiz eder ve karar verir, organizasyon uygular. Bu yaklaşım düzenli ve açıktır, ama dünyanın plan yazıldığı gibi kalacağını varsayar. Deliberate ile intended'ı karıştırma: intended bütün plandır, deliberate o planın sadece gerçekleşen parçasıdır.</p>",
+          "ornek": "<p>Hayali “Deniz Kitabevi” iki yeni şubesini planlandığı gibi açtı: bu kısım <b>deliberate strategy</b>. Küçük online mağaza ise anlaştıkları yazılım firması kapanınca hiç açılamadı: bu kısım unrealized strategy. Yönetimin baştaki rasyonel, yukarıdan aşağı planlama tarzı da <b>design school</b> yaklaşımını yansıtıyor.</p>",
+          "kaynak": [0],
+          "terimler": ["Deliberate strategy", "Design school"],
+          "soru": {
+            "q": "A fictional zoo's board planned a new reptile house and a night safari. The reptile house opened exactly as designed, but the night safari was never built. The night safari part of the plan is:",
+            "o": ["Unrealized strategy", "Deliberate strategy", "Emergent strategy", "Realized strategy"],
+            "x": "Doğru cevap unrealized strategy: planın hiç hayata geçmeyen kısmı. Deliberate strategy en çekici yanlış, çünkü gece safarisi de baştaki planın parçasıydı; ama deliberate yalnızca planın gerçekten uygulanan kısmıdır, yani burada sürüngen evi."
+          }
+        },
+        {
+          "baslik": "Emergent strategy ve emergence (learning) school",
+          "anlatim": "<p>Plan uygulanırken dünya değişir: müşteriler başka şey ister, bir deneme beklenmedik sonuç verir. Yöneticiler planı yorumlar ve yeni koşullara uyarlar. Bu uyarlamalardan doğan kararlara <b>Emergent strategy</b> (ortaya çıkan strateji) denir. Emergent strategy çoğu zaman aşağıdan yukarıya gelir: genel merkezden değil, mağaza müdürlerinden, fabrika yöneticilerinden, sahada müşteriyi gören insanlardan. Kimse onu başta planlamamıştır, ama tekrar eden kararlar zamanla bir yön oluşturur.</p><p>Bunun arkasındaki düşünce okulu <b>Emergence (learning) school</b> (ortaya çıkış ya da öğrenme okulu): strateji, birçok düzeyde verilen birçok kararın birikiminden doğar. “Learning” adı buradan gelir: şirket yaparak öğrenir ve öğrendikçe yönünü değiştirir. Design school ile farkı net: design school stratejiyi önceden ve tepede yapılan bir plan sayar, emergence school ise zamanla ve her düzeyde biriken kararların ortaya çıkardığı bir yön sayar. Pilot sonuçları yüzünden orijinal plandan farklı bir yola geçmek, tipik bir emergent strategy hikâyesidir.</p>",
+          "ornek": "<p>Hayali bir kahve zincirinin planı kampüslerde oturmalı kafeler açmaktı. Şube müdürleri öğrencilerin ders arasında aceleyle kahve aldığını fark edip kendi inisiyatifleriyle “önceden sipariş, kapıda teslim” noktaları kurdu. Uygulama yayıldı ve zincirin ana yönü oldu. Bu <b>emergent strategy</b>: plandan değil sahadaki öğrenmeden doğdu, yani <b>emergence (learning) school</b>'un anlattığı türden.</p>",
+          "kaynak": [0],
+          "terimler": ["Emergent strategy", "Emergence (learning) school"],
+          "soru": {
+            "q": "A fictional gym chain planned to grow through big city-centre clubs. Branch managers noticed many members wanted early-morning outdoor classes and started running them in parks. These park classes are best described as:",
+            "o": ["Emergent strategy", "Intended strategy", "Deliberate strategy", "Unrealized strategy"],
+            "x": "Doğru cevap emergent strategy: park dersleri planda yoktu, şube müdürlerinin üyeleri gözlemleyip uyarlamasından aşağıdan yukarıya doğdu. Deliberate strategy çekici, çünkü dersler fiilen yapılıyor; ama deliberate yalnızca baştaki planın uygulanan kısmıdır ve park dersleri hiç planlanmamıştı."
+          }
+        },
+        {
+          "baslik": "Realized strategy: gerçekte olan",
+          "anlatim": "<p>Şimdi parçaları birleştir. <b>Realized strategy</b> (gerçekleşen strateji), sonunda gerçekten uygulanan stratejidir ve iki parçadan oluşur: planlanıp yapılan kısım (deliberate) artı yolda ortaya çıkan kısım (emergent). Unrealized parça bu toplamın dışında kalır, çünkü hiç gerçekleşmemiştir.</p><p>Bunu bir akış gibi düşün: intended strategy'nin bir kısmı düşer (unrealized), kalanı deliberate olarak devam eder; yanına sahadan emergent kararlar eklenir; deliberate ile emergent'in toplamı realized olur. Mintzberg'in rakamı bu yüzden şaşırtıcı değil: intended'ın sadece yüzde 10 ile 30 arası gerçekleşiyorsa, şirketin sonunda yaptığı şeyin önemli bir kısmı emergent kaynaklı olabilir.</p><p>Sınavın sevdiği soru şudur: pilot sonuçları orijinal plandan farklı bir yaklaşıma yol açtı, bu nasıl sınıflandırılır? Doğru cevap iki kavramı birleştirir: değişiklik emergent strategy'dir ve uygulandığı için realized strategy'nin parçası olmuştur. Sadece “intended” ya da sadece “deliberate” diyen seçenekler yanlıştır, çünkü yeni yol plandan gelmedi.</p>",
+          "ornek": "<p>Hayali bir dil okulu yetişkinler için hafta sonu grup kursları planlamıştı. Deneme döneminde velilerin çocukları için okul sonrası kurs istediğini görünce çocuk kurslarını açtı. İki yıl sonra okulun yaptığı şey: planlandığı gibi açılan hafta sonu kursları (deliberate) artı çocuk kursları (emergent). Bu toplam okulun <b>realized strategy</b>'si.</p>",
+          "kaynak": [0],
+          "terimler": ["Realized strategy"],
+          "soru": {
+            "q": "A fictional meal-kit company planned weekly boxes for families. Trial results showed students preferred single portions, so it switched to student boxes, which now bring most of its sales. How should the switch be classified?",
+            "o": ["Emergent strategy that became part of the realized strategy", "Intended strategy that the board designed before the trials", "Deliberate strategy carried out exactly as first planned", "Unrealized strategy that never made it into practice"],
+            "x": "Doğru cevap emergent strategy'nin realized strategy'nin parçası olması: değişiklik plandan değil deneme sonuçlarından doğdu ve şimdi gerçekten uygulanıyor. Deliberate strategy çekici, çünkü yeni kutular fiilen satılıyor; ama deliberate yalnızca baştaki planın aynen uygulanan kısmıdır ve öğrenci kutuları planda yoktu."
+          }
+        },
+        {
+          "baslik": "Çevre, denge ve en iyi uygulama",
+          "anlatim": "<p>Hangi şirkette emergence daha çok rol oynar? Kaynağın cevabı: çevre ne kadar oynaksa (volatile), emergence o kadar fazladır. Mantığı açık: hızla değişen bir pazarda bugün yazılan plan yarın eskir, bu yüzden sahadaki uyarlamalar stratejinin büyük kısmını oluşturur. İstikrarlı kurumlar ise, örneğin posta hizmetleri, ayrıntılı plan yapabilir, çünkü yarın da büyük ölçüde bugüne benzeyecektir.</p><p>Kaynağın kitap örneği Intel: bellek çiplerinden mikroişlemcilere geçiş, fabrika düzeyindeki kararlardan büyüdü. Bu, emergence'ın büyük bir stratejik dönüşümü bile başlatabileceğini gösterir.</p><p>Peki hangi okul haklı? Kaynağa göre soru bu değil. En iyi uygulama ikisini dengelemektir: design, yani planlama, ile emergence'dan yararlanma esnekliğini birlikte kullanmak. Pratikte genel merkez misyonu, hedefleri ve bütçeleri belirler; birimler bu çerçevenin içinde uyarlar ve dener. Planın tamamen gereksiz olduğunu ya da her şeyin önceden planlanabileceğini söyleyen seçenekler bu görüşle çelişir.</p>",
+          "ornek": "<p>Hayali bir yemek dağıtım girişimi, her ay yeni rakiplerin ve fiyat değişikliklerinin çıktığı oynak bir pazarda çalışıyor. Genel merkez sadece misyonu, yıllık hedefleri ve şehir bütçelerini belirliyor; her şehir ekibi kendi kampanyalarını deniyor ve işe yarayanları paylaşıyor. Bu, <b>design school</b>'un çerçevesi ile <b>emergence (learning) school</b>'un esnekliğinin dengelenmesidir.</p>",
+          "kaynak": [0],
+          "terimler": ["Design school", "Emergence (learning) school"],
+          "soru": {
+            "q": "Which fictional organization can rely most on detailed long-term planning rather than on emergence?",
+            "o": ["A regional water utility in a very stable market", "A mobile-game studio whose market changes every month", "A fashion start-up chasing fast-moving social trends", "A drone maker in a market full of new technologies"],
+            "x": "Doğru cevap su idaresi: pazar çok istikrarlı ve yarın bugüne benzeyeceği için ayrıntılı plan işe yarar. Diğer üç seçenek oynak çevreleri anlatıyor; kaynağa göre çevre ne kadar oynaksa emergence o kadar büyük rol oynar, bu yüzden oralarda katı bir uzun plan çabuk eskir."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Pilot sonuçlarından doğan yeni yaklaşım intended strategy'dir, çünkü yönetim onu sonradan onayladı.", "dogru": "Plandan değil deneyimden doğdu: <b>emergent</b>; uygulandığı için de <b>realized</b> strategy'nin parçası."},
+        {"yanlis": "Deliberate ile intended aynı şeydir.", "dogru": "<b>Intended</b> bütün plandır; <b>deliberate</b> onun sadece gerçekten uygulanan kısmıdır."},
+        {"yanlis": "Realized strategy sadece planlanıp yapılan kısımdır.", "dogru": "<b>Realized</b>, deliberate artı emergent'tir."},
+        {"yanlis": "Doğru olan tek bir okuldur: ya tam plan ya hiç plan.", "dogru": "Kaynağa göre en iyisi <b>design</b> ile <b>emergence</b>'ı dengelemektir."},
+        {"yanlis": "İstikrarlı bir çevrede emergence daha büyük rol oynar.", "dogru": "Tersi: çevre ne kadar oynaksa <b>emergence</b> o kadar büyük rol oynar."}
+      ],
+      "ozet": [
+        "<b>Intended</b>: üst yönetimin müzakere ve uzlaşmayla tasarladığı plan.",
+        "<b>Deliberate</b>: planın gerçekten uygulanan kısmı; arkasında design school var.",
+        "<b>Unrealized</b>: planın hiç gerçekleşmeyen kısmı.",
+        "<b>Emergent</b>: yolda uyarlamalardan doğan kararlar, çoğu zaman aşağıdan yukarı; arkasında learning school var.",
+        "<b>Realized</b>: deliberate artı emergent, yani gerçekte olan.",
+        "Mintzberg: intended strategy'nin yalnızca yüzde 10 ile 30 arası gerçekleşir.",
+        "Planlar kötü kurgu, rakiplerin baltalaması ya da zayıf uygulama yüzünden tutmaz.",
+        "Oynak çevre daha çok emergence demektir; en iyisi planlama ile esnekliği dengelemektir."
+      ],
+      "aklinda": "Realized = deliberate + emergent. Plan masada doğar, strateji sahada olgunlaşır.",
+      "sinavda": "<p>Vakada genellikle planın değiştiği bir hikâye anlatılır ve yeni yönün nasıl sınıflandırılacağı sorulur. Doğru seçenek çoğu zaman “emergent strategy that became part of the realized strategy” biçimindedir; plan kelimesini ya da yönetimin onayını görüp aceleyle intended veya deliberate seçme.</p>"
+    }
+  ]
+}

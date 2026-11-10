@@ -1,0 +1,783 @@
+{
+ "chapters": [
+  {
+   "ch": 1,
+   "ad": "Yönetim ve yöneticiler",
+   "giris": "<p>Bu bölüm dersin temelini kurar: <b>management</b> (yönetim) ne demektir ve yöneticiler gün boyu ne yapar? İlk derste yönetimin dört fonksiyonunu (P-O-L-C), planlamanın üç seviyesini ve bir organizasyonun performansının nasıl ölçüldüğünü öğrenirsin. İkinci derste aynı konuya kişi açısından bakarsın: hangi tür yöneticiler var, Mintzberg'e göre hangi rolleri oynarlar ve Katz'a göre hangi becerilere ihtiyaç duyarlar. İki ders birbirini tamamlar: biri yönetimin ne olduğunu, diğeri onu kimin ve nasıl yaptığını anlatır.</p>",
+   "baglanti": "<p>Bu ilk bölüm sonraki bölümlerin haritasıdır. P-O-L-C'deki Leading fonksiyonu 3. bölümde liderlik ve güç olarak açılır. 2. bölüm ise yönettiğin insanlara, yani onların kişiliğine, değerlerine ve işe karşı tutumlarına geçer.</p>",
+   "sinav": "<p>1. bölüm sınavın Part 1 kısmında sorulur: 20 çoktan seçmeli soru, her biri 2 puan, ve hatırlamayı ölçer. Bu yüzden tanımları ve listeleri (dört fonksiyon, üç planlama seviyesi, Mintzberg'in on rolü, Katz'ın üç becerisi) eksiksiz ve İngilizce adlarıyla bilmen gerekir. İki dersin her biri yaklaşık 4 puan ağırlığındadır.</p>",
+   "okul": {
+    "once": "Dört P-O-L-C fonksiyonunun adlarını ve Mintzberg'in üç rol grubunu bir kez göz gezdir. Derse şu soruyu götür: Bir yönetici günü boyunca gerçekte ne yapar ve bunu yapabilmek için neye ihtiyaç duyar?",
+    "odak": [
+     "Hocanın <b>Planning</b> ile <b>Controlling</b> arasında çizdiği sınır",
+     "Üç planlama seviyesinin süreleri ve kimin yaptığı",
+     "<b>Disseminator</b> ile <b>spokesperson</b> örnekleri",
+     "Katz'ın becerilerinin yönetici seviyesine göre değişimi",
+     "Line ve staff manager örnekleri"
+    ],
+    "sonra": "Önce c1a dersini baştan sona çalış ve her adımın sorusunu çöz; ardından c1b'ye geç. İki dersin tuzaklar listesini birlikte oku, çünkü Mintzberg ve Katz listeleri ile P-O-L-C fonksiyonları sınavda birbirine karıştırılır. Son olarak ünite sorularını çöz ve yanlış yaptığın her soruda ilgili adıma geri dön."
+   }
+  },
+  {
+   "ch": 2,
+   "ad": "Kişilik, değerler ve iş tutumları",
+   "giris": "<p>Bu bölüm yönetilen insana odaklanır. İlk derste insanların kalıcı farklarını görürsün: Big Five kişilik özellikleri, self-monitoring ve self-efficacy gibi diğer boyutlar, kişilik testlerinin sınırları ve değerler. İkinci derste bu kalıcı farklardan, insanların işlerine ve şirketlerine ne hissettiğine geçersin: iş tatmini, örgütsel bağlılık, bunları besleyen adalet ve stres gibi kaynaklar, tutumların nasıl ölçüldüğü ve kişi ile ortam arasındaki uyum. Bağlantı basittir: kim olduğun, nerede mutlu olacağını büyük ölçüde belirler.</p>",
+   "baglanti": "<p>1. bölümde yönetimi işleri başkalarının emeğiyle yaptırmak olarak tanımladın; bu bölüm o “başkalarını” tanıtır. 3. bölüm ise aynı Big Five özelliklerini bu kez liderlik açısından yeniden kullanır, örneğin extraversion'ın liderlikle bağını.</p>",
+   "sinav": "<p>2. bölüm Part 1'de sorulur: 20 çoktan seçmeli soru, her biri 2 puan, ve hatırlamayı ölçer. Sorular çoğunlukla bir kişiyi birkaç sıfatla tarif eder ve doğru kavramı ister. İki dersin her biri yaklaşık 4 puan ağırlığındadır.</p>",
+   "okul": {
+    "once": "Big Five'ın beş harfini ve job satisfaction ile organizational commitment tanımlarını bir kez oku. Derse şu soruyu götür: Bir insanın iş yerindeki davranışını kişiliği mi, yoksa içinde bulunduğu ortam mı belirler?",
+    "odak": [
+     "Hocanın OCEAN özelliklerine verdiği iş yeri örnekleri",
+     "<b>Self-esteem</b> ile <b>self-efficacy</b> arasındaki fark",
+     "Üç <b>organizational justice</b> türünün örnekleri",
+     "<b>Role ambiguity</b> ile <b>role conflict</b> ayrımı",
+     "Person-job fit ve person-organization fit örnekleri"
+    ],
+    "sonra": "Önce c2a dersini baştan sona çalış ve her adımın sorusunu çöz, sonra c2b'ye geç. İki dersin tuzaklar kısmını yan yana oku, çünkü conscientiousness ile organizational commitment karışıklığı iki dersi birbirine bağlar. En sonda ünite sorularını çöz ve her yanlışta ilgili adıma dön."
+   }
+  },
+  {
+   "ch": 3,
+   "ad": "Liderlik: güç, özellikler ve davranışlar",
+   "giris": "<p>Bu bölüm 1. bölümdeki Leading fonksiyonunu derinleştirir. İlk derste liderliğin ne olduğunu, formal ve informal liderleri, French ve Raven'ın beş güç kaynağını ve liderin gücü nasıl kullandığını anlatan tarzları (Tannenbaum ve Schmidt, Theory X ve Y, Muczyk ve Reimann) öğrenirsin. İkinci derste liderlik araştırmasının iki erken yaklaşımına geçersin: lideri lider yapan özellikler ve liderlerin gerçekte yaptığı davranışlar. Bölümün ana fikri, liderliğin unvandan değil etkiden doğduğudur.</p>",
+   "baglanti": "<p>1. bölümdeki Leading fonksiyonu ve 2. bölümdeki Big Five özellikleri burada birleşir: extraversion, conscientiousness ve self-monitoring liderlikle ilişkilendirilir. Sözlükte liderlik terimleri 3. ve 4. bölüm olarak birlikte geçer, yani burada kurduğun temel bir sonraki bölümde de kullanılır.</p>",
+   "sinav": "<p>3. bölüm Part 2'de sorulur: 15 kısa vaka, her biri 2 puan, ve bir senaryoda anlamayı ölçer. Tanımı bilmek yetmez; vakadaki ipucunu (unvan mı, bilgi mi, hayranlık mı; rol dağıtmak mı, duygulara ilgi mi) doğru kavrama bağlaman gerekir. İki dersin her biri yaklaşık 4 puan ağırlığındadır.</p>",
+   "okul": {
+    "once": "Beş güç kaynağının adlarını ve task-oriented ile people-oriented davranışın tanımlarını bir kez oku. Derse şu soruyu götür: Unvanı olmayan biri nasıl olur da bir ekibi yönlendirebilir?",
+    "odak": [
+     "<b>Position power</b> ile <b>personal power</b> ayrımı",
+     "Hangi gücün bağlılık, hangisinin yabancılaşma yarattığı",
+     "<b>Theory X</b> ve <b>Theory Y</b> varsayımları",
+     "Judge ve arkadaşlarının liderlikle ilişkili bulduğu özellikler",
+     "Laissez-faire tarzının neden en kötü sicile sahip olduğu"
+    ],
+    "sonra": "Önce c3a dersini çalış, özellikle güç adımlarındaki vakaları dikkatle çöz; sonra c3b'ye geç. Bu bölüm sınavda vaka olarak geldiği için her adımın sorusunda cevabı veren ipucu kelimeyi bulmaya çalış. En sonda ünite sorularını çöz ve yanlışlarında tuzaklar listesine dön."
+   }
+  }
+ ],
+ "lessons": [
+  {
+   "id": "c1a",
+   "ad": "Yönetim ve P-O-L-C çerçevesi",
+   "sure": 25,
+   "neden": "<p>Bu ders, dersin geri kalanının dilini kurar. Sınavda kısa bir durum okuyup “bu hangi fonksiyon?” ya da “bu hangi planlama seviyesi?” diye karar vermen istenir. Bu soruları ezberle değil, her kavramın hangi sorunu çözdüğünü bilerek çözersin.</p>",
+   "hedefler": [
+    "Management tanımını kendi cümlelerinle açıkla.",
+    "Bir senaryoda <b>Planning</b>, <b>Organizing</b>, <b>Leading</b> ve <b>Controlling</b> fonksiyonlarını ayırt et.",
+    "Strategic, tactical ve operational planlamayı süre ve yönetici seviyesine göre eşleştir.",
+    "Triple bottom line, OCB ve process loss kavramlarını örnekle açıkla.",
+    "Geleneksel ve çağdaş yönetim piramidini karşılaştır."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Yönetim nedir?",
+     "anlatim": "<p>Bir kafe sahibi tek başına çalışıyorsa işi yapan kişidir. Beş çalışan aldığı anda işin bir kısmını başkaları yapar ve onun görevi değişir. Yönetim tam bu noktada başlar. Ders kitabı <b>Management</b> (yönetim) kavramını “the art of getting things done through the efforts of other people”, yani işleri başkalarının emeğiyle yaptırma sanatı olarak tanımlar.</p><p>Tanımdaki kilit ifade <i>through the efforts of other people</i>. Yönetici her işi kendisi yapan kişi değildir; sonucu başkalarının çalışmasıyla ortaya çıkaran kişidir. Kitabın anahtar terim versiyonu buna iki şey ekler: problemleri yaratıcı biçimde çözmek ve organizasyonun hedeflerine ulaşmak. Yani yönetim hem bir amaca bağlıdır hem de insanlar üzerinden işler.</p><p>Sınavda yanlış seçenekler genellikle bu çekirdeği bozar: “önemli işleri kendin yap”, “şirketin sahibi olmak” ya da “çalışanların kişiliğini ve özel seçimlerini kontrol etmek” yönetim değildir. Sahiplik hukuki bir durumdur, yönetim ise bir faaliyettir.</p>",
+     "ornek": "<p>Bir öğrenci proje grubunda Elif sunumun tamamını kendisi hazırlarsa iyi bir çalışan olur ama yönetmiş olmaz. Görevleri paylaştırıp herkesin kendi parçasını zamanında getirmesini sağladığında ise hedefe başkalarının emeğiyle ulaşır. Bu, <b>Management</b> tanımının ta kendisidir.</p>",
+     "kaynak": [0],
+     "terimler": ["Management"],
+     "soru": {
+      "q": "Kemal owns a bakery but has hired a manager, Ines, who gets the daily baking and sales done by guiding six employees. Who is doing management in the course's sense?",
+      "o": [
+       "Ines, because she reaches goals through the efforts of others",
+       "Kemal, because owning the business makes him its manager",
+       "Neither, because management means doing key tasks yourself",
+       "Both equally, because everyone in the bakery manages it"
+      ],
+      "x": "Doğru cevap Ines'tir: yönetim, hedeflere başkalarının emeğiyle ulaşmaktır ve bunu yapan odur. En çekici yanlış seçenek Kemal'dir, ama sahiplik hukuki bir durumdur; işleri başkaları aracılığıyla yaptırmadıkça kimseyi yönetici yapmaz."
+     }
+    },
+    {
+     "baslik": "Planning ve Organizing: hedef ve yapı",
+     "anlatim": "<p>Yönetimin dört fonksiyonu <b>P-O-L-C framework</b> (P-O-L-C çerçevesi) olarak bilinir: Planning, Organizing, Leading, Controlling. Sıralama tesadüf değildir, bir işin doğal akışını izler. Önce nereye gideceğine karar verirsin, sonra oraya gidecek düzeni kurarsın, sonra insanları harekete geçirirsin, en sonunda da doğru yolda olup olmadığını denetlersin.</p><p><b>Planning</b> (planlama), hedefleri belirlemek ve onlara ulaşmak için izlenecek yolu seçmektir. İyi plan boşlukta yapılmaz: çevreyi taramayı (environmental scanning), geleceği tahmin etmeyi (forecasting) ve sağlam kararlar almayı gerektirir. Vizyon ve misyon, strateji oluşturma, amaç ve hedefler bu fonksiyonun içindedir.</p><p><b>Organizing</b> (örgütleme), hedeflere ulaşmak için bir yapı kurmak ve insan kaynağını dağıtmaktır: kim hangi işi yapacak, kim kime bağlı olacak. İş tasarımı (job design), organizasyon tasarımı, kültür ve sosyal ağlar da buraya girer. Ayırt etmenin kolay yolu şu: Planning “ne ve neden” sorusunu, Organizing “kim ve hangi düzenle” sorusunu cevaplar. Bir yönetici işleri yeniden dağıtıyor ya da görevleri yeniden tasarlıyorsa yeni bir hedef koymuyor, yapıyı değiştiriyordur.</p>",
+     "ornek": "<p>Bir bisiklet dükkânının sahibi bu yaz elektrikli bisiklet tamirine de başlamaya karar verir ve yıl sonu için bir gelir hedefi koyar: bu <b>Planning</b>. Ardından bir ustayı bu işe ayırır, tezgâhı ikiye böler ve diğer çalışanların görevlerini yeniden dağıtır: bu <b>Organizing</b>, çünkü hedef aynı kalmış, yalnızca ona ulaştıracak düzen kurulmuştur.</p>",
+     "kaynak": [1],
+     "terimler": ["Planning", "Organizing"],
+     "soru": {
+      "q": "The head nurse of a hospital ward splits the team into two shifts and gives each nurse a fixed group of patients so that the ward's new care targets can be met. Which function is she performing?",
+      "o": ["Organizing", "Planning", "Leading", "Controlling"],
+      "x": "Başhemşire yeni bir hedef koymuyor; var olan hedefe ulaşmak için yapıyı kuruyor ve insanları görevlere dağıtıyor. Bu Organizing'dir. Planning çekici görünür çünkü hedeflerden söz ediliyor, ama hedefler zaten belirlenmiş; burada yapılan iş dağıtımıdır."
+     }
+    },
+    {
+     "baslik": "Leading ve Controlling: etki ve düzeltme",
+     "anlatim": "<p>Plan yapıldı, yapı kuruldu; ama insanlar harekete geçmezse hiçbir şey olmaz. <b>Leading</b> (yönlendirme, liderlik etme), başkalarını harekete geçirmek için kullandığın sosyal ve gayriresmî etki kaynaklarıdır. Anahtar kelime <i>informal</i>: Leading, unvanınla verdiğin emirden çok ilham vermek, motive etmek, iletişim kurmak ve ekibi bir arada tutmakla ilgilidir. Liderlik, karar verme, iletişim, takımlar ve motivasyon bu fonksiyonun içindedir.</p><p><b>Controlling</b> (kontrol), performansın standartlardan sapmamasını sağlamaktır ve üç adımı vardır: (1) performans standartlarını belirle, (2) gerçek performansı standartlarla karşılaştır, (3) gerekiyorsa düzeltici eylem uygula. Sistemler, süreçler ve stratejik insan kaynakları yönetimi buraya girer.</p><p>Sınavın en sevdiği karışıklık şudur: bir yönetici sonucu hedefle karşılaştırıp bir önlem alıyorsa bu planlama gibi görünür, çünkü ileriye dönük bir şey yapılıyordur. Ama eylemi tetikleyen şey bir sapmadır, bu yüzden Controlling'dir. Leading ile Organizing de karışır: Organizing yapıyla ve işlerle uğraşır, Leading ise insanların isteğini ve enerjisini etkiler.</p>",
+     "ornek": "<p>Bir futbol takımının antrenörü sezon başında maç başına iki gol hedefi koymuştur. Beş maç sonra takımın ortalaması bir goldür; antrenör bunu görüp ekstra şut antrenmanı ekler. Standart, karşılaştırma ve düzeltme bir arada olduğu için bu <b>Controlling</b>. Maç öncesi soyunma odasında oyuncuları coşturan konuşması ise <b>Leading</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Leading", "Controlling"],
+     "soru": {
+      "q": "A call-centre supervisor notices that the average waiting time has risen to six minutes against a three-minute standard, so she adds two staff to the peak hours. Which function is this?",
+      "o": ["Controlling", "Planning", "Organizing", "Leading"],
+      "x": "Bir standart (üç dakika) var, gerçek performans (altı dakika) onunla karşılaştırılıyor ve düzeltici eylem alınıyor: üç adımın hepsi Controlling'i gösterir. Personel eklemek Organizing'e de benzer, ama eylemi başlatan şey standarttan sapmadır ve soru bu sapmaya verilen tepkiyi soruyor."
+     }
+    },
+    {
+     "baslik": "Planlamanın üç seviyesi",
+     "anlatim": "<p>Planlama tek bir seviyede yapılmaz, çünkü bir organizasyonda farklı insanlar farklı zaman ufkuyla düşünür. Mantık basittir: ne kadar yukarıdaysan o kadar uzağa ve o kadar geniş bakarsın; ne kadar aşağıdaysan o kadar somut ve yakın plan yaparsın. Üst seviyenin planı alt seviyenin planına çerçeve olur.</p><p><b>Strategic planning</b> (stratejik planlama) üç yıl ve üzerini kapsar ve üst yönetim yapar. Bütün organizasyonu ilgilendirir, misyondan beslenir ve şirketin rakiplere karşı nasıl konumlanacağını belirler; bunu SWOT analizine dayanarak yapar.</p><p><b>Tactical planning</b> (taktik planlama) bir ile üç yıl arasıdır ve orta kademe yöneticilerin işidir. Stratejik planı hayata geçirmek için somut araçları belirler.</p><p><b>Operational planning</b> (operasyonel planlama) bir yıldan kısadır ve alt kademe yöneticiler yapar. Stratejik ve taktik planları destekleyen özel eylem adımlarıdır: haftalık vardiya listesi, aylık sipariş takvimi gibi.</p><p>Sınavda ayırt etmek için üç ipucunu birlikte kullan: süre, planı kimin yaptığı ve planın ne kadar somut olduğu. “İki yıl” ve “orta kademe” görürsen taktik; “gelecek hafta” görürsen operasyoneldir.</p>",
+     "ornek": "<p>Hayalî bir kafe zincirinin yönetim kurulu beş yıl içinde şehrin en çevreci kahvecisi olmaya karar verir (<b>Strategic planning</b>). Bölge müdürü bunu iki yıllık bir programla tüm şubelerde geri dönüşümlü bardağa geçiş olarak somutlaştırır (<b>Tactical planning</b>). Şube sorumlusu da gelecek ayın sipariş ve eğitim takvimini çıkarır (<b>Operational planning</b>).</p>",
+     "kaynak": [2],
+     "terimler": ["Strategic planning", "Tactical planning", "Operational planning"],
+     "soru": {
+      "q": "The marketing manager of a mid-sized shoe company, a middle manager, draws up an 18-month programme of campaigns to carry out the firm's new five-year positioning. Which planning level is this?",
+      "o": ["Tactical planning", "Strategic planning", "Operational planning", "Controlling"],
+      "x": "On sekiz ay bir ile üç yıl arasına düşer, plan bir orta kademe yöneticiden gelir ve amacı var olan stratejiyi uygulamaktır: Tactical planning. Strategic planning çekicidir çünkü beş yıllık konumlanmadan söz ediliyor, ama o kararı üst yönetim zaten vermiş; pazarlama müdürü onu hayata geçirecek araçları planlıyor."
+     }
+    },
+    {
+     "baslik": "Liderlik, girişimcilik ve strateji",
+     "anlatim": "<p>Bu üç kavramın tanımları birbirine çok benzediği için sınavda yer değiştirerek karşına çıkar. Her birinin neyi anlattığına odaklan.</p><p><b>Leadership</b> (liderlik), başkalarını harekete geçiren bir etki eylemidir ve sosyal, gayriresmî etki kaynaklarına dayanır. Bu tanımın Leading fonksiyonuyla neredeyse aynı olması tesadüf değildir: Leading fonksiyonunun özü liderliktir.</p><p><b>Entrepreneurship</b> (girişimcilik), fırsatları (ihtiyaçlar, istekler, problemler) fark etmek ve yenilikçi fikirleri hayata geçirmek için kaynakları kullanmak ya da yaratmak yoluyla yeni girişimler kurmaktır. Bunu var olan bir organizasyonun içinde yapan kişiye <b>Intrapreneur</b> (iç girişimci) denir: yeni bir şirket kurmaz, kendi şirketinde yeni bir ürün ya da iş kolu başlatır. Mantık aynıdır, yalnızca yer farklıdır.</p><p><b>Strategy</b> (strateji) ise Hambrick ve Fredrickson'a göre bir organizasyonun hedeflerine nasıl ulaşacağına dair merkezi, bütünleşik ve dışa dönük kavramdır. “Dışa dönük” kısmı önemlidir: strateji rakipler ve pazar karşısında nerede duracağını anlatır. Kısaca: liderlik insanlarla, girişimcilik fırsatla, strateji organizasyonun bütün yönüyle ilgilidir.</p>",
+     "ornek": "<p>Bir sigorta şirketinde çalışan Deniz, müşterilerin hasar fotoğraflarını uygulamadan yükleyemediğini bir problem olarak fark eder. Yöneticisini ikna eder ve şirket içinde bu özelliği geliştiren küçük bir ekip kurar. Fırsatı görüp kaynak yaratarak yenilik yaptığı için girişimcidir; bunu kendi şirketinin içinde yaptığı için de bir <b>Intrapreneur</b>.</p>",
+     "kaynak": [3],
+     "terimler": ["Entrepreneurship", "Intrapreneur"],
+     "soru": {
+      "q": "A software engineer at a large bank spots that small shop owners lack a simple invoicing app, gets a budget from her bosses and launches the product as a new unit inside the bank. She is best described as:",
+      "o": ["An intrapreneur", "An independent entrepreneur", "A strategic planner", "A functional manager"],
+      "x": "Fırsatı görüp yeni bir girişimi var olan organizasyonun içinde başlattığı için intrapreneur'dür. “Independent entrepreneur” en çekici yanlıştır: girişimcilik mantığı aynıdır, ama o kişi kendi yeni şirketini kurardı; burada iş bankanın içinde kalıyor."
+     }
+    },
+    {
+     "baslik": "Performans: organizasyon, birey ve grup",
+     "anlatim": "<p>Bir organizasyonun ya da bir çalışanın “iyi” olup olmadığını neye bakarak söylersin? Bu adım performansı üç seviyede anlatır.</p><p>Organizasyon seviyesinde <b>Triple bottom line</b> (üçlü sonuç çizgisi), performansı yalnızca kârla değil üç boyutta ölçer: ekonomik, sosyal ve çevresel; kısaca profit, people, planet. Bu fikir <b>CSR</b> (corporate social responsibility, kurumsal sosyal sorumluluk) ile bağlantılıdır: müşterilere, çalışanlara, topluluklara ve çevreye olan etkinin sorumluluğunu yasanın istediğinin ötesinde üstlenmek.</p><p>Birey seviyesinde iki tür performans vardır. <b>In-role performance</b> (rol içi performans), işinin gerektirdiği verimlilik ve kalitedir. <b>OCB</b> (organizational citizenship behaviour, örgütsel vatandaşlık davranışı) ise gönüllü, rol dışı ve organizasyona yarar sağlayan davranıştır. Fark şuradadır: iş tanımında yazıyorsa rol içidir; kimse istemediği hâlde yapılıyorsa OCB'dir.</p><p>Grup seviyesinde kural şudur: grup performansı, grubun girdilerinden <b>Process loss</b> (süreç kaybı) çıkarılarak bulunur. Süreç kaybı, grup etkileşiminde iyi problem çözmeyi engelleyen her şeydir: boşa geçen tartışmalar, belirsiz iş bölümü gibi. Bu yüzden yetenekli beş kişi, kötü işleyen bir grupta tek tek toplamlarından daha az üretebilir.</p>",
+     "ornek": "<p>Bir kütüphanede çalışan Burak kendi görevi olan kitap iadelerini hızlı ve hatasız işler: bu <b>in-role performance</b>. Mesai bitince kimse istemeden yeni gelen stajyere sistemi öğretir: bu <b>OCB</b>. Aynı kütüphanenin dört kişilik etkinlik ekibi ise toplantılarda kimin ne yapacağını tartışmaktan afiş işine yetişemez: bu da <b>Process loss</b>.</p>",
+     "kaynak": [4],
+     "terimler": ["Triple bottom line", "OCB", "Process loss"],
+     "soru": {
+      "q": "An outdoor-gear company publishes one yearly report showing its profit, the number of local jobs it created and the tonnes of CO2 it saved. Which concept does this way of reporting reflect?",
+      "o": ["Triple bottom line", "In-role performance", "Organizational citizenship behaviour", "Group performance"],
+      "x": "Kâr ekonomik, istihdam sosyal, CO2 tasarrufu çevresel boyuttur; üçü birlikte Triple bottom line'ı oluşturur. OCB de iyi bir davranış gibi göründüğü için çekici olabilir, ama OCB bireyin gönüllü ve rol dışı davranışıdır, şirketin performans raporu değildir."
+     }
+    },
+    {
+     "baslik": "Geleneksel ve çağdaş bakış",
+     "anlatim": "<p>Yönetimi bir piramit olarak düşün. <b>Traditional view</b> (geleneksel bakış) piramidi düz tutar: en tepede üst yönetim, altında orta kademe, en altta çalışanlar. Kararlar yukarıdan aşağı iner, çalışanın görevi talimatı uygulamaktır.</p><p><b>Contemporary view</b> (çağdaş bakış) piramidi ters çevirir: <b>upside-down pyramid</b> (ters piramit). En üstte artık müşteriler vardır; onlara hizmet eden çalışanlar ve diğer yöneticiler gelir; üst yönetim ise en alttadır ve onları destekler, onlara hizmet eder. Mantığı şudur: müşteriyle gerçekten temas eden kişi ön saftaki çalışandır, yönetimin işi onun yolunu açmaktır.</p><p>Bunun aracı <b>Empowerment</b> (yetkilendirme): bir kişinin düşünmesini, harekete geçmesini, işini ve kararlarını özerk biçimde kontrol etmesini sağlamak. Yetkilendirilmiş çalışan her küçük sorunda onay beklemez. Kitap bugünün iki eğilimini de anar: DEI ve sustainability (sürdürülebilirlik). Sınavda “top managers support and serve employees, who serve the customers” gördüğünde çağdaş bakışı tanı.</p>",
+     "ornek": "<p>Hayalî bir otel zinciri, resepsiyon görevlilerine şikâyet eden bir misafire müdüre sormadan ücretsiz oda yükseltmesi verme hakkı tanır. Müdürün işi artık onay vermek değil, görevlilere eğitim ve araç sağlamaktır. Bu, ters piramidin ve <b>Empowerment</b>'ın birlikte çalıştığı bir örnektir.</p>",
+     "kaynak": [5],
+     "terimler": ["Empowerment"],
+     "soru": {
+      "q": "At a chain of pharmacies, the regional directors say their job is to remove obstacles for store staff, and staff may solve customer problems without asking for approval. This best reflects:",
+      "o": [
+       "The upside-down pyramid with empowerment",
+       "The traditional top-down pyramid of control",
+       "Tactical planning by middle management",
+       "Process loss caused by an unclear structure"
+      ],
+      "x": "Üst yönetimin çalışanlara hizmet etmesi ve çalışanların onay beklemeden karar verebilmesi, çağdaş ters piramit ile empowerment'ın tarifidir. Geleneksel piramit çekici olabilir çünkü hâlâ bölge müdürleri var, ama orada kararlar yukarıdan iner ve çalışan onay bekler."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "Sonuçları hedefle karşılaştırıp önlem almak planlamadır.", "dogru": "Bu <b>Controlling</b>'dir: standart, karşılaştırma, düzeltme. Eylemi bir sapma tetikliyorsa kontroldür."},
+    {"yanlis": "Tactical planning bir yıldan kısadır ve alt kademenin işidir.", "dogru": "Tactical 1–3 yıl ve orta kademedir. Bir yıldan kısa, somut adımlar <b>Operational planning</b>'dir."},
+    {"yanlis": "Leading ile Organizing aynıdır, ikisi de insanlarla ilgilenir.", "dogru": "Organizing yapı, iş dağıtımı ve iş tasarımıdır; Leading gayriresmî etkiyle insanları harekete geçirmektir."},
+    {"yanlis": "İş tanımının ötesindeki her iyi davranış in-role performance'tır.", "dogru": "Gönüllü ve rol dışıysa <b>OCB</b>'dir; in-role yalnızca işin gerektirdiği verimlilik ve kalitedir."},
+    {"yanlis": "Strategy ile Leadership tanımları birbirinin yerine kullanılabilir.", "dogru": "Strategy dışa dönük, bütünleşik bir yön kavramıdır; Leadership başkalarını harekete geçiren bir etki eylemidir."}
+   ],
+   "ozet": [
+    "Management: işleri başkalarının emeğiyle yaptırma sanatı.",
+    "P-O-L-C: Planning, Organizing, Leading, Controlling; işin doğal akış sırası.",
+    "Controlling üç adımdır: standart koy, karşılaştır, düzelt.",
+    "Strategic 3+ yıl ve üst yönetim; Tactical 1–3 yıl ve orta kademe; Operational 1 yıldan kısa ve alt kademe.",
+    "Intrapreneur, girişimciliği var olan organizasyonun içinde yapar.",
+    "Triple bottom line: profit, people, planet.",
+    "OCB gönüllü ve rol dışıdır; process loss grup performansını düşürür.",
+    "Çağdaş bakış: ters piramit ve empowerment."
+   ],
+   "aklinda": "P-O-L-C sırası dört soru sorar: ne yapacağız, kim yapacak, nasıl coşturacağız, tuttu mu? Sapma görüp düzeltiyorsan her zaman Controlling.",
+   "sinavda": "<p>Bu ünite Part 1'de çoktan seçmeli sorularla gelir ve yaklaşık 4 puan değerindedir. Tipik sorular kısa bir durum verip hangi fonksiyon ya da hangi planlama seviyesi olduğunu sorar; triple bottom line, OCB ve process loss tanımları da doğrudan sorulabilir.</p>"
+  },
+  {
+   "id": "c1b",
+   "ad": "Yöneticiler: Mintzberg'in rolleri ve Katz'ın becerileri",
+   "sure": 25,
+   "neden": "<p>Yönetimin ne olduğunu öğrendin; şimdi onu yapan kişiye bakıyorsun. Sınav burada çok net ayrımlar ister: içeri bilgi veren ile dışarı bilgi veren rol, doğrudan katkı yapan ile dolaylı katkı yapan yönetici, üst kademede ve alt kademede gereken beceri. Bu ayrımların mantığını bilirsen her durumu çözersin.</p>",
+   "hedefler": [
+    "Yedi yönetici türünü sorumluluk alanlarına göre ayırt et.",
+    "Mintzberg'in on rolünü üç gruba yerleştir.",
+    "Disseminator ile spokesperson rolünü bilginin yönüne göre ayır.",
+    "Katz'ın üç becerisini yönetici seviyesine göre eşleştir.",
+    "Mintzberg'in rol listesini Katz'ın beceri listesiyle karıştırmadan kullan."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Yönetici türleri",
+     "anlatim": "<p>“Yönetici” tek bir iş değildir. Kitap yöneticileri neyden sorumlu olduklarına göre ayırır ve sınav en çok birbirine benzeyen çiftleri sorar.</p><p><b>Top manager</b> (üst yönetici) organizasyonun stratejisinden sorumludur; vizyonun ve misyonun koruyucusudur. <b>Functional manager</b> (fonksiyonel yönetici) muhasebe ya da pazarlama gibi tek bir alanın etkinliğinden ve verimliliğinden sorumludur. <b>Supervisory / team manager</b> (alt kademe ya da takım yöneticisi) bir fonksiyonun içindeki bir alt grubu ya da fonksiyonlar arası bir takımı koordine eder. <b>Project manager</b> (proje yöneticisi) bir projeyi planlar, yürütür ve kapatır.</p><p>İki önemli çift kalır. <b>Line manager</b> (hat yöneticisi), ürün veya hizmete <i>doğrudan</i> katkı yapan bir fonksiyonu yönetir; kitaptaki örnek P&G'deki Tide ürün müdürüdür. <b>Staff manager</b> (kurmay yönetici) ise finans ve muhasebe gibi <i>dolaylı</i> girdiler yaratan bir fonksiyonu yönetir. Kendine şunu sor: bu bölüm ürünün kendisini mi ortaya çıkarıyor, yoksa onu yapanları mı destekliyor? Destekliyorsa staff'tır.</p><p><b>General manager</b> (genel müdür) açıkça ayırt edilebilen, gelir üreten bir birimi yönetir: bir mağaza, bir iş birimi, bir ürün hattı. Fonksiyonel yöneticiden farkı, tek bir alanda değil fonksiyonlar arasında karar vermesidir.</p>",
+     "ornek": "<p>Hayalî bir dondurma üreticisinde fabrikadaki üretim şefi ürünü doğrudan ortaya çıkardığı için <b>Line manager</b>'dır; bordroları yöneten finans şefi dolaylı destek verdiği için staff manager'dır. Şirketin sahil kasabasındaki satış dükkânını satıştan personele kadar her konuda karar vererek işleten kişi ise <b>General manager</b>'dır, çünkü gelir üreten bir birimin tamamından sorumludur.</p>",
+     "kaynak": [0],
+     "terimler": ["Line manager", "General manager"],
+     "soru": {
+      "q": "Omar runs one branch of a garden-centre chain. He decides on staffing, stock, local promotions and opening hours, and is judged on the branch's revenue. What type of manager is he?",
+      "o": ["General manager", "Functional manager", "Staff manager", "Project manager"],
+      "x": "Gelir üreten, açıkça ayırt edilebilen bir birimi (şube) yönetiyor ve personelden stoka kadar fonksiyonlar arasında karar veriyor; bu General manager'dır. Functional manager çekicidir, ama o yalnızca tek bir alandan, örneğin yalnızca pazarlamadan sorumlu olurdu."
+     }
+    },
+    {
+     "baslik": "Mintzberg'in rolleri: Interpersonal grup",
+     "anlatim": "<p>Mintzberg yöneticilerin yaptığı işi on <b>managerial roles</b> (yönetsel rol) içinde topladı ve bu rolleri üç gruba ayırdı: <b>Interpersonal</b> (kişilerarası), <b>Informational</b> (bilgiyle ilgili) ve <b>Decisional</b> (karar verme). Grupların mantığını kurarsan rolleri ezberlemene gerek kalmaz: yönetici önce insanlarla ilişki kurar, bu ilişkiler sayesinde bilgi toplar ve dağıtır, o bilgiyle de karar verir.</p><p>Interpersonal grupta üç rol vardır. <b>Figurehead</b> (sembolik temsilci), organizasyonu resmî ve törensel işlerde temsil eder: kurdele kesmek, bir törende konuşmak. <b>Leader</b> (lider) rolü çalışanlarla ilişkidir: motive etmek, yol göstermek. Bu rol yönetimin <i>her</i> seviyesinde önemlidir. <b>Liaison</b> (bağlantı kurucu), kendi biriminin ya da organizasyonun <i>dışındaki</i> akranlar ve kişilerle etkileşimdir: başka departmanlarla, başka şirketlerin yöneticileriyle ilişki kurmak.</p><p>Figurehead ile Liaison karışabilir, çünkü ikisinde de yönetici dışarıdan insanlarla karşılaşır. Farkı amaçtadır: Figurehead törensel bir temsil yapar, Liaison ise ileride işe yarayacak bir ilişki ağı örer.</p>",
+     "ornek": "<p>Bir hastanenin başhekimi yeni çocuk servisinin açılışında kurdele keser: <b>Figurehead</b>. Ertesi gün komşu hastanenin başhekimiyle buluşup acil durumlarda yatak paylaşımı için bir ilişki kurar: <b>Liaison</b>. Öğleden sonra da yorgun asistanlarıyla konuşup onlara cesaret verir: leader rolü.</p>",
+     "kaynak": [1],
+     "terimler": ["Figurehead", "Liaison"],
+     "soru": {
+      "q": "The head of a city library joins a monthly breakfast with the heads of the local museum and theatre to build ties that may lead to joint projects. Which Mintzberg role is this?",
+      "o": ["Liaison", "Figurehead", "Spokesperson", "Negotiator"],
+      "x": "Kendi organizasyonunun dışındaki akranlarla ilişki ağı kuruyor; bu Liaison'dır. Figurehead çekici görünür çünkü başka kurumların başkanlarıyla buluşuyor, ama ortada bir tören ya da resmî temsil yok; amaç ileride işe yarayacak bağlantılar kurmak."
+     }
+    },
+    {
+     "baslik": "Informational grup: bilgi nereden gelir, nereye gider?",
+     "anlatim": "<p>Informational gruptaki üç rolü bilginin yönüyle düşün. Bilgi ya yöneticiye gelir, ya yöneticiden içeri gider, ya da yöneticiden dışarı çıkar.</p><p><b>Monitor</b> (izleyici) rolünde yönetici bilgi alır ve toplar: raporları okur, şikâyetleri inceler, sektördeki eğilimleri takip eder. Bilgi yöneticiye doğru akar.</p><p><b>Disseminator</b> (yayıcı) rolünde yönetici bilgiyi organizasyonun <i>içine</i>, örneğin kendi ekibine aktarır. Yönetim kurulu toplantısından çıkıp kararları ekibine anlatmak budur.</p><p><b>Spokesperson</b> (sözcü) rolünde yönetici organizasyonun bilgisini <i>dışarıya</i>, yani çevresine aktarır: basına, kamuya. Basın açıklaması ya da bir röportaj buraya girer.</p><p>Sınavın en sevdiği tuzak bu ikisidir: Disseminator içeri, Spokesperson dışarı. Bir ipucu: “spokesperson” bir şirket sözcüsünü çağrıştırır, sözcü de dünyaya konuşur. Bu rolleri Figurehead ile de karıştırma: Figurehead bilgi aktarmaz, törensel olarak temsil eder; Spokesperson ise bilgi taşır.</p>",
+     "ornek": "<p>Bir bisiklet kiralama şirketinin müdürü sabah müşteri yorumlarını ve rakiplerin fiyatlarını okur (<b>Monitor</b>). Öğlen ekibine yeni fiyat politikasını anlatır (<b>Disseminator</b>). Akşam yerel gazeteye şirketin yeni elektrikli bisiklet filosunu anlatan bir açıklama yapar (<b>Spokesperson</b>). Bilgi aynı kalsa da yönüne göre üç farklı rol ortaya çıkar.</p>",
+     "kaynak": [1],
+     "terimler": ["Monitor", "Disseminator", "Spokesperson"],
+     "soru": {
+      "q": "After a meeting with the city council, the manager of a public swimming pool gathers her lifeguards and explains the new safety rules the council agreed on. Which role is she playing?",
+      "o": ["Disseminator", "Spokesperson", "Monitor", "Liaison"],
+      "x": "Bilgiyi dışarıdan alıp organizasyonun içine, kendi ekibine aktarıyor; bu Disseminator'dır. Spokesperson en çekici yanlıştır, ama sözcü bilgiyi ters yönde, organizasyondan dışarıya, örneğin basına ya da kamuya taşır."
+     }
+    },
+    {
+     "baslik": "Decisional grup ve seviyeye göre roller",
+     "anlatim": "<p>Bilgi toplandıktan sonra sıra karara gelir. Decisional grupta dört rol vardır ve her biri farklı bir karar türünü anlatır.</p><p><b>Entrepreneur</b> (girişimci) rolünde yönetici değişimi başlatır, yeni projeler açar; kararı bir fırsat tetikler. <b>Disturbance handler</b> (kriz ve sorun yöneticisi) tehditlere ve krizlere karşılık verir; kararı bir sorun tetikler ve çoğu zaman beklenmedik gelir. <b>Resource allocator</b> (kaynak dağıtıcı), organizasyonun çabasını nereye harcayacağına karar verir: bütçeleri bölmek, insanları işlere atamak. <b>Negotiator</b> (müzakereci) organizasyon adına pazarlık eder.</p><p>Entrepreneur ile Disturbance handler'ı ayırmak için “değişimi kim başlattı?” diye sor. Yönetici kendi isteğiyle yeni bir şey başlatıyorsa Entrepreneur, dışarıdan gelen bir tehdide yanıt veriyorsa Disturbance handler'dır. Bu Entrepreneur rolünü 1. dersteki entrepreneurship kavramıyla da karıştırma: burada yalnızca bir yöneticinin değişim başlatma rolü kastedilir.</p><p>Roller her seviyede aynı ağırlıkta değildir. Supervisor'lar (alt kademe yöneticiler) için Figurehead rolü daha az önemlidir; Disturbance handler ve Negotiator ise daha önemlidir. Mantığı açıktır: törenleri çoğunlukla üst yönetim yapar, günlük aksaklıklar ve pazarlıklar ise sahada olur.</p>",
+     "ornek": "<p>Bir okul kantininin işletmecisi yılın bütçesini menü, personel ve ekipman arasında böler: <b>Resource allocator</b>. Bir sabah buzdolabı bozulur ve öğle yemeğine kadar başka bir tedarikçiden soğuk ürün ayarlar: <b>Disturbance handler</b>. Sonra o tedarikçiyle yıllık indirim için pazarlık eder: negotiator. Kendi fikriyle bir de sağlıklı atıştırmalık köşesi açar: entrepreneur.</p>",
+     "kaynak": [1],
+     "terimler": ["Disturbance handler", "Resource allocator"],
+     "soru": {
+      "q": "A flood damages the warehouse of an online bookshop, and the operations manager immediately rents temporary space and reroutes orders. Which Mintzberg role is she playing?",
+      "o": ["Disturbance handler", "Entrepreneur", "Resource allocator", "Negotiator"],
+      "x": "Değişimi kendisi başlatmıyor, dışarıdan gelen bir tehdide (sel) hızla karşılık veriyor; bu Disturbance handler'dır. Entrepreneur çekicidir çünkü yeni bir düzen kuruluyor, ama Entrepreneur değişimi bir fırsat üzerine kendi isteğiyle başlatır, krize tepki vermez."
+     }
+    },
+    {
+     "baslik": "Katz'ın üç becerisi",
+     "anlatim": "<p>Mintzberg yöneticinin <i>ne yaptığını</i> anlatır; Katz ise bunu yapabilmek için <i>neye sahip olması gerektiğini</i> sorar ve üç beceri sayar.</p><p><b>Technical skills</b> (teknik beceriler), belirli bir alandaki bilgi ve ustalıktır: bir ekipmanı, bir yazılımı ya da bir prosedürü kullanabilmek. En çok alt kademe yöneticiler ihtiyaç duyar, çünkü işin yapıldığı yere en yakın onlardır ve ekiplerine işi gösterebilmeleri gerekir.</p><p><b>Interpersonal skills</b> (insan ilişkileri becerileri, human skills), insanlarla çalışmak, onlara liderlik etmek ve iletişim kurmaktır. Her seviyede gereklidir, çünkü her yönetici işi başkalarının emeğiyle yaptırır; yönetimin tanımını hatırla.</p><p><b>Conceptual skills</b> (kavramsal beceriler), fikir üretmek ve büyük resmi görmektir: strateji, misyon, politikalar. En çok üst yöneticiler ihtiyaç duyar.</p><p>Kuralın mantığı şu: yukarı çıktıkça işin kendisinden uzaklaşır, bütünün yönüne yaklaşırsın. Bu yüzden yükseldikçe daha çok kavramsal, daha az teknik beceri gerekir; insan ilişkileri becerisi ise her basamakta gerekli kalır.</p>",
+     "ornek": "<p>Bir restoran zincirinde vardiya şefi Can, yeni çalışana kahve makinesinin temizlik ayarlarını gösterir: <b>Technical skills</b>. Zincirin genel müdürü ise beş yıl sonra hangi şehirlerde açılacaklarını ve markanın neyi temsil edeceğini düşünür: <b>Conceptual skills</b>. İkisi de ekibini dinleyip motive ettiğinde <b>Interpersonal skills</b> kullanır.</p>",
+     "kaynak": [2],
+     "terimler": ["Technical skills", "Interpersonal skills", "Conceptual skills"],
+     "soru": {
+      "q": "A newly promoted regional director at a supermarket chain now spends her days on long-term expansion plans and company policy instead of checking tills. According to Katz, which skill has become most important for her?",
+      "o": ["Conceptual skills", "Technical skills", "Interpersonal skills", "Informational skills"],
+      "x": "Uzun vadeli planlar ve şirket politikası büyük resmi görmeyi gerektirir; Katz'a göre yükseldikçe en çok Conceptual skills gerekir. Interpersonal skills çekici bir yanlıştır çünkü her seviyede gereklidir, ama yükselince artan ve öne çıkan beceri kavramsal beceridir."
+     }
+    },
+    {
+     "baslik": "İki listeyi karıştırma: Mintzberg ve Katz",
+     "anlatim": "<p>Bu ünitede birbirine benzeyen listeler var ve sınav bunları bilerek karıştırır. Yanlış seçeneklerin çoğu doğru listenin yerine başka bir listeyi koyar.</p><p>Mintzberg'in listesi <i>rollerdir</i>, yani yöneticinin ne yaptığı: Interpersonal, Informational, Decisional. Katz'ın listesi <i>becerilerdir</i>, yani yöneticinin neye sahip olması gerektiği: Technical, Interpersonal, Conceptual. İki listede de “interpersonal” kelimesi geçer; bu yüzden seçenekteki üç kelimenin hepsine bak. “Informational” ya da “Decisional” görüyorsan Mintzberg; “Technical” ya da “Conceptual” görüyorsan Katz.</p><p>İki listeyi bağlayan bir paralellik de var. Mintzberg'in Leader rolü her seviyede önemlidir; Katz'ın Interpersonal skills becerisi de her seviyede gereklidir. Çünkü ikisi de yönetimin çekirdeğini, yani işi insanlarla yaptırmayı anlatır. Seviyeye göre değişen şeyler ise farklıdır: Katz'ta teknik beceri aşağıda, kavramsal beceri yukarıda öne çıkar; Mintzberg'te supervisor'lar için Figurehead azalır, Disturbance handler ve Negotiator artar.</p><p>Son olarak P-O-L-C'nin dört fonksiyonu ve üç planlama seviyesi de yanlış seçenek olarak karşına çıkabilir. Soru “roles” diyorsa Mintzberg'i, “skills” diyorsa Katz'ı, “functions” diyorsa P-O-L-C'yi ara.</p>",
+     "ornek": "<p>Bir öğrenci kulübünün başkanı Zeynep'i düşün. Kulübü üniversite tanıtım fuarında temsil ettiğinde Mintzberg'in bir <i>rolünü</i> (figurehead) oynar. O rolü iyi oynamasını sağlayan şey ise Katz'ın bir <i>becerisidir</i>: insanlarla rahat iletişim kurabilmesi (interpersonal skills). Rol yaptığı iştir, beceri o işi mümkün kılan yetenektir.</p>",
+     "kaynak": [1, 2],
+     "terimler": [],
+     "soru": {
+      "q": "A training brochure claims: 'Managers need three critical skill sets: interpersonal, informational and decisional.' What is wrong with this claim?",
+      "o": [
+       "It lists Mintzberg's role groups instead of Katz's skills",
+       "It lists the P-O-L-C functions instead of Katz's skills",
+       "It lists Katz's skills instead of Mintzberg's role groups",
+       "It lists the planning levels instead of Mintzberg's roles"
+      ],
+      "x": "Interpersonal, informational ve decisional Mintzberg'in rol gruplarıdır; Katz'ın beceri setleri technical, interpersonal ve conceptual'dır. Üçüncü seçenek çekicidir çünkü yine iki listenin yer değiştirdiğini söyler, ama yön ters: broşür “skills” diyor ve rol gruplarını sayıyor, yani Katz'ın yerine Mintzberg yazılmış."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "Disseminator bilgiyi basına ve kamuya aktarır.", "dogru": "Disseminator bilgiyi <b>içeri</b>, ekibe taşır. Dışarıya, basına taşıyan <b>Spokesperson</b>'dır."},
+    {"yanlis": "Liaison, organizasyonu törenlerde temsil etmektir.", "dogru": "Tören ve resmî temsil <b>Figurehead</b>'dir. Liaison, birimin dışındaki kişilerle ilişki ağı kurar."},
+    {"yanlis": "Katz'ın becerileri interpersonal, informational ve decisional'dır.", "dogru": "Bunlar Mintzberg'in rol gruplarıdır. Katz'ın üç becerisi şunlardır: <b>technical, interpersonal, conceptual</b>; iki listeyi karıştırma."},
+    {"yanlis": "Finans müdürü line manager'dır çünkü kritik bir işi yönetir.", "dogru": "Finans dolaylı girdi yaratır, yani <b>staff</b> fonksiyonudur. Line, ürün veya hizmete doğrudan katkıdır."},
+    {"yanlis": "Supervisor'lar için figurehead rolü daha önemlidir.", "dogru": "Tersi doğru: alt kademe yöneticilerde figurehead rolünün önemi azalır; <b>disturbance handler</b> ve <b>negotiator</b> rollerinin önemi artar."},
+    {"yanlis": "Negotiator informational bir roldür.", "dogru": "Negotiator <b>decisional</b> gruptadır; organizasyon adına pazarlık bir karar işidir."}
+   ],
+   "ozet": [
+    "Line doğrudan, staff dolaylı katkı yapar; general manager gelir üreten bir birimi yönetir.",
+    "Mintzberg: 10 rol, 3 grup (interpersonal, informational, decisional).",
+    "Interpersonal: figurehead, leader, liaison.",
+    "Informational: monitor (alır), disseminator (içeri verir), spokesperson (dışarı verir).",
+    "Karar grubu (decisional): değişim başlatan entrepreneur, krizle uğraşan disturbance handler, bütçeyi bölüştüren resource allocator, pazarlık eden negotiator.",
+    "Alt kademe yöneticilerde (supervisor) figurehead rolü azalır; kriz çözme (disturbance handler) ve pazarlık (negotiator) rolleri artar.",
+    "Katz'ın becerileri: technical en çok alt kademede, interpersonal her seviyede, conceptual en çok üst kademede gerekir.",
+    "Yükseldikçe kavramsal beceri artar, teknik beceri azalır."
+   ],
+   "aklinda": "İlişki kur, bilgi topla, karar ver: Mintzberg'in üç grubu bu sırayla akar. Bilgi içeri giderse disseminator, dışarı giderse spokesperson.",
+   "sinavda": "<p>Part 1'de çoktan seçmeli olarak, yaklaşık 4 puan ağırlıkla gelir. Sorular çoğunlukla kısa bir yönetici davranışı verip hangi Mintzberg rolü olduğunu sorar ya da Katz'ın becerilerini yönetici seviyesiyle eşleştirmeni ister. Liste adlarının doğru sahibine bağlanması da ayrıca sorulur.</p>"
+  },
+  {
+   "id": "c2a",
+   "ad": "Kişilik ve değerler: Big Five ve ötesi",
+   "sure": 25,
+   "neden": "<p>Yönettiğin insanlar birbirinden farklıdır ve bu farkların bir kısmı kişilikten gelir. Kişiliği tanımak, kimin hangi işte parlayacağını ve kimin hangi durumda zorlanacağını anlamana yardım eder. Sınavda bir kişinin davranış tarifinden doğru özelliği bulman istenir.</p>",
+   "hedefler": [
+    "Personality tanımını ve ne kadar kalıcı olduğunu açıkla.",
+    "Bir kişi tarifinden doğru Big Five özelliğini belirle.",
+    "Self-esteem ile self-efficacy arasındaki farkı örnekle göster.",
+    "Kişilik testlerinin işe almadaki sınırlarını açıkla.",
+    "Values kavramını kişilikten ayır ve Schwartz'ın on değerini say."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Kişilik nedir ve ne zaman fark yaratır?",
+     "anlatim": "<p>İki çalışanı aynı işe koyduğunda farklı davrandıklarını görürsün: biri her şeyi listeler, öbürü kafasında tutar; biri toplantıda konuşur, öbürü dinler. Bu farkların kalıcı olanlarına kişilik deriz.</p><p><b>Personality</b> (kişilik), bir kişinin görece istikrarlı duygu, düşünce ve davranış kalıplarıdır. “Görece istikrarlı” ifadesini iki yönlü oku: kişilik bugünden yarına değişmez, ama hayat boyu yavaşça değişebilir. Yani “çocuklukta sabitlenir ve bir daha değişmez” demek yanlıştır.</p><p>Kişilik iş yerindeki davranışın tek belirleyicisi de değildir. İşin beklentileri de davranışı şekillendirir: sıkı kuralları olan bir işte herkes benzer davranır. Bu yüzden kişilik en çok <b>autonomy</b> (özerklik) yüksek işlerde fark yaratır; kişi işi nasıl yapacağına kendisi karar verdiğinde kendi kalıpları ortaya çıkar.</p><p>Kişiliği bu bölümdeki iki komşusundan da ayır: kişilik nasıl davrandığını, <b>values</b> (değerler) senin için neyin önemli olduğunu, <b>attitudes</b> (tutumlar) ise belirli bir şey hakkındaki görüş ve duygularını anlatır.</p>",
+     "ornek": "<p>Hayalî bir çağrı merkezinde her çalışan ekrandaki hazır metni okumak zorundadır, bu yüzden içine kapanık Mert ile konuşkan Selin neredeyse aynı görünür. Selin aynı şirketin etkinlik ekibine geçip işini kendi planlamaya başlayınca fark ortaya çıkar. Özerklik arttıkça <b>Personality</b> davranışa daha çok yansır.</p>",
+     "kaynak": [0],
+     "terimler": ["Personality"],
+     "soru": {
+      "q": "Two new hires show very different working styles in a small design studio where they plan their own days, but behave almost identically on a tightly scripted assembly line. What does this illustrate?",
+      "o": [
+       "Personality matters most in jobs with high autonomy",
+       "Personality is fixed in childhood and never changes",
+       "Job demands have no effect on behaviour at work",
+       "Personality and values are one and the same thing"
+      ],
+      "x": "Kişilik farkları, kişinin işi kendi düzenlediği ve özerkliğin yüksek olduğu yerde ortaya çıkar; sıkı kurallı işte davranışı işin beklentileri belirler. İkinci seçenek çekici olabilir, ama kitap kişiliğin görece istikrarlı olduğunu ve hayat boyu yavaşça değişebildiğini söyler; üstelik senaryo değişimle ilgili değil."
+     }
+    },
+    {
+     "baslik": "Big Five: Openness ve Conscientiousness",
+     "anlatim": "<p>Kişiliği tarif etmenin en yaygın yolu <b>Big Five</b> (Beş Büyük Faktör) modelidir. Baş harfleri <b>OCEAN</b> kelimesini oluşturur: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism. Her biri bir uçtan öbür uca uzanan bir boyuttur; insanlar bu boyutlarda az ya da çok puan alır.</p><p><b>Openness</b> (deneyime açıklık): meraklı, özgün, entelektüel, yaratıcı ve yeni fikirlere açık olmak. İş yerinde bu kişiler hızlı öğrenir, değişime kolay uyum sağlar ve yaratıcıdır; buna karşılık rutin işlerde sıkılabilirler.</p><p><b>Conscientiousness</b> (sorumluluk, öz disiplin): düzenli, sistemli, dakik, başarı odaklı ve güvenilir olmak. Bu, <i>bütün işlerde</i> performansı öngören tek özelliktir ve işe alım yapanların en çok aradığı özelliktir. Mantığı açıktır: hangi işi yaparsan yap, planlı çalışmak ve sözünü tutmak işe yarar.</p><p>Burada sınavın kurduğu tuzak bir dil oyunudur. “Organized, dependable, meets deadlines” tarifi Conscientiousness'tır, <b>organizational commitment</b> (örgütsel bağlılık) değildir. Bağlılık belirli bir şirkete karşı duygusal bir tutumdur; Conscientiousness ise kişinin her ortamda taşıdığı bir kişilik özelliğidir.</p>",
+     "ornek": "<p>Bir proje grubunda Aylin her toplantıya gündemle gelir, görevleri tabloya yazar ve hiçbir teslim tarihini kaçırmaz: <b>Conscientiousness</b>. Grubun diğer üyesi Kaan ise sürekli yeni sunum araçları dener ve konuya kimsenin düşünmediği bir açıdan yaklaşır, ama aynı formatta rapor yazmaktan çabuk sıkılır: <b>Openness</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Openness", "Conscientiousness"],
+     "soru": {
+      "q": "A recruiter can test candidates on only one Big Five trait and wants the trait that best predicts performance whatever the job is. Which trait should she choose?",
+      "o": ["Conscientiousness", "Openness", "Extraversion", "Agreeableness"],
+      "x": "Conscientiousness, bütün işlerde performansı öngören tek Big Five özelliğidir ve işe alımcıların en çok aradığı özelliktir. Extraversion çekici bir yanlıştır çünkü satışta ve yöneticilikte işe yarar, ama bu yalnızca bazı işler için geçerlidir."
+     }
+    },
+    {
+     "baslik": "Big Five: Extraversion, Agreeableness, Neuroticism",
+     "anlatim": "<p><b>Extraversion</b> (dışadönüklük): dışa dönük, konuşkan ve sosyal olmak. Bu kişiler satışta ve yönetici olarak iyidir, çünkü insanlarla etkileşimden enerji alırlar. Kitabın not ettiği bir yan etki de vardır: daha fazla devamsızlık (absenteeism).</p><p><b>Agreeableness</b> (uyumluluk): sevimli, hoşgörülü, duyarlı, güvenen, nazik ve sıcak olmak. Bu kişiler başkalarına yardım eder. Ama çatışmadan kaçındıkları için değişim odaklı iletişimde, yani mevcut durumu sorgulamada daha az bulunurlar. İyi bir özelliğin bedeli budur.</p><p><b>Neuroticism</b> (nevrotiklik): kaygılı, sinirli, huysuz ve duygusal açıdan dalgalı olmak. Beş özellik arasında <i>yüksek</i> puanın istenmediği tek özellik budur; yüksek puanlılar daha mutsuzdur ve kariyer başarıları daha düşüktür.</p><p>Extraversion ile Agreeableness sık karışır, çünkü ikisi de “insanlarla iyi” gibi görünür. Ayrım şu: Extraversion insanların arasında olmayı <i>sevmekle</i>, Agreeableness insanlara <i>iyi davranmakla</i> ilgilidir. Sessiz ama çok yardımsever biri düşük Extraversion, yüksek Agreeableness puanına sahip olabilir.</p>",
+     "ornek": "<p>Bir spor salonunda resepsiyondaki Ece herkesle sohbet eder ve yeni üye kaydında rekor kırar: yüksek <b>Extraversion</b>. Eğitmen Okan sessizdir ama herkese sabırla yardım eder ve tartışmadan kaçınır: yüksek <b>Agreeableness</b>. Muhasebedeki Tolga ise küçük bir hata yüzünden günlerce gergin ve huysuz dolaşır: yüksek <b>Neuroticism</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Extraversion", "Agreeableness", "Neuroticism"],
+     "soru": {
+      "q": "In a project team, Lars is kind and helpful to everyone but never questions the team's flawed plan because he hates conflict. Which trait explains both his strength and this weakness?",
+      "o": ["Agreeableness", "Extraversion", "Conscientiousness", "Neuroticism"],
+      "x": "Nazik ve yardımsever olmak Agreeableness'ın güçlü yanı, çatışmadan kaçınıp değişim odaklı iletişimden uzak durmak ise bedelidir. Extraversion çekicidir çünkü insanlarla iyi ilişki akla gelir, ama Extraversion konuşkanlık ve sosyallik demektir; nezaket ve çatışmadan kaçınma değil."
+     }
+    },
+    {
+     "baslik": "Self-monitoring ve proactive personality",
+     "anlatim": "<p>Big Five dışında da iş yerinde fark yaratan kişilik boyutları vardır. İlk ikisi kişinin çevresine nasıl tepki verdiğiyle ilgilidir.</p><p><b>Self-monitoring</b> (kendini izleme), bir durumu ne kadar iyi okuduğun ve davranışını ona göre ne kadar ayarladığındır. Yüksek self-monitor'lar “social chameleons” (sosyal bukalemunlar) diye anılır: yönetim kurulunda resmî, ekip yemeğinde rahat, müşteriyle sıcak olurlar. Düşük self-monitor'lar ise her ortamda aynı kişidir.</p><p><b>Proactive personality</b> (proaktif kişilik), yanlış olanı düzeltme ve kimse söylemeden inisiyatif alma eğilimidir. Proaktif biri bozuk bir süreci görünce şikâyet etmekle kalmaz, düzeltir.</p><p>İkisini ayırmanın yolu, değişenin ne olduğuna bakmaktır. Kişi kendi <i>davranışını</i> ortama uydurmak için değiştiriyorsa self-monitoring; <i>ortamı</i> değiştirmek için harekete geçiyorsa proactive personality. Biri kendini uyarlar, öbürü dünyayı düzeltir.</p>",
+     "ornek": "<p>Bir dil okulunda öğretmen Nora çocuk sınıfında şakacı, yetişkinlere verdiği iş İngilizcesi dersinde ölçülü ve resmîdir: yüksek <b>Self-monitoring</b>. Aynı okulda sekreter Arda, kayıt formundaki bir hatanın velileri sürekli yanılttığını görür ve kimse istemeden formu yeniden düzenler: <b>Proactive personality</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Self-monitoring", "Proactive personality"],
+     "soru": {
+      "q": "A junior accountant notices that invoices are often paid twice, and without being asked she designs a simple check that stops the problem. Which personality dimension does this show?",
+      "o": ["Proactive personality", "Self-monitoring", "Self-efficacy", "Agreeableness"],
+      "x": "Yanlış olanı fark edip kimse söylemeden düzeltmek proactive personality'dir. Self-monitoring çekicidir çünkü o da dikkat ister, ama self-monitoring kişinin kendi davranışını ortama göre ayarlamasıdır; burada kişi ortamı, yani süreci değiştiriyor."
+     }
+    },
+    {
+     "baslik": "Self-esteem ve self-efficacy",
+     "anlatim": "<p>Bu iki kavram aynı kökü paylaştığı için sınavda neredeyse her zaman birlikte sorulur.</p><p><b>Self-esteem</b> (benlik saygısı), kendin hakkındaki genel olumlu duygulardır. Tek bir işle değil, kendine bir bütün olarak nasıl baktığınla ilgilidir: “Ben değerli biriyim.”</p><p><b>Self-efficacy</b> (öz yeterlik), <i>belirli bir görevi</i> başarıyla yapabileceğine olan inancındır: “Bu raporu yazabilirim.” Kitap, diğer kişilik özelliklerinden farklı olarak bunun göreve özgü olduğunu vurgular. Bu yüzden aynı kişinin self-efficacy'si bir görevde yüksek, başka bir görevde düşük olabilir.</p><p>Ayırt etme yolu basittir: soruda belirli bir görev var mı? “Excel'de iyiyim ama sunumda kötüyüm” gibi göreve göre değişen bir güven görüyorsan self-efficacy; “kendimi genel olarak beğeniyorum” gibi bütünsel bir duygu görüyorsan self-esteem. Yüksek self-esteem'e sahip biri bile yeni bir yazılım karşısında düşük self-efficacy hissedebilir.</p>",
+     "ornek": "<p>Hayalî bir veteriner kliniğinde hemşire Melis kendine genel olarak güvenen, kendini değerli hisseden biridir: yüksek <b>Self-esteem</b>. Yine de klinik yeni bir röntgen cihazı aldığında onu doğru kullanabileceğinden emin değildir; aşı yapmakta ise kendine tamamen güvenir. Görevden göreve değişen bu güven <b>Self-efficacy</b>'dir.</p>",
+     "kaynak": [2],
+     "terimler": ["Self-esteem", "Self-efficacy"],
+     "soru": {
+      "q": "Jonas feels good about himself in general, yet before leading his first client workshop he doubts he can pull it off. Which concept explains his doubt?",
+      "o": ["Low self-efficacy for that task", "Low self-esteem in general", "Low self-monitoring ability", "High neuroticism as a trait"],
+      "x": "Şüphe belirli bir göreve, yani ilk müşteri atölyesine bağlı; bu yüzden göreve özgü self-efficacy düşüktür. Low self-esteem çekicidir, ama senaryo Jonas'ın kendisi hakkında genel olarak iyi hissettiğini söylüyor; yani genel benlik saygısı sorun değil."
+     }
+    },
+    {
+     "baslik": "Kişilik testleri işe almada",
+     "anlatim": "<p>Kişilik bu kadar şey anlatıyorsa, işe alımda kişilik testi kullanmak mantıklı görünür. Kitap burada temkinlidir ve bu kullanımı <b>controversial</b> (tartışmalı) olarak anlatır. Üç nedeni var.</p><p>Birincisi, adaylar cevapları taklit edebilir (fake): işin neyi aradığını tahmin eden biri kendini olduğundan daha düzenli gösterebilir. İkincisi, kişilik iş performansının yalnızca yaklaşık <b>%10–15</b>'ini açıklar; yani performansın büyük kısmı başka şeylerden gelir. Üçüncüsü, daha iyi bir öngörücü vardır: <b>cognitive ability</b> (bilişsel yetenek, genel zihinsel yetenek) performansı kişilikten daha iyi öngörür.</p><p>Bir de etik ve hukuki koşul vardır: testler ayrımcılık yapmamalıdır.</p><p>Bunu Conscientiousness'ın “bütün işlerde performansı öngörmesi” ile çelişki sanma. Conscientiousness kişilik özellikleri <i>arasında</i> en tutarlı öngörücüdür, ama kişiliğin toplam açıklama gücü yine de sınırlıdır. Sınavda “personality is the strongest predictor” ya da “tests cannot be faked” gibi seçenekler yanlıştır.</p>",
+     "ornek": "<p>Hayalî bir lojistik firması depo sorumlusunu yalnızca kişilik testiyle seçer ve en “düzenli” görünen adayı alır. Aday testte kendini olduğundan daha düzenli göstermiştir ve işte zorlanır. Firma sonraki alımda bir bilişsel yetenek testi de ekler, çünkü <b>cognitive ability</b> performansı daha iyi öngörür.</p>",
+     "kaynak": [3],
+     "terimler": [],
+     "soru": {
+      "q": "An HR director wants to hire warehouse planners using only a personality questionnaire. Based on the course, which advice should she get?",
+      "o": [
+       "Add a cognitive ability test, as it predicts performance better",
+       "Rely on the questionnaire, as candidates cannot fake the answers",
+       "Rely on the questionnaire, as personality explains most performance",
+       "Drop all testing, as no test predicts job performance at all"
+      ],
+      "x": "Kitaba göre kişilik performansın yalnızca yaklaşık %10–15'ini açıklar, cevaplar taklit edilebilir ve bilişsel yetenek daha iyi öngörür. “Personality explains most performance” çekicidir çünkü Conscientiousness güçlü bir öngörücüdür, ama kişiliğin toplam açıklama gücü sınırlıdır."
+     }
+    },
+    {
+     "baslik": "Değerler",
+     "anlatim": "<p>Kişilik nasıl davrandığını anlatır; <b>Values</b> (değerler) ise hayatta neyi istediğini. Kitap değerleri insanların istikrarlı yaşam hedefleri, yani onlar için en önemli olan şeyler olarak tanımlar. Kişilik gibi değerler de istikrarlıdır, ama kişilikten farkı bir yöne işaret etmeleridir: ne için çalışıyorsun?</p><p>Değerler iş hayatında iki noktada etkilidir: hangi işi seçtiğin ve o işte kalıp kalmadığın. Güvenliğe değer veren biri istikrarlı bir işi seçebilir; heyecana değer veren biri ise sürekli değişen bir ortamı.</p><p>Kitap Schwartz'ın on değerini sayar: <b>achievement</b> (başarı), <b>benevolence</b> (iyilikseverlik), <b>conformity</b> (uyma), <b>hedonism</b> (haz), <b>power</b> (güç), <b>security</b> (güvenlik), <b>self-direction</b> (kendi yolunu çizme), <b>stimulation</b> (uyarılma, heyecan), <b>tradition</b> (gelenek) ve <b>universalism</b> (evrenselcilik).</p><p>Bu değerleri Big Five ile karıştırma: benevolence bir hedeftir (başkalarının iyiliğini istemek), agreeableness ise bir davranış eğilimidir (nazik ve yardımsever olmak). Değerler, bir sonraki derste göreceğin person-organization fit kavramının da temelidir.</p>",
+     "ornek": "<p>Mimarlık mezunu iki arkadaş iş arar. Selim için en önemli şey <b>security</b>'dir ve köklü bir belediye ofisini seçer. Defne için en önemli şey <b>self-direction</b>'dır; kendi projelerini seçebileceği küçük bir atölyeye girer ve teklif edilen daha yüksek maaşa rağmen orada kalır. İkisinin seçimini <b>Values</b> belirler.</p>",
+     "kaynak": [4],
+     "terimler": ["Values"],
+     "soru": {
+      "q": "Mira turns down a higher-paid corporate job to work for a small animal-rescue charity, because helping others is what matters most to her in life. Which concept best explains her choice?",
+      "o": ["Her values", "Her self-efficacy", "Her extraversion", "Her self-monitoring"],
+      "x": "Hayatta en önemli gördüğü hedef, yani başkalarına yardım etmek, iş seçimini belirliyor; bu değerlerin işidir. Seçeneklerdeki diğer kavramlar kişilik özellikleri ya da göreve özgü inançlardır; burada ise bir davranış eğilimi değil, bir yaşam hedefi anlatılıyor."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "“Organized, dependable, meets deadlines” organizational commitment'tır.", "dogru": "Bu bir kişilik özelliğidir: <b>Conscientiousness</b>. Commitment şirkete karşı duygusal bağlılıktır."},
+    {"yanlis": "Self-efficacy ile self-esteem aynı şeydir.", "dogru": "<b>Self-efficacy</b> tek bir göreve özgüdür; <b>self-esteem</b> kendin hakkındaki genel duygudur."},
+    {"yanlis": "Big Five'ın hepsinde yüksek puan iyidir.", "dogru": "<b>Neuroticism</b>'de yüksek puan istenmez; yüksek puanlılar daha mutsuzdur ve kariyerde daha az başarılıdır."},
+    {"yanlis": "Kişilik iş performansının en güçlü öngörücüsüdür.", "dogru": "Kişilik yalnızca yaklaşık %10–15'ini açıklar; <b>cognitive ability</b> daha iyi öngörür."},
+    {"yanlis": "Kişilik çocuklukta sabitlenir.", "dogru": "Kişilik görece istikrarlıdır ama hayat boyu yavaşça değişebilir."},
+    {"yanlis": "Self-monitoring, yanlışı görüp düzeltmektir.", "dogru": "O <b>Proactive personality</b>'dir. Self-monitoring davranışını ortama uydurmaktır."}
+   ],
+   "ozet": [
+    "Personality: görece istikrarlı duygu, düşünce ve davranış kalıpları; özerk işlerde en çok etkili.",
+    "Big Five'ın baş harfleri OCEAN'dır: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism; beşini de sırayla say.",
+    "Conscientiousness bütün işlerde performansı öngören tek özelliktir.",
+    "Neuroticism'de yüksek puan istenmeyen tek özelliktir.",
+    "Agreeableness yardımseverdir ama çatışmadan kaçınır.",
+    "Self-monitoring kendini uyarlar; proactive personality ortamı düzeltir.",
+    "Self-efficacy göreve özgüdür, self-esteem geneldir.",
+    "Kişilik testleri tartışmalıdır: taklit edilebilir ve performansın yalnızca %10–15'ini açıklar.",
+    "Values istikrarlı yaşam hedefleridir; Schwartz on değer sayar."
+   ],
+   "aklinda": "OCEAN'ı say, C'yi işe al, N'den kaç. Self-efficacy “bu işi yapabilirim”, self-esteem “ben iyiyim” der.",
+   "sinavda": "<p>Part 1'de yaklaşık 4 puanlık çoktan seçmeli sorularla gelir. En tipik soru bir kişiyi birkaç sıfatla tarif eder ve hangi Big Five özelliği olduğunu sorar; self-esteem ile self-efficacy ayrımı ve kişilik testlerinin sınırları da sık sorulur.</p>"
+  },
+  {
+   "id": "c2b",
+   "ad": "İş tutumları ve uyum (fit)",
+   "sure": 25,
+   "neden": "<p>Kişilik kim olduğunu anlatır, tutumlar ise işine ve şirketine ne hissettiğini. Bir yönetici için asıl soru şudur: insanlar neden memnun kalır ve neden ayrılır? Bu ders o sorunun cevabını parçalara ayırır ve sınavda karşına çıkan adalet türleri, stres kaynakları ve uyum türleri arasındaki ince farkları netleştirir.</p>",
+   "hedefler": [
+    "Job satisfaction ile organizational commitment arasındaki farkı açıkla.",
+    "Bir senaryoda üç organizational justice türünü ayırt et.",
+    "Role ambiguity ile role conflict'i örnekle ayır.",
+    "Tutumların davranışı değil niyeti neden daha iyi öngördüğünü açıkla.",
+    "Person-job fit ile person-organization fit'i doğru durumla eşleştir."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Tutum, iş tatmini ve örgütsel bağlılık",
+     "anlatim": "<p>Kişilik her yerde taşıdığın şeydir; tutum ise belirli bir şeye karşı ne düşündüğün ve hissettiğindir. <b>Attitude</b> (tutum), çevremizin bazı yönleri hakkındaki görüşlerimiz, inançlarımız ve duygularımızdır. İş hayatında iki tutum öne çıkar.</p><p><b>Job satisfaction</b> (iş tatmini), insanların işlerine karşı hissettikleridir ve muhtemelen en çok araştırılan tutumdur. Hedefi <i>iştir</i>: yaptığın görevler, çalışma koşulların.</p><p><b>Organizational commitment</b> (örgütsel bağlılık) ise şirkete duyulan <i>duygusal bağlılıktır</i>. Bağlı bir çalışan şirketin değerlerine inanır, çaba gösterir ve kalmak ister. Dili bile değişir: “şirketin” yerine “<b>bizim</b> harika yan haklarımız var” der.</p><p>İkisinin farkı hedeftedir. İşini sevmeyen biri şirketine bağlı olabilir (“işim sıkıcı ama bu kuruma inanıyorum”); işini seven biri de şirketine hiç bağlı olmayabilir. Sınavda “emotional attachment to the company” ifadesini görürsen cevap commitment'tır, satisfaction değil. Bağlılığı Conscientiousness ile de karıştırma: o her ortamda taşınan bir kişilik özelliğidir, bağlılık ise belirli bir şirkete yönelik bir tutumdur.</p>",
+     "ornek": "<p>Hayalî bir hayvanat bahçesinde bakıcı Emre hayvanlarla çalışmayı çok sever ama vardiyalardan şikâyetçidir; yani <b>Job satisfaction</b> karışıktır. Yine de başka bir yerden daha iyi teklif gelince “biz burada nesli tükenen türleri koruyoruz” deyip kalır. Kurumun misyonuna duyduğu bu duygusal bağ <b>Organizational commitment</b>'tır.</p>",
+     "kaynak": [0],
+     "terimler": ["Attitude", "Job satisfaction", "Organizational commitment"],
+     "soru": {
+      "q": "A nurse finds her daily tasks dull, but she believes deeply in her hospital's mission, talks about “our patients” and refuses offers from other hospitals. What does she show?",
+      "o": [
+       "High organizational commitment despite low job satisfaction",
+       "High job satisfaction despite low organizational commitment",
+       "High conscientiousness despite low job satisfaction",
+       "Low organizational commitment and low job satisfaction"
+      ],
+      "x": "Görevlerini sıkıcı bulması iş tatmininin düşük olduğunu; misyona inanması, “bizim” demesi ve kalmak istemesi ise bağlılığın yüksek olduğunu gösterir. İkinci seçenek çekicidir çünkü iki tutumu yer değiştirir; tatmin işe, bağlılık şirkete yönelik tutumdur."
+     }
+    },
+    {
+     "baslik": "Olumlu tutumların kaynakları",
+     "anlatim": "<p>Bir yönetici tutumları emirle değiştiremez, ama tutumları besleyen koşulları değiştirebilir. Kitap altı kaynak sayar; bu adımda dördünü, sonraki iki adımda adaleti ve stresi göreceksin.</p><p><b>Personality & values</b> (kişilik ve değerler): bazı insanlar daha kolay memnun olur; örneğin neuroticism puanı düşük olanlar daha tatminlidir.</p><p><b>Job characteristics</b> (iş özellikleri): beceri çeşitliliği (skill variety), <b>autonomy</b> (özerklik), geri bildirim ve anlamlı görevler. Bunlar en çok gelişme ihtiyacı yüksek kişiler için önemlidir; öğrenmek ve büyümek isteyen biri tekdüze bir işten çabuk soğur.</p><p><b>Psychological contract</b> (psikolojik sözleşme), çalışanın ne verdiğine (çaba, sadakat) ve karşılığında ne aldığına (maaş, zam, iş güvencesi) dair söylenmemiş, gayriresmî anlayıştır. İmzaladığın iş sözleşmesiyle karıştırma: psikolojik sözleşme hiçbir yerde yazmaz, ama bozulduğunda çalışan kandırılmış hisseder ve tutumları kötüleşir.</p><p><b>Relationships at work</b> (iş yerindeki ilişkiler): iş arkadaşlarıyla ve özellikle yöneticiyle ilişki. <b>Relationship management</b> (ilişki yönetimi) açık iletişim kurmak, iyi ilişkiler sürdürmek ve çatışmayı yönetmek demektir.</p>",
+     "ornek": "<p>Bir yazılım şirketinde Elif yıllardır fazla mesaiye kalır, çünkü sadakatinin karşılığında terfi alacağını düşünür; bunu kimse ona yazılı olarak söylememiştir. Terfi başka birine verilince kendini aldatılmış hisseder ve tatmini düşer. Bozulan şey iş sözleşmesi değil, <b>Psychological contract</b>'tır.</p>",
+     "kaynak": [1],
+     "terimler": ["Psychological contract"],
+     "soru": {
+      "q": "For years a chef worked unpaid extra hours, silently expecting job security in return. When the restaurant cut his hours anyway, he felt betrayed. What was violated?",
+      "o": ["His psychological contract", "His written employment contract", "His person-job fit", "His self-efficacy"],
+      "x": "Fazla mesai karşılığında iş güvencesi beklentisi hiçbir yerde yazılı değildi; bu söylenmemiş anlayış psikolojik sözleşmedir ve bozulduğu için ihanet duygusu doğdu. Yazılı iş sözleşmesi en çekici yanlıştır, ama senaryo beklentinin sessiz, yani yazısız olduğunu açıkça söylüyor."
+     }
+    },
+    {
+     "baslik": "Organizational justice: üç adalet türü",
+     "anlatim": "<p><b>Organizational justice</b> (örgütsel adalet), çalışanların şirkette adil davranıldığını hissedip hissetmediğidir. Kitap kökünde güvenin yattığını söyler: adil davranılmadığını hisseden çalışan şirkete güvenmez. Adaleti üç ayrı yerde arayabilirsin ve sınav tam olarak bu ayrımı sorar.</p><p><b>Distributive justice</b> (dağıtım adaleti), alınan sonuçların, yani ödüllerin adilliğidir: maaş, prim, zam. Sorusu “ne aldım?”dır.</p><p><b>Procedural justice</b> (prosedür adaleti), kararları vermek için kullanılan yöntemlerin adilliğidir. Sorusu “karar nasıl verildi?”dir. Terfiler kurayla ya da hiç açıklanmayan ölçütlerle dağıtılıyorsa bu adalet zedelenir.</p><p><b>Interactional justice</b> (etkileşim adaleti), saygı, nezaket ve onurla davranılmaktır. Sorusu “bana nasıl davranıldı?”dır.</p><p>Üçü birbirinden bağımsızdır, bu yüzden senaryoda hangisinin bozulduğunu bul. Zam alan ama aşağılayıcı bir cümleyle alan biri için sonuç adil olabilir, ama etkileşim adaleti zedelenmiştir. Adil bir maaş gizli ve keyfî bir süreçle belirlenmişse sorun prosedürdedir.</p>",
+     "ornek": "<p>Bir otelde “ayın çalışanı” ödülü müdürün keyfine göre, hiçbir ölçüt açıklanmadan verilir: <b>Procedural justice</b> zedelenir. Aynı otelde iki resepsiyonist aynı işi yaptıkları hâlde birinin daha az kazandığını öğrenir: <b>Distributive justice</b>. Müdür bir garsonu misafirlerin önünde azarlar: <b>Interactional justice</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Distributive justice", "Procedural justice", "Interactional justice"],
+     "soru": {
+      "q": "Staff at a bike courier firm agree that their bonuses are fair in size, but are angry because the bonus rules are kept secret and changed without explanation. Which type of justice is lacking?",
+      "o": ["Procedural justice", "Distributive justice", "Interactional justice", "Psychological contract"],
+      "x": "Primlerin miktarı adil kabul ediliyor; sorun kuralların gizli tutulması ve açıklamasız değiştirilmesi, yani karar yöntemi. Bu Procedural justice'tir. Distributive justice çekicidir çünkü konu primlerdir, ama dağıtım adaleti sonucun kendisiyle ilgilidir ve çalışanlar sonucu zaten adil buluyor."
+     }
+    },
+    {
+     "baslik": "Stres: role ambiguity ve role conflict",
+     "anlatim": "<p>Tutumları etkileyen son kaynak <b>stress</b> (stres)'tir. Kitap stres kaynaklarını (stressors) üç türe ayırır: çevresel, kişilerarası ve örgütsel. Genel kural basittir: stres arttıkça tatmin azalır. Ama bir istisna vardır: zorlayıcı (challenging) stres, örneğin heyecan verici zor bir hedef, olumlu da olabilir.</p><p>Örgütsel stres kaynaklarından ikisi sınavda özellikle sorulur ve adları birbirine çok benzer.</p><p><b>Role ambiguity</b> (rol belirsizliği), sorumluluklarının ne olduğundan emin olmamaktır. Sorun bilgi eksikliğidir: kimse sana işinin sınırlarını söylememiştir. Yeniden yapılanmadan sonra “artık ben neyi yapıyorum?” diye soran çalışan budur.</p><p><b>Role conflict</b> (rol çatışması) ise birbiriyle çelişen taleplerdir; iş içinde ya da iş ile diğer roller arasında. Talepler açıktır ama ikisini aynı anda karşılayamazsın. İki müdürün zıt talimat vermesi ya da akşam toplantısının çocuğunu okuldan alma saatiyle çakışması buna örnektir.</p><p>Hızlı test: “Ne yapacağımı bilmiyorum” belirsizliktir; “ne yapacağımı biliyorum ama ikisi birden olmuyor” çatışmadır.</p>",
+     "ornek": "<p>Bir festival organizasyon şirketinde gönüllü koordinatörü Ada, iki ekibin birleşmesinden sonra bilet işinin artık kendisine mi yoksa başka birine mi ait olduğunu bilmez: <b>Role ambiguity</b>. Aynı şirkette Bora'nın bir müdürü masrafları kısmasını, diğeri sahneyi büyütmesini ister: <b>Role conflict</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Role ambiguity", "Role conflict"],
+     "soru": {
+      "q": "A lab technician is told by the research head to run every test twice for accuracy, while the operations head insists that each test is run only once to save time. What is she experiencing?",
+      "o": ["Role conflict", "Role ambiguity", "Procedural injustice", "Challenging stress"],
+      "x": "İki talep de açık ama birbiriyle çelişiyor ve ikisi aynı anda yerine getirilemez; bu Role conflict'tir. Role ambiguity çekicidir çünkü teknisyenin kafası karışmış görünür, ama belirsizlik sorumlulukların bilinmemesidir; burada talepler gayet net."
+     }
+    },
+    {
+     "baslik": "Tutumları ölçmek ve tutumların sınırı",
+     "anlatim": "<p>Bir yönetici çalışanların ne hissettiğini tahmin etmek yerine ölçmek ister. Kitap iki araç sayar.</p><p><b>Attitude surveys</b> (tutum anketleri) çalışanlara düzenli olarak sorulan sorulardır. En iyi iki koşulda işe yararlar: cevaplar <i>gizli</i> tutulduğunda, çünkü insanlar ancak o zaman dürüst cevap verir; ve ardından <i>harekete geçildiğinde</i>, çünkü hiçbir şey değişmezse çalışanlar bir sonraki anketi ciddiye almaz.</p><p><b>Exit interview</b> (çıkış görüşmesi), ayrılan bir çalışanla neden ayrıldığını öğrenmek için yapılan görüşmedir. Anketten farkı kimin sesini topladığıdır: anket kalanların, çıkış görüşmesi gidenlerin sesini toplar.</p><p>Son bir önemli nokta: tutumlar gerçek davranıştan çok <b>intentions</b> (niyetler) öngörmede başarılıdır. Memnun olmayan bir çalışan ayrılmayı <i>niyet eder</i>; ama gerçekten ayrılıp ayrılmayacağı alternatiflerine bağlıdır. Başka iş bulamıyorsa mutsuz olsa da kalır. Bu yüzden “dissatisfied employees always quit” gibi seçenekler yanlıştır.</p>",
+     "ornek": "<p>Hayalî bir kitapçı zincirinde mağaza çalışanları birbiri ardına istifa eder. İnsan kaynakları ayrılan her kişiyle bir <b>Exit interview</b> yapar ve çoğunun aynı nedeni, hafta sonu vardiyalarının adaletsiz dağıtımını söylediğini görür. Zincir kalanlara da gizli bir anket uygular ve vardiya sistemini değiştirir.</p>",
+     "kaynak": [2],
+     "terimler": ["Exit interview"],
+     "soru": {
+      "q": "A survey shows that many software testers at a firm are unhappy and plan to leave, yet a year later almost all are still there because few other jobs exist locally. What does this illustrate?",
+      "o": [
+       "Attitudes predict intentions better than actual behaviour",
+       "Attitude surveys never measure feelings in an accurate way",
+       "Dissatisfied employees will always quit within one year",
+       "Exit interviews are better predictors than attitude surveys"
+      ],
+      "x": "Memnuniyetsizlik ayrılma niyetini doğru öngördü, ama gerçek davranış alternatiflerin azlığı yüzünden farklı oldu; tutumlar niyeti davranıştan daha iyi öngörür. “Always quit” seçeneği bu bağı mutlak sayar, oysa ayrılmak alternatiflere bağlıdır."
+     }
+    },
+    {
+     "baslik": "Etkileşimci bakış: person-job fit ve person-organization fit",
+     "anlatim": "<p>Davranışı yalnızca kişilikle mi, yoksa yalnızca durumla mı açıklarsın? <b>Interactionist perspective</b> (etkileşimci bakış) ikisini birleştirir: davranış, kişi ile durumun etkileşiminin bir fonksiyonudur. Aynı kişi bir ortamda parlar, başka bir ortamda söner. Bu fikirden “fit” (uyum) kavramı doğar.</p><p><b>Person-job fit</b> (kişi-iş uyumu), bilgi, beceri, yetenek ve diğer özelliklerinin (<b>KSAO</b>) <i>işin taleplerine</i> uymasıdır. Sorusu şudur: bu işi yapacak donanıma sahip misin?</p><p><b>Person-organization fit</b> (kişi-örgüt uyumu), kişiliğinin, değerlerinin ve hedeflerinin <i>organizasyona</i> uymasıdır. Sorusu şudur: bu şirketin karakteri sana uyuyor mu?</p><p>İkisi birbirinden bağımsızdır. Usta bir muhasebeci işin taleplerini rahatça karşılar, ama yaratıcı ve risk seven biriyse her şeyi kurala bağlayan bir şirkette mutsuz olabilir. Ayırma kuralı: beceriler işle eşleşiyorsa P-J, değerler ve kişilik şirketle eşleşiyorsa P-O. İyi uyumun sonucu ikisinde de aynıdır: daha tatminli, daha bağlı ve daha uzun kalan çalışanlar.</p><p>Kitaptaki SAS Institute vakası bunu gösterir: Fortune'un en iyi işyerleri listesine her yıl giren şirkette çalışan devri, sektör normu %20 iken %4'ün altındadır; Google bile fikir almak için SAS kampüsünü ziyaret etmiştir.</p>",
+     "ornek": "<p>Hayalî bir organik çiftlik restoranına sürdürülebilirliğe gönülden inanan ama hiç mutfak deneyimi olmayan Yasemin girer: <b>Person-organization fit</b> yüksek, <b>Person-job fit</b> düşüktür. Mutfaktaki Murat ise usta bir aşçıdır ama israfı umursamaz ve restoranın değerleriyle sürekli çatışır: iş uyumu yüksek, örgüt uyumu düşüktür.</p>",
+     "kaynak": [3],
+     "terimler": ["Person-job fit", "Person-organization fit"],
+     "soru": {
+      "q": "A talented designer joins a cautious, rule-bound insurance company. She handles every design task with ease, but her love of risk and novelty keeps clashing with the firm's way of doing things. Which fit is weak?",
+      "o": ["Person-organization fit", "Person-job fit", "Psychological contract", "Organizational commitment"],
+      "x": "Becerileri işin taleplerine uyuyor, yani person-job fit iyi; uyuşmayan şey kişiliği ile şirketin karakteri. Kişiliğin ve değerlerin organizasyonla eşleşmesi person-organization fit'tir. Person-job fit çekicidir çünkü senaryo bir iş anlatıyor, ama o yalnızca KSAO ile iş talepleri arasındaki uyumdur."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "“Emotional attachment to the company” iş tatminidir.", "dogru": "Şirkete duygusal bağ <b>Organizational commitment</b>'tır; iş tatmini işe karşı duyulan histir."},
+    {"yanlis": "Değerlerin şirketle örtüşmesi person-job fit'tir.", "dogru": "Değerler şirketle eşleşiyorsa <b>person-organization fit</b>; beceriler işle eşleşiyorsa <b>person-job fit</b>."},
+    {"yanlis": "Terfilerin kurayla verilmesi dağıtım adaletini bozar.", "dogru": "Karar yöntemi adaletsiz olduğu için bozulan <b>Procedural justice</b>'tir; dağıtım adaleti sonucun adilliğidir."},
+    {"yanlis": "Sorumluluklarını bilmemek rol çatışmasıdır.", "dogru": "Bu <b>Role ambiguity</b>'dir; role conflict açık ama birbiriyle çelişen taleplerdir."},
+    {"yanlis": "Psikolojik sözleşme imzalanan iş sözleşmesidir.", "dogru": "Psikolojik sözleşme <b>yazısız</b>, söylenmemiş karşılıklı beklentidir."},
+    {"yanlis": "Memnun olmayan çalışan her zaman ayrılır.", "dogru": "Tutumlar niyeti öngörür; gerçekten ayrılıp ayrılmamak alternatiflere bağlıdır."},
+    {"yanlis": "Özerklik (autonomy) bir adalet türüdür.", "dogru": "Özerklik bir <b>job characteristic</b>'tir; örgütsel adalet ayrı bir kaynaktır."}
+   ],
+   "ozet": [
+    "Attitude: çevremiz hakkındaki görüş, inanç ve duygular.",
+    "İş tatmini işe, örgütsel bağlılık şirkete yönelik duygudur.",
+    "Olumlu tutumların kaynakları: kişilik ve değerler, iş özellikleri, adalet, psikolojik sözleşme, ilişkiler, stres.",
+    "Dağıtım adaleti sonuca, prosedür adaleti yönteme, etkileşim adaleti saygıya bakar.",
+    "Rol belirsizliği bilinmeyen sorumluluktur; rol çatışması çelişen taleplerdir.",
+    "Anketler gizli olunca ve ardından eylem gelince işe yarar; çıkış görüşmesi ayrılanlarla yapılır.",
+    "Tutumlar niyeti gerçek davranıştan daha iyi öngörür.",
+    "Kişi-iş uyumu beceriyi işe, kişi-örgüt uyumu değerleri şirkete bağlar."
+   ],
+   "aklinda": "Ne aldım, nasıl karar verildi, bana nasıl davranıldı: distributive, procedural, interactional. Beceri işe, değer şirkete uyar.",
+   "sinavda": "<p>Part 1'de yaklaşık 4 puanlık çoktan seçmeli sorularla gelir. Sorular genellikle kısa bir çalışan hikâyesi verip hangi adalet türünün bozulduğunu, hangi stres kaynağının yaşandığını ya da hangi uyumun zayıf olduğunu sorar. Commitment ile satisfaction ayrımı da sık sınanır.</p>"
+  },
+  {
+   "id": "c3a",
+   "ad": "Liderlik, güç ve etki",
+   "sure": 30,
+   "neden": "<p>Bu ünite sınavın vaka bölümünde sorulur: sana bir kişinin neden takip edildiğini anlatan kısa bir durum verilir ve gücün kaynağını bulman istenir. Unvana bakıp cevap vermek en sık yapılan hatadır. Gücün nereden geldiğini mantığıyla anlarsan vakadaki doğru ipucunu yakalarsın.</p>",
+   "hedefler": [
+    "Formal, informal, designated ve emergent lider türlerini ayırt et.",
+    "French ve Raven'ın beş güç kaynağını bir vakada belirle.",
+    "Pozisyon gücü ile kişisel gücü ve etkilerini karşılaştır.",
+    "Theory X ve Theory Y varsayımlarının liderlik tarzına etkisini açıkla.",
+    "Tannenbaum ve Schmidt ile Muczyk ve Reimann modellerini tanı."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Liderlik nedir: formal ve informal lider",
+     "anlatim": "<p>1. bölümde Leading fonksiyonunu gördün; bu bölüm onu açar. <b>Leadership</b> (liderlik), başkalarını bir hedefe doğru çalışmaları için etkileme eylemidir. Tanımda unvan yok, “etkileme” var. Bu yüzden liderler organizasyonun her seviyesinde bulunur; liderlik yalnızca en tepedeki kişinin işi değildir.</p><p>Liderler etkilerinin kaynağına göre ikiye ayrılır. <b>Formal leader</b> (resmî lider) bir otorite pozisyonunda bulunur ve resmî lider olarak tanınır. Hem pozisyonundan gelen gücü (position power) hem de kişisel gücünü (personal power) kullanabilir.</p><p><b>Informal leader</b> (gayriresmî lider) ise resmî bir pozisyona sahip değildir ama kişisel gücüyle başkalarını etkiler. Kimse onu atamamıştır; grup onu lideri olarak kabul eder. Bu yüzden gayriresmî lider ödül veremez ya da ceza kesemez; insanlar onu bildikleri veya sevdikleri için izler.</p><p>Ayrım şuna dayanır: lideri <i>kim</i> lider yaptı? Organizasyon bir pozisyon verdiyse formal; grubun kendisi kabul ettiyse informal. Aynı ekipte ikisi birden olabilir: kâğıt üzerinde şef bir kişidir, ama herkes zor bir soruda başka birine bakar.</p>",
+     "ornek": "<p>Hayalî bir müzik okulunda bölüm başkanı Hande Hanım resmî olarak atanmıştır ve ders programını o onaylar: <b>Formal leader</b>. Öğretmenler ise yeni bir müfredat konusunda kararsız kaldıklarında unvanı olmayan, tecrübeli ve sevilen piyano öğretmeni Rıza'nın fikrini sorar ve ona uyar: <b>Informal leader</b>.</p>",
+     "kaynak": [0],
+     "terimler": ["Leadership", "Formal leader", "Informal leader"],
+     "soru": {
+      "q": "In a warehouse team, the shift manager holds the official title, but workers settle disputes by asking a long-serving forklift driver whom everyone trusts, and they follow her advice. What is the forklift driver?",
+      "o": ["An informal leader", "A formal leader", "A designated leader", "A figurehead"],
+      "x": "Resmî bir pozisyonu yok ama grup onu kabul ediyor ve kişisel gücüyle etkiliyor; bu informal leader'dır. Designated leader çekicidir çünkü ekip ona bir rol vermiş gibi görünür, ama atanmış lider dış güçlerce o role konur; burada kimse onu atamadı."
+     }
+    },
+    {
+     "baslik": "Designated ve emergent lider, liderlik süreci",
+     "anlatim": "<p>Liderleri bir de nasıl ortaya çıktıklarına göre ayırabilirsin. <b>Designated leader</b> (atanmış lider), dış güçler tarafından bu role konan kişidir: üst yönetim bir takım kurar ve başına birini getirir. <b>Emergent leader</b> (kendiliğinden ortaya çıkan lider) ise ortak bir hedefe doğru çalışırken grubun dinamiklerinden doğar. Kimse onu seçmemiştir; iş ilerledikçe insanlar ona yönelmeye başlar.</p><p>Bu ayrım formal ve informal ayrımına benzer ama aynı değildir. Formal ve informal, liderin bir <i>pozisyonu</i> olup olmadığını; designated ve emergent ise liderin <i>nasıl</i> lider olduğunu anlatır. Sınavda unvansız biri bir kriz sırasında herkesin yöneldiği kişi hâline geliyorsa “emergent, informal leader” cevabı ikisini birlikte doğru biçimde adlandırır.</p><p>Hollander ve Julian bu ilişkiyi <b>the leadership process</b> (liderlik süreci) olarak tarif eder: lider ile takipçiler arasında zamanla kurulan karmaşık ve dinamik bir alışveriş ilişkisi. İki taraf ortak bir hedefe ulaşmak için birbirine bağımlıdır. Yani liderlik tek yönlü bir emir ya da doğuştan gelen sabit bir özellik değildir; takipçiler liderin etkisini kabul ettikçe ve lider onlara bir şey verdikçe ilişki güçlenir.</p>",
+     "ornek": "<p>Bir doğa yürüyüşünde grubun rehberi Kerem tur şirketi tarafından görevlendirilmiştir: designated leader. Yolda sis çöküp patika kaybolunca, bu dağlarda daha önce yürümüş katılımcı Lale haritayı okur ve herkes ona uyar. Lale, grubun dinamiğinden doğan bir <b>Emergent leader</b>'dır.</p>",
+     "kaynak": [0],
+     "terimler": ["Emergent leader"],
+     "soru": {
+      "q": "During a student hackathon no captain is appointed, but as the night goes on the others start turning to Pieter for direction because he keeps solving blocking problems. How did Pieter become leader?",
+      "o": [
+       "He emerged from the group's dynamics",
+       "He was designated by outside forces",
+       "He gained legitimate power by title",
+       "He was given the figurehead role"
+      ],
+      "x": "Kimse onu atamadı; çalışma ilerledikçe grup ona yöneldi. Bu emergent leader'ın tanımıdır. Designated seçeneği çekici olabilir, ama atanmış lider dış güçler tarafından role konur; senaryoda kaptan atanmadığı açıkça belirtiliyor."
+     }
+    },
+    {
+     "baslik": "Pozisyon gücü: legitimate, reward, coercive",
+     "anlatim": "<p>Liderlik etkilemekse, insanlar neden etkilenir? French ve Raven beş güç kaynağı sayar ve bunları iki aileye ayırır. İlk aile <b>position power</b> (pozisyon gücü): bu güçler kişiden değil, oturduğu koltuktan gelir. Koltuktan kalkınca güç de gider.</p><p><b>Legitimate power</b> (meşru güç), resmî pozisyondan ya da unvandan gelir: talimat vermenin “hakkı”. Çalışanlar müdürün sözünü, o müdür olduğu için dinler.</p><p><b>Reward power</b> (ödül gücü), başkalarının istediği ödülleri verebilme yeteneğidir: prim, terfi, iyi bir satış bölgesi.</p><p><b>Coercive power</b> (zorlayıcı güç), cezalandırabilme ya da değer verilen bir şeyi elinden alabilme yeteneğidir: uyarı, vardiya kesmek, bir ayrıcalığı geri almak.</p><p>Reward ile Coercive aynı madalyonun iki yüzü gibidir; ayrım vermek ile almaktır. Hedefi tutturana prim veriliyorsa reward, tutturamayanın primi kesiliyorsa coercive. Legitimate ise ikisinden de farklıdır: insan ödül ya da ceza beklentisiyle değil, yalnızca “o patron” olduğu için uyar. Sınavda unvana yapılan vurgu legitimate'ı, prim ve iyi bölge gibi teşvikler reward'ı gösterir.</p>",
+     "ornek": "<p>Bir pizzacı zincirinin bölge müdürü kuryelere yeni teslimat kuralını duyurur ve müdür olduğu için uyulur: <b>Legitimate power</b>. Ayın en hızlı kuryesine fazladan izin günü ve en kolay bölgeyi verir: <b>Reward power</b>. Kuralı üç kez çiğneyen kuryenin akşam vardiyalarını elinden alır: <b>Coercive power</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Legitimate power", "Reward power", "Coercive power"],
+     "soru": {
+      "q": "A hotel manager tells housekeepers that anyone who misses the room-cleaning deadline twice will lose their preferred weekend shifts. Which source of power is she using?",
+      "o": ["Coercive power", "Reward power", "Legitimate power", "Expert power"],
+      "x": "Değer verilen bir şeyi, yani tercih edilen hafta sonu vardiyasını elinden almakla tehdit ediyor; bu Coercive power'dır. Reward power çekicidir çünkü konu istenen vardiyalardır, ama ödül gücü bir şey vermektir; burada ise geri alma tehdidi var."
+     }
+    },
+    {
+     "baslik": "Kişisel güç: expert ve referent",
+     "anlatim": "<p>İkinci aile <b>personal power</b> (kişisel güç): bu güçler koltuktan değil kişiden gelir. Bu yüzden unvanı olmayan biri de bu güçlere sahip olabilir ve gayriresmî liderler tam olarak bunları kullanır.</p><p><b>Expert power</b> (uzmanlık gücü), başkalarının ihtiyaç duyduğu bilgi ve becerilere sahip olmaktan gelir. Şirketteki tek veri tabanı uzmanı yönetici olmasa da üst yönetimin kararlarını etkiler, çünkü onlar onun bilgisine muhtaçtır.</p><p><b>Referent power</b> (özdeşleşme gücü), hayranlık duyulmaktan gelir: insanlar seni sever, sana saygı duyar ve seninle ilişkilendirilmek, senin gibi olmak ister.</p><p>Sınavın klasik tuzağı şudur: unvanı olmayan bir uzman yöneticileri etkiliyorsa cevap legitimate değil, <b>expert</b> power'dır. Meşru güç yalnızca resmî pozisyondan gelir. Expert ile Referent'i ayırmak için insanların neden takip ettiğine bak: bildiği için mi, yoksa sevdikleri ve ona benzemek istedikleri için mi? Bir vakada ikisi aynı anda bulunabilir; o zaman doğru cevap ikisini birlikte anan seçenektir.</p>",
+     "ornek": "<p>Bir yelken kulübünde kulüp başkanı olmayan ama yirmi yıllık denizci olan Vedat, rüzgâr sertleştiğinde herkesin dinlediği kişidir: <b>Expert power</b>. Kulübün genç antrenörü Sude ise hem nazik hem de başarılı olduğu için öğrenciler onun gibi konuşur ve her önerisini benimser: <b>Referent power</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Expert power", "Referent power"],
+     "soru": {
+      "q": "A data analyst with no managerial title convinces the board to drop a planned acquisition, because only she understands the risk model behind it. Which source of power does she have?",
+      "o": ["Expert power", "Legitimate power", "Referent power", "Reward power"],
+      "x": "Kurulu etkileyen şey başkalarının ihtiyaç duyduğu bilgidir, yani Expert power. Legitimate power çekicidir çünkü yönetim kurulu düzeyinde bir karar etkileniyor, ama analistin resmî bir yönetici pozisyonu yok; meşru güç yalnızca pozisyondan gelir."
+     }
+    },
+    {
+     "baslik": "Gücün etkileri: hangi güç ne üretir?",
+     "anlatim": "<p>Beş gücü tanımak yetmez; sınav hangisinin hangi sonucu ürettiğini de sorar. Mantığı şöyle kur: insan lidere içten mi katılıyor, yoksa dıştan mı zorlanıyor ya da satın alınıyor?</p><p><b>Coercive power</b> takipçileri yabancılaştırır (alienate). Ceza korkusuyla uyan biri yalnızca izlendiği sürece uyar ve lidere küser.</p><p><b>Reward power</b> insanları “ne kadar alıyorum?” diye düşündürür. Uyum ödüle bağlanır; ödül biterse çaba da azalabilir.</p><p><b>Referent power</b> liderle özdeşleşme (identification) yaratır: insanlar ona benzemek istedikleri için onun hedefini kendi hedefleri gibi görür.</p><p><b>Expert power</b> ve rasyonel argümanlar <b>commitment</b> (içten bağlılık) yaratır, çünkü insan bir şeyin doğru olduğuna kendi aklıyla ikna olur.</p><p>Sonuç: en iyi tatmin ve performans referent ve expert güçten gelir. Ayrıca referent güç diğer bütün güçleri güçlendirir; sevilen bir müdürün verdiği prim de, verdiği talimat da daha iyi karşılanır. Bu yüzden “coercive power builds lasting commitment” ya da “reward power always creates deep commitment” gibi seçenekler yanlıştır.</p>",
+     "ornek": "<p>İki hayalî fırın düşün. Birincisinde şef, hatalı ekmek pişirenin yevmiyesinden keser; çıraklar ondan korkar ve şef yokken işi savsaklar. İkincisinde şef, hamurun neden o sıcaklıkta dinlenmesi gerektiğini açıklar; çıraklar ikna olur ve kurala kendiliğinden uyar. Birinci fırın <b>Coercive power</b>'ın yabancılaştırmasını, ikincisi <b>Expert power</b>'ın yarattığı bağlılığı gösterir.</p>",
+     "kaynak": [1],
+     "terimler": ["Coercive power", "Reward power", "Referent power", "Expert power"],
+     "soru": {
+      "q": "A new head of a design agency wants her team to truly commit to a new working method rather than merely comply. According to the course, which approach is most likely to work?",
+      "o": [
+       "Explaining the method's logic using her expertise",
+       "Paying a bonus to each person who uses the method",
+       "Warning that anyone who resists will be demoted",
+       "Stating that as head she has the right to decide"
+      ],
+      "x": "Expert power ve rasyonel argümanlar içten bağlılık yaratır. Prim seçeneği çekicidir, ama ödül gücü insanları “ne kadar alıyorum?” diye düşündürür ve uyumu ödüle bağlar; tehdit (coercive) yabancılaştırır, yalnızca unvana dayanmak (legitimate) da tek başına yeterli olmaz."
+     }
+    },
+    {
+     "baslik": "Tannenbaum ve Schmidt, Theory X ve Theory Y",
+     "anlatim": "<p>Lider gücünü nasıl kullanır? Etkiye dayalı tarz modelleri, liderin karar yetkisini ne kadar paylaştığına bakar.</p><p><b>Tannenbaum & Schmidt continuum</b> (Tannenbaum ve Schmidt sürekliliği) bunu bir çizgi olarak çizer. Bir uçta <b>boss-centred</b> (patron merkezli, otokratik) lider vardır: kararı kendisi verir. Ortada <b>participative</b> (katılımcı) lider: çalışanları karara katar. Öbür uçta <b>free-rein</b> (serbest bırakan) lider: kararı büyük ölçüde ekibe bırakır. “Süreklilik” olması, tarzların keskin kutular değil kademeli geçişler olduğu anlamına gelir.</p><p>Bir lider bu çizginin neresinde duracağını neye göre seçer? McGregor'a göre insanlar hakkındaki varsayımlarına göre. <b>Theory X / Theory Y</b> (X Teorisi / Y Teorisi) bu iki varsayımı adlandırır. Theory X lideri insanların işten hoşlanmadığını ve kontrol edilmeleri gerektiğini varsayar; bu yüzden kontrolcü bir tarz seçer, her şeyi denetler. Theory Y lideri insanların yaratıcı olduğunu ve kendi kendilerini yönlendirebildiğini varsayar; bu yüzden onları işe katan bir tarz seçer ve takdir yetkisi tanır.</p><p>Dikkat: teori çalışanların türünü değil, <i>liderin varsayımını</i> tarif eder. Sınavda “the manager assumes...” gördüğünde kontrol ihtiyacı X'i, kendi kendini motive etme Y'yi gösterir.</p>",
+     "ornek": "<p>İki hayalî çiçekçi düşün. Birincisinin sahibi çalışanların fırsat bulunca tembellik edeceğine inanır, her buketi kendisi onaylar ve gün boyu kontrol eder: <b>Theory X</b>, sürekliliğin patron merkezli ucu. İkincisinin sahibi çalışanlarının yaratıcı olduğuna inanır, vitrin tasarımını onlara bırakır ve yalnızca fikir verir: <b>Theory Y</b>, katılımcı uca yakın.</p>",
+     "kaynak": [2],
+     "terimler": ["Theory X / Theory Y"],
+     "soru": {
+      "q": "The owner of a car-wash chain lets each site team design its own work schedule and service ideas, believing that people enjoy responsibility and can motivate themselves. Which assumption guides him?",
+      "o": ["Theory Y", "Theory X", "Boss-centred leadership", "Coercive power"],
+      "x": "İnsanların sorumluluktan hoşlandığı ve kendi kendini motive edebildiği varsayımı Theory Y'dir ve katılımcı bir tarza yol açar. Theory X tam tersini varsayar: insanlar işten hoşlanmaz ve kontrol edilmelidir; patron merkezli tarz da bu varsayımın ürünüdür."
+     }
+    },
+    {
+     "baslik": "Muczyk ve Reimann'ın dört tarzı",
+     "anlatim": "<p>Tannenbaum ve Schmidt tek bir çizgi çizer. Muczyk ve Reimann ise liderliği dört tarza ayırır ve bu tarzların adları iki ayrı soruyu birlikte cevaplar.</p><p>Adın ikinci kelimesi <i>kararı</i> anlatır: <b>autocrat</b> (otokrat) kararı kendisi verir, <b>democrat</b> (demokrat) kararı çalışanlarla paylaşır. Adın ilk kelimesi <i>uygulamayı</i> anlatır: <b>directive</b> (yönlendirici) lider işin nasıl yapılacağını yakından yönlendirir, <b>permissive</b> (serbest bırakan) lider ise uygulamada çalışanlara serbestlik tanır. İkisini birleştirince dört tarz çıkar:</p><ul><li><b>Directive autocrat</b>: kararı kendisi verir ve uygulamayı da yakından yönlendirir.</li><li><b>Permissive autocrat</b>: kararı kendisi verir ama uygulamayı çalışanlara bırakır.</li><li><b>Directive democrat</b>: kararı birlikte verir ama uygulamayı yakından yönlendirir.</li><li><b>Permissive democrat</b>: hem kararı hem uygulamayı paylaşır (decisions and execution).</li></ul><p>Notlar yalnızca permissive democrat'ı açıkça tarif eder; diğer üçünü adlardaki bu iki parçadan sen kurabilirsin. Bu modeli Theory X / Y ile karıştırma: X ve Y liderin <i>varsayımlarıdır</i>, Muczyk ve Reimann'ın dört tarzı ise liderin <i>davranışını</i> adlandırır.</p>",
+     "ornek": "<p>Bir okul gazetesinin editörü Ozan, hangi haberlerin yayınlanacağına ekiple oy vererek karar verir ve her muhabirin haberini nasıl yazacağını kendisine bırakır. Hem kararı hem uygulamayı paylaştığı için bu bir <b>permissive democrat</b>'tır. Haberleri kendisi seçip yazım biçimini de satır satır dikte etseydi directive autocrat olurdu.</p>",
+     "kaynak": [2],
+     "terimler": [],
+     "soru": {
+      "q": "A football club's youth coach lets the players vote on the season's training focus and then leaves it to them to organise how they practise it. Which Muczyk and Reimann style fits best?",
+      "o": ["Permissive democrat", "Directive democrat", "Permissive autocrat", "Directive autocrat"],
+      "x": "Karar oylamayla paylaşılıyor (democrat) ve uygulama da oyunculara bırakılıyor (permissive); hem karar hem uygulama paylaşıldığı için bu permissive democrat'tır. Directive democrat çekicidir çünkü karar yine birlikte veriliyor, ama o tarzda koç uygulamayı yakından yönlendirirdi."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "Unvanı olmayan bir uzmanın yöneticileri etkilemesi meşru güçtür.", "dogru": "Bilgiden gelen güç <b>Expert power</b>'dır; meşru güç yalnızca resmî pozisyondan gelir."},
+    {"yanlis": "Hedefi tutturanlara prim ve iyi bölge vermek özdeşleşme gücüdür.", "dogru": "Ödül vermek <b>Reward power</b>'dır; referent güç hayranlık ve özdeşleşmeden doğar."},
+    {"yanlis": "Sevilen, örnek alınan biri uzmanlık gücü kullanır.", "dogru": "İnsanlar onu sevip ona benzemek istiyorsa bu <b>Referent power</b>'dır."},
+    {"yanlis": "Zorlayıcı güç kalıcı bağlılık yaratır.", "dogru": "Coercive güç yabancılaştırır; içten bağlılığı <b>expert</b> güç ve rasyonel argüman yaratır."},
+    {"yanlis": "Gayriresmî lider grubun dışından atanır.", "dogru": "Dışarıdan atanan lider <b>designated</b>'dır; informal liderin pozisyonu yoktur, onu grup kabul eder."},
+    {"yanlis": "Theory X ve Theory Y iki çalışan tipidir.", "dogru": "İkisi de liderin insanlar hakkındaki <b>varsayımıdır</b>: X kontrol, Y kendi kendini yönlendirme."}
+   ],
+   "ozet": [
+    "Liderlik başkalarını bir hedefe doğru etkilemektir ve her seviyede görülür.",
+    "Formal lider pozisyonla, informal lider grubun kabulüyle lider olur.",
+    "Atanmış (designated) lider dışarıdan gelir, emergent lider grubun dinamiğinden doğar.",
+    "Liderlik süreci: zamanla kurulan, iki yönlü ve dinamik bir alışveriş ilişkisi.",
+    "Pozisyon gücü: legitimate, reward, coercive. Kişisel güç: expert, referent.",
+    "Zorlayıcı güç yabancılaştırır, uzmanlık bağlılık yaratır, özdeşleşme gücü diğerlerini güçlendirir.",
+    "Theory X kontrol, Theory Y katılım varsayımına dayanır.",
+    "Tannenbaum ve Schmidt çizgisi: patron merkezli, katılımcı, serbest bırakan.",
+    "Muczyk ve Reimann: autocrat/democrat kararı, directive/permissive uygulamayı anlatır."
+   ],
+   "aklinda": "Koltuktan gelen üç güç: hak, havuç, sopa (legitimate, reward, coercive). Kişiden gelen iki güç: bilgi ve hayranlık (expert, referent).",
+   "sinavda": "<p>3. bölüm Part 2'de, her biri 2 puan olan 15 kısa vakadan oluşan bölümde sorulur; bu ünitenin yaklaşık ağırlığı 4 puandır. Vaka bir kişinin neden takip edildiğini anlatır ve gücün kaynağını ya da lider türünü bulmanı ister; unvana değil, etkinin nereden geldiğine bak.</p>"
+  },
+  {
+   "id": "c3b",
+   "ad": "Liderlikte özellik ve davranış yaklaşımları",
+   "sure": 25,
+   "neden": "<p>Liderlik araştırması iki basit soruyla başladı: lideri lider yapan kim olduğu mu, yoksa ne yaptığı mı? Bu iki yaklaşımı ve sınırlarını anlamak, vakalarda bir liderin davranışını doğru adlandırmanı sağlar ve sınavın sevdiği “arkadaş canlısı ama görev odaklı” türünden tuzaklardan korur.</p>",
+   "hedefler": [
+    "Özellik yaklaşımının sorusunu ve sınırını açıkla.",
+    "Kirkpatrick ve Locke'un temel liderlik özelliklerini say.",
+    "Judge ve arkadaşlarına göre liderlikle en güçlü bağı olan özelliği söyle.",
+    "Bir vakada görev odaklı ve insan odaklı davranışı ayırt et.",
+    "Üç karar verme tarzını sonuçlarıyla eşleştir."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Lider kimdir? Trait approach",
+     "anlatim": "<p>Liderlik araştırmasının ilk sorusu şuydu: bazı insanlar lider olmak için mi doğar? <b>Trait approach</b> (özellik yaklaşımı), birini lider yapan kişisel özellikleri arar. Bu yaklaşım <b>Stogdill</b> ile başladı: hangi fiziksel, kişilik ve sosyal özellikler liderleri ayırır?</p><p>Daha sonra <b>Kirkpatrick & Locke</b>, liderlik <i>potansiyeli</i> veren temel özellikleri belirledi. Liste şudur: <b>Drive</b> (azim, dürtü), yani yüksek çaba, hırs, enerji, kararlılık ve inisiyatif; <b>leadership motivation</b> (liderlik motivasyonu), yani başkalarını yönlendirme isteği; <b>honesty and integrity</b> (dürüstlük ve tutarlılık); <b>self-confidence</b> (özgüven); <b>cognitive ability</b> (bilişsel yetenek); <b>knowledge of the business</b> (işi bilmek). Bunlara ek olarak karizma, yaratıcılık ve esneklik de anılır.</p><p>“Potansiyel” kelimesine dikkat et. Bu özellikler birine liderlik etme imkânı verir ama başarıyı garanti etmez. Bir kişide güçlü bir drive olabilir; işi bilmiyorsa ya da kimse ona güvenmiyorsa yine de lider olamaz. Sınavda bu liste sorulduğunda boy, yaş, servet gibi fiziksel ve sosyal özellikleri ya da “modesty, conflict avoidance” gibi yumuşak özellikleri içeren seçenekleri ele.</p>",
+     "ornek": "<p>Bir öğrenci tiyatro kulübünde başkan adayı Arda provaya ilk gelen, son çıkan kişidir ve her aksaklığı çözmeye kendisi girişir: yüksek <b>Drive</b>. Ama sahne işlerinden anlamıyorsa ve verdiği sözleri tutmadığı için güven kaybetmişse bu potansiyel yetmez. <b>Trait approach</b> bu yüzden özellikleri garanti değil, potansiyel olarak görür.</p>",
+     "kaynak": [0],
+     "terimler": ["Trait approach", "Drive"],
+     "soru": {
+      "q": "A panel choosing team captains rates candidates only on energy, ambition, honesty, self-confidence, intelligence and knowledge of the business. Which approach to leadership is the panel using?",
+      "o": ["The trait approach", "The behavioural approach", "Theory Y", "The leadership process"],
+      "x": "Panel adayları sahip oldukları kişisel özelliklere göre değerlendiriyor ve liste Kirkpatrick ile Locke'un temel özelliklerine denk geliyor; bu trait approach'tır. Behavioural approach çekicidir, ama o liderin ne yaptığına bakar; burada ise kim olduğuna bakılıyor."
+     }
+    },
+    {
+     "baslik": "Liderlikle ilişkili özellikler ve yaklaşımın sınırı",
+     "anlatim": "<p><b>Judge et al.</b> (Judge ve arkadaşları) hangi özelliklerin liderlikle gerçekten ilişkili olduğuna baktı. Bulgular 2. bölümdeki kişilik özellikleriyle birleşir:</p><ul><li><b>Intelligence</b> (zekâ): olumlu ama mütevazı bir ilişki. Goleman'a göre IQ bir eşiktir; iyiyi büyükten ayıran ise <b>Emotional intelligence (EQ)</b> (duygusal zekâ) olur. EQ, kendi duygularını ve başkalarının duygularını izleyip bunları davranışına yol göstermek için kullanmaktır; öğeleri öz farkındalık, motivasyon, empati ve sosyal becerilerdir.</li><li><b>Extraversion</b>: lider olarak ortaya çıkma ve etkili olma ile <i>en güçlü</i> bağa sahip özellik.</li><li><b>Conscientiousness</b> ve <b>openness</b>: bu kişiler daha çok lider olarak ortaya çıkar ve daha etkili olur.</li><li><b>Agreeableness</b>: mütevazı, çatışmadan kaçınan kişiler lider olarak <i>daha az</i> görülür.</li><li><b>Self-esteem</b> ve <b>integrity</b>: liderlere yardım eder; kaybedilen dürüstlük hem lidere hem şirkete zarar verir.</li><li><b>Self-monitoring</b>: yüksek self-monitor'lar daha sık lider olarak ortaya çıkar.</li></ul><p>Yaklaşımın sınırı iki yönlüdür. Özellikler küçük ve esnek firmalarda, kurallara bağlı firmalardan daha önemlidir; ve yaklaşım durumu (situation) görmezden gelir. Kısacası liderler yalnızca “doğmaz”.</p>",
+     "ornek": "<p>Hayalî bir yazılım ekibinde en yüksek IQ'ya sahip Cem, toplantılarda kimin gergin olduğunu fark etmez ve ekibi kırar. Ondan biraz daha az parlak ama arkadaşlarının hislerini okuyup konuşmasını buna göre ayarlayan Seda ise ekibi toparlar. İkisi de zekâ eşiğini geçmiştir; farkı <b>Emotional intelligence (EQ)</b> yaratır.</p>",
+     "kaynak": [0],
+     "terimler": ["Emotional intelligence (EQ)"],
+     "soru": {
+      "q": "Two equally intelligent shift managers are compared. One notices her staff's frustration and adjusts how she speaks to them; the other ignores moods. According to Goleman, what mostly separates the better leader?",
+      "o": [
+       "Emotional intelligence, since IQ is only a threshold",
+       "IQ, since intelligence is the main driver of success",
+       "Agreeableness, since avoiding conflict builds trust",
+       "Self-efficacy, since belief in a task drives results"
+      ],
+      "x": "Goleman'a göre IQ bir eşiktir; ikisi de o eşiği geçtiğinde iyi lideri ayıran şey duyguları izleyip davranışı ona göre ayarlamak, yani EQ'dur. IQ seçeneği çekicidir, ama senaryoda zekâ eşit verilmiş ve Goleman da IQ'nun tek başına farkı yaratmadığını söyler."
+     }
+    },
+    {
+     "baslik": "Lider ne yapar? Görev odaklı ve insan odaklı davranış",
+     "anlatim": "<p>Özellik yaklaşımı tatmin edici bir cevap veremeyince araştırmacılar soruyu değiştirdi: liderler <i>kim</i> değil, ne <i>yapar</i>? Ohio State ve Michigan'daki çalışmalar iki tür davranış buldu.</p><p><b>Task-oriented behaviour</b> (görev odaklı davranış), <b>initiating structure</b> (yapı oluşturma) olarak da bilinir: rolleri yapılandırmak, talimat ve teslim tarihi vermek, performansa ve hedeflere odaklanmak. Sonucu biraz daha yüksek verimliliktir; ama aşırısı tükenmişliğe (burnout) yol açar.</p><p><b>People-oriented behaviour</b> (insan odaklı davranış), <b>consideration</b> (önemseme) olarak da bilinir: çalışanların duygularına ilgi göstermek, onlara saygıyla davranmak, iyi oluşlarını önemsemek. Sonucu daha tatminli ve olumlu çalışanlardır.</p><p>Sınavın tuzağı şudur: güler yüzlü bir lider rolleri dağıtıyor, teslim tarihi koyuyor ve sonuçları kontrol ediyorsa davranışı <b>task-oriented</b>'dır. Liderin kişiliği ya da üslubu değil, <i>yaptığı şey</i> sayılır. Ayrıca bu iki davranış birbirinin karşıtı değildir; bir lider ikisini birden yapabilir. Kural: işin yapısıyla uğraşıyorsa görev, insanın kendisiyle uğraşıyorsa insan odaklıdır.</p>",
+     "ornek": "<p>Bir hayvan barınağının sorumlusu Pelin her pazartesi gönüllülere köpek gezdirme listesini dağıtır, her işin saatini belirler ve cuma günü kimin neyi yaptığını kontrol eder: <b>Task-oriented behaviour</b>. Aynı Pelin, bir gönüllünün yaşlı bir köpeğin ölümüne üzüldüğünü fark edip onunla oturup konuşur: <b>People-oriented behaviour</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Task-oriented behaviour", "People-oriented behaviour"],
+     "soru": {
+      "q": "A cheerful, well-liked IT team lead jokes with everyone, but her main activities are assigning tickets, setting due dates and reviewing each person's closed tickets every evening. Which behaviour dominates?",
+      "o": ["Task-oriented behaviour", "People-oriented behaviour", "Laissez-faire decision-making", "Democratic decision-making"],
+      "x": "İş dağıtmak, teslim tarihi koymak ve sonuçları kontrol etmek görev odaklı davranıştır; liderin neşeli ve sevilen biri olması bunu değiştirmez. People-oriented çekicidir çünkü ortam sıcaktır, ama insan odaklı davranış duygulara ve iyi oluşa ilgi göstermektir; senaryodaki ana faaliyetler bu değil."
+     }
+    },
+    {
+     "baslik": "Karar verme tarzları",
+     "anlatim": "<p>Davranış yaklaşımı bir de liderlerin kararları <i>nasıl</i> verdiğine bakar. Üç tarz vardır ve aralarındaki fark kararın kimde olduğudur.</p><p><b>Authoritarian decision-making</b> (otoriter karar verme): lider kararı tek başına verir ve ekibe bildirir.</p><p><b>Democratic decision-making</b> (demokratik karar verme): çalışanlar karara katılır. Sonucu daha fazla tatmindir, çünkü insanlar sözlerinin dinlendiğini hisseder.</p><p><b>Laissez-faire decision-making</b> (bırakınız yapsınlar tarzı karar verme): çalışanlar liderden çok az yönlendirme alarak kararı kendileri verir. Bu tarzın sicili en kötüsüdür: <b>role ambiguity</b> (rol belirsizliği) ve çatışmaya yol açar. 2. bölümden hatırla: kimse kimin neyi yapacağını bilmediğinde stres artar.</p><p>Laissez-faire'i democratic ile karıştırma. Democratic tarzda lider sürecin içindedir ve çalışanları kararın içine çeker; laissez-faire'de ise lider ortadan çekilir. Bu tarzı insan odaklı davranışla da karıştırma: laissez-faire bir <i>karar verme</i> tarzıdır, yani işi ekibe bırakmaktır; insanlara ilgi göstermek değildir.</p>",
+     "ornek": "<p>Bir dönerci dükkânının sahibi yeni fiyatları kendisi belirleyip duvara asar: <b>Authoritarian decision-making</b>. Ertesi ay hangi tatlıyı ekleyeceklerini çalışanlarla oylar: <b>Democratic decision-making</b>. Tatile giderken de “vardiyaları kendi aranızda halledin” deyip hiçbir yönlendirme bırakmaz; iki çalışan aynı günü ister ve tartışma çıkar: <b>Laissez-faire decision-making</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Authoritarian decision-making", "Democratic decision-making", "Laissez-faire decision-making"],
+     "soru": {
+      "q": "A museum director asks her curators to choose next year's exhibitions, joins their meetings, discusses the options with them and accepts the group's choice. Which decision-making style is this?",
+      "o": ["Democratic", "Laissez-faire", "Authoritarian", "People-oriented"],
+      "x": "Lider sürecin içinde ve çalışanlar karara katılıyor; bu Democratic'tir. Laissez-faire çekicidir çünkü seçimi küratörler yapıyor, ama o tarzda lider neredeyse hiç yönlendirme vermeden ortadan çekilir; burada ise toplantılara katılıp seçenekleri tartışıyor."
+     }
+    },
+    {
+     "baslik": "İki yaklaşımın ortak sınırı",
+     "anlatim": "<p>Özellik ve davranış yaklaşımları farklı sorular sorar ama aynı noktada tökezler: ikisi de <b>situation</b> (durum, bağlam) etkisini görmezden gelir. Hangi özelliğin ya da hangi davranışın hangi koşulda işe yaradığını söylemezler.</p><p>Bunu davranış bulgularında açıkça görürsün. Görev odaklı davranış verimliliği biraz artırır ama aşırısı tükenmişlik getirir; insan odaklı davranış tatmini artırır. Demokratik karar tatmini artırır, laissez-faire ise en kötü sicile sahiptir. Her davranışın bir kazancı ve bir bedeli vardır; yani <i>hiçbir tarz her yerde işe yaramaz</i>. Özellikler için de aynısı geçerlidir: notlar özelliklerin küçük, esnek firmalarda kurallara bağlı firmalardan daha önemli olduğunu söyler; yani bir özellik bile bağlama göre değer kazanır.</p><p>Sınavda bu sınır iki biçimde gelir. Birincisi doğrudan: “İki yaklaşımın ana sınırı nedir?” Cevap: durumu yok saymaları. İkincisi mutlak ifadeler içeren yanlış seçeneklerle: “always leads to the highest satisfaction”, “guarantees effective leadership”. Mutlak bir iddia görürsen şüphelen; bu dersin temel fikri, liderlikte her yere uyan tek bir reçete olmadığıdır.</p>",
+     "ornek": "<p>Hayalî bir şirket enerjik ve özgüvenli sorumlu Nil'i önce her adımı yönetmelikle belirlenmiş bir depoya gönderir; orada inisiyatif alacak alan olmadığı için fark yaratamaz. Sonra onu küçük ve esnek bir tasarım stüdyosuna gönderir; aynı özellikler orada ekibi sürükler. Değişen kişi değil durumdur; iki yaklaşım da bu <b>situation</b> etkisini hesaba katmaz.</p>",
+     "kaynak": [0, 1, 2],
+     "terimler": [],
+     "soru": {
+      "q": "A consultant tells a retail chain: 'Train all store managers to be people-oriented and democratic, and they will be effective in every store.' What is the main weakness of this advice?",
+      "o": [
+       "It ignores the situation in which each manager leads",
+       "It ignores the traits that managers are born with",
+       "It ignores the value of laissez-faire decision-making",
+       "It ignores that task focus always lowers productivity"
+      ],
+      "x": "Hem özellik hem davranış yaklaşımının ana sınırı durumu görmezden gelmeleridir; hiçbir tarz her yerde işe yaramaz. Doğuştan özellikler seçeneği çekici olabilir, ama notlar liderlerin yalnızca “doğmadığını” söyler; görev odağı da verimliliği düşürmez, aksine biraz artırır."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "Güler yüzlü bir lider rol ve teslim tarihi veriyorsa insan odaklıdır.", "dogru": "Rol, teslim tarihi ve kontrol <b>task-oriented</b> davranıştır; üslup değil, yapılan iş sayılır."},
+    {"yanlis": "Laissez-faire insan odaklı bir tarzdır.", "dogru": "Laissez-faire bir <b>karar verme</b> tarzıdır: kararı ekibe bırakmak. İnsanlara ilgi göstermek insan odaklı davranıştır."},
+    {"yanlis": "Uyumluluk (agreeableness) liderlikle en güçlü bağa sahip özelliktir.", "dogru": "En güçlü bağ <b>Extraversion</b>'dadır; çatışmadan kaçınan uyumlu kişiler daha az lider olarak görülür."},
+    {"yanlis": "Yüksek IQ liderlik başarısını garanti eder.", "dogru": "Goleman'a göre IQ bir eşiktir; farkı <b>EQ</b> yaratır."},
+    {"yanlis": "Laissez-faire'in sicili en iyisidir çünkü çalışanlara özgürlük verir.", "dogru": "En kötü sicil onundur: rol belirsizliği ve çatışma getirir."},
+    {"yanlis": "Demokratik tarz ile laissez-faire aynıdır, ikisinde de çalışanlar karar verir.", "dogru": "Demokratik tarzda lider sürece katılır; laissez-faire'de çok az yönlendirme verir ve geri çekilir."}
+   ],
+   "ozet": [
+    "Özellik yaklaşımı “lider kimdir?” diye sorar ve Stogdill ile başladı.",
+    "Kirkpatrick ve Locke: drive, liderlik motivasyonu, dürüstlük, özgüven, bilişsel yetenek, işi bilmek.",
+    "Liderlikle en güçlü bağı olan özellik extraversion'dır.",
+    "Goleman'a göre IQ eşiktir, farkı duygusal zekâ yaratır.",
+    "Görev odaklı davranış yapı kurar; insan odaklı davranış duygulara ve iyi oluşa ilgi gösterir.",
+    "Otoriter tarzda lider tek başına karar verir, demokratik tarzda çalışanlar karara katılır, bırakınız yapsınlar tarzında ekip yönlendirmesiz karar verir.",
+    "Laissez-faire en kötü sicile sahiptir.",
+    "İki yaklaşımın ortak sınırı: durumu görmezden gelmek."
+   ],
+   "aklinda": "Özellik yaklaşımı “kim?”, davranış yaklaşımı “ne yapıyor?” diye sorar; ikisi de “nerede?” sorusunu unutur.",
+   "sinavda": "<p>Part 2'deki kısa vakalarda, yaklaşık 4 puan ağırlıkla gelir. Vaka bir liderin günlük davranışlarını anlatır ve davranışın görev odaklı mı insan odaklı mı olduğunu ya da karar tarzını sorar; bazen iki yaklaşımın ortak sınırı da sorulur.</p>"
+  }
+ ]
+}

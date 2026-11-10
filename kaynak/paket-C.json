@@ -1,0 +1,1436 @@
+{
+ "paket": "C",
+ "chapters": [
+  6
+ ],
+ "units": [
+  {
+   "id": "c6a",
+   "ch": 6,
+   "pts": 3,
+   "t": "Mission, vision, stakeholders & the strategy process",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<table class=\"rules\"><tr><th>Statement</th><th>Answers</th><th>Clue words</th></tr>\n<tr><td><b>Mission</b></td><td>Why we exist <b>now</b>: the reason for being and how we serve key stakeholders</td><td>“we provide…”, “our purpose is…”</td></tr>\n<tr><td><b>Vision</b></td><td>What we want to <b>become</b>: future-oriented purpose and aspirations</td><td>“to be the leading… by 2035”</td></tr>\n<tr><td><b>Values</b></td><td>Core beliefs and guiding principles</td><td>“integrity, respect, curiosity”</td></tr></table>\n<p>Mission and vision guide all of P-O-L-C: planning starts with them, organizing aligns structure with them, leading is nearly synonymous with them, controlling checks progress toward them.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Stakeholders",
+     "html": "<h4>Stakeholders</h4>\n<p><b>Stakeholders</b>: individuals or groups with an interest in the organization's ability to deliver intended results (customers, employees, investors, suppliers, government, communities). <b>Stakeholder analysis</b>: techniques to identify and understand their needs and expectations, inside and outside the organization.</p>"
+    },
+    {
+     "i": 2,
+     "baslik": "The strategic management process",
+     "html": "<h4>The strategic management process</h4>\n<p><b>Strategic management</b> = what a firm does to achieve its mission and vision; “the process by which a firm manages the formulation and implementation of its strategy” (Carpenter & Sanders).</p>\n<table class=\"rules\"><tr><th>Step</th><th>Means</th></tr>\n<tr><td>1. Strategic objectives & analysis</td><td>Vision, mission, values; SWOT, PESTEL</td></tr>\n<tr><td>2. Strategy formulation</td><td><b>Deciding</b> what to do: plans, gather resources (also called business or strategic planning)</td></tr>\n<tr><td>3. Strategy implementation</td><td><b>Doing</b> it: training, allocating resources</td></tr>\n<tr><td>4. Strategic evaluation & control</td><td>Evaluation and correction</td></tr></table>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>“Become”, “by 2035”, “leading” = vision. “Reason for being” = mission.<br>Training staff and handing out budgets = implementation, not formulation.</div>",
+   "terms": [
+    [
+     "Mission statement",
+     "The organization's reason for being and how it serves its key stakeholders."
+    ],
+    [
+     "Vision statement",
+     "Future-oriented declaration of purpose and aspirations."
+    ],
+    [
+     "Values statement",
+     "The organization's core beliefs and guiding principles."
+    ],
+    [
+     "Stakeholders",
+     "Individuals or groups with an interest in the organization's ability to deliver results."
+    ],
+    [
+     "Stakeholder analysis",
+     "Techniques to identify and understand stakeholders' needs and expectations."
+    ],
+    [
+     "Strategic management",
+     "What a firm does to achieve its mission and vision."
+    ],
+    [
+     "Strategy formulation",
+     "Determining what the firm should do (planning)."
+    ],
+    [
+     "Strategy implementation",
+     "The actions taken to put the strategy into practice."
+    ]
+   ]
+  },
+  {
+   "id": "c6b",
+   "ch": 6,
+   "pts": 3,
+   "t": "Levels of strategy & how firms compete",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<table class=\"rules\"><tr><th>Level</th><th>Key question</th><th>Who</th><th>Tools</th></tr>\n<tr><td><b>Corporate</b></td><td>Which business(es) should we be in?</td><td>Top management</td><td>PESTEL, BCG, broad SWOT</td></tr>\n<tr><td><b>Business</b></td><td>How do we compete in this market?</td><td>Business-unit managers</td><td>Porter's 5 forces, VRIO, value chain</td></tr>\n<tr><td><b>Functional</b></td><td>How does each department support it?</td><td>Marketing, finance, HR…</td><td>Departmental SWOT, detailed value chain</td></tr></table>\n<p class=\"bl\"><b>Synergy</b>: two or more activities together create a combined effect greater than the sum of the parts (1 + 1 = 3).</p>\n<p class=\"bl\"><b>Diversification</b>: participating in multiple businesses that are distinct from each other, to spread risk (YUM! Brands: KFC, Pizza Hut, Taco Bell).</p>\n<p class=\"bl\">McDonald's sold Chipotle in 2006 to focus on one brand: a <b>corporate</b> decision.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "How a business competes (business level)",
+     "html": "<h4>How a business competes (business level)</h4>\n<table class=\"rules\"><tr><th>Approach</th><th>Means</th></tr>\n<tr><td><b>Cost leadership</b></td><td>Win by being the cheapest: standard product, lowest costs, lowest price</td></tr>\n<tr><td><b>Differentiation</b></td><td>Win by being unique (quality, design, technology, durability); customers pay more</td></tr>\n<tr><td>Focus</td><td>Cost leadership or differentiation in one narrow segment</td></tr></table>\n<p><b>Competitive advantage</b>: a strength that sets you apart from competitors. <b>Sustainable</b> competitive advantage: it can't easily be copied or made less valuable by changes in the environment.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Selling or buying a whole business = corporate. One department's routine plans = functional.<br>Patented, durable, unique product at a higher price = differentiation (mock Q31).</div>",
+   "terms": [
+    [
+     "Corporate strategy",
+     "Which business(es) should we be in?"
+    ],
+    [
+     "Business strategy",
+     "How a given business competes to be effective."
+    ],
+    [
+     "Functional strategy",
+     "How each department supports the business strategy."
+    ],
+    [
+     "Synergy",
+     "Combined effect greater than the sum of the individual effects."
+    ],
+    [
+     "Diversification",
+     "Participating in multiple distinct businesses to spread risk."
+    ],
+    [
+     "Cost leadership",
+     "Competing by having the lowest costs and prices."
+    ],
+    [
+     "Differentiation",
+     "Competing with something unique customers will pay more for."
+    ],
+    [
+     "Sustainable competitive advantage",
+     "Strengths that can't easily be copied or made less valuable."
+    ]
+   ]
+  },
+  {
+   "id": "c6c",
+   "ch": 6,
+   "pts": 3,
+   "t": "Internal analysis: value chain, VRIO, BCG",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<p>Internal tools find <b>strengths and weaknesses</b>, things inside the company that it can control.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "Value chain (Michael Porter)",
+     "html": "<h4>Value chain (Michael Porter)</h4>\n<p>All activities that combine to create the product or service.</p>\n<table class=\"rules\"><tr><th>Primary (create and deliver directly)</th><th>Support (help in the background)</th></tr>\n<tr><td>1. Inbound logistics (receiving, storing inputs)<br>2. Operations (turning inputs into the product)<br>3. Outbound logistics (getting it to customers)<br>4. Marketing & sales<br>5. Service (after the sale: repairs, returns, support)</td><td>Firm infrastructure (management, finance, legal, planning)<br>Human resource management<br>Technology development (R&D, IT)<br>Procurement (buying inputs from suppliers)</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "VRIO: does a resource give a competitive advantage?",
+     "html": "<h4>VRIO: does a resource give a competitive advantage?</h4>\n<table class=\"rules\"><tr><th>V</th><th>R</th><th>I (hard to imitate)</th><th>O</th><th>Result</th></tr>\n<tr><td>No</td><td></td><td></td><td></td><td>Competitive disadvantage</td></tr>\n<tr><td>Yes</td><td>No</td><td></td><td></td><td>Competitive parity (equality)</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>No</td><td></td><td>Temporary competitive advantage</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>Unused competitive advantage</td></tr>\n<tr><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Sustained (long-term) competitive advantage</td></tr></table>\n<p>Ask in order and stop at the first “no”. Book example: Disney's marketing and design skills pass all four.</p>"
+    },
+    {
+     "i": 3,
+     "baslik": "BCG matrix (portfolio of products or businesses)",
+     "html": "<h4>BCG matrix (portfolio of products or businesses)</h4>\n<table class=\"rules\"><tr><th></th><th>High market share</th><th>Low market share</th></tr>\n<tr><td><b>High growth</b></td><td>⭐ Star</td><td>❓ Question mark</td></tr>\n<tr><td><b>Low growth</b></td><td>🐄 Cash cow (funds the others)</td><td>🐕 Dog (sell or close)</td></tr></table>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>Collecting, cleaning and redistributing a product for reuse is a <b>primary</b> activity (operations/logistics), not a support activity (mock Q32).<br>Valuable but everyone has it = parity. Unique but easy to copy = temporary. Everything but the company doesn't use it = unused.</div>",
+   "terms": [
+    [
+     "Value chain",
+     "The step-by-step activities that combine to form the product or service (Porter)."
+    ],
+    [
+     "Primary activities",
+     "Inbound logistics, operations, outbound logistics, marketing & sales, service."
+    ],
+    [
+     "Support activities",
+     "Firm infrastructure, HRM, technology development, procurement."
+    ],
+    [
+     "VRIO",
+     "Valuable, rare, hard to imitate, organized to exploit."
+    ],
+    [
+     "Competitive parity",
+     "Valuable but not rare: you only keep up."
+    ],
+    [
+     "Temporary competitive advantage",
+     "Valuable and rare but easy to imitate."
+    ],
+    [
+     "Star",
+     "BCG: high growth, high share."
+    ],
+    [
+     "Question mark",
+     "BCG: high growth, low share."
+    ],
+    [
+     "Cash cow",
+     "BCG: low growth, high share."
+    ],
+    [
+     "Dog",
+     "BCG: low growth, low share."
+    ]
+   ]
+  },
+  {
+   "id": "c6d",
+   "ch": 6,
+   "pts": 3,
+   "t": "External analysis: SWOT, PESTEL, Porter's 5 forces",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "SWOT (Ken Andrews, early 1970s)",
+     "html": "<h4>SWOT (Ken Andrews, early 1970s)</h4>\n<table class=\"rules\"><tr><th></th><th>Helpful</th><th>Harmful</th></tr>\n<tr><td><b>Internal</b> (controllable)</td><td>Strengths</td><td>Weaknesses</td></tr>\n<tr><td><b>External</b> (not controllable)</td><td>Opportunities</td><td>Threats</td></tr></table>\n<p>Good strategy uses strengths to take advantage of opportunities and reduce threats, while managing weaknesses.</p>"
+    },
+    {
+     "i": 1,
+     "baslik": "PESTEL: the macro environment",
+     "html": "<h4>PESTEL: the macro environment</h4>\n<table class=\"rules\"><tr><th>Factor</th><th>Examples</th></tr>\n<tr><td>Political</td><td>Government policy, stability, trade restrictions, tariffs, tax policy</td></tr>\n<tr><td>Economic</td><td>Growth, exchange rates, interest rates, inflation, unemployment</td></tr>\n<tr><td>Sociocultural</td><td>Population, age, lifestyle, health consciousness</td></tr>\n<tr><td>Technological</td><td>Innovation, automation, R&D, AI</td></tr>\n<tr><td>Environmental</td><td>Climate, environmental policy, NGO pressure</td></tr>\n<tr><td>Legal</td><td>Employment, consumer protection, antitrust, patent, health & safety law</td></tr></table>"
+    },
+    {
+     "i": 2,
+     "baslik": "Porter's five forces: the industry environment",
+     "html": "<h4>Porter's five forces: the industry environment</h4>\n<p class=\"bl\"><b>Rivalry</b> among existing competitors (the centre)</p>\n<p class=\"bl\">Threat of <b>new entrants</b>: new companies coming into the market</p>\n<p class=\"bl\">Threat of <b>substitutes</b>: a <i>different kind</i> of product meeting the same need</p>\n<p class=\"bl\">Bargaining power of <b>buyers</b>: customers pushing prices down</p>\n<p class=\"bl\">Bargaining power of <b>suppliers</b>: suppliers pushing prices up</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam traps</b><br>A new law or tariff is external (PESTEL): an opportunity or a threat, never a strength or weakness.<br>New firms entering = new entrants. A different product doing the same job = substitute.<br>A big customer demanding a price cut = buyer power.</div>",
+   "terms": [
+    [
+     "SWOT",
+     "Strengths, weaknesses (internal), opportunities, threats (external)."
+    ],
+    [
+     "Opportunities",
+     "External factors that can benefit the organization."
+    ],
+    [
+     "Threats",
+     "External factors beyond your control that put the business at risk."
+    ],
+    [
+     "PESTEL",
+     "Political, economic, sociocultural, technological, environmental, legal factors."
+    ],
+    [
+     "Porter's five forces",
+     "Rivalry, new entrants, substitutes, buyer power, supplier power."
+    ],
+    [
+     "Threat of substitutes",
+     "Customers switching to a different kind of product that meets the same need."
+    ],
+    [
+     "Bargaining power of buyers",
+     "Customers' power to push prices down."
+    ]
+   ]
+  },
+  {
+   "id": "c6e",
+   "ch": 6,
+   "pts": 3,
+   "t": "How strategies emerge: intended vs realized",
+   "segments": [
+    {
+     "i": 0,
+     "baslik": "Giriş",
+     "html": "<table class=\"rules\"><tr><th>Strategy</th><th>Meaning</th></tr>\n<tr><td><b>Intended</b></td><td>Conceived by the top management team, through negotiation, bargaining and compromise</td></tr>\n<tr><td><b>Deliberate</b></td><td>The part of the intended strategy that is actually carried out (design school: rational, top-down planning)</td></tr>\n<tr><td><b>Unrealized</b></td><td>The parts of the plan that never happen</td></tr>\n<tr><td><b>Emergent</b></td><td>Decisions that emerge as leaders interpret the plan and adapt to changing circumstances; often bottom-up (emergence or learning school)</td></tr>\n<tr><td><b>Realized</b></td><td>What is actually implemented = deliberate + emergent</td></tr></table>\n<p>Mintzberg: only <b>10–30%</b> of intended strategy is realized. Why plans fail: poorly built plan, competitors undermine it, or poor execution.</p>\n<p>The more <b>volatile</b> the environment, the more emergence. Stable organizations (postal services) can plan in detail. Book example: Intel's switch from memory chips to microprocessors grew from plant-level decisions.</p>\n<p>Best practice: balance design (planning) with the flexibility to benefit from emergence. Headquarters sets mission, targets and budgets; units adapt and experiment.</p>"
+    }
+   ],
+   "trap": "<div class=\"trap\"><b>Exam trap</b><br>“Pilot results led to a different approach than the original plan” = emergent strategy that became the <b>realized</b> strategy (mock Q33).</div>",
+   "terms": [
+    [
+     "Intended strategy",
+     "Strategy conceived by the top management team."
+    ],
+    [
+     "Deliberate strategy",
+     "Rational, planned strategy that is actually carried out."
+    ],
+    [
+     "Emergent strategy",
+     "Decisions that emerge as leaders adapt the plan to new circumstances."
+    ],
+    [
+     "Realized strategy",
+     "The strategy actually implemented: deliberate + emergent."
+    ],
+    [
+     "Design school",
+     "Strategy as rational, deliberate planning."
+    ],
+    [
+     "Emergence (learning) school",
+     "Strategy emerging from many decisions at many levels."
+    ]
+   ]
+  }
+ ],
+ "bank": [
+  {
+   "id": "c6a-155",
+   "u": "c6a",
+   "d": 1,
+   "q": "A mission statement communicates:",
+   "o": [
+    "The organization's reason for being and how it serves its stakeholders",
+    "What the organization wants to become in the future and its aspirations",
+    "The organization's core beliefs and principles that guide behaviour",
+    "The budget and financial targets for the next three years"
+   ],
+   "x": "Mission = why we exist now. The future one is vision; beliefs are values."
+  },
+  {
+   "id": "c6a-156",
+   "u": "c6a",
+   "d": 1,
+   "q": "A vision statement is:",
+   "o": [
+    "A future-oriented declaration of the organization's purpose and aspirations",
+    "A list of the company's products and services and the markets in which it sells them",
+    "The organization's reason for being and how its stakeholders are served",
+    "An analysis of the organization's internal strengths and weaknesses"
+   ],
+   "x": "Vision = what we want to become."
+  },
+  {
+   "id": "c6a-157",
+   "u": "c6a",
+   "d": 1,
+   "q": "Stakeholders are best defined as:",
+   "o": [
+    "Individuals or groups with an interest in the organization's ability to deliver results",
+    "Only the shareholders who own the company and receive its dividends",
+    "The top management team that formulates the strategy and makes sure it is implemented",
+    "Competitors in the same industry that fight for the same customers"
+   ],
+   "x": "Customers, employees, investors, suppliers, government, communities."
+  },
+  {
+   "id": "c6a-158",
+   "u": "c6a",
+   "d": 1,
+   "q": "What is the correct order of the strategic management process?",
+   "o": [
+    "Objectives & analysis → formulation → implementation → evaluation & control",
+    "Implementation → formulation → analysis → evaluation & control",
+    "Formulation → analysis → evaluation & control → implementation",
+    "Evaluation & control → objectives & analysis → implementation → formulation"
+   ],
+   "x": "Analyse, decide, do, check."
+  },
+  {
+   "id": "c6a-159",
+   "u": "c6a",
+   "d": 1,
+   "q": "Stakeholder analysis refers to:",
+   "o": [
+    "Techniques to identify the needs and expectations of major interests inside and outside",
+    "Measuring the share price and comparing it with that of direct competitors",
+    "Ranking employees by performance to decide on bonuses and promotions",
+    "Calculating market share and market growth to place each product in the BCG matrix"
+   ],
+   "x": "Book definition."
+  },
+  {
+   "id": "c6a-160",
+   "u": "c6a",
+   "d": 2,
+   "q": "“To be Europe's leading zero-waste packaging company by 2035.” This is a:",
+   "o": [
+    "Vision statement",
+    "Mission statement",
+    "Values statement",
+    "Functional strategy"
+   ],
+   "x": "Future aspiration = vision."
+  },
+  {
+   "id": "c6a-161",
+   "u": "c6a",
+   "d": 2,
+   "q": "“We make short city trips clean and affordable for residents.” This is a:",
+   "o": [
+    "Mission statement",
+    "Vision statement",
+    "Values statement",
+    "SWOT analysis"
+   ],
+   "x": "Current purpose and who it serves = mission."
+  },
+  {
+   "id": "c6a-162",
+   "u": "c6a",
+   "d": 2,
+   "q": "“Integrity, curiosity and respect guide everything we do.” This is a:",
+   "o": [
+    "Values statement",
+    "Vision statement",
+    "Mission statement",
+    "KPI"
+   ],
+   "x": "Core beliefs = values."
+  },
+  {
+   "id": "c6a-163",
+   "u": "c6a",
+   "d": 2,
+   "q": "The new plan is approved. Managers now train staff and allocate budgets to departments to carry it out. Which step?",
+   "o": [
+    "Strategy implementation",
+    "Strategy formulation",
+    "Strategic objectives & analysis",
+    "Evaluation & control"
+   ],
+   "x": "Training and allocating resources = implementation (doing)."
+  },
+  {
+   "id": "c6a-164",
+   "u": "c6a",
+   "d": 2,
+   "q": "Six months after launch, management compares the results with the targets and adjusts the plan. Which step?",
+   "o": [
+    "Evaluation & control",
+    "Formulation",
+    "Implementation",
+    "Objectives & analysis"
+   ],
+   "x": "Checking and correcting."
+  },
+  {
+   "id": "c6a-165",
+   "u": "c6a",
+   "d": 3,
+   "q": "Which statement about mission and vision is correct?",
+   "o": [
+    "The mission is the purpose for being; the vision says what the organization wants to become",
+    "The vision describes the present situation; the mission describes the desired future",
+    "They are the same thing, so most organizations write just one of the two statements",
+    "Only for-profit companies need them; public and non-profit organizations can do without them"
+   ],
+   "x": "Mission = purpose now; vision builds on it toward the future."
+  },
+  {
+   "id": "c6a-166",
+   "u": "c6a",
+   "d": 3,
+   "q": "Why is the strategic management process described as formulation AND implementation?",
+   "o": [
+    "Because deciding what to do is useless without putting it into action",
+    "Because formulation and implementation are really the same activity",
+    "Because implementation always comes first and formulation follows",
+    "Because only top managers formulate and only top managers implement"
+   ],
+   "x": "Carpenter & Sanders: managing both."
+  },
+  {
+   "id": "c6a-167",
+   "u": "c6a",
+   "d": 3,
+   "q": "A municipal service hears from residents, its staff, the national government and local businesses before redesigning its permit process. Which tool is it applying?",
+   "o": [
+    "Stakeholder analysis",
+    "BCG matrix analysis",
+    "Value chain",
+    "VRIO analysis"
+   ],
+   "x": "Identifying and understanding the needs of interest groups."
+  },
+  {
+   "id": "c6b-168",
+   "u": "c6b",
+   "d": 1,
+   "q": "Corporate strategy answers which question?",
+   "o": [
+    "Which business(es) should we be in?",
+    "How do we compete in this market?",
+    "How does marketing support the plan?",
+    "What is our daily schedule?"
+   ],
+   "x": "Corporate = which businesses."
+  },
+  {
+   "id": "c6b-169",
+   "u": "c6b",
+   "d": 1,
+   "q": "Business strategy answers which question?",
+   "o": [
+    "How do we compete effectively in this market?",
+    "Which businesses and industries should we own?",
+    "How does the HR department recruit new staff?",
+    "What are the core values of our organization?"
+   ],
+   "x": "Business = how to compete."
+  },
+  {
+   "id": "c6b-170",
+   "u": "c6b",
+   "d": 1,
+   "q": "Synergy exists when:",
+   "o": [
+    "Activities together create a combined effect greater than the sum of their parts",
+    "A company sells all its businesses except the one with the highest profit margin, to focus",
+    "A firm is in multiple unrelated businesses to spread its financial risk",
+    "Costs are cut to the minimum by merging two departments into one"
+   ],
+   "x": "1 + 1 = 3."
+  },
+  {
+   "id": "c6b-171",
+   "u": "c6b",
+   "d": 1,
+   "q": "Diversification is:",
+   "o": [
+    "Participating in multiple businesses that are distinct from each other, to spread risk",
+    "Focusing all resources on one product and one market to become the leader",
+    "Lowering prices across the whole range to win market share from competitors",
+    "Combining two departments into one to save costs and avoid duplication"
+   ],
+   "x": "YUM! Brands owning KFC, Pizza Hut, Taco Bell."
+  },
+  {
+   "id": "c6b-172",
+   "u": "c6b",
+   "d": 2,
+   "q": "A food group sells its pizza chain and keeps only its burger restaurants. At which level is this decision?",
+   "o": [
+    "Corporate",
+    "Business",
+    "Functional",
+    "Operational"
+   ],
+   "x": "Choosing which businesses to be in = corporate."
+  },
+  {
+   "id": "c6b-173",
+   "u": "c6b",
+   "d": 2,
+   "q": "The marketing department plans next quarter's social media campaigns to support the growth plan. Which level?",
+   "o": [
+    "Functional",
+    "Corporate",
+    "Business",
+    "Vision"
+   ],
+   "x": "One department supporting the plan = functional."
+  },
+  {
+   "id": "c6b-174",
+   "u": "c6b",
+   "d": 2,
+   "q": "An airline cuts every extra cost, flies one aircraft type and sells the cheapest tickets in its market. How does it compete?",
+   "o": [
+    "Cost leadership",
+    "Differentiation",
+    "Diversification",
+    "Synergy"
+   ],
+   "x": "Lowest cost, lowest price."
+  },
+  {
+   "id": "c6b-175",
+   "u": "c6b",
+   "d": 2,
+   "q": "A company has a patented container that keeps food fresher than any rival's and charges more for it. How does it compete?",
+   "o": [
+    "Differentiation",
+    "Cost leadership",
+    "Diversification",
+    "Synergy"
+   ],
+   "x": "Unique feature + higher price."
+  },
+  {
+   "id": "c6b-176",
+   "u": "c6b",
+   "d": 2,
+   "q": "A hotel group and its airline share one loyalty programme, and both sell more than they would alone. This illustrates:",
+   "o": [
+    "Synergy",
+    "Diversification",
+    "Differentiation",
+    "Stakeholder analysis"
+   ],
+   "x": "Combined effect greater than the parts."
+  },
+  {
+   "id": "c6b-177",
+   "u": "c6b",
+   "d": 3,
+   "q": "A watch brand makes very expensive watches only for serious collectors. Its approach is best described as:",
+   "o": [
+    "Focus (differentiation in a narrow segment)",
+    "Cost leadership across the whole market",
+    "Unrelated diversification into luxury goods",
+    "Corporate synergy"
+   ],
+   "x": "Narrow segment + unique product."
+  },
+  {
+   "id": "c6b-178",
+   "u": "c6b",
+   "d": 3,
+   "q": "Which statement about sustainable competitive advantage is correct?",
+   "o": [
+    "It exists when strengths can't easily be copied or made less valuable by change",
+    "It is any advantage over rivals, even one that competitors can copy within a month",
+    "It only comes from offering lower prices than all competitors",
+    "It is the same as a vision statement that describes the desired future"
+   ],
+   "x": "Hard to copy and robust to environmental change."
+  },
+  {
+   "id": "c6b-179",
+   "u": "c6b",
+   "d": 3,
+   "q": "Which pairing of level and decision is correct?",
+   "o": [
+    "Corporate: entering the hotel business · Business: competing on price in our market",
+    "Corporate: next month's ad campaign · Functional: buying a competitor in our market",
+    "Business: which industries to be in · Corporate: HR's recruitment plan for next year",
+    "Functional: selling a whole division · Business: the weekly shift schedule in a store"
+   ],
+   "x": "Check both halves."
+  },
+  {
+   "id": "c6c-180",
+   "u": "c6c",
+   "d": 1,
+   "q": "Which are the five PRIMARY activities of Porter's value chain?",
+   "o": [
+    "Inbound logistics, operations, outbound logistics, marketing & sales, service",
+    "Procurement, HRM, technology development, firm infrastructure, after-sales service",
+    "Planning, organizing, leading, controlling, evaluating",
+    "Political, economic, social, technological, legal"
+   ],
+   "x": "The four support activities are procurement, HRM, technology development and firm infrastructure."
+  },
+  {
+   "id": "c6c-181",
+   "u": "c6c",
+   "d": 1,
+   "q": "VRIO stands for:",
+   "o": [
+    "Valuable, Rare, hard to Imitate, Organized",
+    "Vision, Resources, Innovation, Operations",
+    "Value, Risk, Investment, Output growth",
+    "Volume, Revenue, Income, Overhead costs"
+   ],
+   "x": "Four questions about a resource."
+  },
+  {
+   "id": "c6c-182",
+   "u": "c6c",
+   "d": 1,
+   "q": "In the BCG matrix, a product with high market growth and high market share is a:",
+   "o": [
+    "Star",
+    "Cash cow",
+    "Question mark",
+    "Dog"
+   ],
+   "x": "High-high = star."
+  },
+  {
+   "id": "c6c-183",
+   "u": "c6c",
+   "d": 1,
+   "q": "Which of these is a SUPPORT activity in the value chain?",
+   "o": [
+    "Procurement",
+    "Outbound logistics",
+    "Marketing & sales",
+    "Service"
+   ],
+   "x": "Procurement supports; the others are primary."
+  },
+  {
+   "id": "c6c-184",
+   "u": "c6c",
+   "d": 2,
+   "q": "A bike maker's greatest asset is its network of repair shops. Which value-chain activity is that?",
+   "o": [
+    "Service",
+    "Procurement",
+    "Firm infrastructure",
+    "Inbound logistics"
+   ],
+   "x": "After-sales repairs = service (primary)."
+  },
+  {
+   "id": "c6c-185",
+   "u": "c6c",
+   "d": 2,
+   "q": "A design is valuable and rare, but competitors could copy it within a year. VRIO result?",
+   "o": [
+    "Temporary competitive advantage",
+    "Competitive parity",
+    "Unused competitive advantage",
+    "Sustained competitive advantage"
+   ],
+   "x": "V yes, R yes, I no."
+  },
+  {
+   "id": "c6c-186",
+   "u": "c6c",
+   "d": 2,
+   "q": "Customers love a company's app, but almost every competitor has a similar one. VRIO result?",
+   "o": [
+    "Competitive parity",
+    "Temporary competitive advantage",
+    "Sustained competitive advantage",
+    "Competitive disadvantage"
+   ],
+   "x": "Valuable but not rare → stop at R."
+  },
+  {
+   "id": "c6c-187",
+   "u": "c6c",
+   "d": 2,
+   "q": "A firm owns a unique, hard-to-copy patent but has no team or process to use it. VRIO result?",
+   "o": [
+    "Unused competitive advantage",
+    "Sustained competitive advantage",
+    "Competitive parity",
+    "Temporary competitive advantage"
+   ],
+   "x": "V, R, I yes; O no."
+  },
+  {
+   "id": "c6c-188",
+   "u": "c6c",
+   "d": 2,
+   "q": "A phone maker's tablet line has a small share in a market that is growing very fast. BCG?",
+   "o": [
+    "Question mark",
+    "Star",
+    "Cash cow",
+    "Dog"
+   ],
+   "x": "High growth + low share."
+  },
+  {
+   "id": "c6c-189",
+   "u": "c6c",
+   "d": 2,
+   "q": "A soft-drink brand dominates a market that barely grows, and its profits fund new products. BCG?",
+   "o": [
+    "Cash cow",
+    "Star",
+    "Question mark",
+    "Dog"
+   ],
+   "x": "Low growth + high share, generating cash."
+  },
+  {
+   "id": "c6c-190",
+   "u": "c6c",
+   "d": 2,
+   "q": "A team maintains the tracking software and improves a patented seal. Which value-chain activity?",
+   "o": [
+    "Technology development (support)",
+    "Operations (primary)",
+    "Procurement (support)",
+    "After-sales service and repairs (primary)"
+   ],
+   "x": "R&D and IT = technology development."
+  },
+  {
+   "id": "c6c-191",
+   "u": "c6c",
+   "d": 3,
+   "q": "Which of these is an INTERNAL analysis tool?",
+   "o": [
+    "Value chain",
+    "PESTEL",
+    "Porter's five forces",
+    "An external stakeholder survey of trends"
+   ],
+   "x": "Internal: value chain, VRIO, BCG. External: PESTEL, Porter."
+  },
+  {
+   "id": "c6c-192",
+   "u": "c6c",
+   "d": 3,
+   "q": "A reusable-packaging company collects, cleans, inspects and redistributes returned containers. In the value chain this is best classified as:",
+   "o": [
+    "A primary activity, because it directly creates and delivers the service to customers",
+    "A support activity, because cleaning is a background task customers never see",
+    "Firm infrastructure, because it involves planning, quality control, inspection and management",
+    "Procurement, because the containers are bought from suppliers before use"
+   ],
+   "x": "It is the core process the customer pays for."
+  },
+  {
+   "id": "c6c-193",
+   "u": "c6c",
+   "d": 3,
+   "q": "A product has low growth and low market share. According to the BCG logic, management will usually:",
+   "o": [
+    "Consider selling or closing it (dog)",
+    "Invest heavily to make it a star",
+    "Use it to fund the stars (cash cow)",
+    "Expect it to become the next market leader without investment"
+   ],
+   "x": "Dogs are candidates to divest."
+  },
+  {
+   "id": "c6d-194",
+   "u": "c6d",
+   "d": 1,
+   "q": "In SWOT, strengths and weaknesses are ___; opportunities and threats are ___.",
+   "o": [
+    "internal; external",
+    "external; internal",
+    "both internal",
+    "both external"
+   ],
+   "x": "S and W inside; O and T outside."
+  },
+  {
+   "id": "c6d-195",
+   "u": "c6d",
+   "d": 1,
+   "q": "PESTEL stands for:",
+   "o": [
+    "Political, economic, sociocultural, technological, environmental, legal",
+    "Planning, execution, strategy, tactics, evaluation, leadership",
+    "Price, efficiency, sales, technology, employees, logistics",
+    "People, environment, society, trade, economy, labour"
+   ],
+   "x": "The macro environment."
+  },
+  {
+   "id": "c6d-196",
+   "u": "c6d",
+   "d": 1,
+   "q": "Which is NOT one of Porter's five forces?",
+   "o": [
+    "Bargaining power of employees",
+    "Threat of new entrants",
+    "Threat of substitutes",
+    "Bargaining power of suppliers"
+   ],
+   "x": "The five: rivalry, new entrants, substitutes, buyer power, supplier power."
+  },
+  {
+   "id": "c6d-197",
+   "u": "c6d",
+   "d": 1,
+   "q": "Which of these is an EXTERNAL analysis tool?",
+   "o": [
+    "Porter's five forces",
+    "VRIO analysis",
+    "Value chain analysis",
+    "BCG matrix"
+   ],
+   "x": "External: PESTEL and Porter."
+  },
+  {
+   "id": "c6d-198",
+   "u": "c6d",
+   "d": 2,
+   "q": "The EU introduces a law forcing all plastic packaging to be recyclable by 2030. Which tool and SWOT category?",
+   "o": [
+    "PESTEL, threat or opportunity",
+    "Value chain, weakness in operations",
+    "VRIO, strength or competitive parity",
+    "BCG matrix, threat"
+   ],
+   "x": "A law is external: never a strength or weakness."
+  },
+  {
+   "id": "c6d-199",
+   "u": "c6d",
+   "d": 2,
+   "q": "Many cheap new streaming services enter the market every year. Which force?",
+   "o": [
+    "Threat of new entrants",
+    "Threat of substitutes",
+    "Bargaining power of buyers",
+    "Rivalry among existing competitors"
+   ],
+   "x": "New firms entering."
+  },
+  {
+   "id": "c6d-200",
+   "u": "c6d",
+   "d": 2,
+   "q": "Only one company in the world makes the chip a phone maker needs, so it can raise prices freely. Which force?",
+   "o": [
+    "Bargaining power of suppliers",
+    "Bargaining power of buyers",
+    "Threat of substitute products",
+    "Threat of new entrants"
+   ],
+   "x": "A powerful supplier."
+  },
+  {
+   "id": "c6d-201",
+   "u": "c6d",
+   "d": 2,
+   "q": "More travellers take the train instead of flying for short trips. For airlines this is:",
+   "o": [
+    "Threat of substitutes",
+    "Threat of new entrants",
+    "Bargaining power of suppliers",
+    "Rivalry"
+   ],
+   "x": "A different product meeting the same need."
+  },
+  {
+   "id": "c6d-202",
+   "u": "c6d",
+   "d": 2,
+   "q": "A supermarket chain that sells 60% of a producer's goods demands a 15% price cut. Which force?",
+   "o": [
+    "Bargaining power of buyers",
+    "Bargaining power of suppliers",
+    "Threat of substitutes",
+    "Threat of new entrants"
+   ],
+   "x": "A powerful customer."
+  },
+  {
+   "id": "c6d-203",
+   "u": "c6d",
+   "d": 2,
+   "q": "An ageing population means more demand for home care. For a care provider this is a ___ factor and an ___.",
+   "o": [
+    "sociocultural; opportunity",
+    "economic; threat",
+    "legal; strength",
+    "technological; weakness"
+   ],
+   "x": "Demographics = sociocultural, and it's external and positive."
+  },
+  {
+   "id": "c6d-204",
+   "u": "c6d",
+   "d": 3,
+   "q": "Which combination is correct?",
+   "o": [
+    "A loyal customer base: strength · Rising interest rates: threat",
+    "A loyal customer base: opportunity · Rising interest rates: weakness",
+    "Outdated IT: threat · New subsidy: strength",
+    "Skilled staff: opportunity · New competitor: weakness"
+   ],
+   "x": "Internal → S/W; external → O/T. Check both halves."
+  },
+  {
+   "id": "c6d-205",
+   "u": "c6d",
+   "d": 3,
+   "q": "What is the main difference between PESTEL and Porter's five forces?",
+   "o": [
+    "PESTEL covers the broad macro environment; Porter the industry's competitive environment",
+    "PESTEL covers the internal environment; Porter covers the internal value chain too",
+    "Porter covers laws and politics; PESTEL covers competitors, buyers and suppliers",
+    "They are identical tools that use different names for the same external factors and forces"
+   ],
+   "x": "Macro vs industry."
+  },
+  {
+   "id": "c6d-206",
+   "u": "c6d",
+   "d": 3,
+   "q": "A government discusses a tax subsidy for people who commute by e-bike. For an e-bike sharing firm this is best classified as:",
+   "o": [
+    "An external political/economic opportunity (PESTEL)",
+    "An internal strength the company controls (VRIO)",
+    "Bargaining power of buyers in the industry (Porter)",
+    "A support activity in the company's value chain"
+   ],
+   "x": "Government policy outside the firm, and it helps."
+  },
+  {
+   "id": "c6e-207",
+   "u": "c6e",
+   "d": 1,
+   "q": "Intended strategy is:",
+   "o": [
+    "The strategy conceived by the top management team",
+    "The strategy that is actually implemented in the end",
+    "Decisions that emerge from lower levels of the firm",
+    "The company's core values and guiding principles"
+   ],
+   "x": "Intended = the plan from the top."
+  },
+  {
+   "id": "c6e-208",
+   "u": "c6e",
+   "d": 1,
+   "q": "Realized strategy is:",
+   "o": [
+    "What is actually implemented: deliberate plus emergent",
+    "Only what top management planned in the board room at the start",
+    "A vision statement describing the desired future",
+    "A plan that failed and was abandoned along the way"
+   ],
+   "x": "What actually happened."
+  },
+  {
+   "id": "c6e-209",
+   "u": "c6e",
+   "d": 1,
+   "q": "According to Mintzberg, roughly how much of intended strategy is realized?",
+   "o": [
+    "10–30%",
+    "About 90%",
+    "50–70%",
+    "Almost 0%"
+   ],
+   "x": "Only 10–30%."
+  },
+  {
+   "id": "c6e-210",
+   "u": "c6e",
+   "d": 1,
+   "q": "Emergent strategy is:",
+   "o": [
+    "Decisions that emerge as leaders interpret the plan and adapt",
+    "The plan made in board meetings by the top management team for the years ahead",
+    "A strategy that never changes once it has been formulated",
+    "The mission statement that explains the company's purpose"
+   ],
+   "x": "Often bottom-up adaptation."
+  },
+  {
+   "id": "c6e-211",
+   "u": "c6e",
+   "d": 2,
+   "q": "A coffee chain's board plans growth through drive-throughs. Store managers notice customers want delivery and start partnering with delivery apps. Two years later most growth comes from delivery. The delivery strategy is:",
+   "o": [
+    "Emergent strategy that became part of the realized strategy",
+    "Intended strategy that the board conceived at the start",
+    "Deliberate strategy carried out exactly as it was planned",
+    "A vision statement about the future of the coffee chain"
+   ],
+   "x": "Not planned, arose from adaptation, now what actually happened."
+  },
+  {
+   "id": "c6e-212",
+   "u": "c6e",
+   "d": 2,
+   "q": "A firm planned annual subscriptions for large retailers, but pilot results led it to switch to deposit-return points. How should the switch be classified?",
+   "o": [
+    "A realized strategy that emerged from experience and differed from the plan",
+    "An intended strategy that was fully planned by the board before the pilots started",
+    "A corporate mission that explains the company's reason for being",
+    "A functional routine that the operations department carries out"
+   ],
+   "x": "The plan changed through experience."
+  },
+  {
+   "id": "c6e-213",
+   "u": "c6e",
+   "d": 2,
+   "q": "Part of the board's original plan, three new stores, was built exactly as intended. That part is:",
+   "o": [
+    "Deliberate strategy",
+    "Emergent strategy",
+    "Unrealized strategy",
+    "Vision"
+   ],
+   "x": "The planned part that is carried out."
+  },
+  {
+   "id": "c6e-214",
+   "u": "c6e",
+   "d": 3,
+   "q": "In which kind of environment does emergence play the BIGGEST role relative to design?",
+   "o": [
+    "A volatile, unpredictable environment",
+    "A very stable environment such as a national postal service",
+    "An environment with no competitors",
+    "An environment where top management decides everything"
+   ],
+   "x": "More volatility → more emergence."
+  },
+  {
+   "id": "c6e-215",
+   "u": "c6e",
+   "d": 3,
+   "q": "Which statement reflects the book's view on design versus emergence?",
+   "o": [
+    "The best strategies balance planning with the flexibility to benefit from emergence",
+    "Only the design school is right: good strategy is fully planned in advance by top management",
+    "Only the emergence school is right: plans are useless in a changing world",
+    "Strategy should never be planned, because the future cannot be predicted"
+   ],
+   "x": "Not 'which school is right' but how they complement each other."
+  },
+  {
+   "id": "c6e-216",
+   "u": "c6e",
+   "d": 3,
+   "q": "Intel's move from memory chips to microprocessors came from many decisions at divisional and plant level that top leaders later accepted. This illustrates:",
+   "o": [
+    "Emergent strategy",
+    "Intended strategy",
+    "Diversification",
+    "A mission statement"
+   ],
+   "x": "Bottom-up decisions later acknowledged as strategy."
+  }
+ ],
+ "caseQuestions": [
+  {
+   "case": "PedalPoint",
+   "u": "c6c",
+   "q": "How is the nightly collection, charging and swapping of batteries best classified in the value chain?",
+   "o": [
+    "Primary activity: operations, because it keeps the service working for customers",
+    "Support activity: procurement, because the batteries are bought from suppliers",
+    "Support activity: firm infrastructure, because it involves planning and scheduling",
+    "Support activity: human resource management, because a crew does the work",
+    "Primary activity: marketing & sales, because charged bikes attract more riders",
+    "Support activity: technology development, because batteries are a technology"
+   ],
+   "x": "It directly creates and delivers the service the customer uses. Buying the batteries would be procurement, a different team in the case."
+  },
+  {
+   "case": "PedalPoint",
+   "u": "c6c",
+   "q": "Using VRIO, what does PedalPoint's unlock app give the company?",
+   "o": [
+    "Competitive parity; this classification explains how the case applies the concept",
+    "Sustained competitive advantage; this classification explains how the case applies the concept",
+    "Temporary competitive advantage; this classification explains how the case applies the concept",
+    "Unused competitive advantage; this classification explains how the case applies the concept",
+    "Competitive disadvantage; this classification explains how the case applies the concept",
+    "Synergy between its two cities; this classification explains how the case applies the concept"
+   ],
+   "x": "Valuable (riders like it) but NOT rare (almost every competitor has one) → stop at R → parity."
+  },
+  {
+   "case": "PedalPoint",
+   "u": "c6d",
+   "q": "Which combination correctly classifies the two external developments?",
+   "o": [
+    "New e-bike companies: threat of new entrants (Porter) · Commuting subsidy: political/economic opportunity (PESTEL)",
+    "New e-bike companies: bargaining power of buyers (Porter) · Commuting subsidy: political/economic opportunity (PESTEL)",
+    "New e-bike companies: threat of new entrants (Porter) · Commuting subsidy: internal strength (VRIO)",
+    "New e-bike companies: internal weakness (value chain) · Commuting subsidy: threat (Porter)",
+    "New e-bike companies: threat of substitutes (Porter) · Commuting subsidy: threat (PESTEL)",
+    "New e-bike companies: opportunity (PESTEL) · Commuting subsidy: bargaining power of suppliers (Porter)"
+   ],
+   "x": "Both halves must be right: new firms launching = new entrants; a subsidy is external and helps = opportunity."
+  },
+  {
+   "case": "PedalPoint",
+   "u": "c6e",
+   "q": "How should the shift from tourists to the commuter pass be classified?",
+   "o": [
+    "Emergent strategy that became part of the realized strategy; this classification explains how the case applies the concept",
+    "Intended strategy, because management planned it from the start; this classification explains how the case applies the concept",
+    "Deliberate strategy, because it followed the original plan; this classification explains how the case applies the concept",
+    "Corporate strategy, because it decides which businesses to be in; this classification explains how the case applies the concept",
+    "A mission statement, because it explains why the company exists; this classification explains how the case applies the concept",
+    "Functional strategy, because only the purchasing team was involved; this classification explains how the case applies the concept"
+   ],
+   "x": "The tourist plan changed after experience and local managers adapted: emergent. What actually happened is the realized strategy."
+  },
+  {
+   "case": "ClearSip",
+   "u": "c6c",
+   "q": "Using VRIO, what does the patented filter give ClearSip?",
+   "o": [
+    "Sustained competitive advantage; this classification explains how the case applies the concept",
+    "Competitive parity; this classification explains how the case applies the concept",
+    "Temporary competitive advantage; this classification explains how the case applies the concept",
+    "Unused competitive advantage; this classification explains how the case applies the concept",
+    "Competitive disadvantage; this classification explains how the case applies the concept",
+    "Synergy; this classification explains how the case applies the concept"
+   ],
+   "x": "Valuable, rare (no comparable filter), hard to imitate (years of research), organized (R&D team, active sales network)."
+  },
+  {
+   "case": "ClearSip",
+   "u": "c6c",
+   "q": "Handling filter replacements and warranty claims after purchase is which value-chain activity?",
+   "o": [
+    "Primary: service",
+    "Support: procurement",
+    "Primary: operations",
+    "Support: technology development",
+    "Support: firm infrastructure",
+    "Primary: outbound logistics"
+   ],
+   "x": "After-sales support that keeps the product's value = service."
+  },
+  {
+   "case": "ClearSip",
+   "u": "c6d",
+   "q": "Which combination correctly classifies the two external developments?",
+   "o": [
+    "EU ban: legal opportunity (PESTEL) · Supermarket demand: bargaining power of buyers (Porter)",
+    "EU ban: legal opportunity (PESTEL) · Supermarket demand: bargaining power of suppliers (Porter)",
+    "EU ban: internal strength (VRIO) · Supermarket demand: bargaining power of buyers (Porter)",
+    "EU ban: threat of new entrants (Porter) · Supermarket demand: economic threat (PESTEL)",
+    "EU ban: legal threat (PESTEL) · Supermarket demand: rivalry among competitors (Porter)",
+    "EU ban: technological opportunity (PESTEL) · Supermarket demand: threat of substitutes (Porter)"
+   ],
+   "x": "A ban on single-use bottles helps a refillable-bottle firm: legal opportunity. A big customer pushing prices down = buyer power."
+  },
+  {
+   "case": "ClearSip",
+   "u": "c6a",
+   "q": "How should the statement on ClearSip's website be classified?",
+   "o": [
+    "Vision statement, because it describes what the organization wants to achieve in the future; this classification explains how the case applies the concept",
+    "Mission statement, because it describes why the company exists today and whom it serves; this classification explains how the case applies the concept",
+    "Values statement, because it lists core beliefs; this classification explains how the case applies the concept",
+    "Functional strategy, because it guides one department; this classification explains how the case applies the concept",
+    "A KPI, because it is measurable; this classification explains how the case applies the concept",
+    "Stakeholder analysis, because it mentions households; this classification explains how the case applies the concept"
+   ],
+   "x": "“By 2032…” is a future aspiration = vision."
+  },
+  {
+   "case": "Noordwind Ferries",
+   "u": "c6a",
+   "q": "How should Noordwind's statement be classified?",
+   "o": [
+    "Mission statement, because it explains the company's reason for being and whom it serves; this classification explains how the case applies the concept",
+    "Vision statement, because it describes a future the company wants to become; this classification explains how the case applies the concept",
+    "Values statement, because it lists the core beliefs and principles the company stands for; this classification explains how the case applies the concept",
+    "Corporate strategy, because it decides which businesses to be in; this classification explains how the case applies the concept",
+    "A SMART objective, because it has a deadline; this classification explains how the case applies the concept",
+    "A stakeholder analysis, because it names communities; this classification explains how the case applies the concept"
+   ],
+   "x": "Present tense, purpose and who is served = mission."
+  },
+  {
+   "case": "Noordwind Ferries",
+   "u": "c6b",
+   "q": "Which combination correctly classifies how Noordwind competes and what the bike-rental link shows?",
+   "o": [
+    "Competes through cost leadership · The combined offer shows synergy",
+    "Competes through differentiation · The combined offer shows synergy",
+    "Competes through cost leadership · The combined offer shows a functional strategy",
+    "Competes through focus on luxury · The combined offer shows diversification only",
+    "Competes through differentiation · The combined offer shows competitive parity",
+    "Competes through cost leadership · The combined offer shows an emergent strategy"
+   ],
+   "x": "Cheapest tickets from low costs = cost leadership. Both businesses selling more together than apart = synergy."
+  },
+  {
+   "case": "Noordwind Ferries",
+   "u": "c6d",
+   "q": "Which combination correctly classifies the two developments in the last paragraph?",
+   "o": [
+    "Licences opening up: threat of new entrants (Porter) · Higher interest rates: economic threat (PESTEL)",
+    "Licences opening up: threat of substitutes (Porter) · Higher interest rates: economic threat (PESTEL)",
+    "Licences opening up: bargaining power of buyers (Porter) · Higher interest rates: technological threat (PESTEL)",
+    "Licences opening up: internal weakness (SWOT) · Higher interest rates: economic opportunity (PESTEL)",
+    "Licences opening up: threat of new entrants (Porter) · Higher interest rates: internal weakness (value chain)",
+    "Licences opening up: rivalry among existing competitors (Porter) · Higher interest rates: legal threat (PESTEL)"
+   ],
+   "x": "Foreign operators coming in = new entrants. Interest rates = economic, external, harmful."
+  },
+  {
+   "case": "Brickly Toys",
+   "u": "c6c",
+   "q": "In the BCG matrix, how are the classic set and the robot kit best classified?",
+   "o": [
+    "Classic set: cash cow · Robot kit: question mark",
+    "Classic set: star · Robot kit: dog",
+    "Classic set: dog · Robot kit: star",
+    "Classic set: cash cow · Robot kit: star",
+    "Classic set: question mark · Robot kit: cash cow",
+    "Classic set: star · Robot kit: question mark"
+   ],
+   "x": "High share, low growth, profitable = cash cow. Low share, high growth = question mark."
+  },
+  {
+   "case": "Brickly Toys",
+   "u": "c6c",
+   "q": "Using VRIO, what do Brickly's design skills give the company today?",
+   "o": [
+    "Competitive parity, because competitors now have similar designers; this classification explains how the case applies the concept",
+    "Sustained competitive advantage, because the designs keep winning awards; this classification explains how the case applies the concept",
+    "Unused competitive advantage, because Brickly isn't organized; this classification explains how the case applies the concept",
+    "Temporary competitive advantage that will last many years; this classification explains how the case applies the concept",
+    "Competitive disadvantage, because the designs are not valuable; this classification explains how the case applies the concept",
+    "Synergy, because design and sales work together; this classification explains how the case applies the concept"
+   ],
+   "x": "Valuable, but no longer rare: competitors hired similar designers and sell look-alike sets → parity."
+  },
+  {
+   "case": "Brickly Toys",
+   "u": "c6e",
+   "q": "How should the school programme be classified?",
+   "o": [
+    "Emergent strategy that became part of the realized strategy; this classification explains how the case applies the concept",
+    "Intended strategy, because the board planned it; this classification explains how the case applies the concept",
+    "Deliberate strategy, because it was in the three-year plan; this classification explains how the case applies the concept",
+    "Unrealized strategy, because store sales stayed flat; this classification explains how the case applies the concept",
+    "A vision statement, because it describes the future; this classification explains how the case applies the concept",
+    "Corporate strategy, because it is a new business; this classification explains how the case applies the concept"
+   ],
+   "x": "Not in the board's plan; regional managers adapted to teacher demand = emergent, and it is now part of what actually happened."
+  }
+ ],
+ "glossary": [
+  {
+   "g": "Strategy tools",
+   "ch": "Ch 6",
+   "t": [
+    [
+     "PESTEL",
+     "Scan of the external macro environment: political, economic, sociocultural, technological, environmental, legal."
+    ],
+    [
+     "SWOT",
+     "Strengths and weaknesses (internal) plus opportunities and threats (external)."
+    ],
+    [
+     "Rivalry among competitors",
+     "Five forces: how intense competition is between the firms already in the industry."
+    ],
+    [
+     "Threat of new entrants",
+     "Five forces: how easily new competitors can enter the industry."
+    ],
+    [
+     "Threat of substitutes",
+     "Five forces: other products that meet the same customer need in a different way."
+    ],
+    [
+     "Bargaining power of buyers",
+     "Five forces: how much customers can push prices down or demand more."
+    ],
+    [
+     "Bargaining power of suppliers",
+     "Five forces: how much suppliers can push prices up (e.g. the only maker of a part)."
+    ],
+    [
+     "Cost leadership",
+     "Generic strategy: become the lowest-cost producer in the whole market."
+    ],
+    [
+     "Differentiation",
+     "Generic strategy: offer something unique that customers will pay more for."
+    ],
+    [
+     "Focus",
+     "Generic strategy: serve one narrow segment or niche, on cost or uniqueness."
+    ],
+    [
+     "Value chain",
+     "Porter's map of the activities through which a firm creates value for customers."
+    ],
+    [
+     "Inbound logistics",
+     "Primary activity: receiving, storing and handling incoming materials."
+    ],
+    [
+     "Operations",
+     "Primary activity: turning inputs into the product or service."
+    ],
+    [
+     "Outbound logistics",
+     "Primary activity: storing and delivering the finished product to customers."
+    ],
+    [
+     "Marketing & sales",
+     "Primary activity: getting customers to know and buy the product."
+    ],
+    [
+     "Service",
+     "Primary activity: support for customers after the purchase."
+    ],
+    [
+     "Firm infrastructure",
+     "Support activity: general management, planning, finance, legal and administration."
+    ],
+    [
+     "Human resource management",
+     "Support activity: recruiting, training and rewarding people."
+    ],
+    [
+     "Technology development",
+     "Support activity: R&D, innovation and the systems that support other activities."
+    ],
+    [
+     "Procurement",
+     "Support activity: purchasing the inputs and resources the firm needs."
+    ]
+   ]
+  }
+ ],
+ "compare": [
+  [
+   "SWOT vs PESTEL",
+   "SWOT has internal strengths/weaknesses and external opportunities/threats. PESTEL looks only at the external macro environment."
+  ],
+  [
+   "PESTEL vs Five Forces",
+   "PESTEL = broad macro environment. Porter = competition inside the industry."
+  ],
+  [
+   "Maslow vs ERG",
+   "Maslow: 5 levels in a fixed order. ERG: 3 groups, several needs at once, and you can fall back (frustration-regression)."
+  ],
+  [
+   "Herzberg vs Maslow",
+   "Maslow explains human needs in general. Herzberg explains what causes job satisfaction vs dissatisfaction."
+  ],
+  [
+   "Theory X vs Theory Y",
+   "X assumes people need control. Y assumes people can motivate themselves."
+  ],
+  [
+   "Lewin vs Kotter",
+   "Lewin: 3 broad stages for any change. Kotter: 8 detailed steps for large transformations (steps 1–4 = unfreeze)."
+  ],
+  [
+   "Functional vs Divisional",
+   "Functional groups people by department. Divisional groups them by product, market or region."
+  ],
+  [
+   "Mechanistic vs Organic",
+   "Mechanistic = strict rules and hierarchy. Organic = flexible, flat, adaptable."
+  ],
+  [
+   "Democratic vs Authoritarian",
+   "Democratic involves employees in decisions. Authoritarian decides alone."
+  ],
+  [
+   "Task- vs People-oriented",
+   "Task-oriented focuses on results and deadlines. People-oriented on relationships and well-being."
+  ],
+  [
+   "Coercive vs Reward power",
+   "Coercive uses punishment. Reward uses incentives and benefits."
+  ],
+  [
+   "Line vs Staff manager",
+   "Line contributes directly to the product or service. Staff gives indirect specialist support."
+  ],
+  [
+   "Subculture vs Counterculture",
+   "A subculture fits within the main culture. A counterculture opposes it."
+  ],
+  [
+   "Hofstede vs GLOBE",
+   "Hofstede: IBM, 1960s, 4 then 6 dimensions. GLOBE: 1990s, 62 countries, 9 dimensions incl. performance and humane orientation."
+  ]
+ ]
+}
