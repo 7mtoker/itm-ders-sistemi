@@ -1,0 +1,908 @@
+{
+  "chapters": [
+    {
+      "ch": 8,
+      "ad": "Organizational structures, environment and culture",
+      "giris": "<p>This chapter describes a company’s “skeleton” and its “character”. The skeleton is the structure: how work is divided, who reports to whom, and where decisions are made. The character is the culture: shared beliefs that nobody writes down but everyone follows. The environment links the two. If the outside world is calm and predictable, a rule-based, hierarchical structure works well; if the world changes fast, you need a more flexible structure. First you will learn about the internal and external environment, then the difference between mechanistic and organic structures, and then the six types of structure. In the second lesson you will see Schein’s levels of culture, how culture is formed and kept alive, and diversity.</p>",
+      "baglanti": "<p>Chapter 7 was about goals and what motivates people; here we look at the structure and culture those people work in. Chapter 9 moves culture from the company level to the country level: it looks at national culture through Hofstede and GLOBE.</p>",
+      "sinav": "<p>Chapter 8 feeds the mini-case questions in Part 2. Part 2 has 15 short scenarios, each worth 2 points, taken from chapters 3, 4, 8 and 10. Remembering a definition is not enough here: a company is described, and you must name the structure or the culture concept. Each of the two lessons carries about 4 points.</p>",
+      "okul": {
+        "once": "Skim the table of six structures and Schein’s three levels. Go into class with this question: Which clues tell me what structure a company has?",
+        "odak": [
+          "Which environment suits a <b>mechanistic</b> and an <b>organic</b> structure",
+          "What problems two bosses cause in a <b>matrix</b> structure",
+          "The clue that separates a <b>virtual</b> from a <b>geographic</b> structure",
+          "Examples of <b>artifacts</b>, <b>values</b> and <b>assumptions</b> in Schein’s model",
+          "The difference between a <b>subculture</b> and a <b>counterculture</b>"
+        ],
+        "sonra": "First finish lesson c8a with its step questions, then move on to lesson c8b. After that, reread the pitfalls section of both lessons and work through the chapter 8 question bank; for every structure you get wrong, go back to the example in the matching step and check it."
+      }
+    },
+    {
+      "ch": 9,
+      "ad": "National culture and globalization",
+      "giris": "<p>This chapter is about what a manager meets when crossing borders. In the first lesson you will learn two frameworks that try to measure the culture of countries: Hofstede’s four dimensions and the later GLOBE study. These dimensions explain why the same management style works in one country and backfires in another. In the second lesson you will see the three forces that drive globalization, the three strategies companies choose when they go global, and the five ways to enter a foreign market (entry modes). The two lessons fit together: the bigger the cultural gap, the more carefully you need to choose the entry mode and the strategy.</p>",
+      "baglanti": "<p>In chapter 8 you studied culture inside a company; here you apply the same idea to countries. Chapter 10 then zooms in and focuses on teams and networks between people; team members from different cultures connect the two chapters.</p>",
+      "sinav": "<p>Chapter 9 supplies some of the 20 multiple-choice questions in Part 1. Each question is worth 2 points, and Part 1 tests recall: you are asked for the definitions of the dimensions, which dimension belongs to which framework, and the names of the entry modes. Each of the two lessons carries about 4 points.</p>",
+      "okul": {
+        "once": "Read the four dimensions in the Hofstede table and the table of entry modes. Go into class with this question: When a company goes abroad, what does it take with it, and what does it adapt to the new place?",
+        "odak": [
+          "The difference between <b>uncertainty avoidance</b> and long-term planning",
+          "How Hofstede and <b>GLOBE</b> differ in years, countries and dimensions",
+          "Examples of <b>global</b>, <b>regional</b> and <b>local strategy</b>",
+          "The difference between a <b>joint venture</b> and a wholly owned subsidiary"
+        ],
+        "sonra": "First finish lesson c9a and write your own example for each dimension. Then move on to lesson c9b and rank the entry modes from least to most commitment. Finally, work through the chapter 9 question bank and build speed, especially on definition questions."
+      }
+    },
+    {
+      "ch": 10,
+      "ad": "Teams and social networks",
+      "giris": "<p>This chapter looks at how work really gets done: people work together, and they reach information and resources through the people they know. In the first lesson you will learn how a group turns into a team through Tuckman’s stages, and you will see why a team can slide back to an earlier stage. This lesson also covers how team diversity affects the quality of decisions. In the second lesson you will learn the language of social networks (ties, bridging tie, centrality), the principles by which networks grow, and the three types of network that Ibarra recommends. The shared idea is this: the organization chart shows the formal structure, while teams and networks show how work actually flows.</p>",
+      "baglanti": "<p>In chapter 9 you saw cultural differences at the level of countries; here the same differences show up inside a small team. Chapter 11 moves on to innovation networks and change; there, the idea of networks and the people who resist change become important again.</p>",
+      "sinav": "<p>Chapter 10 feeds the mini-case questions in Part 2: 15 short scenarios, 2 points each, from chapters 3, 4, 8 and 10. A scenario describes how a team behaves or a relationship someone builds, and you name the stage or the type of network. Each of the two lessons carries about 3 points.</p>",
+      "okul": {
+        "once": "Read the Tuckman table and Ibarra’s three types of network. Go into class with this question: Why does a team that was going well suddenly start fighting?",
+        "odak": [
+          "Signs of the move from <b>storming</b> to <b>norming</b>",
+          "Why the stages are not linear",
+          "The difference between <b>strong ties</b> and <b>weak ties</b>, and Granovetter",
+          "The difference between a <b>personal</b> and a <b>strategic network</b>"
+        ],
+        "sonra": "First finish lesson c10a and find a moment from your own school project for each stage. Then move on to lesson c10b and sort your own network into Ibarra’s three types. Finally, work through the chapter 10 question bank, starting with the scenario questions."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c8a",
+      "ad": "Environment and organizational structures: mechanistic, organic and six structures",
+      "sure": 25,
+      "neden": "<p>In Part 2 you will be given a description of a company and asked “which structure is this?” Memorizing the six structures is not enough. If you know what each one groups people by and what problem it creates, you can find the right answer from a single sentence in the scenario.</p>",
+      "hedefler": [
+        "Classify a factor as internal or external environment and choose the right tool.",
+        "Match mechanistic and organic structures to the type of environment.",
+        "Recognize the six types of structure from a clue in a scenario.",
+        "Match each structure to its typical strength and weakness."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Internal and external environment",
+          "anlatim": "<p>To understand a company, you ask two questions: What is happening to us outside? What do we have inside? These two questions match two environments.</p><p>The <b>Macro (general, external) environment</b> is the big picture that the company can hardly control. It contains political, economic, social, technological, environmental and legal factors, or <b>PESTEL</b> for short. You study pressure from competitors with <b>Porter's 5 forces</b>. The <b>internal environment</b> is the company’s own resources, capabilities and activities; the tools you use here are <b>VRIO</b> and the <b>value chain</b>.</p><p>Use control to tell them apart: if the company can change something by its own decision, it is internal; if it can only adapt to it, it is external. The main message of this lesson is that the two environments are linked. In the examples in the course notes, outside forces such as the 2025 US tariffs and AI change companies’ internal structure and business activities. A shock outside can reach all the way down to the organization chart.</p>",
+          "ornek": "<p>Imagine “Pedal Workshop”, a bicycle shop. The city council passes a new rule that limits cars in the city centre. This is a legal factor, and the shop cannot control it, so it belongs to the external environment. The shop responds by opening a cargo-bike repair section and moving two employees there. This decision is a change in the internal environment, that is, in the shop’s own structure.</p>",
+          "kaynak": [0],
+          "terimler": ["Macro (general, external) environment"],
+          "soru": {
+            "q": "Across the country, AI tools are changing how clinics book patients. One clinic responds by removing a layer of administrative supervisors. Which statement best describes this?",
+            "o": [
+              "A technological macro force is changing the internal structure",
+              "An internal resource is being assessed with the VRIO tool",
+              "Rival clinics are creating pressure through Porter's five forces",
+              "The clinic controls this factor directly through its value chain"
+            ],
+            "x": "AI is a technological factor that affects the whole country, and the clinic cannot control it, so it is part of the macro environment; the clinic responds by changing its internal structure. The VRIO option looks tempting because VRIO is an internal tool, but no resource is being assessed here; a force from outside is at work."
+          }
+        },
+        {
+          "baslik": "Mechanistic or organic?",
+          "anlatim": "<p>When you choose a structure, the first question is: How calm is the company’s environment? There are two extreme types.</p><p>A <b>Mechanistic structure</b> means a top-down hierarchy, many rules and centralized decision making. The <b>span of control</b> (the number of people who report to one manager) is narrow: each manager leads only a few people, so there are more levels and the structure gets taller. This structure works well in stable, simple environments, because if tomorrow looks like today, turning the work into rules once is the most efficient way.</p><p>An <b>Organic structure</b> is flatter: employees take part in decisions, there are few rules and the span of control is wide. It fits unstable, complex environments. The reason is simple: if a new problem appears every day, you cannot wait for a decision to travel to the top floor and back; the person who sees the problem must be able to decide quickly.</p><p>In the exam, look at how the environment is described. If you see “predictable, strict rules, decisions at the top”, it is mechanistic; if you see “fast-changing, flat, participative”, it is organic.</p>",
+          "ornek": "<p>Imagine a chain of city pharmacies that follows the rules for storing medicine to the letter; each branch manager leads a few people, and decisions come from head office: mechanistic. In the same city, an imaginary mobile game studio faces a new trend every month; teams make their own decisions, and one manager works with fifteen people: organic. Each one fits its own environment.</p>",
+          "kaynak": [1],
+          "terimler": ["Mechanistic structure", "Organic structure"],
+          "soru": {
+            "q": "A city water utility works in a predictable market under strict safety rules. Each manager supervises only a few people, and decisions are made at the top. Which structure is this, and why does it fit?",
+            "o": [
+              "Mechanistic, because its environment is stable and simple",
+              "Organic, because its environment is stable and simple",
+              "Mechanistic, because its environment is complex and changing",
+              "Organic, because its strict rules allow participative decisions"
+            ],
+            "x": "A narrow span of control, strict rules and decisions from the top are signs of a mechanistic structure, and this structure fits a stable, simple environment. The third option gets the structure right but turns the reason around: a complex, changing environment calls for an organic structure."
+          }
+        },
+        {
+          "baslik": "Functional and divisional structure",
+          "anlatim": "<p>All six types of structure give a different answer to one question: What do we group people by?</p><p>A <b>Functional structure</b> groups people by area of expertise: departments such as R&amp;D, production, finance and HR. Accountants sit next to accountants. Its strengths are <b>specialization</b> and <b>economies of scale</b>: one strong finance department serves all the products. Its weakness is <b>silos</b>: departments close themselves off in their own world and rarely talk to each other, so coordination is slow.</p><p>A <b>Divisional structure</b> groups people by product or market. Each division has its own manager, and each one has its own marketing, sales and finance team. Its strengths are focus and faster contact with customers. Its weakness is <b>duplication</b>: the same function is built again in every division, and the divisions can also drift apart from each other.</p><p>An easy way to tell them apart: Who sits at the next desk? If it is someone from the same profession, it is functional; if it is someone from a different profession working on the same product, it is divisional. Do not mix up the weaknesses either: silos belong to the functional structure, duplication to the divisional structure.</p>",
+          "ornek": "<p>Imagine “Oven &amp; Co”. At first it works with one production, one sales and one finance department: functional. As the company grows, it splits into three divisions, bread, cakes and catering, and each division sets up its own sales and finance team: divisional. Now they answer customers faster, but they pay salaries to three separate finance teams; that is duplication.</p>",
+          "kaynak": [2],
+          "terimler": ["Functional structure", "Divisional structure"],
+          "soru": {
+            "q": "A toy maker has one marketing department, one production department and one finance department serving all of its products. Managers complain that departments rarely share information. Which structure and weakness fit?",
+            "o": [
+              "Functional structure, with silos between departments",
+              "Divisional structure, with duplicated functions",
+              "Functional structure, with too much decentralization",
+              "Divisional structure, with isolated product units"
+            ],
+            "x": "Having one department for each function, all serving every product, is a functional structure; departments closing in on themselves is its typical weakness, silos. The divisional options look tempting because the word “isolated” sounds like silos, but there are no product divisions here."
+          }
+        },
+        {
+          "baslik": "Geographic and matrix structure",
+          "anlatim": "<p>A <b>Geographic structure</b> groups people by where the customers are: regions or countries. The logic is this: if customers differ a lot from place to place, a unit that knows the place should make the decisions. Its strength is <b>local knowledge</b>. Its weakness is too much <b>decentralization</b>: each region goes its own way and the centre loses unity. It looks like the divisional structure, but if the scenario clearly groups people by region or country and gives the regions authority, the answer is geographic.</p><p>A <b>Matrix structure</b> uses two dimensions at the same time. An employee reports both to a functional boss (for example, the head of engineering) and to a project or product boss. Why would anyone set this up? Because you want to keep experts in their specialist department and at the same time use them flexibly across projects. Its strengths are flexibility and cross-functional work. Its weakness comes exactly from the two bosses: confusion and conflict.</p><p>The exam’s favourite sentence: “Engineers stay in their specialist departments but also report to product managers.” Do not let the fact that people stay in their department pull you towards functional; a second reporting line means matrix.</p>",
+          "ornek": "<p>At an imaginary consulting firm, the graphic designer Ece belongs to the design department, but she also works on the “hospital app” project. The design manager wants the logo job first, while the project leader wants the screen designs first. Two bosses, two priorities: this shows both the flexibility of a matrix structure and its risk of conflict.</p>",
+          "kaynak": [2],
+          "terimler": ["Geographic structure", "Matrix structure"],
+          "soru": {
+            "q": "At a furniture company, each designer belongs to the design department but is also assigned to a product launch team led by a product manager. The two managers sometimes give the same designer conflicting priorities. Which structure is this?",
+            "o": [
+              "Matrix structure",
+              "Divisional structure",
+              "Geographic structure",
+              "Functional structure"
+            ],
+            "x": "The designer reports to both the department manager and the product manager, which means two reporting lines: a matrix structure. Conflicting priorities are its typical weakness. The functional option looks tempting because the designer stays in the department, but a second boss does not exist in a functional structure."
+          }
+        },
+        {
+          "baslik": "Networked team and virtual structure",
+          "anlatim": "<p>The last two structures are the furthest from the classic chart.</p><p>A <b>Networked team structure</b> is made of informal, flexible, horizontal teams; decision-making power is spread out (decentralized). Teams are formed for a task and change shape when the task ends. Its strengths are speed and adaptability. Its weaknesses are unclear communication and dependence on technology, because who does what is not always written on a chart.</p><p>A <b>Virtual structure</b> is a <b>boundaryless</b> organization that rests entirely on <b>ICT</b> (information and communication technology). The head office is often the only fixed point; the course notes give Uber and Airbnb as examples. Its strengths are cost savings and the chance to find talent anywhere in the world. Its weaknesses are isolation and less trust, because people may never meet face to face.</p><p>How do you tell the two apart? Networked team describes how teams are formed: informal and horizontal. Virtual describes where and how people are connected: there are no physical boundaries, and everything runs through technology. A sentence like “experts in different countries working only online” means virtual.</p>",
+          "ornek": "<p>An imaginary translation start-up has translators in six countries; apart from a small head office it has no buildings, and everyone works through shared software: virtual. At an imaginary independent game studio, everyone is in the same building, but teams form and break up around ideas on their own, and who leads changes with the task: networked team.</p>",
+          "kaynak": [2],
+          "terimler": ["Networked team structure", "Virtual structure"],
+          "soru": {
+            "q": "An online language school has a tiny head office. Its teachers live in nine countries and work only through video calls and shared software. Which structure is this?",
+            "o": [
+              "Virtual structure",
+              "Networked team structure",
+              "Geographic structure",
+              "Matrix structure"
+            ],
+            "x": "There is no physical structure apart from a small head office, and everyone connects through technology: virtual. Geographic looks tempting because the teachers are in different countries, but a geographic structure sets up units with authority over customer regions; here the countries are just where people live."
+          }
+        },
+        {
+          "baslik": "Spotting the structure in a scenario",
+          "anlatim": "<p>In Part 2 the name of the structure is rarely given; you find the clue. Ask in this order, because it starts with the clearest signs:</p><ol><li>Are there two bosses? Then it is <b>matrix</b>.</li><li>Is there almost no physical company, with everyone online? Then it is <b>virtual</b>.</li><li>Are units built around regions or countries, and do the regions have authority? <b>Geographic</b>.</li><li>Are units built around products or markets, each with its own functions? <b>Divisional</b>.</li><li>Are departments built around areas of expertise? <b>Functional</b>.</li><li>Are teams informal, horizontal and always changing? <b>Networked team</b>.</li></ol><p>Weaknesses also appear as questions; work them out from the logic of each structure. Functional separates experts, so silos. Divisional gives each division everything, so duplication. Geographic spreads authority to the regions, so too much decentralization. Matrix gives two bosses, so conflict. Networked team is informal, so communication becomes unclear. Virtual connects people through screens, so isolation and low trust.</p><p>Mechanistic and organic are a separate type of question: they ask how rigid or flexible a structure is and which environment it fits.</p>",
+          "ornek": "<p>An imaginary tea company appoints separate managers for its northern, southern and coastal regions; each manager sets prices and packaging in their own region. A year later the brand looks different in every region. Because people are grouped by place, the structure is geographic, and the name of the problem is too much decentralization.</p>",
+          "kaynak": [1, 2],
+          "terimler": ["Geographic structure", "Divisional structure", "Matrix structure"],
+          "soru": {
+            "q": "A cosmetics firm gives its regional heads in Scandinavia, the Gulf and South America full authority over products and prices. Head office now struggles to keep the brand consistent. Which structure and weakness fit?",
+            "o": [
+              "Geographic, with too much decentralization",
+              "Divisional, with every function duplicated",
+              "Matrix, with staff confused by two bosses",
+              "Virtual, with staff isolated from each other"
+            ],
+            "x": "Units are built around regions, and the regions have full authority: geographic. Head office losing control is the typical weakness of a geographic structure, too much decentralization. The divisional option looks tempting because the units are independent, but people are grouped by place, not by product."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "An engineer who stays in a specialist department but also reports to a product manager is in a functional structure.", "dogru": "If there is a second reporting line, the structure is <b>matrix</b>. Staying in the department is a misleading clue."},
+        {"yanlis": "Experts who live in different countries and work online show a geographic structure.", "dogru": "A boundaryless organization connected only through technology is a <b>virtual</b> structure. A <b>geographic</b> structure has units built around regions, with authority of their own."},
+        {"yanlis": "Duplication is a weakness of the functional structure.", "dogru": "Duplication belongs to the <b>divisional</b> structure; the weakness of the functional structure is <b>silos</b> and slow coordination."},
+        {"yanlis": "A mechanistic structure is always old and bad.", "dogru": "In a stable, simple environment a <b>mechanistic</b> structure is efficient; an <b>organic</b> structure fits an unstable, complex environment. The right answer comes from fit with the environment."},
+        {"yanlis": "PESTEL and VRIO study the same environment.", "dogru": "PESTEL and Porter’s five forces study the external environment; VRIO and the value chain study the internal environment."}
+      ],
+      "ozet": [
+        "The external environment (PESTEL, Porter) cannot be controlled; the internal environment (VRIO, value chain) is the company’s own resources.",
+        "Outside forces, such as tariffs and AI, can change a company’s internal structure.",
+        "Mechanistic: hierarchy, rules, centralized decisions, narrow span of control; stable environment.",
+        "Organic: flat, participative, few rules, wide span of control; changing environment.",
+        "Functional groups by expertise; strength is specialization, weakness is silos.",
+        "Divisional groups by product or market; strength is focus, weakness is duplication.",
+        "Geographic groups by customer region; strength is local knowledge, weakness is too much decentralization.",
+        "Matrix gives two bosses; strength is flexibility, weakness is conflict.",
+        "Networked team is informal and horizontal; virtual is a boundaryless organization built on ICT."
+      ],
+      "aklinda": "Two bosses: matrix. No office: virtual. Power to regions: geographic. Units per product: divisional. Departments per expertise: functional.",
+      "sinavda": "<p>This topic comes up in Part 2 as a short scenario: the way a company is organized is described, and you are asked for the name of the structure or its typical weakness. It carries about 4 points. Look at the reporting lines, what people are grouped by, and how the environment is described in the scenario.</p>"
+    },
+    {
+      "id": "c8b",
+      "ad": "Organizational culture: Schein, strong culture and diversity",
+      "sure": 30,
+      "neden": "<p>Culture is invisible, but in a company it decides what people see as normal and what they see as wrong. The exam describes an office layout, a ceremony or a team that rejects the rules, and asks which culture concept it shows. If you can tell the levels and the similar terms apart, these questions are easy points.</p>",
+      "hedefler": [
+        "Define organizational culture and explain why it can be a competitive advantage.",
+        "Place an example in one of Schein’s three levels.",
+        "Tell apart strong culture, subculture and counterculture.",
+        "Recognize in a scenario how culture is formed and what its visible signs are.",
+        "Explain the four advantages of diversity and the idea of the glass ceiling."
+      ],
+      "adimlar": [
+        {
+          "baslik": "What is culture, and why can it be an advantage?",
+          "anlatim": "<p>When you start a new job, nobody tells you “here we arrive at meetings five minutes early”, yet within a few days you learn it. What teaches you this is culture.</p><p><b>Organizational culture</b> is a system of shared assumptions, values and beliefs that shows people which behaviour is appropriate and which is not. The course notes compare it to a fish and its water: the fish does not notice the water, but the water shapes its every move. Culture is invisible too, but it shapes behaviour.</p><p>Why does it matter? According to Barney, a culture that is rare and hard to imitate can be a <b>competitive advantage</b>. The logic is this: a rival can copy your product and your price, but it cannot copy, overnight, shared beliefs that grew over years. So the source of the advantage is not culture itself, but the fact that it is rare and hard to copy.</p><p>Keep culture separate from structure: structure is the chart that shows who reports to whom, while culture is how the people in that chart think.</p>",
+          "ornek": "<p>At an imaginary restaurant called “Blue Door”, the new waiter Can notices in his first week that no waiter ever leaves a table without saying thank you. This rule is not written anywhere and nobody tells him, but everyone follows it. Even if a rival restaurant copies the same menu, it cannot copy this shared behaviour: here, organizational culture is an advantage.</p>",
+          "kaynak": [0],
+          "terimler": ["Organizational culture"],
+          "soru": {
+            "q": "Two rival bakeries sell almost identical bread. Customers keep choosing one because its staff share a deep belief in treating every visitor like family, which the rival cannot copy quickly. What does this illustrate?",
+            "o": [
+              "A rare, hard-to-imitate culture giving a competitive advantage",
+              "A counterculture whose values oppose the bakery's main culture",
+              "A written rule system that tightly controls staff behaviour",
+              "An artifact of culture such as the shop's physical layout"
+            ],
+            "x": "A shared belief shapes how the staff behave, and the rival cannot copy it quickly; this is a rare, hard-to-imitate culture giving a competitive advantage. The artifact option looks tempting because it is about culture, but what is described here is a shared belief, not a visible object."
+          }
+        },
+        {
+          "baslik": "Schein’s three levels",
+          "anlatim": "<p>If culture is invisible, how do you study it? Schein suggests three levels, from the surface down to the deepest. The order is always the same: artifacts, values, assumptions.</p><p><b>Artifacts</b> are the visible, touchable surface of culture: an open-door policy, the office layout, pool tables, the company picnic. Even an outsider sees these on the first day.</p><p><b>Values</b> are shared principles, standards and goals. People can state them when asked: egalitarianism or having fun, for example.</p><p><b>Assumptions</b> are the deepest level. They are taken so much for granted that people do not even notice they believe them. The example in the course notes: “Happy employees benefit the organization.”</p><p>Why three levels? Because everything you can see is a sign of something deeper. The pool table (artifact) comes from the value placed on having fun (value), and that value comes from the belief that happy employees do good work (assumption). To tell them apart, ask: Can I see and touch it? Artifact. Do people state it as a principle? Value. Do people believe it without noticing? Assumption.</p>",
+          "ornek": "<p>On an imaginary hospital ward, the head nurse’s door is never closed, and there is a task board in the corridor that everyone can see: artifacts. When asked, the team says “patient safety first”: value. The belief that nobody questions is “a shared mistake is a prevented mistake”: assumption. The board and the open door are visible traces of this belief.</p>",
+          "kaynak": [1],
+          "terimler": ["Artifacts", "Assumptions"],
+          "soru": {
+            "q": "At a design agency, nobody questions the belief that clients always know less than the designers; staff are not even aware they hold this belief. At which Schein level is it?",
+            "o": [
+              "Assumptions",
+              "Values",
+              "Artifacts",
+              "Rituals"
+            ],
+            "x": "The belief is not questioned, and the staff are not even aware they hold it: this is the deepest level, assumptions. Values looks tempting, but values are principles that people can state consciously. Rituals are not one of Schein’s levels; they are one of the signs of culture."
+          }
+        },
+        {
+          "baslik": "Dimensions of culture and strong culture",
+          "anlatim": "<p>Cultures differ in what they reward. The course notes list seven dimensions:</p><ul><li><b>Innovative</b>: rewards risk taking and new ideas.</li><li><b>Aggressive</b>: rewards beating competitors.</li><li><b>Outcome-oriented</b>: looks at results more than at the way you get there.</li><li><b>Stable</b>: rewards predictability and sticking to the rules.</li><li><b>People-oriented</b>: puts being fair and supportive first.</li><li><b>Team-oriented</b>: rewards working together.</li><li><b>Detail-oriented</b>: rewards care and precision.</li></ul><p>A <b>Strong culture</b> is one where most employees share the company’s values. Here “strong” does not mean good; it means widespread. A strong culture can be an asset, because everyone looks in the same direction. But it can also be a liability: it is hard to change, and in mergers it can clash with another strong culture. The course notes give the Daimler-Chrysler merger as an example. The reason is clear: asking people to drop habits they sincerely believe in is much harder than just changing a rule.</p>",
+          "ornek": "<p>At an imaginary accounting firm called “Exact Figures”, almost everyone believes in precision: detail-oriented and a strong culture. The firm merges with an imaginary advertising agency that loves speed and trial and error. Neither side gives up its habits, and projects get stuck. Here the strong culture stops being an asset and becomes a liability.</p>",
+          "kaynak": [2],
+          "terimler": ["Strong culture"],
+          "soru": {
+            "q": "Two firms, each with a very strong but opposite culture, merge. A year later staff on both sides still refuse to adopt the other's habits. What does this show about strong cultures?",
+            "o": [
+              "They can be a liability because they are hard to change",
+              "They disappear quickly once a merger is announced",
+              "They exist only where many countercultures are present",
+              "They are always an asset in any merger situation"
+            ],
+            "x": "In a strong culture most employees hold the same values, so it is hard to change and mergers lead to clashes; in other words, the culture can be a liability. The “always an asset” option looks tempting because the word strong sounds positive, but the course notes say a strong culture can be both an asset and a liability."
+          }
+        },
+        {
+          "baslik": "Subculture and counterculture",
+          "anlatim": "<p>In a large company, not everyone’s culture is exactly the same. Departments and branches develop their own small cultures. Here you need to separate two concepts, and the exam often mixes them up.</p><p>A <b>Subculture</b> is a culture that forms in a department, branch or location. It may have its own jokes, its own habits and its own dress style, but it is in line with the main culture. It does not oppose the main values; it adds its own colour within them.</p><p>A <b>Counterculture</b> is a group whose values openly oppose the main culture. The difference is the difference between “different” and “opposed”. A subculture is like a dialect of the main culture; a counterculture refuses to speak the same language.</p><p>In a scenario, look for these words: “has its own habits but supports the company's values” means subculture; “openly rejects” or “opposes the values” means counterculture. A strong culture is something else again: it describes not one group, but most employees sharing the same values.</p>",
+          "ornek": "<p>In an imaginary university library, the night shift plays its own music and makes its own jokes, but it is committed to the value of “quiet and care”: subculture. The new digital team in the same library openly says these values are outdated and holds noisy events in the reading room: counterculture.</p>",
+          "kaynak": [2],
+          "terimler": ["Subculture", "Counterculture"],
+          "soru": {
+            "q": "In a careful, rule-driven insurance firm, the claims team in one city has its own dress style and lunch habits but fully supports the firm's values. This team is best described as a:",
+            "o": [
+              "Subculture",
+              "Counterculture",
+              "Strong culture",
+              "Ritual"
+            ],
+            "x": "The team has habits of its own but supports the company’s values: this is a subculture. Counterculture looks tempting because the team behaves differently, but a counterculture must openly oppose the main values."
+          }
+        },
+        {
+          "baslik": "How is culture formed and kept alive?",
+          "anlatim": "<p>Culture is not built overnight, and it does not keep itself going. The course notes list six sources, and each has a simple logic behind it.</p><ul><li><b>Founder values</b>: the founder sets the first rules, and the first employees follow.</li><li><b>Industry demands</b>: a hospital and an advertising agency cannot share the same culture, because the nature of the work calls for different behaviour.</li><li><b>Attraction-selection-attrition</b>: similar people are attracted to the company, those who seem to fit are selected, and those who do not fit leave over time. The result: the culture copies itself.</li><li><b>Onboarding</b>: the process through which new employees learn the attitudes, knowledge and behaviours they need.</li><li><b>Leadership</b>: employees watch what managers do more than what they say.</li><li><b>Reward systems</b>: whatever you reward, you see more of.</li></ul><p>Do not confuse onboarding with attraction-selection-attrition: the first is about learning after you join the company, the second is about who gets in and who stays.</p>",
+          "ornek": "<p>The founder of an imaginary software start-up hates long meetings and runs everything in writing: founder values. Candidates who like this style apply, those who fit are hired, and those who want meetings leave within a few months: attraction-selection-attrition. In their first week, newcomers learn this written way of working with a “buddy”: onboarding.</p>",
+          "kaynak": [3],
+          "terimler": ["Onboarding"],
+          "soru": {
+            "q": "A climbing gym attracts staff who love adventure, hires the applicants who seem to fit, and people who prefer quiet routines soon quit. Which culture-building mechanism is this?",
+            "o": [
+              "Attraction-selection-attrition",
+              "Onboarding of new employees",
+              "Reward systems",
+              "Industry demands"
+            ],
+            "x": "All three steps are in the scenario: similar people are attracted, those who fit are selected, and those who do not fit leave. Onboarding looks tempting, but it is about learning attitudes and behaviours after joining; what is described here is who gets in and who stays."
+          }
+        },
+        {
+          "baslik": "Signs of culture",
+          "anlatim": "<p>If you want to read a company’s culture from the outside, you look at five signs. They are not the culture itself, but the traces culture leaves behind.</p><ul><li><b>Mission statement</b>: the company’s written purpose; it announces what the company cares about.</li><li><b>Rituals</b>: repeated events that teach values and create a sense of belonging. They teach because they repeat.</li><li><b>Rules and policies</b>: they put in writing which behaviour is expected.</li><li><b>Physical layout</b>: open office or closed rooms? The layout shows how easily people can reach each other.</li><li><b>Stories and language</b>: the legends told in the company and the special words people use.</li></ul><p>Watch out for one overlap here: the office layout is both a sign of culture and an artifact in Schein’s model. But it is never a value. Also separate a ritual from a story: a ritual is something done regularly, while a story is an event that is told.</p>",
+          "ornek": "<p>In an imaginary restaurant kitchen, every Friday after closing, the whole team tastes a new dish together and votes on it: ritual. In the same kitchen, everyone tells newcomers about the time the founder got meals out by candlelight during a power cut: stories. Both show the culture, but one is a repeated event and the other is an event that is told.</p>",
+          "kaynak": [4],
+          "terimler": ["Rituals"],
+          "soru": {
+            "q": "Every Monday morning, all agents at a call centre stand up, clap three times together and read the customer promise aloud before taking calls. Which sign of culture is this mainly?",
+            "o": [
+              "A ritual",
+              "A mission statement",
+              "Rules and policies",
+              "Physical layout"
+            ],
+            "x": "A shared event that repeats every week, teaches a value and creates belonging: ritual. Mission statement looks tempting because the customer promise is read out, but the sign that stands out is not the written text itself; it is the act of reading it together every Monday."
+          }
+        },
+        {
+          "baslik": "Diversity and its four advantages",
+          "anlatim": "<p>The course notes use <b>Diversity</b> in a broad sense. It is not only about gender or origin; differences in personality, way of thinking (cognitive style), education and social background are diversity too.</p><p>The course notes list four advantages, and you can see the logic of each:</p><ul><li><b>Enhances creativity</b>: people from different backgrounds look at a problem from different angles.</li><li><b>Enhances image</b>: society sees a company that values diversity more positively.</li><li><b>Improves outreach</b>: an employee who knows a community also knows how to reach it.</li><li><b>Improves morale</b>: employees who feel valued work with more energy.</li></ul><p>BCG’s finding adds to this list: diversity increases an organization’s resilience and adaptiveness. To keep the advantages apart in the exam, look at the result: if a new idea came out, it is creativity; if the outside image improved, it is image; if a new customer group was won, it is outreach; if employee motivation rose, it is morale.</p>",
+          "ornek": "<p>People from different regions and age groups join the team of an imaginary language-learning app. Within a month, the idea of a large-text mode for older users comes up: creativity. Thanks to this mode, retired people who had never used the app sign up: outreach. One event shows two different advantages.</p>",
+          "kaynak": [5],
+          "terimler": [],
+          "soru": {
+            "q": "After a hospital starts treating staff from all backgrounds as equally valued, employees report feeling more respected and more motivated at work. Which advantage of diversity is this?",
+            "o": [
+              "It improves morale",
+              "It enhances image",
+              "It improves outreach",
+              "It enhances creativity"
+            ],
+            "x": "The result is that employees feel valued and motivated: this is the morale advantage. Image looks tempting because the hospital is doing something positive, but image is about how others see you from outside; what changes here is motivation inside."
+          }
+        },
+        {
+          "baslik": "Gender, the glass ceiling and sexual orientation",
+          "anlatim": "<p>You have seen the advantages of diversity; now let us look at the barriers.</p><p>According to the course notes, women earn more degrees, but they meet three problems as they move up. The first is the <b>glass ceiling</b>: an invisible barrier, based on bias, that stops women from reaching the top levels. It is called “glass” because you cannot see it: no written rule forbids it, yet you cannot get past it. The second is the <b>pay gap</b>: lower pay for the same work. The third is <b>sexual harassment</b>. It has two forms: <b>quid pro quo</b> (making a job benefit depend on a sexual demand) and <b>hostile environment</b> (a hostile working atmosphere). The course notes mention the “Me too” movement here.</p><p>On <b>sexual orientation and gender identity</b>, the message of the course notes is this: sexual minorities have a higher level of education on average, yet they still face discrimination in hiring and in how they are treated at work.</p><p>Do not confuse the glass ceiling with the pay gap: one is a barrier to promotion, the other a barrier in pay.</p>",
+          "ornek": "<p>At an imaginary engineering firm, half of the new graduates hired are women, and their performance ratings are high. Yet for ten years no woman has risen above team leader, and no rule forbids it. An invisible barrier stops their rise: the glass ceiling. Even if salaries were equal, this would not change, because the problem is promotion, not pay.</p>",
+          "kaynak": [5],
+          "terimler": ["Glass ceiling"],
+          "soru": {
+            "q": "At a law firm, women make up half of the junior lawyers and receive strong reviews, yet for years none has been promoted to partner, although no written rule blocks them. What does this describe?",
+            "o": [
+              "The glass ceiling",
+              "The pay gap",
+              "A hostile environment",
+              "A counterculture"
+            ],
+            "x": "The women perform well but cannot reach the top level, even though no written barrier exists: this invisible barrier is the glass ceiling. The pay gap looks tempting because it is also a gender inequality, but the pay gap is about pay; the problem here is promotion."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "The office layout is one of the company’s values.", "dogru": "The office layout is a visible element, that is, an <b>artifact</b>, and it is also a sign of culture. It is not a value."},
+        {"yanlis": "Every department with its own habits is a counterculture.", "dogru": "A different group that supports the main values is a <b>subculture</b>. A <b>counterculture</b> must openly oppose the main values."},
+        {"yanlis": "A strong culture is always good.", "dogru": "A <b>strong culture</b> only means that most employees share the values; because it is hard to change, it can become a liability in mergers."},
+        {"yanlis": "From the surface down, Schein’s levels go in the order assumptions, values, artifacts.", "dogru": "From the surface down, the order is <b>artifacts, values, assumptions</b>: what you can see is at the top, what nobody notices is at the bottom. First read which direction the question asks for."},
+        {"yanlis": "The glass ceiling and the pay gap are the same thing.", "dogru": "The <b>glass ceiling</b> is an invisible barrier to promotion; the <b>pay gap</b> is a difference in pay."}
+      ],
+      "ozet": [
+        "Organizational culture: shared assumptions, values and beliefs that show what behaviour is appropriate.",
+        "A rare, hard-to-imitate culture can be a competitive advantage (Barney).",
+        "Schein, from the surface down: artifacts, values, assumptions.",
+        "Seven dimensions: innovative, aggressive, outcome, stable, people, team, detail.",
+        "Strong culture: most people share the values; it can be both an asset and a liability.",
+        "A subculture fits the main culture; a counterculture opposes it.",
+        "Sources of culture: founder, industry, attraction-selection-attrition, onboarding, leadership, rewards.",
+        "Five signs of culture: mission statement, rituals, rules and policies, physical layout, stories and language.",
+        "Diversity brings four advantages: creativity, image, outreach and morale; the barriers are the glass ceiling, the pay gap and harassment."
+      ],
+      "aklinda": "The artifact you see, the value you say, the assumption you believe without noticing.",
+      "sinavda": "<p>Part 2 describes a scene at a company: an office layout, a weekly ceremony, a team that rejects the rules, or women employees who cannot get promoted. You are asked to choose the right concept. It carries about 4 points; Schein’s levels and the difference between subculture and counterculture are asked most often.</p>"
+    },
+    {
+      "id": "c9a",
+      "ad": "National culture: Hofstede’s dimensions and GLOBE",
+      "sure": 28,
+      "neden": "<p>The same manager can be respected in one country and seen as rude or weak in another. Hofstede and GLOBE explain why with a small number of dimensions. Part 1 asks for the definitions of these dimensions and which framework they belong to, so you should be able to explain each dimension in your own words.</p>",
+      "hedefler": [
+        "Explain Hofstede’s definition of culture and his research.",
+        "Recognize the four Hofstede dimensions from an example of behaviour.",
+        "Separate uncertainty avoidance from long-term planning.",
+        "Tell GLOBE apart from Hofstede by year, scope and its two unique dimensions.",
+        "Use the idea of psychic distance in a scenario about going abroad."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Hofstede: culture is a program of the mind",
+          "anlatim": "<p>In chapter 8 you saw culture inside a company. Hofstede asks the same question at the level of countries: Why do the people of one country behave alike at work?</p><p>Hofstede, a Dutch social psychologist, defines culture as “the collective programming of the mind that distinguishes the members of one group or category of people from others.” This is the definition of <b>Culture (Hofstede)</b>, and the exam asks for it often. Think of the comparison: a computer runs on software, and a person runs on invisible “software” learned from their group while growing up. People who learn the same software react in similar ways.</p><p>Hofstede based this idea on a large survey: more than 88,000 IBM employees in 72 countries. Four dimensions came out of it: <b>power distance</b>, <b>individualism/collectivism</b>, <b>uncertainty avoidance</b> and <b>masculinity</b>. The course notes place this study in the 1960s and say that the four dimensions later grew to six. The key facts for the exam are: IBM, the 1960s, four original dimensions.</p><p>Do not confuse this definition with Schein: Schein describes the levels of culture in one organization, while Hofstede compares countries.</p>",
+          "ornek": "<p>Children from two different cities come to an imaginary summer camp. The children in one group do not start eating until everyone is seated; the other group starts straight away. Nobody at the camp told them to do this; the behaviour comes from a shared “program” learned at home. Hofstede’s definition of culture describes exactly this shared program at group level.</p>",
+          "kaynak": [0],
+          "terimler": ["Culture (Hofstede)"],
+          "soru": {
+            "q": "A researcher argues that employees from one country react alike at work because they learned the same unwritten mental software while growing up. Which concept matches this idea?",
+            "o": [
+              "Hofstede's collective programming of the mind",
+              "GLOBE's dimension of performance orientation",
+              "Schein's deepest level of basic assumptions",
+              "Psychic distance between two home countries"
+            ],
+            "x": "A learned, shared program of the mind that sets the members of one group apart from others is Hofstede’s definition of culture. Schein’s assumptions level looks tempting because those are also beliefs people do not notice, but Schein describes organizational culture; here the people of a country are being compared."
+          }
+        },
+        {
+          "baslik": "Power distance",
+          "anlatim": "<p>The first dimension is about power and authority. <b>Power distance</b> is the degree to which the members of a society accept differences in power and authority. Be careful: the dimension does not measure how big the power gap is; it measures how normal people find that gap.</p><p>The examples in the course notes: countries with high power distance are Mexico, India, Brazil and China; countries with low power distance are the US, the UK and Denmark.</p><p>What this means for management: in a culture with high power distance, the leader is expected to show authority, and subordinates expect clear instructions. Questioning the boss seems strange. In a culture with low power distance, an employee may call the manager by first name and disagree with a decision. This is why, when a manager from a low power distance country invites everyone to debate in a high power distance country, employees do not relax; they may become uneasy instead.</p><p>Do not confuse this dimension with uncertainty avoidance: the phrase “clear instructions” can appear in both. If people expect instructions out of respect for authority, it is power distance; if they want to escape uncertainty, it is uncertainty avoidance.</p>",
+          "ornek": "<p>At an imaginary textile company, the new manager Lale says in her first meeting, “Call me Lale, and criticize my decisions as much as you like.” The team keeps calling her “Ms Lale” and waits for a clear instruction from her on every task. In the team’s culture, a gap in authority is accepted as natural: power distance is high.</p>",
+          "kaynak": [0],
+          "terimler": ["Power distance"],
+          "soru": {
+            "q": "A Danish manager moves to a branch in Brazil and invites everyone to challenge her decisions openly. Staff seem uneasy and keep waiting for clear instructions from her. Which dimension best explains this?",
+            "o": [
+              "Power distance",
+              "Uncertainty avoidance",
+              "Individualism",
+              "Masculinity"
+            ],
+            "x": "According to the course notes, Brazil is an example of high power distance and Denmark of low power distance; where power distance is high, subordinates expect authority and clear instructions from the leader. Uncertainty avoidance looks tempting because staff expect instructions, but the unease here does not come from rules; it comes from the fact that criticizing the boss feels strange."
+          }
+        },
+        {
+          "baslik": "Individualism and collectivism",
+          "anlatim": "<p>The second dimension answers this question: In this society, do I come first, or does the group?</p><p><b>Individualism</b> focuses on the individual’s relationship to the group; people put their personal goals and independence first. The individualist examples in the course notes are the US, the UK and Canada. <b>Collectivism</b> focuses on the group as a whole; the harmony and success of the group come before personal success. Asia and Latin America are given as more collectivist regions.</p><p>This dimension affects management decisions directly. According to the course notes, in a collectivist culture hiring and decisions are based on the group, and people look for consensus. The logic is clear: people who care about group harmony feel uncomfortable when one person is singled out from the rest. So linking rewards and goals to group performance works better there. In an individualist culture, individual bonuses and personal recognition motivate people more.</p><p>Do not confuse this with the idea of a team in chapter 10: collectivism is a cultural dimension of a country, while a team is a unit of work.</p>",
+          "ornek": "<p>An imaginary software company has two offices. In one, when management gives an “employee of the month” award, everyone starts competing and output rises: an individualist culture. In the other office, the same award embarrasses people; even the winner wants to share the bonus with the team. A team bonus works much better there: a collectivist culture.</p>",
+          "kaynak": [0],
+          "terimler": ["Individualism", "Collectivism"],
+          "soru": {
+            "q": "In a new office, a manager asks each employee to compete for an individual 'employee of the month' prize. Staff feel uncomfortable and ask that any reward be shared by the whole team. Their culture most likely scores high on:",
+            "o": [
+              "Collectivism",
+              "Individualism",
+              "Power distance",
+              "Masculinity"
+            ],
+            "x": "The staff are uncomfortable with individual competition and want the reward shared by the group: this is a sign of a collectivist culture. Masculinity looks tempting because rewards and success are mentioned, but the issue here is not how much success matters; it is whether success belongs to the individual or to the group."
+          }
+        },
+        {
+          "baslik": "Uncertainty avoidance",
+          "anlatim": "<p>The third dimension is about uncertainty. <b>Uncertainty avoidance</b> is how comfortable people are with risk, uncertainty and unpredictable situations. High uncertainty avoidance means that people want clear rules: what will happen should be written down in advance, with no surprises. Low uncertainty avoidance means tolerance for uncertainty.</p><p>The examples in the course notes: high in France, Greece and Japan; low in Denmark, the US and the UK.</p><p>Build the logic of this dimension like this: uncertainty creates anxiety. The way to reduce anxiety is rules, contracts and procedures. So in a culture that strongly avoids uncertainty, detailed rules and plans are comforting, while in a culture that tolerates uncertainty the same rules look like needless bureaucracy.</p><p>This is where the exam’s well-known trap sits: uncertainty avoidance is not long-term planning. A focus on the long term, saving and patience is a separate dimension called <b>long-term orientation</b>. Uncertainty avoidance is not about how far ahead you plan; it is about how uneasy you feel when things are uncertain.</p>",
+          "ornek": "<p>An imaginary tour company runs trips in two countries. In one, customers want a programme written out minute by minute, cancellation terms and backup plans; when the programme changes, complaints pour in: high uncertainty avoidance. In the other, customers say “we’ll see when we get there” and choose flexible tours: low uncertainty avoidance.</p>",
+          "kaynak": [0],
+          "terimler": ["Uncertainty avoidance"],
+          "soru": {
+            "q": "Staff at a branch in a new country ask for written procedures for every situation and feel stressed whenever plans change at short notice. Which dimension is likely high in their culture?",
+            "o": [
+              "Uncertainty avoidance",
+              "Long-term orientation",
+              "Power distance",
+              "Collectivism"
+            ],
+            "x": "Asking for a written procedure for every situation and getting stressed by sudden changes are signs of being uncomfortable with uncertainty: high uncertainty avoidance. Long-term orientation looks tempting because it seems to be about planning, but it means a focus on the future and patience; the issue here is unease in the face of uncertainty."
+          }
+        },
+        {
+          "baslik": "Masculinity",
+          "anlatim": "<p>The fourth dimension is about what a society counts as success. <b>Masculinity</b> is the importance given to qualities traditionally seen as masculine: achievement, advancement and earnings. In these cultures gender roles are also clearly separated. The opposite end, <b>femininity</b>, values cooperation and quality of life.</p><p>The examples in the course notes: countries with high masculinity are Japan, Mexico and Germany; countries with low masculinity are Denmark and Finland.</p><p>The logic is this: if a society measures success by promotion and money, work moves to the centre of life and long working hours are seen as normal. In a society that values quality of life and cooperation, the balance between work and private life is worth more.</p><p>Watch out for two mix-ups. First, this dimension measures the values of a society, not the gender of individuals. Second, <b>performance orientation</b> in GLOBE also values achievement. If the question asks about Hofstede, the answer is masculinity, because performance orientation exists only in GLOBE.</p>",
+          "ornek": "<p>Think of two imaginary advertising agencies. In one, job ads stress fast promotion, high bonuses and “being the best”, and the office is still full at nine in the evening: a setting with high masculinity. In the other, the ads stress flexible hours, a good team spirit and time for family: a setting closer to the femininity side.</p>",
+          "kaynak": [0],
+          "terimler": ["Masculinity"],
+          "soru": {
+            "q": "In one country, job ads stress fast promotion, high bonuses and beating targets, and long working hours are seen as normal. Which Hofstede dimension is likely high?",
+            "o": [
+              "Masculinity",
+              "Performance orientation",
+              "Individualism",
+              "Uncertainty avoidance"
+            ],
+            "x": "The importance given to achievement, advancement and earnings is Hofstede’s masculinity dimension. Performance orientation looks tempting because it also rewards achievement, but the question asks about Hofstede, and performance orientation is a dimension found only in GLOBE."
+          }
+        },
+        {
+          "baslik": "GLOBE and its two unique dimensions",
+          "anlatim": "<p>Hofstede relied on the employees of a single company. In the 1990s a wider project arrived: <b>GLOBE</b> (Global Leadership and Organizational Behavior Effectiveness). Its scope is large: 170 researchers, 17,000 managers, 62 countries. GLOBE uses nine dimensions and, as its name suggests, links culture to leadership.</p><p>Most of the nine dimensions overlap with Hofstede: uncertainty avoidance, power distance, future orientation, assertiveness, gender egalitarianism, institutional collectivism and societal collectivism. That makes seven. The two dimensions unique to GLOBE are:</p><ul><li><b>Performance orientation</b>: the importance a society gives to performance, improvement and excellence.</li><li><b>Humane orientation</b>: the value placed on fairness, altruism and caring for others.</li></ul><p>In the exam, separate the two frameworks with these sets of facts: Hofstede is IBM, the 1960s, four original dimensions. GLOBE is the 1990s, 62 countries, nine dimensions, and among them performance and humane orientation. If a question says “fairness, altruism, caring”, the answer is humane orientation; if it says “excellence, improvement”, it is performance orientation.</p>",
+          "ornek": "<p>An imaginary international volunteer organization trains managers in two countries. In the first country, managers are praised most for treating their staff fairly and kindly: high humane orientation. In the second, constant improvement and beating targets are rewarded most: high performance orientation. Both are dimensions that GLOBE added to Hofstede.</p>",
+          "kaynak": [1],
+          "terimler": ["GLOBE", "Performance orientation", "Humane orientation"],
+          "soru": {
+            "q": "A cross-cultural trainer compares two frameworks. One of them includes a dimension measuring how strongly a society rewards fairness, generosity and caring for others. Which framework and dimension is this?",
+            "o": [
+              "GLOBE, humane orientation",
+              "Hofstede, humane orientation",
+              "GLOBE, performance orientation",
+              "Hofstede, masculinity"
+            ],
+            "x": "The value placed on fairness, generosity and caring for others is humane orientation, and this dimension exists only in GLOBE. The “Hofstede, humane orientation” option looks tempting because the name of the dimension is right, but there is no such dimension among Hofstede’s four original ones."
+          }
+        },
+        {
+          "baslik": "Country clusters, leadership styles and psychic distance",
+          "anlatim": "<p>GLOBE does not treat countries one by one; it groups them into <b>clusters</b> by how similar they are. The clusters named in the course notes are Anglo, Confucian Asia, Germanic Europe, Nordic Europe, Latin America, Middle East and Sub-Saharan Africa. Each cluster prefers different leadership styles. GLOBE’s leadership styles are: charismatic, team-oriented, participative, humane-oriented, autonomous and self-protective. The idea is this: a leadership style that is respected in one cluster may not have the same effect in another.</p><p>The last concept of this lesson is <b>Psychic distance</b>: the differences between countries in language, culture, institutions and ways of doing business. Do not confuse it with geographic distance. Psychic distance can be large between two neighbouring countries and small between two countries that are far apart. The logic is clear: the more the language, rules and business habits differ, the more a company has to learn and adapt in order to do business there.</p><p>This concept is a bridge to the next lesson: when companies go abroad, they take these differences into account as they choose which country to enter and how.</p>",
+          "ornek": "<p>An imaginary bookshop chain wants to open in two countries. The first is far away, but its language, laws and business habits are very close to those at home; opening there is easy. The second is right across the border, but the language, contract rules and bargaining style are completely different; they spend months trying to adjust. The difficulty comes from psychic distance, not from kilometres.</p>",
+          "kaynak": [1],
+          "terimler": ["Psychic distance", "GLOBE"],
+          "soru": {
+            "q": "A Dutch software firm finds it easy to work in a country with a similar language and business habits, but struggles in another country where contracts, customs and language all differ. Which concept explains the difference?",
+            "o": [
+              "Psychic distance",
+              "Power distance",
+              "Uncertainty avoidance",
+              "Globalization"
+            ],
+            "x": "Differences between two countries in language, culture, institutions and ways of doing business make up psychic distance; the bigger the difference, the harder the work. Power distance looks tempting because its name contains “distance”, but it measures how far differences in authority are accepted inside one society, not the gap between two countries."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Uncertainty avoidance is the tendency to plan for the long term.", "dogru": "<b>Uncertainty avoidance</b> is how comfortable people are with risk and uncertainty; when it is high, people want clear rules. A focus on the long term is a separate dimension (long-term orientation)."},
+        {"yanlis": "Power distance is the size of income inequality in a country.", "dogru": "<b>Power distance</b> is the degree to which differences in power and authority are accepted. What is measured is acceptance."},
+        {"yanlis": "Performance orientation is one of Hofstede’s dimensions.", "dogru": "<b>Performance orientation</b> and <b>humane orientation</b> are unique to GLOBE. In Hofstede, the dimension that values achievement is <b>masculinity</b>."},
+        {"yanlis": "Hofstede’s study was done in the 1990s in 62 countries.", "dogru": "Hofstede: IBM, the 1960s, four original dimensions. <b>GLOBE</b>: the 1990s, 62 countries, nine dimensions."},
+        {"yanlis": "Psychic distance is the number of kilometres between two countries.", "dogru": "<b>Psychic distance</b> is the difference in language, culture, institutions and ways of doing business; being close on the map may not make it smaller."}
+      ],
+      "ozet": [
+        "Hofstede defines culture as “the collective programming of the mind”.",
+        "Hofstede: more than 88,000 IBM employees in 72 countries, the 1960s, four original dimensions.",
+        "Power distance: acceptance of differences in power and authority; when high, subordinates expect clear instructions.",
+        "Collectivism: the group comes first; group-based hiring, decisions and consensus.",
+        "Uncertainty avoidance: how comfortable people are with uncertainty; when high, people want clear rules.",
+        "Masculinity: achievement, advancement, earnings and clear gender roles.",
+        "GLOBE: the 1990s, 170 researchers, 17,000 managers, 62 countries, nine dimensions.",
+        "Two dimensions unique to GLOBE: performance orientation and humane orientation.",
+        "Psychic distance: differences between countries in language, culture, institutions and ways of doing business."
+      ],
+      "aklinda": "Hofstede = IBM, 1960s, 4 dimensions. GLOBE = 1990s, 62 countries, 9 dimensions, plus performance and humane.",
+      "sinavda": "<p>In Part 1 this comes up as definition and matching questions: what a dimension means, which dimension a short example of behaviour belongs to, or which dimension exists only in GLOBE. It carries about 4 points. The definitions of uncertainty avoidance and power distance are asked most often.</p>"
+    },
+    {
+      "id": "c9b",
+      "ad": "Globalization, global strategies and ways to enter foreign markets",
+      "sure": 24,
+      "neden": "<p>When a company goes abroad, it makes two decisions: Will it sell the same product everywhere, or adapt it? And how will it enter the market? The exam asks about these decisions with short examples, and it especially expects you to confuse a joint venture with a wholly owned subsidiary.</p>",
+      "hedefler": [
+        "Explain globalization and the three factors that speed it up.",
+        "Recognize global, regional and local strategy from an example.",
+        "Rank the five entry modes by level of commitment.",
+        "Tell licensing apart from franchising, and a joint venture apart from FDI."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Globalization and lower trade barriers",
+          "anlatim": "<p><b>Globalization</b> is the way countries become more and more connected as trade barriers come down. The course notes draw a conclusion from this: if countries are this connected, managers need international leadership skills. That is why the cultural dimensions from the previous lesson matter.</p><p>Three factors speed up globalization. You will see the first one in this step and the other two in the next step.</p><p>The first factor is <b>lowering trade barriers</b>: trade agreements and policies remove barriers across borders. The best-known barrier is <b>Tariffs</b>, that is, taxes added to the price of imported products. Build the logic like this: a tariff makes an imported product more expensive and makes it harder for the foreign product to compete. When the tax is removed, the product gets cheaper and trade between countries grows.</p><p>Notice the link to the first lesson of chapter 8: there, the 2025 US tariffs were an example of an outside force that changes companies’ internal structure. If tariffs rise, the barrier gets higher; if they fall, globalization speeds up.</p>",
+          "ornek": "<p>For years an imaginary juice maker buys its oranges at home, because imported oranges carry a high tariff. When two countries sign a trade agreement and remove this tax, the firm switches to cheaper imported oranges and also starts selling its product in the neighbouring country. The barrier came down, and two markets became connected.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Globalization", "Tariffs"],
+          "soru": {
+            "q": "Two countries sign an agreement removing import taxes on each other's fruit. A small juice maker can now buy cheaper oranges from abroad. Which globalization factor is at work?",
+            "o": [
+              "Lowering trade barriers",
+              "Foreign direct investment",
+              "The spread of the Internet",
+              "A strategic alliance"
+            ],
+            "x": "Removing import taxes, that is, tariffs, lowers a trade barrier. Foreign direct investment looks tempting because it is also a factor linked to other countries, but the firm does not own anything abroad; it simply buys cheaper products."
+          }
+        },
+        {
+          "baslik": "FDI and the Internet",
+          "anlatim": "<p>The second factor is <b>FDI</b> (foreign direct investment): a company invests in another country by taking an ownership stake in companies there. The key word is “ownership”. Just selling goods is not FDI; you must own something there. The course notes say that global FDI was 1.52 trillion dollars in 2017. Investment on this scale shows how closely companies are tied together across countries.</p><p>The third factor is <b>the Internet</b>: now any company can sell to anyone in the world, and social media lets people build relationships worldwide. The logic is this: in the past you needed a shop or a distributor abroad to sell there; today even a small business can reach a customer on another continent with a website.</p><p>Clear up one confusion from the start: FDI is one of the three factors of globalization, and it is also one of the entry modes you will see at the end of the lesson. If the question asks “why is the world more interconnected?”, FDI is a factor; if it asks “how does this company enter the market?”, FDI is an entry mode. The definition is the same in both: investment through ownership.</p>",
+          "ornek": "<p>An imaginary Spanish furniture company buys sixty percent of a factory in Poland: this is FDI, because it gained ownership abroad. In the same period, a small imaginary ceramics studio sells mugs to twelve countries using only its own website and social media account, with no investment abroad at all: this is the Internet factor.</p>",
+          "kaynak": [1],
+          "terimler": ["FDI"],
+          "soru": {
+            "q": "A small ceramics studio with no foreign offices starts selling mugs to customers in twelve countries through its own website and social media. Which globalization factor does this illustrate?",
+            "o": [
+              "The Internet",
+              "Foreign direct investment",
+              "Lowering trade barriers",
+              "A regional strategy"
+            ],
+            "x": "The studio sells to the world through online channels alone, without owning anything abroad: the Internet factor. Foreign direct investment looks tempting because there are sales abroad, but FDI requires an ownership stake in another country."
+          }
+        },
+        {
+          "baslik": "Global, regional and local strategy",
+          "anlatim": "<p>The first question for a company going abroad is this: Are my customers around the world alike? The answer leads to one of three strategies.</p><p>A <b>Global strategy</b> assumes that the world is interconnected and that consumption is fairly similar (homogeneous). So the same product is sold everywhere. If the assumption is true, selling one product everywhere keeps things simple.</p><p>A <b>Regional strategy</b> organizes activities such as marketing and finance around key geographic regions. The course notes give Toyota as an example. This is the middle way: each country is not handled separately, but the world is not treated as one piece either; adjustments are made at the level of the region.</p><p>A <b>Local strategy</b> adapts products to the needs and values of each local market. Companies choose it when customers differ a lot from country to country.</p><p>Watch out for two mix-ups. First, global strategy and globalization are not the same thing: one is a company’s choice, the other is a trend in the world. Second, to separate regional from local, look at the level of adaptation: if it is at the level of the region, it is regional; if it follows the taste of each market, it is local.</p>",
+          "ornek": "<p>An imaginary phone-case brand uses the same design, the same packaging and the same advert in every country: global. An imaginary ice-cream chain offers each country the flavours it loves, pistachio in one country and tea flavour in another: local. An imaginary car rental firm runs its marketing from regional centres in Europe, Asia and America: regional.</p>",
+          "kaynak": [2],
+          "terimler": ["Global strategy", "Regional strategy", "Local strategy"],
+          "soru": {
+            "q": "A phone-case brand sells exactly the same designs, packaging and adverts in every country, believing that customers everywhere want the same things. Which strategy is this?",
+            "o": [
+              "Global strategy",
+              "Regional strategy",
+              "Local strategy",
+              "Licensing strategy"
+            ],
+            "x": "The same product everywhere and the assumption that consumption is similar make up the definition of a global strategy. Regional strategy may look tempting because it also covers many countries, but a regional strategy organizes activities by region; there is no regional split here."
+          }
+        },
+        {
+          "baslik": "Exporting, licensing and franchising",
+          "anlatim": "<p>Once the strategy is clear, the second question comes: How will we enter the market? The course notes list five <b>entry modes</b>. You can rank them by how much the company commits itself abroad, from least to most: exporting, licensing and franchising, strategic alliance, FDI. In this step you see the first three.</p><p><b>Exporting</b> means selling products made at home in other countries. It is the easiest way, because you need no factory or partner abroad. According to the course notes, companies that export are about 17 percent more profitable.</p><p><b>Licensing</b> means letting another company use your brand name, know-how or technology in return for a royalty or fee.</p><p><b>Franchising</b> is an extended form of licensing: the whole business model, that is, brand, structure and training, is handed over together.</p><p>To separate licensing from franchising, ask this: Is the other side using only a name, a recipe or a technology? Licensing. Is it also getting how to set up the shop, how to train staff and how to run the business? Franchising.</p>",
+          "ornek": "<p>An imaginary olive oil firm fills its bottles at home and ships them to Germany: exporting. An imaginary cartoon studio lets its character be used on toys and T-shirts abroad in return for a fee: licensing. An imaginary dessert chain gives a partner abroad its name, recipes, shop design and staff training all together: franchising.</p>",
+          "kaynak": [3],
+          "terimler": ["Exporting", "Licensing"],
+          "soru": {
+            "q": "A dessert chain lets a partner abroad open shops using its name, recipes, store design and staff training, in return for fees. Which entry mode is this?",
+            "o": [
+              "Franchising",
+              "Licensing",
+              "Exporting",
+              "Joint venture"
+            ],
+            "x": "The partner gets not just the name but the whole business model, from recipes to shop design and training: franchising. Licensing looks tempting because it also means using a brand for a fee, but licensing hands over a specific brand, know-how or technology, not the whole business model."
+          }
+        },
+        {
+          "baslik": "Strategic alliance, joint venture and FDI",
+          "anlatim": "<p>On the higher steps of the ranking, the company commits itself more abroad.</p><p>A <b>Strategic alliance</b> is an agreement between two or more companies from different countries to do business together. A special form of it is the <b>Joint venture</b>: the partners set up a new business that they own together. According to the course notes, this route is preferred especially in emerging markets. The logic is clear: a foreign company does not know the market, the rules or the customers, while a local partner already does.</p><p><b>FDI</b> as an entry mode means investing fully in the host country and setting up facilities there. Its example is the <b>wholly owned subsidiary</b>. There is no partner here; both the risk and the control sit with one company.</p><p>This is where the exam’s well-known trap sits: the sentence “it set up a new business that it owns together with a local company” is a joint venture, not a wholly owned subsidiary. To tell them apart, ask one question: How many owners does the new business have? If more than one, it is a joint venture; if a single parent company, it is a subsidiary set up through FDI.</p>",
+          "ornek": "<p>An imaginary Danish wind turbine maker sets up a new company with an Indian engineering firm to build turbines in India, owned fifty-fifty: joint venture. Five years later, confident that it knows the market, it opens a factory in a neighbouring country that belongs to it alone: a wholly owned subsidiary set up through FDI.</p>",
+          "kaynak": [3],
+          "terimler": ["Strategic alliance", "Joint venture", "FDI"],
+          "soru": {
+            "q": "A Canadian coffee chain and a Vietnamese food company create a brand-new firm together to open cafés in Vietnam, with each partner owning half. What is this?",
+            "o": [
+              "A joint venture",
+              "A wholly owned subsidiary",
+              "A licensing agreement",
+              "A franchise agreement"
+            ],
+            "x": "Two companies set up a new business that they own together: a joint venture, which is a form of strategic alliance. A wholly owned subsidiary looks tempting because a new company is created, but that belongs to a single parent company; here ownership is split in two."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "When a company sets up a new business together with a local partner, the result is a subsidiary that it owns alone.", "dogru": "A new business owned together is a <b>joint venture</b> (strategic alliance). A subsidiary set up through FDI belongs to a single parent company."},
+        {"yanlis": "Licensing and franchising are the same thing.", "dogru": "<b>Licensing</b> hands over a brand, know-how or technology; <b>franchising</b> hands over the brand together with structure and training, that is, the whole business model."},
+        {"yanlis": "FDI is only an entry mode.", "dogru": "<b>FDI</b> is both one of the three factors of globalization and an entry mode. The definition is the same: investment through ownership in another country."},
+        {"yanlis": "Global strategy means the same as globalization.", "dogru": "Globalization is a trend in the world; a <b>global strategy</b> is a company’s choice to sell the same product everywhere."},
+        {"yanlis": "Toyota organizing its activities by region is a local strategy.", "dogru": "Organizing around regions is a <b>regional strategy</b>. A local strategy means adapting to the needs of each market."}
+      ],
+      "ozet": [
+        "Globalization: countries become connected as trade barriers come down.",
+        "Three factors: lowering trade barriers, FDI and the Internet.",
+        "Tariffs are taxes added to imported products; when they fall, trade grows.",
+        "FDI: investment through an ownership stake in another country; 1.52 trillion dollars in 2017.",
+        "Global is the same product everywhere, regional is organizing by region, local is adapting to each market.",
+        "Entry modes, from least to most commitment: exporting, licensing and franchising, strategic alliance, FDI.",
+        "Exporting is the easiest way; exporters are about 17 percent more profitable.",
+        "A joint venture is a new business that the partners own together; it is preferred in emerging markets."
+      ],
+      "aklinda": "Sell (export), give permission (license), give the model (franchise), partner up (alliance, JV), own (FDI).",
+      "sinavda": "<p>In Part 1 this comes up as definition and short example questions: the names of the three factors, the definition of tariffs or FDI, the name of the strategy or entry mode a company chose. It carries about 4 points. The best-known question asks you to separate a joint venture from a wholly owned subsidiary.</p>"
+    },
+    {
+      "id": "c10a",
+      "ad": "Teams: Tuckman’s stages and team diversity",
+      "sure": 22,
+      "neden": "<p>Every project group goes through a period of fighting, and this is usually not a failure but a stage of development. Tuckman gives these stages names. Part 2 describes how a team is behaving right now and asks which stage it is in; a team sliding back when a new member joins is asked especially often.</p>",
+      "hedefler": [
+        "Explain the difference between a group and a team.",
+        "Recognize Tuckman’s five stages from a team’s behaviour.",
+        "Show with a scenario why the stages are not linear.",
+        "Explain why diverse teams make better decisions."
+      ],
+      "adimlar": [
+        {
+          "baslik": "The difference between a group and a team",
+          "anlatim": "<p>The course notes say that teamwork has never been more important. Two areas show this clearly: self-directed teams in manufacturing and the knowledge economy. In knowledge work no single person holds all the knowledge, so people need to think together.</p><p>Separate two words here. A <b>Group</b> is simply a collection of individuals who have come together. A <b>Team</b> is a cohesive coalition of people working together for a shared agenda. The difference is this: people in a group may be in the same place, but each does their own job. People in a team depend on each other for a common result; if one fails, everyone fails.</p><p>Link this difference to Tuckman: his stages really describe how a group turns into a team. In the first stage people are more like a group; towards the last stages they become a real team. The course notes also describe this journey with Katzenbach &amp; Smith’s <b>team performance curve</b>: from working group to high-performing team.</p>",
+          "ornek": "<p>In an imaginary class, five students write the sections of a report separately and staple them together the night before the deadline; nobody reads anyone else’s section: this is a group. Another five meet every week, discuss the sections together and agree on a shared conclusion: this is a team, because they work cohesively for a shared agenda.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Team"],
+          "soru": {
+            "q": "Five students each write a separate chapter of a report and staple them together the night before the deadline, without reading each other's work. Which description fits best?",
+            "o": [
+              "A group, as they work side by side without a shared agenda",
+              "A team, as they share a deadline and a single final report",
+              "A team in the performing stage, as they need no direction",
+              "A team in the norming stage, as they have agreed on rules"
+            ],
+            "x": "The students contribute to the same report, but they do not depend on each other or unite around a shared agenda: this is a group. The second option looks tempting because there is a common deadline, but a shared deadline alone does not turn people into a cohesive team."
+          }
+        },
+        {
+          "baslik": "Forming and storming",
+          "anlatim": "<p>Tuckman’s model puts the stages a team goes through in order. Instead of memorizing the order, build its logic: first you meet, then you clash over who does what, then you set rules, then you produce work, and at the end you break up.</p><p><b>Forming</b> is the polite stage: introductions, enthusiasm, and the team looking to the leader for structure and direction. People do not know each other yet, so nobody takes risks, everyone is polite and waits for what the leader says.</p><p><b>Storming</b> is, in the words of the course notes, the “win-lose” stage. Members compete for control, clash and take sides; there is frustration about goals and roles. Why does it happen? Because once the politeness ends, everyone starts defending their own ideas and their own place.</p><p>To separate the two stages, look at the tone: in forming, everyone is polite and depends on the leader. In storming, people are no longer polite, and they question the leadership and the goals. Storming may look like a bad thing, but it is a necessary step for the team to make roles clear.</p>",
+          "ornek": "<p>At the first meeting of an imaginary university robot competition team, everyone introduces themselves with a smile and waits for the advising teacher to hand out tasks: forming. Two weeks later, two members argue about who should be captain, the others take sides, and even what the robot should achieve is up for debate: storming.</p>",
+          "kaynak": [1],
+          "terimler": ["Forming", "Storming"],
+          "soru": {
+            "q": "Two weeks into a hackathon, members argue about who should lead, split into camps and question whether the project goal even makes sense. Which stage is the team in?",
+            "o": [
+              "Storming",
+              "Forming",
+              "Norming",
+              "Adjourning"
+            ],
+            "x": "Competing for leadership, taking sides and frustration about goals are signs of storming. Forming looks tempting because the team is still new, but in forming members are polite and look to the leader; here the leadership itself is being argued over."
+          }
+        },
+        {
+          "baslik": "Norming and performing",
+          "anlatim": "<p>Once the conflict is settled in some way, the team moves into a new order.</p><p>In the <b>Norming</b> stage the team starts to work well. Ground rules take shape, responsibility is shared and members respect each other. That is where the name comes from: the team sets its own norms, the rules that say “this is how we do things here”.</p><p>In the <b>Performing</b> stage the team is self-directed and confident, and it gets results. It needs very little direction. The leader no longer gives instructions; instead, the leader removes obstacles in the team’s way.</p><p>These two stages are very close, and the exam asks you to tell them apart. The focus of norming is relationships and rules: “they agreed on rules, they share responsibility, they respect each other.” The focus of performing is results: “they work without direction and beat their targets.” In short, norming sets up how the team will work, and performing uses that order to deliver.</p>",
+          "ornek": "<p>After a few hard weeks, an imaginary hospital night-shift team decides together who will look after which patient and how the shift handover will be done: norming. A few months later, the team solves problems on its own without asking the nurse in charge and regularly meets all the ward’s targets: performing.</p>",
+          "kaynak": [1],
+          "terimler": ["Norming", "Performing"],
+          "soru": {
+            "q": "A hospital night-shift team now plans its own work, solves problems without asking the head nurse, and consistently meets its targets. Which stage is it in?",
+            "o": [
+              "Performing",
+              "Norming",
+              "Forming",
+              "Storming"
+            ],
+            "x": "Being self-directed, needing no direction and getting steady results are signs of performing. Norming looks tempting because the team is in harmony, but the focus of norming is settling rules and responsibility; here the stress is on getting results on its own."
+          }
+        },
+        {
+          "baslik": "Adjourning and sliding back",
+          "anlatim": "<p>In 1977 a fifth stage was added to Tuckman’s model: <b>Adjourning</b>. When the project ends, the team breaks up. This stage makes sense especially for projects with a fixed length: the goal is reached, the work is handed in, and members go back to their own departments.</p><p>The part of the model that the exam uses most is this: the stages are not linear. Adding a new member to the team or giving it a confusing new task can send the team back to an earlier stage; the team may go through storming or forming again. Build the logic: when someone new arrives, roles become unclear again. And when it is unclear who does what, the competition for control and roles, that is, storming, starts again.</p><p>The classic chain in the exam works like this: new members join a team that is performing, and roles become unclear: storming. The leader brings everyone together and helps them set new ground rules: norming. So find the stage by looking at how the team behaves now, not at where the team was before.</p>",
+          "ornek": "<p>An imaginary café has a team that has worked without problems for months. The owner hires two new baristas and also starts a catering service. Soon arguments begin about who washes the dishes and who prepares the catering orders: the team has gone back to storming. At the end of the summer, when the catering project ends, the small team set up for that job breaks up: adjourning.</p>",
+          "kaynak": [1],
+          "terimler": ["Adjourning", "Storming", "Norming"],
+          "soru": {
+            "q": "A garden-design team had worked smoothly for a year. After the company adds three new members and a large new client, staff start arguing about who is responsible for what. What is the best explanation?",
+            "o": [
+              "The team slid back to storming, since the stages are not linear",
+              "The team moved on to adjourning, since the stages are linear",
+              "The team stayed in performing, since arguing is normal there",
+              "The team moved back to forming, since roles are now very clear"
+            ],
+            "x": "New members and a new task make roles unclear again, and the team goes back to storming, because the stages are not linear. The adjourning option may look tempting because a change is described, but adjourning is the team breaking up at the end of a project; here the team is not breaking up, it is arguing."
+          }
+        },
+        {
+          "baslik": "Why does team diversity work?",
+          "anlatim": "<p>In chapter 8 you saw the advantages diversity brings to a company. This step asks the same question at team level: Do people from different backgrounds make better decisions together?</p><p>According to the course notes, diverse teams are better at decision making and problem solving. Three reasons are given: they focus more on facts, they re-examine the facts, and they avoid <b>groupthink</b>. Groupthink is when, in a team where everyone is alike, ideas are accepted without question to keep the harmony. Similar people assume the same things, so nobody asks “are we sure about this data?” Someone different asks that question, and the team checks the data once more. Diverse teams are also more innovative.</p><p>The course notes also give the McKinsey data: companies in the top quartile for ethnic diversity in management are 35 percent more likely to beat their industry’s returns; for gender diversity the figure is 15 percent. Do not mix up the two numbers: 35 for ethnic, 15 for gender.</p><p>Note: a diverse team is not a team that agrees faster. Its advantage comes from questioning more.</p>",
+          "ornek": "<p>An imaginary bike-sharing app is preparing a new price plan. The team has a statistician, a former courier, a student and a retired engineer. The former courier notices that the survey data was collected only in the city centre, and the team looks at the data again. The decision comes later but is more solid: an example of avoiding groupthink.</p>",
+          "kaynak": [2],
+          "terimler": ["Team"],
+          "soru": {
+            "q": "A product team made up of people with very different backgrounds keeps questioning each other's data before deciding. According to the course, why does this tend to improve its decisions?",
+            "o": [
+              "It focuses more on facts and is less prone to groupthink",
+              "It reaches agreement faster because there are fewer questions",
+              "It depends more on a strong leader to settle every dispute",
+              "It skips the storming stage and goes straight to performing"
+            ],
+            "x": "According to the course notes, diverse teams focus more on facts, re-examine them and avoid groupthink. The “agrees faster” option looks tempting because the result is better, but the advantage comes from the opposite: more questioning, not speed."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "When new members join a performing team and roles become unclear, the team is still in performing.", "dogru": "The stages are not linear; when roles become unclear, the team goes back to <b>storming</b>. When shared rules are set again, it is <b>norming</b>."},
+        {"yanlis": "Agreeing on ground rules is the performing stage.", "dogru": "Rules, shared responsibility and respect are <b>norming</b>. <b>Performing</b> is getting results with little direction."},
+        {"yanlis": "Tuckman’s model has had five stages from the start.", "dogru": "The four original stages are forming, storming, norming and performing; <b>adjourning</b> was added in 1977."},
+        {"yanlis": "Any collection of people who come together is a team.", "dogru": "A group is a sum of individuals; a <b>team</b> is a cohesive coalition working for a shared agenda."},
+        {"yanlis": "Diverse teams make better decisions because they agree faster.", "dogru": "Diverse teams make better decisions because they focus on facts, re-examine them and avoid groupthink."}
+      ],
+      "ozet": [
+        "A group is a sum of individuals; a team is a cohesive coalition with a shared agenda.",
+        "Forming: polite introductions; the team looks to the leader for direction.",
+        "Storming: competing for control, conflict, taking sides, frustration about roles.",
+        "Norming: ground rules, shared responsibility and respect.",
+        "Performing: a self-directed, confident team that gets results.",
+        "Adjourning was added in 1977: the team breaks up at the end of the project.",
+        "The stages are not linear; a new member or a new task sends the team back.",
+        "Diverse teams focus on facts, avoid groupthink and are more innovative.",
+        "McKinsey: 35 percent more likely to beat industry returns for ethnic diversity, 15 percent for gender diversity."
+      ],
+      "aklinda": "Forming, storming, norming, performing, adjourning: meet, clash, set rules, deliver, break up. If a new member joins, go back to storming.",
+      "sinavda": "<p>Part 2 tells the short story of a team and asks which stage it is in, or which stages it goes through after a change. It carries about 3 points. The chain of storming after new members join, followed by norming, is the pattern asked most often.</p>"
+    },
+    {
+      "id": "c10b",
+      "ad": "Social networks: ties, three principles and Ibarra’s network types",
+      "sure": 28,
+      "neden": "<p>The organization chart shows who reports to whom, but information and help often flow along other paths. Social network concepts give names to these invisible paths. Part 2 describes a relationship that someone builds and asks which type of tie, which principle or which Ibarra network it is.</p>",
+      "hedefler": [
+        "Explain what a social network is and the three advantages it gives leaders.",
+        "Tell apart strong ties, weak ties and a bridging tie.",
+        "Recognize the principles of reciprocity, exchange and similarity from an example.",
+        "Separate Ibarra’s operational, personal and strategic networks in a scenario."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Social network: the invisible organization",
+          "anlatim": "<p>When a problem comes up in a company, who does everyone go to? Often not the manager on the chart, but someone who “knows the job”. This behaviour shows that a social network exists.</p><p>A <b>Social network</b> is a patterned set of relationships between two or more people (<b>actors</b>). These relationships are drawn in a <b>sociogram</b>: people become dots and relationships become lines. The course notes call networks “the invisible organization”, because they show how communication and resources really flow. The chart shows the official path; the network shows the actual one.</p><p>Networks give leaders three advantages:</p><ul><li><b>Access to information and knowledge</b>: you can learn what the people you know already know.</li><li><b>Access to diverse skill sets</b>: someone you know brings a skill you do not have.</li><li><b>Power</b>: a person who connects many people can influence the direction of things.</li></ul><p>Do not confuse a social network with the networked team structure in chapter 8: that is a formal type of structure, while a social network is the web of relationships that exists inside any structure.</p>",
+          "ornek": "<p>At an imaginary print shop, the chart says all fault reports go to the production manager. But the new manager Kerem notices that employees first ask Hüsnü, a technician with twenty years in the shop. On the chart Hüsnü is an ordinary technician, but he sits at the centre of the network where knowledge flows. The invisible organization works differently from the chart.</p>",
+          "kaynak": [0],
+          "terimler": ["Social network"],
+          "soru": {
+            "q": "A new manager sees that the official chart routes all requests through her, yet staff actually ask a long-serving technician for help first. What does the technician's role reveal?",
+            "o": [
+              "The informal network through which resources really flow",
+              "A formal matrix reporting line that gives staff two bosses",
+              "A counterculture whose values oppose the firm's main culture",
+              "A weak tie in which no resources are exchanged at all"
+            ],
+            "x": "Staff use the technician instead of the official path, and this shows the social network where information and help really flow, that is, the invisible organization. The matrix option looks tempting because staff turn to two different people, but matrix is a formal reporting line; here the technician is not a formal boss."
+          }
+        },
+        {
+          "baslik": "Strong ties and weak ties",
+          "anlatim": "<p>The lines in a network are called <b>ties</b>. A tie can be direct (a single connection) or indirect (through other people). Ties also differ in strength.</p><p><b>Strong ties</b>: actors who know each other well and exchange often. Your close friends, and the teammates you work with every day.</p><p><b>Weak ties</b>: actors who know each other at least by name or reputation but have no regular exchange. An old classmate, or a colleague you met once.</p><p>The first thing that comes to mind is that strong ties are more useful. But Granovetter showed that people mostly find jobs through weak ties. You can work out why yourself: your close friends move in the same circle as you, so they know what you know. A distant contact moves in another circle and hears about an opportunity you never heard of. So a weak tie carries new information.</p><p>To tell them apart, look at two things: how well they know each other and how often they exchange. If both are high, it is strong; if they know each other but exchange rarely, it is weak.</p>",
+          "ornek": "<p>Deniz, an imaginary student, is looking for an internship. The close friends she talks to every day know the same adverts and cannot tell her anything new: strong ties. An old high school friend she runs into once a year mentions an internship at the agency where she works that has not been advertised yet: weak tie. This is exactly Granovetter’s finding.</p>",
+          "kaynak": [1],
+          "terimler": ["Strong ties", "Weak ties"],
+          "soru": {
+            "q": "Deniz hears about a job opening from a former classmate she meets perhaps once a year, not from the close friends she sees daily. Which idea best explains this?",
+            "o": [
+              "Weak ties more often bring new, non-overlapping information",
+              "Strong ties more often bring new, non-overlapping information",
+              "Indirect ties carry no information about job opportunities",
+              "Close friends usually hide job openings from each other"
+            ],
+            "x": "According to Granovetter, people mostly find jobs through weak ties, because distant contacts bring new information from other circles. The strong ties option looks tempting because close friends are more willing to help, but they already know what you know."
+          }
+        },
+        {
+          "baslik": "Bridging tie, centrality and density",
+          "anlatim": "<p>Some ties play a special role in a network. A <b>Bridging tie</b> is a tie that provides <b>non-redundant</b> information and resources. “Non-redundant” means this: you cannot get this information any other way. A bridging tie usually links two groups that are cut off from each other; information in one group reaches the other only through that tie. This is why a person in a bridging position is valuable: both sides need them.</p><p>Two more concepts describe the overall picture of a network. <b>Centrality</b> is how central an actor is in the network: the more people are connected to them, or the more information passes through them, the more central they are. <b>Density</b> is how many of the people in the network are connected to each other. In a dense network everyone knows everyone.</p><p>Do not confuse a bridging tie with a weak tie. Weak tie describes the strength of a tie (how well people know each other, how often they exchange). Bridging tie describes the function of a tie (does it carry information you cannot get elsewhere). If a question says “information neither group gets elsewhere”, the answer is bridging tie.</p>",
+          "ornek": "<p>At an imaginary hospital, the nurse Mert is the only person who talks regularly with both the IT team and the operating theatre team. He carries IT’s plan for the new system to the operating theatre, and the operating theatre’s complaints to IT. Mert’s ties are bridging ties, because the two groups cannot get this information any other way. This also raises Mert’s centrality.</p>",
+          "kaynak": [1],
+          "terimler": ["Bridging tie"],
+          "soru": {
+            "q": "At a museum, Selim is the only person who talks regularly with both the curators and the marketing team, and he passes on information that neither group can get anywhere else. His link is best described as a:",
+            "o": [
+              "Bridging tie",
+              "Strong tie",
+              "Indirect tie",
+              "Weak tie"
+            ],
+            "x": "Selim links two groups and carries information they cannot get any other way, that is, non-redundant information: bridging tie. Strong tie looks tempting because he talks to them regularly, but the question stresses the unique information the tie carries, not its strength."
+          }
+        },
+        {
+          "baslik": "The principles of reciprocity and exchange",
+          "anlatim": "<p>Networks do not grow at random. Kilduff and Tsai describe the principles by which ties form in three points. You will see the first two in this step and the third in the next.</p><p><b>Principle of reciprocity</b>: trading favours of roughly equal value. “You helped me with the report, so let me help you with the presentation.” The logic is a sense of fairness: you give back what you received, and so the relationship lasts.</p><p><b>Principle of exchange</b>: trading favours with people who are different from you. Here the gain comes from difference: complementary resources create more value. What a programmer can get from another programmer is limited, but what they get from a marketer is something they do not have at all.</p><p>To separate the two, look at this: Is the stress on paying a favour back at equal value, or on the two sides bringing different skills that complete each other? Equal return is reciprocity; complementary difference is exchange. Both principles involve a trade; the difference is where the value comes from.</p>",
+          "ornek": "<p>In an imaginary apartment building, two neighbours take turns every week picking up each other’s child from school: favours of equal value, that is, reciprocity. In the same building, Ayten, who can bake cakes but does not know the internet, makes a deal with a young neighbour who understands social media: she bakes the cakes, and the neighbour runs the sales online. Skills that complete each other: exchange.</p>",
+          "kaynak": [2],
+          "terimler": ["Principle of reciprocity", "Principle of exchange"],
+          "soru": {
+            "q": "A café owner who is excellent at baking teams up with a neighbour who runs social media campaigns, because each has a skill the other lacks. Which networking principle is at work?",
+            "o": [
+              "Exchange",
+              "Reciprocity",
+              "Similarity",
+              "Centrality"
+            ],
+            "x": "The two sides bring skills that are different and complete each other: this is the exchange principle. Reciprocity looks tempting because it is also a trade of favours, but in reciprocity the stress is on giving back equal value, not on combining different skills."
+          }
+        },
+        {
+          "baslik": "The similarity principle and the echo chamber",
+          "anlatim": "<p>The third principle is the most natural one. <b>Principle of similarity</b>: ties form by themselves between people who share a background, values and interests. Graduates of the same school, fans of the same team and people with the same hobby find each other easily. The reason is simple: talking to someone similar is easy, a common language is ready, and trust grows faster.</p><p>But this principle carries a risk: the <b>echo chamber</b>. If everyone is alike, everyone thinks the same things and knows the same information. No new ideas come in, and everything that is said echoes back. Link this risk to the earlier steps: similar people mostly share the same information; information you cannot get elsewhere comes from ties that reach into different circles, for example through bridging ties. This is also very close to the idea of groupthink in c10a.</p><p>Similarity and exchange are easy to separate, because they are opposites. Similarity comes from likeness and brings comfort; exchange comes from difference and brings complementary value.</p>",
+          "ornek": "<p>The founder of an imaginary start-up builds her team only from friends who graduated from the same department and have the same hobbies. The first months are very comfortable, and everyone agrees at once: similarity. A year later all the ideas look alike, and nobody voices a customer’s different point of view: echo chamber.</p>",
+          "kaynak": [2],
+          "terimler": ["Principle of similarity"],
+          "soru": {
+            "q": "A start-up founder hires only friends from her own university course who share her hobbies and opinions. After a year, all new ideas sound the same. Which principle and which risk fit best?",
+            "o": [
+              "Similarity, leading to an echo chamber",
+              "Exchange, leading to an echo chamber",
+              "Similarity, leading to many weak ties",
+              "Reciprocity, leading to unequal favours"
+            ],
+            "x": "Ties built on a shared background and shared interests are the similarity principle, and its risk is an echo chamber where no new ideas come in. The “Exchange, echo chamber” option looks tempting because the risk is right, but exchange is a tie with people who are different; here everyone is alike."
+          }
+        },
+        {
+          "baslik": "Ibarra: operational and personal network",
+          "anlatim": "<p>Ibarra advises managers to build three types of network. Each has a different purpose. The easiest way to separate them is to ask “which time does this network look at, and who does it serve?”</p><p>An <b>Operational network</b> is the people who help you do today’s job efficiently. The people who can block or support your project are in this network: a colleague in another department, the manager who gives approval, the supplier who provides materials. This network looks at today and serves the current work. Its members are largely set by the job; you do not choose them.</p><p>A <b>Personal network</b> is for your personal and professional development: referrals, outside information, coaching and mentoring. The examples in the course notes are alumni groups, clubs and professional associations. This network is usually outside the company and serves you and your career.</p><p>To keep the two apart, look at this: Is the person making contacts to finish today’s project, or to develop themselves and find support for their career? If it is the project, operational; if it is personal development, personal. The sentence “coaching and career advice from outside the company” always means personal.</p>",
+          "ornek": "<p>At an imaginary construction firm, the project manager Burcu meets regularly with the purchasing department and a city official to finish the building on time: operational network. In the evenings she goes to a professional association and gets coaching on her career from a retired engineer at another company: personal network.</p>",
+          "kaynak": [3],
+          "terimler": ["Operational network", "Personal network"],
+          "soru": {
+            "q": "A junior architect meets monthly with a retired engineer from another firm who coaches her on her career, and she also joins a women-in-construction association. Which Ibarra network is she building?",
+            "o": [
+              "Personal network",
+              "Operational network",
+              "Strategic network",
+              "Bridging network"
+            ],
+            "x": "Coaching and mentoring from outside the company and a professional association are for personal development: personal network. Operational network looks tempting because the contacts are about work, but an operational network is made of people who help finish today’s project; the aim here is career development."
+          }
+        },
+        {
+          "baslik": "Ibarra: strategic network",
+          "anlatim": "<p>The third type looks to the future. A <b>Strategic network</b> is the people who help you understand future priorities and challenges and win stakeholder support for them. This network may include industry experts, leaders from other fields, investors and community representatives. The aim is not to finish today’s work, but to see where to go tomorrow and to gather support behind you on the way there.</p><p>Put the three networks side by side on a timeline: operational aims at today, personal at your own development, and strategic at the future and the direction of the organization. The exam’s well-known distinction is this: outside people who give career advice are personal; people who help you see future trends and opportunities are strategic; colleagues you need for your current tasks are operational.</p><p>The course notes show that these principles can also work on a large scale with Barack Obama’s 2008 campaign: the campaign used social network principles. This example shows that network concepts are used not only for a personal career, but also to get a large organization moving.</p>",
+          "ornek": "<p>Selin, an imaginary hotel manager, meets regularly with city planners, tourism experts and local investors. Her aim is to understand how travel will change in five years and to gather support for the hotel’s green transition plan. These contacts do not help with today’s bookings; they show the future: strategic network.</p>",
+          "kaynak": [3],
+          "terimler": ["Strategic network"],
+          "soru": {
+            "q": "A hotel manager meets regularly with city planners, tourism experts and investors to understand where travel is heading over the next five years and to win their support for a new plan. Which Ibarra network is this?",
+            "o": [
+              "Strategic network",
+              "Operational network",
+              "Personal network",
+              "Similarity network"
+            ],
+            "x": "Understanding future trends and winning stakeholder support is the purpose of a strategic network. Personal network looks tempting because the contacts are outside the company, but a personal network is for a person’s own career development; the aim here is the future of the organization."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "People outside the company who give coaching and career advice are a strategic network.", "dogru": "Personal development, coaching and mentoring are a <b>personal network</b>. People who help you see future trends and opportunities are a <b>strategic network</b>."},
+        {"yanlis": "The most valuable information always comes from your closest friends.", "dogru": "According to Granovetter, people mostly find jobs through <b>weak ties</b>; distant contacts carry new information."},
+        {"yanlis": "Reciprocity and exchange are the same principle; both are a trade of favours.", "dogru": "<b>Reciprocity</b> is a return of equal value; <b>exchange</b> is trading complementary resources with people who are different."},
+        {"yanlis": "A bridging tie is another name for a weak tie.", "dogru": "Weak tie describes the strength of a tie; a <b>bridging tie</b> is a tie that carries non-redundant information you cannot get any other way."},
+        {"yanlis": "A network built with similar people is the strongest and most innovative network.", "dogru": "<b>Similarity</b> builds comfortable ties but carries the risk of an <b>echo chamber</b>: no new ideas come in."}
+      ],
+      "ozet": [
+        "Social network: a patterned set of relationships between actors; drawn in a sociogram.",
+        "Networks are the invisible organization: they show how communication and resources really flow.",
+        "Three advantages for leaders: access to information, access to diverse skills, power.",
+        "Strong ties mean frequent exchange, weak ties rare exchange; jobs are mostly found through weak ties.",
+        "A bridging tie carries information you cannot get any other way; centrality and density describe the shape of the network.",
+        "Kilduff and Tsai: reciprocity is equal return, exchange is complementary difference, similarity is shared background.",
+        "The risk of similarity is the echo chamber.",
+        "Ibarra: operational is today’s work, personal is your own development, strategic is the future and stakeholder support."
+      ],
+      "aklinda": "Operational for today, personal for yourself, strategic for tomorrow.",
+      "sinavda": "<p>Part 2 describes a relationship someone builds or a trade of favours and asks which type of tie, which principle or which Ibarra network it is. It carries about 3 points. The difference between personal and strategic networks and the difference between reciprocity and exchange are the points that need the most care.</p>"
+    }
+  ]
+}

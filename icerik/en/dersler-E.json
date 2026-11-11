@@ -1,0 +1,501 @@
+{
+  "chapters": [
+    {
+      "ch": 11,
+      "ad": "Innovation and organizational change",
+      "giris": "<p>This chapter answers two big questions: how does an organization create new ideas, and how does it change itself to put those ideas into practice? First you see innovative culture, the methods that nurture innovation, and why innovation fails. Then you move on to innovation networks and to the forces that push organizations to change. Next you learn how people react to change and why they resist it. Finally you study three models for managing change, Lewin, Kotter and Schein, first one by one and then side by side. They are all linked by one chain: innovation needs change, change creates resistance, and the models are the way to manage that resistance.</p>",
+      "baglanti": "<p>This is the last chapter on the exam. Ideas about culture, structure and leadership from earlier topics in the course come back here: Schein explains how to change culture, Kotter explains how leadership carries change, and innovation networks explain how to build new connections inside the structure.</p>",
+      "sinav": "<p>This chapter appears in the third part of the exam: one of the two long cases there comes from this chapter. The third part has six questions in total, each question has six options, and each question is worth 5 points. The case tells the change story of an organization and asks you to place actions in the right model, step or reaction. Each unit in this chapter is worth about 3 points.</p>",
+      "okul": {
+        "once": "Before class, look at the Lewin, Kotter and Schein tables for two minutes and take this question with you: “If all three models start with urgency, what is the real difference between them?”",
+        "odak": [
+          "How Kotter's steps map onto Lewin's stages",
+          "The difference in size and role between a <b>guiding coalition</b> and a <b>volunteer army</b>",
+          "The test that separates active from passive resistance: voice",
+          "The concrete examples Schein gives for culture change",
+          "Which reasons for failed innovation come from inside the company"
+        ],
+        "sonra": "After class, first finish the lesson on innovative culture on this site, then the lesson on innovation networks and drivers of change. Then move to the lesson on reactions and resistance, and study the Lewin and Kotter lesson and the Schein lesson last. Answer the step questions in each lesson, read the traps section, then go to the chapter 11 questions in the question bank."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c11a",
+      "ad": "Innovative culture and why innovation fails",
+      "sure": 22,
+      "neden": "<p>A company wants new ideas, but often no idea appears, or the idea that appears dies on the way. This lesson teaches both sides together: the culture and methods that feed innovation, and then the seven reasons that kill it. In the long case you are expected to read a company's description and name the method it uses or the reason it gets stuck.</p>",
+      "hedefler": [
+        "State the definition of an <b>innovative culture</b> and all five of its traits.",
+        "Recognize the five methods for nurturing innovation from a scenario.",
+        "Set up the <b>innovation portfolio</b> ratios correctly for investment and for returns.",
+        "Tell the seven reasons for failure apart.",
+        "Classify an undifferentiated product as <b>lack of market orientation</b>."
+      ],
+      "adimlar": [
+        {
+          "baslik": "What is an innovative culture, and why these five traits?",
+          "anlatim": "<p>A company's daily agenda is usually deadlines and revenue. These matter, but if they are the only measure, employees take no risks and just finish the work they are given. An <b>innovative culture</b> changes this balance: it is a work environment that encourages and rewards employee creativity and does not focus only on deadlines and revenue.</p><p>Do not just memorize the five traits; build them with logic. First you need a direction: a <b>unique strategy</b>, meaning the company knows why it wants to be different. Then people need room to experiment: <b>autonomy</b>. That room is only used if there is <b>trust</b>; a person who thinks the manager is watching will not experiment. Some experiments will not work, so <b>accepting failures</b> is a must; otherwise nobody tries a second time. Last comes <b>leadership</b>, which protects all of this and sets the example.</p><p>On the exam, wrong options usually offer the opposite: strict rules, central control, secrecy, or low cost and speed. These are traits of an efficiency-focused company, not of an innovative culture.</p>",
+          "ornek": "<p>A fictional bakery chain gives its bakers the right to try one new recipe every month and blames nobody when a recipe does not work. This shows the traits <b>autonomy</b> and <b>accepting failures</b>; because the reward is linked not only to sales but also to trying, the culture is innovative.</p>",
+          "kaynak": [0],
+          "terimler": ["Innovative culture"],
+          "soru": {
+            "q": "A small design agency lets staff test unusual ideas, and nobody is blamed when an experiment does not work. Which trait of an innovative culture does the no-blame rule show most directly?",
+            "o": ["Accepting failures", "Unique strategy", "Leadership", "Autonomy"],
+            "x": "The right answer is <b>accepting failures</b>, because the question asks specifically about the no-blame rule: an experiment that fails is not punished. The most tempting wrong answer is <b>autonomy</b>, because permission to experiment also appears in the scenario; but autonomy matches the permission, not the no-blame rule."
+          }
+        },
+        {
+          "baslik": "The eight benefits of an innovative culture (Swisher)",
+          "anlatim": "<p>A manager may ask, “Why should we spend time and money on this culture?” Based on Swisher, the course notes list eight benefits. Do not think of them as a random list; think of them in three groups.</p><p>The first group is about the company's direction: an innovative culture <i>sets a course for improvement</i>, <i>develops new ideas</i> and feeds <i>company growth</i>. The second group is about competition: it creates a <i>competitive advantage</i> that rivals cannot easily copy, and it gives the company an <i>adaptive nature</i>; when the environment changes, the company turns faster. The third group is about people and outside image: it raises <i>team efficiency</i>, <i>attracts talent</i> and <i>improves the brand</i>.</p><p>Do not mix up benefits and traits. The five traits answer the question “What kind of environment?”; the eight benefits answer the question “What does this environment give the company?” A benefit is a result of the culture.</p>",
+          "ornek": "<p>After a fictional software start-up builds an environment that is open to experiments, it starts getting twice as many applications to its job ads as before. This is an example of the benefit <b>attracts talent</b>: talented people want to work where creativity is rewarded.</p>",
+          "kaynak": [0],
+          "terimler": [],
+          "soru": {
+            "q": "After building a creative, low-blame workplace, a fictional furniture maker finds it reacts faster than rivals when customer tastes shift. Which benefit of an innovative culture is this?",
+            "o": ["Adaptive nature", "Attracts talent", "Improves the brand", "Team efficiency"],
+            "x": "The right answer is <b>adaptive nature</b>: the core of the scenario is that the company adapts faster when customer tastes change. <b>Team efficiency</b> looks tempting, but it means the team does its work more efficiently; it does not describe adapting to change in the outside environment."
+          }
+        },
+        {
+          "baslik": "Nurturing innovation: internal collaboration and intrapreneurship",
+          "anlatim": "<p>Culture alone is not enough; the leader has to open concrete channels for ideas to appear. The source lists five methods. The first two look inside the company.</p><p><b>Internal collaboration</b>: bringing people from different departments together in the same team. The logic: R&amp;D knows the product but not the customer, and sales knows the customer but not the technology. In the source's example, R&amp;D spends about 10% of its time in marketing and sales. This way ideas meet real customer needs.</p><p><b>Innovation labs &amp; intrapreneurship</b>: <b>Intrapreneurship</b> means an employee's idea becomes a separate spin-off or subsidiary, and that same employee runs the unit. The source gives LEGO's Future Lab as an example. You think like an entrepreneur but stay inside the company; that is where the name comes from.</p><p>Do not confuse the two: in internal collaboration no new unit is born; existing departments work together. In intrapreneurship the idea becomes its own unit, often its own company, and the employee who had the idea leads it.</p>",
+          "ornek": "<p>At a fictional bicycle maker, an assembly worker comes up with the idea of a folding bike basket. The company gives her a small budget and a separate unit, and she runs that unit. Because the idea comes from an employee and becomes a spin-off that she runs, this is an example of <b>intrapreneurship</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Intrapreneurship"],
+          "soru": {
+            "q": "At a fictional food company, an accountant's idea for a meal-kit service is turned into a separate subsidiary that she now runs. Which way of nurturing innovation is this?",
+            "o": ["Intrapreneurship", "Internal collaboration", "Open lab for co-creation", "Innovation time"],
+            "x": "The right answer is <b>intrapreneurship</b>, because the employee's idea becomes a separate subsidiary and that same employee runs it. <b>Internal collaboration</b> is tempting, but there no new unit is set up; different departments simply work together."
+          }
+        },
+        {
+          "baslik": "Innovation time, partnerships and acquisitions, open labs",
+          "anlatim": "<p>The other three methods answer two questions: who gives the time for ideas, and how do ideas come in from outside?</p><p><b>Innovation time</b>: giving employees free time for their own side projects. In the source, Google and 3M set aside 15-20% of the week for this; Gmail came from such a side project. The logic is simple: if the daily work schedule is full, nobody finds time to try something new.</p><p><b>Partnerships &amp; acquisitions</b>: sharing risk with another company, or buying small innovative firms. The source's example is Cisco. Here the idea is not born inside the company; it is bought ready-made from outside.</p><p><b>Open lab / co-creation</b>: developing ideas together with customers, suppliers or partners. The source gives the examples of BMW, Co-Create IKEA and LEGO Ideas. The clear sign is that people from outside the company take part in the design process.</p><p>Quick sorting: when you see “time set aside for their own project”, say innovation time; when you see “customers take part in the design”, say open lab; when you see “bought a small firm” or “shared the risk”, say partnerships and acquisitions.</p>",
+          "ornek": "<p>A fictional toy brand opens a website where families with children upload ideas for new board games, and it develops the idea with the most votes together with the families. Because customers take part directly in development, this is an example of <b>open lab / co-creation</b>, not innovation time.</p>",
+          "kaynak": [1],
+          "terimler": ["Innovation time", "Open lab / co-creation"],
+          "soru": {
+            "q": "A fictional software firm allows every developer to spend Friday afternoons on any project they choose. Which way of nurturing innovation is this?",
+            "o": ["Innovation time", "Open lab for co-creation", "Internal collaboration", "Strategic partnership"],
+            "x": "The right answer is <b>innovation time</b>: employees get regular free time for a project they choose. <b>Internal collaboration</b> may seem tempting, but it means bringing different departments together in one team; here nobody works with another department."
+          }
+        },
+        {
+          "baslik": "Innovation portfolio: 70/20/10 and returns that flip",
+          "anlatim": "<p>How should a company split its innovation budget? If it puts everything into wild ideas, today's business gets weaker; if it puts everything into current products, it cannot prepare for tomorrow. An <b>innovation portfolio</b> sets this balance: 70% of investment goes to <b>core</b> (the current business), 20% to <b>adjacent</b> (new areas close to the current business), and 10% to <b>transformational</b> (completely new) innovation.</p><p>The key point of the model is in the returns. Long-term returns flip: 10 / 20 / 70. So the transformational projects, which get the smallest share of the money, produce the largest share of returns in the long run. That is why the company should not cut that 10%; it is risky, but most of the future comes from there.</p><p>On the exam the two series appear side by side. If the question says <b>investment</b>, 70/20/10 is right; if it says <b>returns</b>, 10/20/70 is right. Also check that the order is always core, adjacent, transformational; an option with the right numbers in a mixed-up order is also wrong.</p>",
+          "ornek": "<p>A fictional coffee chain spends most of its budget renovating its current cafes, part of it on selling packaged coffee, and a small part on a robot-run vending cafe. This split shows the logic of an <b>innovation portfolio</b>: the riskiest idea gets the least money but promises the most return in the long run.</p>",
+          "kaynak": [1],
+          "terimler": ["Innovation portfolio"],
+          "soru": {
+            "q": "A board member asks how the long-term returns of a balanced innovation portfolio are usually split across core, adjacent and transformational projects. What is the correct answer?",
+            "o": ["10 / 20 / 70", "70 / 20 / 10", "20 / 70 / 10", "50 / 30 / 20"],
+            "x": "The question asks about <b>returns</b>, not investment, so the right answer is 10 / 20 / 70. The most tempting wrong answer is 70 / 20 / 10, because that is the investment split; on the returns side the table flips."
+          }
+        },
+        {
+          "baslik": "Seven reasons why innovation fails",
+          "anlatim": "<p>The source's main message is this: innovation usually fails not because the idea is bad, but because <b>implementation</b> goes wrong. That is why most of the seven reasons are inside the company. Put them in order along an idea's journey.</p><p>Before the idea is born: because of <b>fear of taking risks</b>, nobody suggests anything new; because of <b>low priority for innovation</b>, innovation always stays behind daily work. While the idea is developed: <b>Lack of market orientation</b> means not understanding the customer's needs; the product is no different from existing ones and offers no real value. <b>Wrong decisions</b> means putting resources into the wrong idea. If the inside of the company does not work: <b>poor organizational structure and processes</b>, for example an idea having to pass many levels for approval; <b>lack of internal communication</b>, meaning departments work cut off from each other. Even if the idea works: <b>failure to scale</b>, when a good pilot stays in one place and cannot spread.</p><p>The pair that gets mixed up most: an undifferentiated product is not fear of risk but lack of market orientation. With fear of risk, the idea is never tried; with lack of market orientation, the product has reached the market but nobody needs it.</p>",
+          "ornek": "<p>A fictional shoe company launches a new model that is no different from the other sports shoes on the market, and the model does not sell. The company did take a risk, so the problem is not fear of risk; because it offers the customer no new value, this is an example of <b>lack of market orientation</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Lack of market orientation"],
+          "soru": {
+            "q": "A fictional bank approves a mobile app idea, but its IT and marketing teams never share plans, so the launch is delayed and confused. Which reason for failure to innovate fits best?",
+            "o": ["Lack of internal communication", "Lack of market orientation", "Fear of taking risks", "Failure to scale"],
+            "x": "The right answer is <b>lack of internal communication</b>: the idea was approved, but the two departments do not talk to each other. <b>Lack of market orientation</b> may seem tempting, but nothing in the scenario suggests the customer's needs were misunderstood; the problem is the disconnect inside."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A product that is no different from existing ones and that nobody wants failed because of <b>fear of taking risks</b>.", "dogru": "This is <b>lack of market orientation</b>. With fear of risk, the idea is never tried; here the product reached the market but offers the customer no value."},
+        {"yanlis": "The investment and return ratios are the same: 70/20/10.", "dogru": "Investment is 70/20/10; long-term returns flip to 10/20/70. Check whether the question says “investment” or “returns”."},
+        {"yanlis": "Customers taking part in design counts as <b>internal collaboration</b>.", "dogru": "If people from outside the company take part, it is <b>open lab / co-creation</b>. Internal collaboration only happens between departments inside the company."},
+        {"yanlis": "Giving an employee time for a side project is <b>intrapreneurship</b>.", "dogru": "Giving time is <b>innovation time</b>. Intrapreneurship is when the idea becomes a separate spin-off that the employee runs."},
+        {"yanlis": "Innovation mostly fails because the idea is bad.", "dogru": "According to the source, failure mostly comes from implementation and internal reasons, not from the idea itself."}
+      ],
+      "ozet": [
+        "<b>Innovative culture</b>: an environment that encourages and rewards creativity and is not stuck on deadlines and revenue.",
+        "The five traits carry each other in order: unique strategy, autonomy, trust, accepting failures and leadership.",
+        "Swisher's eight benefits are results of the culture: a course for improvement, new ideas, growth, competitive advantage, team efficiency, adaptive nature, attracting talent, a stronger brand.",
+        "Five nurturing methods: internal collaboration, innovation labs and intrapreneurship, innovation time, partnerships and acquisitions, open lab.",
+        "Portfolio: investment 70/20/10, long-term returns flipped to 10/20/70.",
+        "Seven reasons: fear of risk, lack of market orientation, failure to scale, poor structure and processes, wrong decisions, lack of internal communication, low priority.",
+        "Failure mostly comes from implementation, not from the idea."
+      ],
+      "aklinda": "No difference, no value: an undifferentiated product = lack of market orientation. Money goes in 70/20/10, returns come back 10/20/70.",
+      "sinavda": "<p>In long cases like Polder Print, a company's practices are described and you are asked to classify two practices in one question, for example approval levels and closed-off departments, or side-project time and a design day with customers. Before you choose an option, check each half separately.</p>"
+    },
+    {
+      "id": "c11b",
+      "ad": "Innovation networks and why organizations change",
+      "sure": 18,
+      "neden": "<p>Innovation is not the work of a single genius; connecting the right people often works better. In the same lesson you also learn why an organization is forced to change. In the cases you are asked to name how a company builds its network, or which pressure made it change.</p>",
+      "hedefler": [
+        "List the four steps for building an <b>innovation network</b> in order.",
+        "Place an action from a scenario in the right network step.",
+        "Explain the definition and scope of <b>organizational change</b>.",
+        "Recognize the six drivers of change from an example of each.",
+        "Explain the logic of the idea <b>nothing fails like success</b>."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Innovation network: why do connections matter more than individual creativity?",
+          "anlatim": "<p>A company may have a very creative employee, but if the idea does not reach the right people, nothing happens. That is why McKinsey's finding matters: for innovation, connections and networks matter more than individual creativity. An <b>innovation network</b> is a network of innovators built in four steps.</p><p>Think of the steps as building a football team. <b>1. Connect</b>: find people from different backgrounds who think in innovative ways. First you need players. <b>2. Set boundaries and engage</b>: define the goals, show how they link to the company's strategy, mission and vision, and set a time frame. The players must know what they are playing to win. <b>3. Support and govern</b>: a leadership structure, working rules (protocols), resources and sponsorship from senior managers. The team needs a coach, a pitch and a budget. <b>4. Manage and track</b>: reward members, follow progress, and manage who joins and who leaves the network.</p><p>The logic of the order is clear: goals without people, support without goals, and tracking without support all make no sense.</p>",
+          "ornek": "<p>A fictional hospital brings together a curious nurse, a technician and a pharmacist from different departments. There are no goals or budget yet; only the right people are being chosen. This is an example of <b>connect</b>, the first step of an innovation network.</p>",
+          "kaynak": [0],
+          "terimler": ["Innovation network"],
+          "soru": {
+            "q": "A fictional retailer gives its new innovation group a sponsor from the executive board, a budget and agreed meeting rules. Which innovation network step is this?",
+            "o": ["Support and govern", "Set boundaries and engage", "Manage and track", "Connect"],
+            "x": "The right answer is <b>support and govern</b>: a sponsor, a budget and meeting rules are the three signs of this step. <b>Set boundaries and engage</b> is tempting, but that step defines goals and their link to strategy; it does not give resources or a sponsor."
+          }
+        },
+        {
+          "baslik": "Roles in the network and the steps that get mixed up most",
+          "anlatim": "<p>Not everyone in the network does the same job. The source lists four <b>archetypes</b> (types, roles): <b>idea generators</b> put forward raw ideas, <b>researchers</b> collect the information behind an idea, <b>experts</b> bring deep subject knowledge, and <b>producers</b> turn the idea into a real product or process. A good network has all of these roles; a network made only of idea generators talks a lot but produces little.</p><p>On the exam the two steps that get mixed up most are 2 and 3, because both feel like “management”. To tell them apart, ask: does this action say <b>what</b> the network will do, or <b>with what and with whose support</b> it will work? Goals, the link to strategy, mission, vision and deadlines are step 2. Leadership structure, protocols, resources and a sponsor are step 3.</p><p>Step 4 is the cycle after work has started: rewards, tracking progress, members joining and leaving. Step 3 builds the setup that runs the network; step 4 keeps the running network alive.</p>",
+          "ornek": "<p>At its first meeting, a fictional city council's innovation group decides: “Within one year we will cut the time citizens wait on applications in half, and this is linked to the council's vision of fast service.” Because a goal, a time frame and a link to the vision are set, this is the step <b>set boundaries and engage</b>.</p>",
+          "kaynak": [0],
+          "terimler": [],
+          "soru": {
+            "q": "In a fictional publisher's innovation network, members who deliver results get public recognition, and a monthly dashboard shows each project's progress. Which step is this?",
+            "o": ["Manage and track", "Support and govern", "Set boundaries and engage", "Connect"],
+            "x": "The right answer is <b>manage and track</b>: rewarding members and following progress are the work of the fourth step. <b>Support and govern</b> is tempting because it also sounds like management; but there resources, a sponsor and a structure are set up, with no rewards or tracking."
+          }
+        },
+        {
+          "baslik": "What is organizational change?",
+          "anlatim": "<p>In everyday language the word change is very broad. The source narrows it: <b>Organizational change</b> is an organization moving from one state to another. The power of the definition is its simplicity: what matters is that there is a “before” and an “after”.</p><p>Change is usually needed because of a change in the environment. But this is not automatic: even when the environment changes, whether the organization changes depends on how decision makers interpret that change and how they react. That is why two companies can give completely different answers to the same crisis.</p><p>Change can touch five different areas of the organization: <b>structure</b>, <b>strategy</b>, <b>policies</b>, <b>technology</b> or <b>culture</b>. Its size can also differ: <b>radical</b> change changes everything at once; <b>incremental</b> change moves forward through small improvements.</p><p>Watch for the trap in the options: appointing a new CEO, moving offices or rising revenue are not the definition on their own. The definition is always “moving from one state to another”.</p>",
+          "ornek": "<p>A fictional bookshop, after years of selling only in its shop, first adds phone orders and then online sales. Because it moves from one state to another, this is <b>organizational change</b>; because it moves in small steps, it is also <b>incremental</b> change.</p>",
+          "kaynak": [1],
+          "terimler": ["Organizational change"],
+          "soru": {
+            "q": "Two fictional taxi firms face the same new ride-hailing apps. One redesigns its whole service, the other ignores the trend. What does this show about organizational change?",
+            "o": ["It depends on how decision makers interpret the environment", "An environmental change forces every firm to change at once", "Only firms with poor results are able to change their structure", "Change only happens when a new chief executive is appointed"],
+            "x": "The right answer is the first option: the environment is the same but the reactions differ, because change depends on how decision makers interpret it. The option “an environmental change forces every firm” is tempting, but the source says a change in the environment does not change the organization by itself."
+          }
+        },
+        {
+          "baslik": "Four drivers from outside: demographics, technology, globalization, the market",
+          "anlatim": "<p>What moves an organization out of place is called a <b>driver</b> of change. The source lists six; the first four come from outside the company.</p><p><b>Workplace demographics</b>: the make-up of the workforce changes. The source's example is an ageing workforce and not finding enough young workers. The company adapts to this gap with flexible hours or knowledge-transfer programs. <b>Technology</b>: new technology threatens the old business model. The source gives Moore's law and the music industry's encounter with Napster as examples. <b>Globalization</b>: work crosses national borders; the source gives <b>outsourcing</b> (giving work to an outside firm) and <b>offshoring</b> (moving work abroad) as examples. <b>Market conditions</b>: demand or costs change suddenly. The source's example is the shock airlines went through after 9/11 and when fuel prices rose.</p><p>A tip for telling them apart: if the question is about people's age or the make-up of the workforce, it is demographics; if there is a new tool or a digital rival, it is technology; if work goes to another country or an outside firm, it is globalization; if there is a demand or cost shock, it is market conditions.</p>",
+          "ornek": "<p>A fictional call center hands part of its customer service to a firm in another country to cut costs. Because the work moves outside the national border, the driver of this change is <b>globalization</b>, not technology.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A fictional ferry company must cut routes after demand suddenly collapses and fuel costs jump in the same year. Which driver of change is this?",
+            "o": ["Market conditions", "Technology", "Globalization", "Workplace demographics"],
+            "x": "The right answer is <b>market conditions</b>: a sudden fall in demand and a rise in fuel costs are a market shock, like the airline example in the source. <b>Globalization</b> may be tempting, but in the scenario no work moves to another country or an outside firm."
+          }
+        },
+        {
+          "baslik": "Growth, poor performance and “nothing fails like success”",
+          "anlatim": "<p>The last two drivers come from the company's own situation. <b>Growth</b>: as a company grows, the old structure is no longer enough. The source's example is Widmer Brothers: a brewer that started in a garage becomes the 11th largest brewer in the US and has to reorganize. A method that works for a few people in a garage does not work in a large plant.</p><p><b>Poor performance</b>: companies with bad results change more easily, because the reason to change is right in front of them. The opposite is more interesting: success makes change harder. A successful company becomes overconfident and falls into <b>inertia</b> (standing still). This is called <b>Nothing fails like success</b>; the source gives Polaroid as an example. The thinking goes like this: a company that says “This method took us to the top, why change it?” falls behind when the environment changes.</p><p>The source adds one more thing: a new CEO also triggers change. A new CEO is not the definition of organizational change on its own; it is a factor that can start change.</p>",
+          "ornek": "<p>A fictional watch brand has been the market leader for ten years, so it does not take the smartwatch trend seriously and says, “Our customers will never leave us.” Because the overconfidence and inertia that came with success block change, this is an example of <b>nothing fails like success</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Nothing fails like success"],
+          "soru": {
+            "q": "A fictional family pizza shop expands from one kitchen to 40 branches and can no longer run everything from the owner's phone. Which driver of change is this?",
+            "o": ["Growth", "Poor performance", "Market conditions", "Technology"],
+            "x": "The right answer is <b>growth</b>: because the company has grown, the old way of managing is no longer enough, just like the example of the garage brewer that became a large one. <b>Poor performance</b> is a tempting trap here, but the results are not bad; on the contrary, success has brought growth."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "The most important thing for innovation is individual creativity.", "dogru": "According to McKinsey, connections and networks matter more than individual creativity."},
+        {"yanlis": "Linking goals to strategy is the <b>support and govern</b> step.", "dogru": "Goals, strategy, mission, vision and time frame are step 2: <b>set boundaries and engage</b>. Resources, structure and a sponsor are step 3."},
+        {"yanlis": "Successful companies change more easily because they have more resources.", "dogru": "The opposite: success creates overconfidence and inertia (<b>nothing fails like success</b>); companies with poor performance change more easily."},
+        {"yanlis": "If the environment changes, the organization changes by itself.", "dogru": "Change depends on how decision makers interpret the environment and how they react."},
+        {"yanlis": "Appointing a new CEO is the definition of organizational change.", "dogru": "The definition is an organization moving from one state to another. A new CEO can only trigger change."}
+      ],
+      "ozet": [
+        "<b>Innovation network</b>: according to McKinsey, connections matter more than individual creativity.",
+        "The order of the four steps: connect, set boundaries and engage, support and govern, manage and track.",
+        "Step 2 is goals and the link to strategy; step 3 is structure, resources and a sponsor; step 4 is rewards and tracking.",
+        "Four roles in the network: idea generators, researchers, experts and producers.",
+        "<b>Organizational change</b>: moving from one state to another; in structure, strategy, policies, technology or culture; radical or incremental.",
+        "Six drivers: demographics, technology, globalization, market conditions, growth and poor performance.",
+        "Success breeds inertia: nothing fails like success. A new CEO can also trigger change."
+      ],
+      "aklinda": "Build the network: Connect, Set boundaries, Support, Track. Success is the most dangerous comfort: nothing fails like success.",
+      "sinavda": "<p>Network steps usually come as “Which step is this action?”; step 2 and step 3 are the ones most often confused. For drivers of change you get a short company story and must choose the right driver from options such as demographics, technology and growth.</p>"
+    },
+    {
+      "id": "c11c",
+      "ad": "Reactions to change and reasons for resistance",
+      "sure": 20,
+      "neden": "<p>However good a change plan is, in the end people live through it. Some shout, some stay silent, some support it. Naming these reactions and the reasons behind them correctly comes up often in the long cases; you are often asked to classify the reactions of two groups in the same question.</p>",
+      "hedefler": [
+        "Put the four reactions in order from most negative to most positive.",
+        "Explain the difference between <b>active resistance</b> and <b>passive resistance</b> using the voice test.",
+        "Recognize the seven reasons for resistance from a scenario for each.",
+        "Explain why resistance can be valuable feedback."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Active and passive resistance: the difference is voice",
+          "anlatim": "<p>Reactions to change line up on a scale: there are four stops from most negative to most positive. The first two are resistance, and the exam's favorite confusion is between these two.</p><p><b>Active resistance</b> is the most negative reaction. The person sabotages the change, objects openly and encourages others to resist too. It is loud and it spreads.</p><p><b>Passive resistance</b> is an unhappy but silent reaction. The person dislikes the change inside, feels stress, and may even look for another job without telling anyone. From the outside everything looks fine.</p><p>Only one question separates the two: <b>is there voice?</b> If there are objections in meetings, stirring up colleagues or sabotage, it is active. If there is silent unhappiness, stress or a secret job search, it is passive. What decides it is not how unhappy the person is, but whether they show that unhappiness. Someone who is very unhappy but silent is still in passive resistance.</p>",
+          "ornek": "<p>A fictional high school moves to a new grading system. One teacher objects to the system at every meeting and tells the others not to use it; another teacher says nothing but cannot sleep at night and applies to other schools. The first is <b>active resistance</b>, the second is <b>passive resistance</b>; the difference between them is voice.</p>",
+          "kaynak": [0],
+          "terimler": ["Active resistance", "Passive resistance"],
+          "soru": {
+            "q": "At a fictional warehouse, a forklift driver never complains about the new scanning system but feels anxious and secretly sends his CV to other employers. Which reaction is this?",
+            "o": ["Passive resistance", "Active resistance", "Compliance", "Enthusiastic support"],
+            "x": "The right answer is <b>passive resistance</b>: there is discomfort but it is never voiced, and the person is quietly preparing to leave. <b>Compliance</b> is tempting because it also looks silent; but a person who complies does not search for a job under stress, they just go along without enthusiasm."
+          }
+        },
+        {
+          "baslik": "Compliance and enthusiastic support: the positive end of the scale",
+          "anlatim": "<p>Two stops remain on the positive side of the scale. <b>Compliance</b> means the person goes along with the change with little enthusiasm. They do not object or sabotage, but they do not defend it either. The work gets done, but there is no energy.</p><p><b>Enthusiastic support</b> is the most positive reaction: the person defends the new way and encourages others to support it too. The source sees this as the exception; few people are truly excited about change.</p><p>Keep the order of the four reactions in mind: active resistance, passive resistance, compliance, enthusiastic support. When you classify a scenario, ask two questions. First: is the person against the change or for it? Second: do they show it out loud or stay silent? Against and loud is active resistance; against and silent is passive resistance. For it but silent and unwilling is compliance. For it and loud, and also persuading others, is enthusiastic support.</p><p>The voice test works at both ends of the scale: active resistance and enthusiastic support are the loud ends, while passive resistance and compliance are the silent middle. What separates passive resistance from compliance is feeling: one is uncomfortable and stressed, the other is just uninterested.</p>",
+          "ornek": "<p>A fictional restaurant brings in a new ordering tablet. One waiter learns the tablet and uses it but shows no interest; another waiter, on his own initiative, teaches the tablet to his colleagues and explains its benefits to those who complain. The first is an example of <b>compliance</b>, the second of <b>enthusiastic support</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Compliance", "Enthusiastic support"],
+          "soru": {
+            "q": "A fictional library introduces self-service checkout. One librarian uses it without fuss but shows no interest and never mentions it to anyone. Which reaction is this?",
+            "o": ["Compliance", "Passive resistance", "Enthusiastic support", "Active resistance"],
+            "x": "The right answer is <b>compliance</b>: the person uses the system but has no enthusiasm. <b>Passive resistance</b> is tempting because it is also silent; but in passive resistance the person is uncomfortable with the change and feels stress, while here there is only lack of interest."
+          }
+        },
+        {
+          "baslik": "Why do we resist? Habits, personality, uncertainty, fear of failure",
+          "anlatim": "<p>Naming the reaction is not enough; you also need to know the reason, because each reason has a different solution. The source lists seven reasons. The first four come from inside the person.</p><p><b>Disrupted habits</b>: when the routines we do automatically are broken, we struggle. The source's example is having to drive a manual car instead of an automatic; now you have to think about every move. <b>Personality</b>: some people are by nature more closed to change; people with low openness to new things, low self-esteem or a tendency to avoid risk resist more. <b>Feelings of uncertainty</b>: not knowing what will happen is frightening. The source's example is a merger: nobody knows what will happen to their job. <b>Fear of failure</b>: experts in particular doubt that they will be as good in the new system as they were before.</p><p>The pair that gets mixed up most is uncertainty and fear of failure. With uncertainty the question is “What will happen?”; the future is unknown. With fear of failure the question is “Will I be able to do this?”; the future is clear but the person doubts their own performance. Habits are about neither the future nor ability; they are only about a broken routine.</p>",
+          "ornek": "<p>At a fictional accounting office, an expert with twenty years of experience worries that she will not be as fast as the young staff with the new software. The future is clear, but because she doubts her own performance, this is an example of <b>fear of failure</b>, not uncertainty.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "Two fictional supermarket chains announce a merger, and cashiers resist because nobody can tell them whether their own store will stay open. Which reason for resistance is this?",
+            "o": ["Feelings of uncertainty", "Fear of failure", "Disrupted habits", "Personality"],
+            "x": "The right answer is <b>feelings of uncertainty</b>: the cashiers do not know what their future will be. <b>Fear of failure</b> is tempting, but there the person doubts not the future but their own success in the new system."
+          }
+        },
+        {
+          "baslik": "Personal impact, change fatigue and loss of power",
+          "anlatim": "<p>The other three reasons look at what the person gains or loses from the change. <b>Personal impact of change</b>: people welcome change that benefits them and resist change that harms them. A simple calculation: “Is this good for me?”</p><p><b>Prevalence of change</b>: when there is too much change, people get tired and skeptical. The problem is not the content of this change but the number of changes that never stop coming. The sentence “Not again?” is the sign of this reason.</p><p><b>Perceived loss of power</b>: if the change reduces a person's authority or status, resistance appears. The source's example is supervisors who lose their authority when teams take over the work. If someone who used to approve every decision no longer does, there is a loss of power.</p><p>Do not confuse loss of power with personal impact. Loss of power is specifically about authority and status; personal impact can be any gain or loss, such as pay, workload or working hours. If the scenario mentions “approval authority”, “hiring authority” or “the right to decide”, choose loss of power.</p>",
+          "ornek": "<p>A fictional logistics firm announces a restructuring for the third time in two years, and at the meeting employees sigh, “Not again?” Because the problem is less the plan's content than the endless stream of changes, this is an example of <b>prevalence of change</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Prevalence of change", "Perceived loss of power"],
+          "soru": {
+            "q": "At a fictional school, department heads who used to decide every timetable resist a plan that lets teacher teams set their own schedules. Which reason fits best?",
+            "o": ["Perceived loss of power", "Personal impact of change", "Prevalence of change", "Disrupted habits"],
+            "x": "The right answer is <b>perceived loss of power</b>: the department heads lose their authority to decide. <b>Personal impact of change</b> is tempting, because the change affects them too; but when what is lost is specifically authority and status, the source uses loss of power."
+          }
+        },
+        {
+          "baslik": "Is resistance always bad? QWERTY and Dvorak",
+          "anlatim": "<p>A manager's first reflex is to see resistance as an obstacle. The source disagrees: resistance is not always bad; it can be <b>valuable feedback</b>. If you listen to why people resist, you may see a real flaw in your plan.</p><p>One more detail: the most loyal employees can be the loudest critics. The logic: a person who cares about the company speaks up against what they see as wrong. Someone who does not care does not bother and just goes along without enthusiasm. So loud criticism is sometimes a sign of commitment, not hostility.</p><p>The classic example in the source is the keyboard. The faster Dvorak keyboard met resistance and never replaced QWERTY. The lesson: the best idea does not win by itself. If the person managing change does not understand why people resist, even a technically better solution fails.</p><p>This example also links to the seven reasons: for people who have been used to one way for years, the new way both breaks their habits and lowers the value of the skill they worked hard to gain.</p>",
+          "ornek": "<p>The most senior nurse at a fictional clinic objects strongly to the new shift plan at a meeting and shows that patient safety will drop on the night shift. Management listens to the objection and fixes the plan. This shows that resistance can be <b>valuable feedback</b> and that a loyal employee can be a loud critic.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A fictional city's new, faster bus route map is rejected by drivers who had memorised the old routes for years. What lesson about change does this best illustrate?",
+            "o": ["A better idea does not win automatically; leaders must understand resistance", "Employees always accept the most efficient option once they see the evidence", "Resistance only appears when the new idea is clearly worse than the old one", "Loud critics are usually the least loyal employees and should be ignored"],
+            "x": "The right answer is the first option: even though it is faster, the new map is rejected because of the drivers' habits and the knowledge they worked hard to gain; this is the logic of the Dvorak example. The option “people always accept the most efficient option” is tempting, but it is exactly the idea the source disproves."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A very unhappy person always shows <b>active resistance</b>.", "dogru": "The difference is not how unhappy someone is but voice. A person who is silent, stressed and secretly looking for a job shows <b>passive resistance</b>."},
+        {"yanlis": "Everyone who stays silent shows <b>compliance</b>.", "dogru": "Silent but uncomfortable and stressed is passive resistance; silent and only unwilling is compliance."},
+        {"yanlis": "Worry about losing your job in a merger counts as <b>fear of failure</b>.", "dogru": "If the future is unknown, it is <b>feelings of uncertainty</b>; if the person doubts their own performance in the new system, it is fear of failure."},
+        {"yanlis": "Being fed up with one change after another is the reason <b>disrupted habits</b>.", "dogru": "Getting tired from the number of changes is <b>prevalence of change</b>; one broken routine is disrupted habits."},
+        {"yanlis": "Resistance is always a problem that must be stopped.", "dogru": "According to the source, resistance is valuable feedback; the most loyal employees can be the loudest critics."},
+        {"yanlis": "In a two-group question, marking the option as soon as you find one half correct.", "dogru": "Check each half separately; wrong options usually keep one half right and change the other."}
+      ],
+      "ozet": [
+        "Four reactions, from negative to positive: active resistance, passive resistance, compliance, enthusiastic support.",
+        "The test that separates active from passive resistance is voice: objection and sabotage are active, silent unhappiness is passive.",
+        "<b>Compliance</b> is going along without enthusiasm; <b>enthusiastic support</b> defends the new way and persuades others.",
+        "Seven reasons: disrupted habits, personality, uncertainty, fear of failure, personal impact, prevalence of change, loss of power.",
+        "Uncertainty is the question “What will happen?”; fear of failure is the question “Will I be able to do it?”",
+        "Losing authority and status is loss of power; getting tired from too much change is prevalence of change.",
+        "Resistance is valuable feedback; the faster Dvorak keyboard never replaced QWERTY."
+      ],
+      "aklinda": "Loud is active, silent is passive. “Not again?” = prevalence of change, “I am losing my authority” = perceived loss of power.",
+      "sinavda": "<p>In long cases the reactions of two groups are asked in one question, for example doctors who object loudly and nurses who feel stress in silence. You are also asked why a group resists and must choose the right one of the seven reasons from six options.</p>"
+    },
+    {
+      "id": "c11d",
+      "ad": "Lewin's three stages and Kotter's eight steps",
+      "sure": 25,
+      "neden": "<p>The two basic maps for managing planned change are Lewin and Kotter. Kotter's eight steps fit inside Lewin's three stages, so learning the two together is both easy and safe. Long cases often ask which Lewin stage and which Kotter step an action belongs to.</p>",
+      "hedefler": [
+        "List Lewin's three stages and the actions in each stage.",
+        "Write Kotter's eight steps in order and map them onto Lewin's stages.",
+        "Explain the difference between a <b>guiding coalition</b> and a <b>volunteer army</b> by size and role.",
+        "Place a case clue in the right Kotter step.",
+        "Compare the <b>learning organization</b> view with Lewin's view."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Lewin: why do you need to “unfreeze” first? (Unfreeze)",
+          "anlatim": "<p>Lewin's model comes from the 1940s and 50s and is easy to understand with the image of a block of ice. If you want to change the shape of a frozen block of ice, you first have to melt it, then pour it into a new mold, then freeze it again. In an organization, people are also frozen in their habits.</p><p>The <b>Unfreeze</b> stage means preparing people for change and making them open to it. The source lists five actions: communicating a plan and a vision; developing a <b>sense of urgency</b>; building a coalition of opinion leaders; giving emotional and instrumental support; and allowing employees to participate.</p><p>Note the two kinds of support: <b>emotional support</b> is listening and encouraging; <b>instrumental support</b> is practical help such as training. The logic of persuading opinion leaders first is also clear: when respected people are persuaded, the others follow them.</p><p>At this stage the new system is not running yet; everything is preparation. If an action is taken <b>before</b> the change and its aim is to prepare people, it is unfreeze.</p>",
+          "ornek": "<p>Before a fictional gym chain moves to a new booking system, it persuades the senior trainers everyone listens to, gives employees a say in the screen design and gives everyone hands-on training. Because all of this prepares people before the system runs, it is the <b>unfreeze</b> stage.</p>",
+          "kaynak": [0],
+          "terimler": ["Unfreeze"],
+          "soru": {
+            "q": "Before a fictional airport changes its baggage system, managers hold sessions where they listen to staff worries and encourage them. Which unfreezing action is this?",
+            "o": ["Providing emotional support", "Providing instrumental support", "Building a coalition of opinion leaders", "Publicizing success"],
+            "x": "The right answer is <b>emotional support</b>: the managers listen to worries and encourage staff. <b>Instrumental support</b> is tempting because it is also a kind of support; but instrumental support means practical help such as training, and no practical tool is given here."
+          }
+        },
+        {
+          "baslik": "Change and Refreeze; how the learning organization differs",
+          "anlatim": "<p>After the ice has melted, the second stage comes: <b>Change (move)</b>. Here the change is carried out. The source lists three actions: continuing support, creating <b>small wins</b> and removing obstacles. The logic of small wins is morale: when people see that it works, they keep going.</p><p>The third stage is <b>Refreeze</b>: making the change permanent and making the new habits normal. The source lists two actions: <i>publicize success</i> and <i>reward change adoption</i>, which means rewarding those who adopt the change. If you do not refreeze, people slide back to the old way at the first difficulty.</p><p>To tell change from refreeze, look at the timing: support and small wins while the change is still being carried out are the change stage; publicizing success and rewarding people after it has settled in are the refreeze stage.</p><p>Lewin's model sees change as an event with a beginning and an end. In contrast, a <b>Learning organization</b> sees change not as a one-time event but as an ongoing process. In a learning organization there is no final stop called “refreeze”; the ice always stays a little soft.</p>",
+          "ornek": "<p>After a fictional hotel chain installs its new contactless check-in system, it shares the rise in guest satisfaction with all employees and gives thank-you awards to the receptionists who use the system best. Because success is publicized and adoption is rewarded after the change has settled in, this is the <b>refreeze</b> stage.</p>",
+          "kaynak": [0],
+          "terimler": ["Refreeze", "Learning organization"],
+          "soru": {
+            "q": "A fictional design studio says it never treats change as a project with an end date; it expects to adjust its methods every month. Which idea does this reflect?",
+            "o": ["Learning organization", "The refreeze stage", "The unfreeze stage", "Institute change"],
+            "x": "The right answer is <b>learning organization</b>: change is seen as an ongoing process, not a project with an end. <b>Refreeze</b> is tempting, but it means finishing the change and making it permanent; so it assumes the opposite, a final stop."
+          }
+        },
+        {
+          "baslik": "Kotter 1-4: the four steps of the unfreeze stage",
+          "anlatim": "<p>Kotter's eight steps come from the 1990s and are a more detailed roadmap for large transformations. The easiest way to learn them is to place the steps inside Lewin's stages: 1-4 unfreeze, 5-7 change, 8 refreeze.</p><p><b>1. Create urgency</b>: show why change is needed now. Case clues: data, complaints, a crisis, rivals, the results of doing nothing. <b>2. Build a guiding coalition</b>: a <b>Guiding coalition</b> is a small, influential group with enough power and credibility to lead the change. <b>3. Form a strategic vision &amp; initiatives</b>: a short statement that describes the desired future. <b>4. Enlist a volunteer army</b>: a <b>Volunteer army</b> is a large mass of people who act on the vision and volunteer to help.</p><p>The exam's favorite confusion is between 2 and 4. Ask: is the group small and does it <b>lead</b> the change? Then it is the coalition. Is the group large and does it <b>spread</b> the change? Then it is the volunteer army. A list that names a few senior people points to the coalition; a big number that speaks of hundreds of volunteers points to the army.</p>",
+          "ornek": "<p>At a fictional university library, the director, an IT specialist, two senior librarians and a student representative are chosen to lead the digital archive project. Then 90 students and staff sign up to be “archive ambassadors”. The small leading group is the <b>guiding coalition</b>, and the large group of volunteers is the <b>volunteer army</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Guiding coalition", "Volunteer army"],
+          "soru": {
+            "q": "A fictional zoo's director shows staff falling visitor numbers, angry reviews and a rival park's success to explain why things cannot stay the same. Which Kotter step is this?",
+            "o": ["Create urgency", "Build a guiding coalition", "Form a strategic vision", "Enlist a volunteer army"],
+            "x": "The right answer is <b>create urgency</b>: data, complaints and a rival are shown to explain why change is needed now. <b>Form a strategic vision</b> is tempting, but a vision describes the desired future; here the director only shows that the present situation is unacceptable."
+          }
+        },
+        {
+          "baslik": "Kotter 5-7: the three steps of the change stage",
+          "anlatim": "<p>Once people are prepared, the work moves into practice; these three steps are Lewin's change stage.</p><p><b>5. Enable action by removing barriers</b>: old procedures and forms that slow the change are removed, and employees are given authority. The logic: even if people are willing, the change stops if old rules block their way. <b>6. Generate short-term wins</b>: <b>Short-term wins</b> are early results that are rewarded and that everyone can see. The typical case clue is a pilot project with a measurable result. Early success persuades the doubters and gives the team energy. <b>7. Sustain acceleration</b>: using the confidence from early success to spread the change to other areas; carrying on instead of declaring victory and stopping.</p><p>Do not confuse 6 and 7. The pilot result itself, for example “waiting time fell by half”, is a short-term win. Using that result to spread the change to other departments is sustaining acceleration. Do not confuse step 6 with refreeze either: this win comes in the middle of the change, to speed it up, not to make it permanent.</p>",
+          "ornek": "<p>A fictional city council starts an online appointment pilot in a single neighborhood and announces that waiting time fell from 50 minutes to 10 minutes. Because this is a visible, measurable early result, it is the <b>short-term wins</b> step. If the council then uses this success to spread the system to all neighborhoods, that becomes the sustain acceleration step.</p>",
+          "kaynak": [1],
+          "terimler": ["Short-term wins"],
+          "soru": {
+            "q": "Encouraged by a successful trial in one fictional warehouse, managers use its results to persuade five other sites to adopt the new picking system. Which Kotter step is this?",
+            "o": ["Sustain acceleration", "Generate short-term wins", "Enable action by removing barriers", "Institute change"],
+            "x": "The right answer is <b>sustain acceleration</b>: the success of the trial is used to spread the change to other places. <b>Generate short-term wins</b> is tempting because a success appears in the scenario; but the question describes using the win to spread the change, not the win itself."
+          }
+        },
+        {
+          "baslik": "Kotter 8 and one map for the two models",
+          "anlatim": "<p>The last step is <b>8. Institute change</b>: <b>Institute change</b> means anchoring the new behaviors in the culture so that they stay. The case clue is that the change is written into formal systems such as hiring, training, job descriptions and performance reviews. This step matches Lewin's refreeze stage: both make the change permanent.</p><p>Now think of the two models on one map. Lewin gives three broad stages and is a general framework that fits any kind of change. Kotter splits the same road into eight detailed steps and is for large transformations. The mapping is: Kotter 1-4 (urgency, coalition, vision, volunteer army) are unfreeze; Kotter 5-7 (barriers, short-term wins, sustaining acceleration) are change; Kotter 8 (instituting change) is refreeze.</p><p>To remember the order, use the source's sentence: “Ugly Cats Vote Very Badly When Angry Indoors.” The first letter of each word is a step: Urgency, Coalition, Vision, Volunteer army, Barriers, Wins, Acceleration, Institute.</p><p>If a question asks for both models, first check whether the action happens before, during or after the change; this gives you the Lewin stage. Then choose the Kotter step inside that stage.</p>",
+          "ornek": "<p>A fictional pharmacy chain adds the new digital prescription check to all its job ads, to new staff training and to the annual review form. Because the change is written into formal systems and made permanent, this is an example of <b>refreeze</b> in Lewin and <b>institute change</b> in Kotter.</p>",
+          "kaynak": [1],
+          "terimler": ["Institute change"],
+          "soru": {
+            "q": "A fictional courier firm adds the new route-planning tool to its onboarding course and to every driver's annual performance review. Which Lewin stage and Kotter step is this?",
+            "o": ["Refreeze and institute change", "Change and sustain acceleration", "Change and generate short-term wins", "Unfreeze and form a strategic vision"],
+            "x": "The right answer is <b>refreeze</b> and <b>institute change</b>: the tool is written into lasting systems such as training and performance reviews. <b>Change and sustain acceleration</b> is tempting because the change seems to be spreading; but here the point is making it permanent, not spreading it."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "The small, influential leading group and the hundreds of volunteers are the same step.", "dogru": "The small group that leads is the <b>guiding coalition</b> (step 2); the large group that spreads is the <b>volunteer army</b> (step 4)."},
+        {"yanlis": "Presenting waiting-time data and complaints is forming a vision.", "dogru": "Showing that the present situation is unacceptable is <b>create urgency</b>. A vision is a short statement that describes the desired future."},
+        {"yanlis": "A measurable pilot result is the <b>institute change</b> step.", "dogru": "A visible, measurable early result is <b>short-term wins</b> (step 6). Institute change means writing the change into formal systems."},
+        {"yanlis": "Kotter 1-4 match Lewin's change stage.", "dogru": "Kotter 1-4 match unfreeze, 5-7 match change, and 8 matches refreeze."},
+        {"yanlis": "Giving training is emotional support.", "dogru": "Practical help such as training counts as <b>instrumental support</b>; listening and encouraging are emotional support."},
+        {"yanlis": "Lewin and the learning organization see change in the same way.", "dogru": "Lewin sees change as an event with a beginning and an end; a <b>learning organization</b> sees it as an ongoing process."}
+      ],
+      "ozet": [
+        "Lewin's three stages: <b>Unfreeze</b>, change (move) and <b>Refreeze</b>.",
+        "Unfreeze actions: plan and vision, urgency, a coalition of opinion leaders, emotional and instrumental support, participation.",
+        "In the change stage support continues, small wins are created and obstacles are removed; in the refreeze stage success is publicized and adoption is rewarded.",
+        "Kotter's order: urgency, coalition, vision, volunteer army, removing barriers, short-term wins, sustaining acceleration, instituting change.",
+        "Kotter 1-4 match unfreeze, 5-7 match change, and 8 matches refreeze.",
+        "The coalition is small and leads; the volunteer army is large and spreads.",
+        "A learning organization sees change as ongoing; Lewin sees it as a one-time event."
+      ],
+      "aklinda": "Ugly Cats Vote Very Badly When Angry Indoors: Urgency, Coalition, Vision, Volunteer army, Barriers, Wins, Acceleration, Institute.",
+      "sinavda": "<p>In a long case like Rijnstad Hospital, each paragraph describes one step: a doctor presenting data and complaints, a small leading group, hundreds of volunteers, a measurable pilot, rules written into job descriptions. From six options you choose the Kotter step of the action, or the pair of Lewin stage and Kotter step.</p>"
+    },
+    {
+      "id": "c11e",
+      "ad": "Schein's culture change and comparing the three models",
+      "sure": 22,
+      "neden": "<p>Some changes need more than a new system: what people value has to change. Schein's six steps are made exactly for this kind of culture change. The lesson also puts Lewin, Kotter and Schein side by side, because all three start with urgency and the exam uses this similarity to try to mislead you.</p>",
+      "hedefler": [
+        "List the six steps in <b>Schein's model</b> in order.",
+        "Tell the <b>role modeling</b>, training and reward system steps apart in a scenario.",
+        "Explain why the <b>new symbols and stories</b> step needs a visible action.",
+        "Compare the three models by period, number of steps and focus.",
+        "Give your answer from inside the model that the question names."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Schein 1-2: urgency and changing key players",
+          "anlatim": "<p>Culture is the values and habits of an organization; it does not change through a rulebook, but through what people see every day. <b>Schein's model</b> gives six steps for culture change. The first two prepare the ground.</p><p><b>1. Create a sense of urgency</b>: people will not join the change until they believe the present situation cannot go on. The source's example is Lou Gerstner using IBM's crisis to win employee support.</p><p><b>2. Change leaders and other key players</b>: <b>Changing key players</b> means replacing leaders who block the change with other people. The logic: as long as the people who stand for the old culture stay in key seats, employees think the old rules still apply. In the source's example, Disney's new CEO Iger removes the planning unit that was close to the former CEO.</p><p>Do not confuse this step with Kotter's guiding coalition step. The coalition <b>builds</b> a group to lead the change; Schein's second step <b>removes</b> those who block it.</p>",
+          "ornek": "<p>The new general manager of a fictional hotel group removes the food and beverage manager and the head of purchasing, who kept delaying the move to a guest-focused culture, and replaces them with people who accept the new approach. Because the people blocking the change are replaced, this is the <b>changing key players</b> step.</p>",
+          "kaynak": [0],
+          "terimler": ["Schein's model", "Changing key players"],
+          "soru": {
+            "q": "A fictional bakery chain's new owner removes the operations manager who kept blocking the switch to a customer-first culture. Which Schein step is this?",
+            "o": ["Changing leaders and other key players", "Role modeling by the new owner", "Creating a sense of urgency", "Creating new symbols and stories"],
+            "x": "The right answer is <b>changing leaders and other key players</b>: the manager who blocks the change is removed. <b>Role modeling</b> is tempting because the new owner is again the one who acts; but role modeling means the leader sets an example through their own behavior, while here someone is removed from their post."
+          }
+        },
+        {
+          "baslik": "Schein 3-4: role modeling and training",
+          "anlatim": "<p><b>3. Role modeling</b>: <b>Role modeling</b> means employees shape their beliefs and behavior to match the leader's. People look at what the leader does more than at what the leader says. In the source, Iger takes part in the game development process in person. The effect also works the other way: the source gives the spying scandal of HP executives as a bad example; if the leader behaves badly, employees copy that too.</p><p><b>4. Training</b>: teaching the norms and skills of the new culture. The source's examples are NASA's safety training after the Columbia disaster and Midas's customer training.</p><p>The way to tell the two apart is to look at who the teacher is and how they teach. In role modeling the leader shows the way through their own behavior, by example; there is no formal lesson. In training there is planned teaching: a course, a workshop, a program. A general manager who answers customer calls in person once a month is role modeling; sending all employees to a customer communication course is training.</p>",
+          "ornek": "<p>To build a culture of hand hygiene, the chief physician of a fictional hospital disinfects his hands in front of everyone on every morning ward round and never skips it. Because the leader shows the expected behavior himself, this is an example of <b>role modeling</b>, not training.</p>",
+          "kaynak": [0],
+          "terimler": ["Role modeling"],
+          "soru": {
+            "q": "To build a safety-first culture, a fictional construction firm sends every site worker to a two-day course on risk awareness and teamwork. Which Schein step is this?",
+            "o": ["Training", "Role modeling", "Changing the reward system", "Changing key players"],
+            "x": "The right answer is <b>training</b>: the new norms are taught through a planned course. <b>Role modeling</b> is tempting because it also teaches behavior; but in role modeling the leader sets the example through their own behavior and there is no formal course."
+          }
+        },
+        {
+          "baslik": "Schein 5-6: the reward system, new symbols and stories",
+          "anlatim": "<p><b>5. Change the reward system</b>: people understand what matters by looking at what is rewarded. The source's examples: moving from commission to salary for customer focus; giving team bonuses for a team culture. The logic is clear: a person paid commission per sale focuses on the sale, not on the customer.</p><p><b>6. Create new symbols and stories</b>: <b>New symbols and stories</b> are visible actions and stories people tell that show the new culture. The source's example is Continental Airlines burning its 800-page manual and replacing it with a new 80-page one. The power of this act is not in the page count but in becoming a story told for years: “In this company, common sense matters now, not thick rules.”</p><p>The exam sets two traps here. First, burning the manual looks like Kotter's step of removing old procedures; but if the question asks about Schein, the answer is symbols and stories. Second, symbols get mixed up with rewards: if money or bonuses change, it is the reward system; if there is a dramatic act that everyone will talk about, it is symbols and stories.</p>",
+          "ornek": "<p>A fictional software company wants less hierarchy, so it tears down the managers' closed offices in front of everyone and turns them into an open work area. Employees tell this story for years. Because it is a visible, dramatic act that becomes a story, this is the <b>new symbols and stories</b> step.</p>",
+          "kaynak": [0],
+          "terimler": ["New symbols and stories"],
+          "soru": {
+            "q": "To build a team culture, a fictional marketing agency stops paying individual bonuses and pays bonuses only when a whole team reaches its goals. Which Schein step is this?",
+            "o": ["Changing the reward system", "Creating new symbols and stories", "Training", "Role modeling"],
+            "x": "The right answer is <b>changing the reward system</b>: by moving the bonus from the individual to the team, the firm changes what is rewarded. <b>Creating new symbols and stories</b> may be tempting, but there is no dramatic act here that everyone will talk about; what changes is how the money is shared out."
+          }
+        },
+        {
+          "baslik": "Compare the three models: Lewin, Schein, Kotter",
+          "anlatim": "<p>The three models answer the same question, “How do I manage change?”, at different depths. Tell them apart by period, number of steps and focus.</p><p><b>Lewin</b> comes from the 1940s and 50s. It has three stages and is a general framework for any kind of change; its focus is overcoming resistance. <b>Schein</b> is placed by the source between the 1980s and 1990. It has six steps and its focus is <b>culture</b> change: values, role models, symbols. <b>Kotter</b> comes from the 1990s. It has eight steps and is a roadmap for <b>large-scale</b> transformation.</p><p>Remember them by number: 3, 6, 8. Lewin is the shortest and most general, Kotter is the longest and most detailed, and Schein sits in the middle but focuses on one subject, culture. If a question says “which model is specifically for culture change?”, it is Schein; if it says “a roadmap for large-scale transformation”, it is Kotter; if it says “a general three-stage framework for any kind of change”, it is Lewin.</p><p>In matching questions, check both halves: wrong options usually swap the numbers of steps, the focuses or the periods between the models.</p>",
+          "ornek": "<p>A fictional bank wants both to restructure all its branches in the country and to change how employees see the customer. Kotter's eight steps are the better guide for the large nationwide transformation, and Schein's six steps for changing values and behavior.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "A consultant needs a model focused specifically on changing values, role models and symbols inside a fictional charity. Which model fits best?",
+            "o": ["Schein's six-step model", "Kotter's eight-step model", "Lewin's three-stage model", "The four-step innovation network"],
+            "x": "The right answer is <b>Schein</b>: values, role models and symbols describe his culture focus exactly. <b>Kotter</b> is tempting because it is also a detailed model; but Kotter's focus is large-scale transformation, not culture."
+          }
+        },
+        {
+          "baslik": "All three start with urgency: which model does the question name?",
+          "anlatim": "<p>The three models share a starting point: urgency. In Lewin, developing urgency is one action of the unfreeze stage. In Kotter, the first step is called <b>create urgency</b>. In Schein, the first step is <b>create a sense of urgency</b>. That is why a sentence like “the general manager said we will lose a third of our customers if we go on like this” has a match in all three models.</p><p>The exam uses this similarity and puts terms from other models in the options: when the question asks about Schein, you may see “Unfreeze” or “Build a guiding coalition” among the options. These are correct terms in their own models, but they do not exist in the model the question asks about.</p><p>The rule is simple: first read which model the question names, then give your answer only from the steps of that model. If the question says “According to Schein”, the answer is one of Schein's six steps. If the question says “Which Lewin stage and Kotter step”, you match the two together. The same rule holds for the other steps: destroying the manual in front of everyone is symbols and stories in a Schein question; do not let its likeness to Kotter's step of removing old procedures mislead you.</p>",
+          "ornek": "<p>The general manager of a fictional cargo company says at a meeting, “If we go on like this, we will lose our three biggest customers next year.” If the question asks about Schein, the answer is <b>creating a sense of urgency</b>; if it asks about Lewin, <b>unfreeze</b>; if it asks about Kotter, <b>create urgency</b>. The event is the same; the label changes with the model.</p>",
+          "kaynak": [0, 1],
+          "terimler": [],
+          "soru": {
+            "q": "Exam item: “According to Lewin, which stage is shown when a fictional museum director warns staff that visitor numbers will halve unless they act now?” Which answer is best?",
+            "o": ["Unfreeze", "Create urgency", "Creating a sense of urgency", "Change (move)"],
+            "x": "The question names Lewin, so the right answer is <b>unfreeze</b>: in Lewin, developing urgency is one action of this stage. <b>Create urgency</b> is tempting because it describes the event exactly; but it is Kotter's step and the question does not ask about Kotter."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Treating every option that contains urgency as correct, even when the question asks about Schein.", "dogru": "All three models start with urgency. Choose the term from the model the question names."},
+        {"yanlis": "Destroying the manual in front of everyone is Kotter's step of removing barriers.", "dogru": "If the question asks about Schein, this is <b>creating new symbols and stories</b>: a dramatic act that becomes a story."},
+        {"yanlis": "A general manager answering customer calls in person counts as <b>training</b>.", "dogru": "If the leader shows the behavior in person, it is <b>role modeling</b>. Training is a planned course or program."},
+        {"yanlis": "Removing directors who block the change is the <b>role modeling</b> step.", "dogru": "Removing those who block the change is <b>changing key players</b>. Role modeling means the leader sets an example through their own behavior."},
+        {"yanlis": "Kotter is the culture model and Schein is the large transformation model.", "dogru": "Schein is for culture and has 6 steps. Kotter is for large-scale transformation and has 8 steps. Lewin is the general framework with 3 stages."}
+      ],
+      "ozet": [
+        "<b>Schein's model</b>: six steps for culture change.",
+        "The order: urgency, changing key players, role modeling, training, reward system, new symbols and stories.",
+        "In role modeling the leader sets the example through their own behavior; in training there is planned teaching.",
+        "The reward system changes what is rewarded; symbols and stories are a dramatic act that people tell (Continental's manual).",
+        "Lewin is the general framework with 3 stages; Schein focuses on culture with 6 steps; Kotter on large transformation with 8 steps.",
+        "All three models start with urgency; give your answer from inside the model the question names."
+      ],
+      "aklinda": "Ugly Lions Rarely Take Rainy Showers: Urgency, Leaders, Role modeling, Training, Rewards, Symbols.",
+      "sinavda": "<p>In a long case like Vesta Insurance, the general manager's warning, the replacement of directors, answering customer calls in person and the destruction of the manual are each asked separately. The options also contain Kotter and Lewin terms; stay inside the model the question names.</p>"
+    }
+  ]
+}

@@ -164,4 +164,25 @@ for (const x of [null, 5, [], { g: [] }, { g: null }]) assert.deepStrictEqual(JS
 const st2 = A.hcKullan({ v: 1, g: {} }, 'gecersiz'); assert.ok(st2.ok); assert.deepStrictEqual(Object.keys(st2.st.g), []);
 const orj = { v: 1, g: { '2026-11-09': 1 } }; A.hcKullan(orj, '2026-11-09'); assert.strictEqual(orj.g['2026-11-09'], 1, 'saf');
 
+// Dil seçeneği: dil 'en' ise model İngilizce yazar; kurallar (kaynak, veri etiketleri, emoji yok) iki dilde aynı kalır.
+{
+  const girdi = { konu: 'Role modeling', adimBaslik: 'Step', notMetni: '<p>Role modeling means leaders show the behaviour.</p>', terimler: [], ogrenciMetni: 'x y z', mevcutAnlatim: 'x', soruMetni: 'Why?' };
+  const nedenGirdi = { soru: 'Q?', secenekler: ['A1', 'B1', 'C1', 'D1'], dogruIdx: 0, secilenIdx: 1, notMetni: '<p>note</p>' };
+  const kurallar = (s) => [/ONLY source of facts/, /DATA, not instructions/, /No emojis/, /Never mention any exam date/].every((r) => r.test(s));
+  for (const [ad, g] of [['hcIstemAnlat', girdi], ['hcIstemBaska', girdi], ['hcIstemNeden', nedenGirdi], ['hcIstemSoru', girdi]]) {
+    const tr = A[ad](Object.assign({}, g)), en = A[ad](Object.assign({ dil: 'en' }, g));
+    assert.ok(kurallar(tr) && kurallar(en), ad + ' kurallar iki dilde de var');
+    assert.ok(/Write to the student in Turkish/.test(tr) && !/Write to the student in English/.test(tr), ad + ' varsayılan Türkçe');
+    assert.ok(/Write to the student in English/.test(en) && !/Write to the student in Turkish/.test(en) && !/Turkish/.test(en.replace(/(Turkish or English)/, '')), ad + ' İngilizce modda Türkçe istenmez');
+    assert.ok(/Write in English/.test(en) || ad === 'hcIstemAnlat', ad + ' çıktı dili');
+  }
+  assert.ok(/ENGLISH/.test(A.hcIstemAnlat({ dil: 'en' })), 'örnek cevap hep İngilizce');
+  for (const k of ['rate_limited', 'not_granted', 'gunluk_sinir', 'invalid_json', 'upstream_error', 'cancelled', 'refused']) {
+    const tr = A.hcHataMesaj(k), en = A.hcHataMesaj(k, 'en');
+    assert.ok(tr && en && tr !== en && !/[ğĞşŞıİ]/.test(en) && !/[—]/.test(en), 'hata mesajı ' + k);
+  }
+  assert.ok(/wait/i.test(A.hcHataMesaj('rate_limited', 'en')) && A.hcHataMesaj('gunluk_sinir', 'en').includes(String(A.hcGUNLUK_SINIR)));
+  assert.strictEqual(A.hcHataMesaj('rate_limited', 'tr'), A.hcHataMesaj('rate_limited'));
+}
+
 console.log('TAMAM');

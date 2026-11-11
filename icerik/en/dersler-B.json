@@ -1,0 +1,765 @@
+{
+  "chapters": [
+    {
+      "ch": 4,
+      "ad": "Contemporary leadership: transformational, values-based and inclusive leadership",
+      "giris": "<p>In Chapter 3 you looked at leadership through a person's traits and behaviours. Chapter 4 starts with a more current question: what does a leader use to move people? At one end is the <b>transactional</b> leader, who asks for behaviour in return for rewards. At the other end is the <b>transformational</b> leader, who joins the employee's goals with the company's goals. Then come servant leadership, authentic leadership and LMX. The second lesson moves to values: ethical leadership, vulnerability, SCQA for ethical decisions, ten global trends, the six Cs of inclusive leadership and Conger's 21st-century leader. The common thread is this: modern leadership is built less on orders and rewards and more on trust, values and relationships.</p>",
+      "baglanti": "<p>The power, trait and behaviour approaches in Chapter 3 are the base of this chapter. Here you look at the relationship the leader builds with followers. In Chapter 5 you move to the two tools a leader uses most: communication and decision making. SCQA, which you learn here for ethical decisions, is a close relative of the decision models there.</p>",
+      "sinav": "<p>Chapter 4 belongs to Part 2 of the exam: 15 mini cases from chapters 3, 4, 8 and 10, worth 2 points each. This part does not test memorizing. It tests whether you can understand a concept and recognize it in a short scenario. c4a and c4b are each worth about 4 points. You need to link the behaviour in the scenario to the right leadership approach, or to the right one of the six Cs.</p>",
+      "okul": {
+        "once": "Before class, spend two minutes on the transformational and transactional table. Go into class with this question: how can a leader get people to work without giving rewards?",
+        "odak": [
+          "The four tools of the transformational leader and the example given for each",
+          "The timing difference between <b>active</b> and <b>passive management by exception</b>",
+          "The sentence that separates servant, authentic and ethical leadership",
+          "The order of the SCQA steps and the step where stakeholders come in",
+          "The example behaviour described for each of the six Cs"
+        ],
+        "sonra": "After class, first finish lesson c4a step by step and answer the question in each step. Then move on to c4b. Read the pitfalls sections of the two lessons side by side. Last, solve the scenario questions for this chapter in the question bank. For every question you get wrong, go back to the related step and read the explanation again."
+      }
+    },
+    {
+      "ch": 5,
+      "ad": "Communication and decision making",
+      "giris": "<p>A manager's day is mostly made of two jobs: getting and giving information, and making choices with that information. Chapter 5 explains both. The first lesson covers communication: how a message travels from sender to receiver, why it gets distorted on the way, and which channel suits which job. The second lesson covers decision making: types of decisions, four decision models, the errors that spoil decisions, and the benefits and traps of group decisions. The two are linked: poor communication means poor information, and poor information means poor decisions.</p>",
+      "baglanti": "<p>In Chapter 4 you saw how a leader influences people. The tool of that influence is communication, and the leader's real output is decisions. The strategy process in Chapter 6 is a large-scale version of the strategic decision and rational model logic you learn here.</p>",
+      "sinav": "<p>Chapter 5 belongs to Part 1 of the exam: 20 multiple-choice questions from chapters 1, 2, 5, 7 and 9, worth 2 points each. This part tests recall, so you need to know the exact English names of the terms and their definitions. c5a and c5b are each worth about 4 points.</p>",
+      "okul": {
+        "once": "Before class, look over the arrows of the communication process and the table of the four decision models. Go into class with this question: why do two people who hear the same message understand it differently?",
+        "odak": [
+          "Which side of the process <b>encoding</b> and <b>decoding</b> are on",
+          "The difference between filtering and selective perception in the barriers table",
+          "How the channels are ranked by information richness",
+          "The examples given for bounded rationality and satisficing",
+          "The difference between groupthink and social loafing, and the group techniques"
+        ],
+        "sonra": "After class, first finish lesson c5a step by step and answer the question in each step, then move on to c5b. Next, read the summary and pitfalls sections of both lessons. Last, solve this chapter's questions in the question bank. Part 1 tests recall, so for every term you get wrong, write its definition again in your own words."
+      }
+    },
+    {
+      "ch": 7,
+      "ad": "Goals, performance measurement and motivation",
+      "giris": "<p>Chapter 7 answers two questions: what does the organization want to achieve, and why do people make an effort to get there? The first lesson is about goals: the difference between a goal and an objective, MBO, which sets objectives together with the employee, the Balanced Scorecard, which tracks performance in four areas, SMART, the test of a good objective, KPI, which shows progress, and CSR and the triple bottom line, which deal with the effect on society. The second lesson covers motivation theories: Maslow, ERG, Herzberg and McClelland look at needs, while equity, expectancy, goal-setting and reinforcement look at processes. The two lessons meet in goal-setting theory: a well-built goal is also a motivation tool.</p>",
+      "baglanti": "<p>In Chapter 6 the mission, vision and strategy were set. Chapter 7 turns that strategy into measurable goals and explains the motivation that moves people toward them. Chapter 8 then looks at the environment where this work is done, the organizational structure and the culture.</p>",
+      "sinav": "<p>Chapter 7 belongs to Part 1 of the exam: 20 multiple-choice questions from chapters 1, 2, 5, 7 and 9, worth 2 points each, focused on recall. c7a and c7b are each worth about 4 points. You need to know the definitions, the exact order of the lists and which theory belongs to which family.</p>",
+      "okul": {
+        "once": "Before class, look over the four areas of the Balanced Scorecard and the Herzberg table. Go into class with this question: does a pay rise really motivate people?",
+        "odak": [
+          "The key words that separate the definitions of goal and objective",
+          "The four perspectives of the Balanced Scorecard and its non-financial measures",
+          "The differences between Maslow, ERG and Herzberg",
+          "The referent in equity theory and the five reactions to imbalance",
+          "The downsides of goal-setting theory"
+        ],
+        "sonra": "After class, first finish lesson c7a step by step and answer the question in each step, then move on to c7b. Next, read the pitfalls and summary sections of both lessons. Last, solve this chapter's questions in the question bank. Test yourself by writing Maslow's order and Herzberg's two lists on paper from memory."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c4a",
+      "ad": "Contemporary leadership: transformational, transactional, servant, authentic and LMX",
+      "sure": 28,
+      "neden": "<p>The mini cases in Part 2 tell you what a manager does and ask which leadership approach it is. In this lesson you learn the logic that separates five approaches: is the leader's tool a reward, a vision, service, their own values, or a separate relationship with each employee?</p>",
+      "hedefler": [
+        "Recognize the four tools of the transformational leader in a scenario.",
+        "Tell apart the three methods of the transactional leader, especially active and passive management by exception.",
+        "Explain the difference between servant and authentic leadership in one sentence.",
+        "Show the in-group and out-group relationship in LMX with a team example.",
+        "Explain why charisma is not required, and describe its dark side."
+      ],
+      "adimlar": [
+        {
+          "baslik": "The transformational leader: joining goals",
+          "anlatim": "<p>There are two basic ways to get a team to work. The first is to say “if you do this, you get that”. The second is to make people see the company's future as their own concern. <b>Transformational leaders</b> choose the second way: they align the employee's goals with the goals of the leader and the company. As a result, the employee works hard not only for pay, but because they care about the good of the company.</p><p>They do this with four tools. <b>Charisma</b> draws people to the leader. <b>Inspirational motivation</b> paints an exciting vision. <b>Intellectual stimulation</b> makes people question the current way of working and pushes them to think creatively. It does not accept “we have always done it this way” as an answer. <b>Individualized consideration</b> means the leader pays attention to each employee one by one and cares about their growth and well-being.</p><p>Two tools are mixed up most often in the exam. Creating excitement with a vision is inspirational motivation. Asking people “how can we do this differently?” and making them question the method is intellectual stimulation. One speaks to feelings, the other to thinking.</p>",
+          "ornek": "<p>In a fictional bike shop, the manager Selin tells the mechanics: “Do we always have to repair bikes in the order they arrive? Find a better way.” The team suggests a new system that separates jobs waiting for parts. This is <b>intellectual stimulation</b>: Selin promises no reward, she makes them question the usual method. The next day she sits down with the apprentice Efe and talks about the area he wants to specialize in. That is <b>individualized consideration</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Transformational leaders", "Intellectual stimulation", "Individualized consideration"],
+          "soru": {
+            "q": "At a small bakery, the manager tells her bakers: “Stop following the old recipe cards blindly. Question every step and find a better method.” Which transformational tool is she mainly using?",
+            "o": ["Intellectual stimulation", "Inspirational motivation", "Individualized consideration", "Charismatic attraction"],
+            "x": "The correct answer is intellectual stimulation, because the manager makes the bakers question the usual method and asks for a creative solution. The most tempting wrong answer is inspirational motivation, but that means creating excitement with a vision. Here there is no vision. A method is being questioned."
+          }
+        },
+        {
+          "baslik": "The transactional leader: behaviour in exchange for rewards",
+          "anlatim": "<p><b>Transactional leaders</b> build the relationship like a trade: you show the right behaviour, and I give you resources and rewards. This give-and-take, the <b>in exchange</b> logic, is the heart of this style. The transactional leader uses three methods.</p><p><b>Contingent rewards</b>: rewards that depend on success. Paying a bonus to those who reach the target is the typical example. <b>Active management by exception</b>: the leader leaves employees alone but keeps an eye on warning signs, and takes preventive action before a problem grows. <b>Passive management by exception</b>: the leader waits until something goes wrong and steps in only after the mistake appears.</p><p>The key to separating the two exception methods is timing: stepping in before the problem is active, stepping in after the problem is passive. There is also a name trap: management by exception and <b>MBO</b> (Management by Objectives) in Chapter 7 are different things. One means watching for exceptions, that is, problems. The other means setting objectives together with the employee.</p>",
+          "ornek": "<p>In a fictional parcel warehouse, the shift leader Murat checks the reports every day. When he sees that a conveyor belt is slowing down, he asks for maintenance before it breaks down. This is <b>active management by exception</b>. Gul, the leader of the other shift, deals with the belt only when it has stopped completely and the shipments are late. This is <b>passive management by exception</b>. Both focus on the exception. The difference is the moment they step in.</p>",
+          "kaynak": [0],
+          "terimler": ["Transactional leaders", "Contingent rewards", "Active management by exception", "Passive management by exception"],
+          "soru": {
+            "q": "A hotel front-desk supervisor ignores small guest complaints and only gets involved after a guest has written an angry online review. Which leadership behaviour is this?",
+            "o": ["Passive management by exception", "Active management by exception", "Contingent rewards", "Individualized consideration"],
+            "x": "The correct answer is passive management by exception, because the supervisor waits until the problem has grown and come into the open. Active management by exception looks tempting, but that means noticing the problem early and preventing it before it appears."
+          }
+        },
+        {
+          "baslik": "Which is more effective, and the place of charisma",
+          "anlatim": "<p>When the book compares the two styles, it gives a clear result. Transformational leadership builds <b>trust</b> and has the strongest effect on effectiveness and employee satisfaction. The reason is this: when followers see that the leader cares about them and speaks to their values, they trust the leader. Transactional leadership is effective too. The one exception is passive management by exception, because waiting until there is a problem does not count as effective. The best advice is to show both styles together: a bonus system tied to targets and an inspiring vision do not clash, they complete each other.</p><p><b>Charisma</b> is the leader's attraction and magnetism, which creates trust, commitment and admiration. It is one of the four tools of the transformational leader, but it is not the same thing as transformational leadership. The book says three things about charisma: it can be trained, it is not required to be effective, and it has a dark side. Skilling at Enron is given as an example of the dark side. Charismatic leadership stands out in social movements: the leaders of these movements rely on charisma more than on formal authority, because they have no position from which to give orders to their followers.</p>",
+          "ornek": "<p>In a fictional high school debate club, the coach Deniz is a calm and shy person. Still, Deniz gives each student personal attention and teaches them to question things, and the club is successful: charisma is not required. The coach of the rival club is a very impressive speaker, and persuades the students to use tactics that break the rules: the dark side of charisma.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Charisma"],
+          "soru": {
+            "q": "A new team leader at a call centre is quiet and not charismatic, but she coaches each agent personally and asks them to rethink old scripts. What does the book suggest about her chances?",
+            "o": ["She can be effective, because charisma is not required for good leadership", "She will fail, because transformational leaders must above all be charismatic", "She can only succeed if she switches to purely transactional rewards", "She should stop coaching, because personal attention lowers trust in leaders"],
+            "x": "The first option is correct: according to the book, charisma can be trained and is not required to be effective. This leader already uses individualized consideration and intellectual stimulation. The second option is tempting because charisma is one of the four tools, but it is not required on its own."
+          }
+        },
+        {
+          "baslik": "Servant leadership: others first",
+          "anlatim": "<p>In the classic picture, employees support the leader. <b>Servant leadership</b> turns this picture upside down: the leader's job is to serve the needs of others. This means developing employees, helping them reach their own goals and serving the community. The focus is on ethics and sacrifice: when needed, the leader gives up their own time and comfort. The book links this approach to Greenleaf and gives Abraham Lincoln as an example.</p><p>It is easy to confuse it with individualized consideration in transformational leadership, because both pay attention to the person. The difference is in the purpose. The transformational leader gives attention to the person in order to tie them to the company's goal. The attention is a tool. The servant leader puts service at the centre: the employee's growth and the good of the community are the goal in themselves.</p><p>In the exam, if you see a phrase like “puts employees first, develops them, makes personal sacrifices”, think of servant leadership.</p>",
+          "ornek": "<p>In a fictional hospital ward, the head nurse Ayten works shifts on her own days off so that the nurses can prepare for their specialist exam, and she draws up a career plan for each of them. She also organizes a free health day for the neighbourhood. Employee growth, sacrifice and service to the community come together: this is <b>servant leadership</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Servant leadership"],
+          "soru": {
+            "q": "The owner of a small bookshop works extra Saturdays so her staff can attend training, and she organizes free reading lessons for local children. Which approach fits best?",
+            "o": ["Servant leadership", "Authentic leadership", "Transactional leadership", "Charismatic leadership"],
+            "x": "The correct answer is servant leadership: the owner gives up her own time for the growth of her staff and for the community. Authentic leadership may look tempting, but its key is that the leader stays true to their own values and life story. Here the stress is on serving others."
+          }
+        },
+        {
+          "baslik": "Authentic leadership: be yourself",
+          "anlatim": "<p><b>Authentic leadership</b> can be summed up in one piece of advice: <b>be yourself</b>. The authentic leader knows themselves (self-awareness), acts in line with their values and draws strength from their own life experiences. The logic is this: sooner or later people notice a leader who is playing a role, but they trust a leader who acts in line with their values.</p><p>The example in the book is Howard Schultz at Starbucks: because of his father's experience, he gave health insurance to part-time employees too. The decision does not come from a calculation of rewards or from a general ideal of service. It comes from the leader's own life story.</p><p>Remember the difference from servant leadership like this. In servant leadership the question is “How can I serve others?”. In authentic leadership the question is “Am I true to my own values and my own story?”. If a scenario stresses the leader's past, personal experience or “who they are”, the answer is most likely authentic leadership.</p>",
+          "ornek": "<p>Kerem, the founder of a fictional software start-up, had to leave school as a student because he could not find a scholarship. When his company grows, he sets aside a scholarship fund every year for the children of his employees, and he explains the reason with his own story. The decision is born from the leader's values and from what he has lived through: <b>authentic leadership</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Authentic leadership"],
+          "soru": {
+            "q": "A restaurant chain founder who was once fired for caring for a sick parent now gives every employee paid family leave, and says the decision comes from her own story. Which approach does this show?",
+            "o": ["Authentic leadership", "Servant leadership", "Transformational leadership", "Leader-member exchange"],
+            "x": "The correct answer is authentic leadership, because the decision comes from the leader's own life experience and values. Servant leadership is a tempting option, but what the scenario stresses is not service. It is the leader staying true to her own story."
+          }
+        },
+        {
+          "baslik": "LMX: a separate relationship with each employee",
+          "anlatim": "<p>The approaches so far looked at the leader as if they had one single style toward the whole team. <b>LMX</b> (leader-member exchange) asks a different question: does the leader build the same relationship with every employee? The answer is no. The leader builds a separate relationship with each member, and the quality of that relationship changes from person to person.</p><p><b>High-quality LMX</b> is based on trust, liking and respect. Both sides go beyond the job description: the leader gives extra support and responsibility, and the employee does more than is required. These people become the <b>in-group</b>. <b>Low-quality LMX</b> is limited to the formal job: the employee does what the job description says, and the leader pays only as much attention as the job description needs. These people become the <b>out-group</b>.</p><p>If a scenario shows one leader who has relationships of different quality with different employees, the answer is not a leadership style. It is LMX.</p>",
+          "ornek": "<p>In a fictional football team, the coach Hakan discusses tactical decisions with the captain and two experienced players. In return, they volunteer to run extra training for the young players. His relationship with the other players is limited to the training plan and the squad list. The first group is the <b>in-group</b>, the second group is the <b>out-group</b>: this is <b>LMX</b>.</p>",
+          "kaynak": [4],
+          "terimler": ["LMX"],
+          "soru": {
+            "q": "In a design studio, the manager shares plans and extra projects with two trusted designers, who often work beyond their role, while the rest only get routine tasks. Which concept explains this?",
+            "o": ["Leader-member exchange", "Individualized consideration", "Servant leadership", "Contingent rewards"],
+            "x": "The correct answer is leader-member exchange: the same leader has relationships of different quality with different employees, so an in-group and an out-group have formed. Individualized consideration looks tempting, but that means the leader gives personal attention to everyone. Here some get attention and some do not."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A leader who asks employees to question assumptions is a transactional leader, because the leader is asking them for a piece of work.", "dogru": "Making people question assumptions and asking for original solutions is <b>intellectual stimulation</b>, which is transformational leadership. The transactional leader asks for behaviour in exchange for rewards."},
+        {"yanlis": "Giving a bonus to everyone who reaches the target is part of transformational leadership.", "dogru": "A bonus tied to success is <b>contingent rewards</b>, which is transactional leadership. The clue is the “if you do this, you get that” logic."},
+        {"yanlis": "Active and passive management by exception are the same, because both deal with problems.", "dogru": "The difference is in the timing: preventing the problem before it appears is <b>active</b>, stepping in after it appears is <b>passive</b>. Only the passive one counts as ineffective."},
+        {"yanlis": "Management by exception and MBO are the same management method.", "dogru": "Management by exception is a transactional method that watches for exceptions. <b>MBO</b> (Chapter 7) means setting objectives together with the employee."},
+        {"yanlis": "“Puts employees first and develops them” and “true to their own values and story” describe the same style.", "dogru": "The first is <b>servant</b> leadership, the second is <b>authentic</b> leadership. One looks at serving others, the other looks at the leader's own self."},
+        {"yanlis": "A person without charisma cannot be a good leader.", "dogru": "According to the book, charisma can be trained, is not required to be effective, and has a dark side."}
+      ],
+      "ozet": [
+        "Transformational: joins the employee's goals with the company's goals. Its tools are charisma, inspirational motivation, intellectual stimulation and individualized consideration.",
+        "Transactional: behaviour in exchange for rewards. Contingent rewards, active and passive management by exception.",
+        "Active prevents the problem early, passive arrives after the problem appears. The passive one counts as ineffective.",
+        "Transformational leadership builds trust and has the strongest effect on effectiveness. The best choice is to show both styles together.",
+        "Charisma can be trained, is not required, and has a dark side.",
+        "Servant: serving others, developing employees, sacrifice.",
+        "Authentic: “be yourself”, acting in line with your values, drawing strength from your own life experience.",
+        "LMX: the leader builds a different relationship with each member. The in-group has high quality, the out-group has only the formal job."
+      ],
+      "aklinda": "Transactional is a trade, transformational is a shared cause. Servant serves, authentic stays true to self, LMX does not treat everyone the same.",
+      "sinavda": "<p>In Part 2 you read a short scenario: a manager gives bonuses, waits for a problem, makes a decision based on their own story, or builds close relationships with some employees. Your job is to link the behaviour to the right approach and, if needed, to the right tool. The options always come from the same family, so look for the clue that sets one apart.</p>"
+    },
+    {
+      "id": "c4b",
+      "ad": "Values-based and ethical leadership, SCQA, global trends and inclusive leadership",
+      "sure": 30,
+      "neden": "<p>This lesson looks at what the leader does and why: values, ethical decisions, the changing conditions of the world and including different people. The Part 2 cases give scenarios here too: a CEO admits a mistake, a leader sets up a method that reduces bias. To find the right label, you need to know the logic of each concept.</p>",
+      "hedefler": [
+        "Match Copeland's three values-based leadership styles with their definitions.",
+        "Recognize vulnerability in a scenario and explain why it builds trust.",
+        "Apply the SCQA steps in order and show the step where stakeholders come in.",
+        "Sort the ten global trends into challenges and solutions.",
+        "Tell apart the six Cs and the concept of ethnocentrism using example behaviours."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Copeland's three values-based styles",
+          "anlatim": "<p>Copeland found that three leadership styles based on values are the most effective ones: authentic, ethical and transformational. What they share is that they look less at what the leader does and more at the values behind it.</p><p><b>Authentic leadership</b> is defined here like this: the leader is aware of their own thoughts and behaviour in the context they are in. In short, “be real”. It is the same idea as “be yourself” in c4a: self-awareness and acting in line with your values. <b>Ethical leadership</b> (Brown and colleagues) means showing normatively appropriate behaviour yourself and spreading it to followers in three ways: two-way communication, reinforcement and decision making. So the ethical leader is not only honest personally. They talk about honesty with the team, reward it and reflect it in their decisions. The <b>transformational</b> style, according to Bass and Riggio, means motivating people with a shared mission or challenge and empowering followers to grow as leaders themselves.</p><p>A tip for telling them apart: knowing yourself is authentic, showing and spreading what is right is ethical, growing people through a shared mission is transformational.</p>",
+          "ornek": "<p>In a fictional accounting office, the partner Leyla refuses a client's proposal to cheat on taxes. She talks about it openly with the team, praises in a meeting the intern who prepared an honest report, and changes the office's rule for accepting clients to match. She shows the right behaviour and spreads it through communication, reinforcement and decisions: <b>ethical leadership</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Ethical leadership", "Authentic leadership"],
+          "soru": {
+            "q": "A clinic director not only behaves honestly herself, but also discusses ethics with her staff, praises honest reporting and uses ethics as a criterion in her decisions. Which values-based style is this?",
+            "o": ["Ethical leadership", "Authentic leadership", "Transformational leadership", "Servant leadership"],
+            "x": "The correct answer is ethical leadership: the leader shows appropriate behaviour and spreads it to followers through two-way communication, reinforcement and decisions. Authentic leadership looks tempting, but that means the leader is aware of their own thoughts and behaviour and is real. It has no spreading side."
+          }
+        },
+        {
+          "baslik": "Vulnerability: sharing weakness builds trust",
+          "anlatim": "<p>Most leaders try to show that they know everything. <b>Vulnerability</b> is the opposite: taking a risk and opening yourself emotionally, that is, sharing your feelings and weaknesses. At first it looks as if this will weaken the leader's authority, but the book says the opposite: vulnerability builds trust.</p><p>Think about the logic this way. If a leader hides mistakes, the team hides mistakes too, because they learn that making a mistake is dangerous. When the leader says “I don't know this” or “I was wrong here”, it shows the team that being honest is safe. People trust someone who is open more easily.</p><p>It is a close relative of authentic leadership, but it is not the same thing. Authentic means acting in line with your values and being aware of yourself. Vulnerability is the courage to share that inner world with others. In the exam, if a leader openly admits a mistake, a fear or something they do not know in a meeting, the label is vulnerability.</p>",
+          "ornek": "<p>In a fictional game studio, after a game is delayed, the producer Can tells the whole team: “I planned the schedule badly and put you under pressure, and I am very ashamed of that.” He opens himself emotionally and shares his weakness. In the next project the team starts to report problems earlier: <b>vulnerability</b> has built trust.</p>",
+          "kaynak": [0],
+          "terimler": ["Vulnerability"],
+          "soru": {
+            "q": "During a staff meeting, the head of a language school says: “I was wrong about the new timetable, and honestly, I was afraid to admit it.” Which concept does this behaviour illustrate?",
+            "o": ["Vulnerability", "Authentic leadership", "Ethical leadership", "Cognizance of bias"],
+            "x": "The correct answer is vulnerability: the head takes an emotional risk by openly sharing a mistake and a fear. Authentic leadership is the most tempting wrong answer, but that is about acting in line with your own values. Opening your weakness to others is a separate concept."
+          }
+        },
+        {
+          "baslik": "SCQA: making an ethical decision step by step",
+          "anlatim": "<p>An ethical dilemma is a situation where two legitimate responsibilities clash. The example in the book: a production method that is legal but harms the local community. The problem is not in the law. The company's economic interest clashes with its responsibility to stakeholders. In a situation like this, <b>SCQA</b> is used to move step by step instead of deciding by instinct.</p><p><b>S</b>ituation: first assess the situation and make clear what is happening. <b>C</b>omplication: who are the <b>stakeholders</b>? Identify them one by one and look at the matter through their eyes. <b>Q</b>uestion: what alternatives do I have, and how does each one affect the stakeholders? Also, how will this action make me feel about myself? <b>A</b>nswer: make your decision and monitor the results.</p><p>The logic of the order: you cannot see the stakeholders before you understand the situation, and you cannot weigh who the alternatives affect before you see the stakeholders. The point asked most often is that identifying the stakeholders happens in the <b>Complication</b> step, not in the Question step. And Answer does not end with the decision. It includes monitoring the results.</p>",
+          "ornek": "<p>Banu, the manager of a fictional dairy factory, thinks about releasing waste water in a way that is within the legal limit but will make the village stream cloudy. First she examines the situation (S). Then she lists the villagers, the employees and the partners and looks through the eyes of each (C). She weighs options such as building a treatment unit or cutting production, and asks how she will feel about herself (Q). She chooses treatment and monitors its effect (A).</p>",
+          "kaynak": [1],
+          "terimler": ["SCQA"],
+          "soru": {
+            "q": "A toy company manager facing an ethical dilemma has already assessed the situation. Next, he lists everyone affected by the decision and looks at it from their point of view. Which SCQA step is he in?",
+            "o": ["Complication", "Situation", "Question", "Answer"],
+            "x": "The correct answer is Complication: identifying the stakeholders and looking at the matter through their eyes happens in this step. Question looks tempting because it also mentions stakeholders. But in Question you weigh the alternatives and their effect on stakeholders, and the stakeholders are already identified."
+          }
+        },
+        {
+          "baslik": "The corporation as a social movement",
+          "anlatim": "<p>A <b>social movement</b> is group action that focuses on a political or social issue. The book adds an interesting idea here: corporations can also act like social movements. Beyond the aim of profit, a company can take up a social cause and gather its employees, its customers and other people around that cause.</p><p>The leaders of such movements rely on charisma, not on formal authority. The reason is simple: most of the people in the movement are not employees who report to the leader. You cannot give orders to a volunteer or a customer. You can only bring them into the movement by convincing and influencing them. This is why the concept of charisma from c4a comes back here.</p><p>The point you need to separate is this: if a company mobilizes people for a social purpose and its leaders influence through attraction instead of orders, this is not an ethical dilemma. It is a corporation acting like a social movement. In an ethical dilemma there are two responsibilities that clash. In a social movement there is a shared cause that unites people.</p>",
+          "ornek": "<p>A fictional bike maker starts a “Sunday Streets” campaign to spread cycling in the city in place of cars. Its founder Mert has no authority over the volunteers and customers, but with his passionate speeches he persuades thousands of people to join. The company is working like a <b>social movement</b>, and the leader relies on charisma.</p>",
+          "kaynak": [1],
+          "terimler": ["Social movement"],
+          "soru": {
+            "q": "A tea company launches a nationwide campaign against single-use cups. Its founder has no authority over the volunteers who join, so he relies on personal charm and passion. What does this illustrate?",
+            "o": ["A corporation acting as a social movement", "An ethical dilemma between profit and people", "Passive management by exception in action", "An example of ethnocentrism in leadership"],
+            "x": "The first option is correct: the company starts group action on a social issue, and the leader relies on charisma instead of authority. The ethical dilemma option is tempting because the topic is about the environment. But there are no two clashing responsibilities here. There is a shared cause."
+          }
+        },
+        {
+          "baslik": "Ten global trends: five challenges, five solutions",
+          "anlatim": "<p>Leaders do not work in empty space. As the world changes, what people expect from leadership changes too. The book splits ten global trends into two groups: five <b>challenges</b> that leaders face and five <b>solutions</b> that make it easier to deal with those challenges.</p><p>The five challenges: <b>increasing concern for the environment</b>, <b>greater personalization and customization</b>, <b>faster pace of innovation</b>, <b>increasing complexity</b> and <b>increasing competition for talent</b>. All of them are pressures that make the leader's job harder: customers want more, products get old quickly, and good employees are harder to find.</p><p>The five solutions: <b>becoming more connected</b>, <b>becoming more global</b>, <b>becoming more mobile</b>, <b>rise of the creative class</b> and <b>increasing collaboration</b>. These are the opportunities in the leader's hands. A way to remember them: read the challenges as “growing pressure” and the solutions as “more connection, reach and creativity”. The exam asks you to put a trend in the right column.</p>",
+          "ornek": "<p>A fictional furniture workshop struggles because customers want every table made to their own size and good carpenters move to rivals: personalization and competition for talent, two <b>challenges</b>. The workshop starts to run joint projects over the internet with designers in different cities: becoming more connected and increasing collaboration, two <b>solutions</b>.</p>",
+          "kaynak": [2],
+          "terimler": [],
+          "soru": {
+            "q": "A consultant sorts global trends for a leadership workshop. Which pair is classified the way the book does it?",
+            "o": ["Increasing complexity: challenge · Becoming more mobile: solution", "Rise of the creative class: challenge · Faster innovation: solution", "Increasing collaboration: challenge · Talent competition: solution", "Becoming more global: challenge · Environmental concern: solution"],
+            "x": "The first option is correct: increasing complexity is a challenge, and becoming more mobile is a solution. The other options swap the columns. For example, the rise of the creative class is a solution, while the faster pace of innovation is a challenge."
+          }
+        },
+        {
+          "baslik": "Inclusive leadership, the six Cs and ethnocentrism",
+          "anlatim": "<p><b>Inclusive leadership</b>, in the definition of Bortini and colleagues, is the courage to take conscious steps to remove the barriers in front of people who are at risk of being excluded. It focuses on relationships, values differences and speaks up for voices that are traditionally not heard. The topic is covered under the heading DEI (diversity, equity and inclusion).</p><p>Dillon and Bourke list the six traits of the inclusive leader as the <b>Six Cs</b>. <b>Commitment</b>: being truly committed to inclusion. <b>Courage</b>: taking brave steps to remove barriers. <b>Cognizance of bias</b>: knowing personal and organizational biases. <b>Curiosity</b>: being curious about different people and points of view. <b>Cultural intelligence</b>: understanding other cultures. <b>Collaborative</b>: bringing differences together and working together.</p><p>The opposite of this is <b>ethnocentrism</b>: believing that your own culture is superior to all other cultures. The pair mixed up most often in the exam: knowing biases and taking measures against them is cognizance of bias, understanding other cultures and adapting to them is cultural intelligence.</p>",
+          "ornek": "<p>In a fictional hospital, the chief physician Elif notices that graduates of the same school are always chosen for promotion, so she removes names and school names from the evaluation files: <b>cognizance of bias</b>. When the number of migrant patients grows, she teaches her team the cultural habits of these patients and adapts the appointment system to them: <b>cultural intelligence</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Inclusive leadership", "Six Cs", "Ethnocentrism"],
+          "soru": {
+            "q": "A sports club coach notices she always picks players from her own neighbourhood for the first team, so she introduces blind skill tests. Which of the Six Cs does this show most clearly?",
+            "o": ["Cognizance of bias", "Cultural intelligence", "Curiosity", "Commitment"],
+            "x": "The correct answer is cognizance of bias: the coach notices her own bias and sets up a method that reduces it. Cultural intelligence is tempting, but that means understanding other cultures and adapting to them. Here the issue is not culture. It is personal bias."
+          }
+        },
+        {
+          "baslik": "Conger: the leader of the 21st century",
+          "anlatim": "<p>Conger lists the traits expected from 21st-century leaders. You can read this list as a natural result of the trends in this lesson: as the world becomes more complex, more global and more diverse, the leader needs traits that fit it.</p><p>These are the six traits. <b>Strategic opportunists</b>: those who see and seize opportunities in a changing environment. <b>Globally aware</b>: those who follow what happens in other parts of the world. <b>Able to manage decentralized organizations</b>: those who can work with structures where decisions come from different units, not from one centre. <b>Sensitive to diversity</b>: those who value different people. <b>Interpersonally competent</b>: those who are skilled at building and keeping relationships. <b>Builders of community</b>: those who unite people around a shared sense of belonging.</p><p>See the links: sensitive to diversity is close to inclusive leadership, globally aware is close to the global trends, and builders of community is close to the social movement idea. If you link them like this, you do not need to memorize the list dry. You can rebuild it from its logic.</p>",
+          "ornek": "<p>Ozan, the regional manager of a fictional coffee chain, gives the branch managers in five cities the authority to make their own decisions, follows coffee trends in other countries and sets up a shared “neighbourhood day” across the branches. He manages a decentralized structure, he is globally aware and he builds community: the profile of Conger's 21st-century leader.</p>",
+          "kaynak": [4],
+          "terimler": [],
+          "soru": {
+            "q": "A recruiter is looking for a leader who spots opportunities, follows world events, can run decentralized units and builds community. Whose list of 21st-century leader traits is she using?",
+            "o": ["Conger", "Copeland", "Dillon & Bourke", "Bass & Riggio"],
+            "x": "The correct answer is Conger: seizing opportunities, global awareness, managing decentralized organizations and building community are on his list for the 21st-century leader. Dillon and Bourke may be tempting, but their list is the six Cs of the inclusive leader."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A production method that is legal does not create an ethical problem.", "dogru": "A method that is legal but harmful becomes an <b>ethical dilemma</b>, because economic interest clashes with responsibility to stakeholders."},
+        {"yanlis": "Being aware of biases and understanding cultures are the same C.", "dogru": "Being aware of personal and organizational biases is <b>cognizance of bias</b>. Understanding other cultures is <b>cultural intelligence</b>."},
+        {"yanlis": "In SCQA, stakeholders are identified in the Question step.", "dogru": "Stakeholders are identified in the <b>Complication</b> step. In the Question step you weigh the alternatives and their effects on stakeholders."},
+        {"yanlis": "Vulnerability means the leader looks weak, and it lowers trust.", "dogru": "According to the book, sharing feelings and weaknesses raises trust."},
+        {"yanlis": "Rise of the creative class and faster pace of innovation are in the same column.", "dogru": "According to the book, faster pace of innovation is a <b>challenge</b>, while rise of the creative class is a <b>solution</b>."},
+        {"yanlis": "To be an ethical leader, it is enough for the leader to be honest personally.", "dogru": "The ethical leader shows appropriate behaviour and spreads it to followers through two-way communication, reinforcement and decisions."}
+      ],
+      "ozet": [
+        "According to Copeland, the three most effective values-based styles are authentic, ethical and transformational.",
+        "Ethical leadership: show the right behaviour, and spread it through communication, reinforcement and decisions.",
+        "Vulnerability: sharing feelings and weaknesses. It builds trust.",
+        "SCQA order: assess the situation (Situation), see the stakeholders (Complication), weigh the options (Question), decide and monitor (Answer).",
+        "A corporation can act like a social movement. The leaders of such movements rely on charisma, not on authority.",
+        "Five challenges: concern for the environment, personalization, pace of innovation, complexity, competition for talent.",
+        "Five solutions: becoming more connected, more global and more mobile, rise of the creative class, increasing collaboration.",
+        "The six traits of the inclusive leader: commitment, courage, cognizance of bias, curiosity, cultural intelligence, collaborative. The opposite is ethnocentrism.",
+        "Conger's leader is an opportunist, globally aware, able to manage a decentralized structure, sensitive to diversity, interpersonally competent and a builder of community."
+      ],
+      "aklinda": "In SCQA, stakeholders come in at C. The twin Cs: knowing your own bias is cognizance of bias, knowing someone else's culture is cultural intelligence.",
+      "sinavda": "<p>In Part 2 this lesson mostly comes as a behaviour scenario: a leader admits a mistake, sets up a system that reduces bias, or lists the stakeholders. To find the right label, look at the purpose of the behaviour: is it opening yourself up, knowing your bias, understanding a culture, or a certain step of the decision process?</p>"
+    },
+    {
+      "id": "c5a",
+      "ad": "Communication: process, barriers and channels",
+      "sure": 26,
+      "neden": "<p>Managers spend 50 to 90 percent of their time communicating. That is why the exam likes communication too: what is the name for putting an idea into words, what is the name for two people reading the same news differently, which type of communication is a facial expression? This lesson helps you build the process, the nine barriers and the channels with their logic.</p>",
+      "hedefler": [
+        "Explain the definition of communication and its three functions in an organization.",
+        "Place sender, encoding, channel, decoding, receiver, feedback and noise in a scenario.",
+        "Tell apart the nine communication barriers using example behaviours.",
+        "Compare verbal, written and nonverbal communication and the information richness of channels.",
+        "Show the four directions of communication in an organization example."
+      ],
+      "adimlar": [
+        {
+          "baslik": "What communication is and what it does in an organization",
+          "anlatim": "<p><b>Communication</b> is the process by which information is exchanged between individuals through a common system of symbols, signs or behaviour. The key word in the definition is “common”: if the two sides do not use the same symbols with the same meaning, the information is not really passed on. Most of the barriers you will see soon also come from a break in this common ground.</p><p>According to the book, managers spend 50 to 90 percent of their time communicating. Meetings, e-mails, phone calls, chats in the corridor: a large part of management is in fact talking, writing and listening.</p><p>Communication has three functions in an organization. <b>Transmitting information</b>: getting information to whoever needs to know it. <b>Coordinating effort</b>: fitting the work of different people together. <b>Sharing emotions and feelings</b>: passing on feelings such as joy, worry or appreciation. Do not skip the third one: communication does not only carry information, it also carries the mood of the team.</p>",
+          "ornek": "<p>In a fictional pizza shop, the manager Tolga announces the new menu prices in the morning meeting (<b>transmitting information</b>), sets the working hours of the bakers and the couriers to fit each other (<b>coordinating effort</b>) and tells his team how proud he is of them after last week's heavy overtime (<b>sharing emotions and feelings</b>). Three functions in one meeting.</p>",
+          "kaynak": [0],
+          "terimler": ["Communication"],
+          "soru": {
+            "q": "After a very hard week, a ward manager in a fictional hospital tells the nurses how proud she is of them. Which function of organizational communication is this mainly serving?",
+            "o": ["Sharing emotions and feelings", "Transmitting information", "Coordinating effort", "Giving formal feedback"],
+            "x": "The correct answer is sharing emotions and feelings: the manager is not passing on new information or a work plan, she is passing on a feeling. Transmitting information looks tempting because something is being said. But what is said is not information. It is appreciation and pride."
+          }
+        },
+        {
+          "baslik": "The communication process: from encoding to feedback",
+          "anlatim": "<p>Think of communication as the journey of a parcel. The <b>sender</b> is the person who has the idea and starts the communication. While the idea stays in the head it reaches nobody, so the sender uses <b>encoding</b> to turn it into symbols: words, diagrams, numbers. The encoded message sets off through a <b>channel</b> or medium: verbal, written or nonverbal. The <b>receiver</b> gets the message and does the <b>decoding</b>, that is, gives the message a meaning. Last, the receiver sends <b>feedback</b> to the sender. This shows whether the message was understood correctly.</p><p>There is one danger along the way: <b>noise</b>, anything that interferes with the message or distorts it. Noise can be in the environment (a crowded hall), in the receiver (tiredness) or in the sender (a messy explanation). So noise is not only sound that reaches the ear.</p><p>The distinction the exam likes: encoding happens on the sender's side, decoding on the receiver's side. Putting an idea into words and tables is encoding. Interpreting a message that arrives is decoding.</p>",
+          "ornek": "<p>In a fictional student project group, Zeynep turns her idea for the presentation into a flow chart (<b>encoding</b>) and sends it to the group chat (<b>channel</b>). Arda reads the chart and gives it a meaning, “so we do the survey first” (<b>decoding</b>), and writes “Got it, I will prepare the survey” (<b>feedback</b>). If Arda is watching a match at that moment, his attention is split: <b>noise</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Sender", "Encoding", "Receiver", "Decoding", "Noise"],
+          "soru": {
+            "q": "Before a budget meeting, a café owner turns her rough ideas into a short slide with numbers and a chart. Which part of the communication process is she performing?",
+            "o": ["Encoding", "Decoding", "Feedback", "Noise"],
+            "x": "The correct answer is encoding: the sender turns her idea into numbers and a chart, that is, into symbols. Decoding is the most tempting wrong answer, but that means giving meaning to a message on the receiver's side. Here the message has not reached anyone yet."
+          }
+        },
+        {
+          "baslik": "Barriers 1: how information gets cut and bent",
+          "anlatim": "<p>On paper the process looks smooth, but in real life the message often gets distorted. The book counts nine barriers. The first four are about the information itself and how people handle it.</p><p><b>Filtering</b>: distorting or holding back information to manage someone's reaction. The sender does this on purpose. Taking only the good news to the boss is the typical example. <b>Selective perception</b>: filtering what you see and hear so that it fits your own needs and beliefs. The receiver does this, most of the time without noticing: one person sees the same news as an opportunity and another sees it as a threat, because their past experiences are different. <b>Information overload</b>: getting more information than you can take in. The important message gets lost in the crowd. <b>Emotional disconnects</b>: if the sender or the receiver is upset or angry, the message is ignored or distorted.</p><p>Do not mix up the first two. In filtering, the information is cut on purpose before it is sent. In selective perception, the information arrives complete, but the receiver reads it through their own glasses.</p>",
+          "ornek": "<p>In a fictional hotel chain, the sales manager does not tell the general manager that the occupancy rate has fallen, and talks only about the weekends that went well: <b>filtering</b>. In the same meeting a new booking system is announced. The receptionist who loves technology hears it as a convenience, while the accountant who has spent years with the old system hears it as extra work: <b>selective perception</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Filtering", "Selective perception", "Information overload"],
+          "soru": {
+            "q": "A team leader at a fictional gym receives 300 e-mails a day and misses the one message about a broken treadmill. Which barrier best explains this?",
+            "o": ["Information overload", "Selective perception", "Filtering", "Emotional disconnect"],
+            "x": "The correct answer is information overload: the person gets more information than they can process, and the important message gets lost in the crowd. Filtering is tempting, but that means the sender holds information back on purpose. Here nobody held anything back."
+          }
+        },
+        {
+          "baslik": "Barriers 2: source, gossip and words",
+          "anlatim": "<p>The other five barriers are more about who the source is and how words are understood. <b>Lack of source familiarity or credibility</b>: if there is no shared context, or if the sender is not a trusted person, the message is not taken seriously. <b>Workplace gossip</b>, also called the <b>grapevine</b>: informal information that may or may not be true. When no official statement comes, this channel usually fills the gap.</p><p><b>Semantics</b>, that is, <b>differences in meaning</b>: the same word means different things to different people. Age, culture and jargon create this difference. This barrier appears at the receiver's decoding stage. <b>Gender differences</b>: different communication styles. <b>Biased language</b>: words that create stereotypes, hurt people or exclude them.</p><p>Do not mix up the grapevine with filtering: filtering is the deliberate cutting of information in the official channel, while the grapevine is information of uncertain truth that travels outside the official channel.</p>",
+          "ornek": "<p>In a fictional supermarket chain, a rumour goes round among the cashiers that “the branch is closing”, when in fact there will only be a renovation: the <b>grapevine</b>. In the same week a young manager writes about a campaign “this one is wicked”, meaning it is very good. The older employees read it as negative: <b>semantics</b>, the difference in meaning appears during decoding.</p>",
+          "kaynak": [2],
+          "terimler": ["Grapevine"],
+          "soru": {
+            "q": "Staff at a fictional cinema hear from colleagues that bonuses will be cancelled, although management has said nothing and the story turns out to be false. Which barrier is at work?",
+            "o": ["Workplace gossip (grapevine)", "Filtering of information", "Lack of source credibility", "Differences in meaning"],
+            "x": "The correct answer is the grapevine: informal information, which turns out to be false here, spreads from person to person. Filtering is tempting, but that means official information is cut on purpose by the sender. Here management sent no information at all."
+          }
+        },
+        {
+          "baslik": "Listening and active listening",
+          "anlatim": "<p>When people think of communication they think of talking, but most of the time goes to listening. According to the book, employees spend 55 percent of their time listening, and for leaders the figure goes up to 70 percent. It makes sense: a leader bases decisions largely on information that others bring.</p><p><b>Active listening</b> is the conscious form of listening, and it has three parts. Full attention: focusing on the speaker, not on a phone or a screen. Not interrupting: letting the other person finish their sentence. Reflecting and asking questions: saying back what you heard, “So you mean this?”, and asking questions to make things clear.</p><p>Why does it work? Reflecting makes the receiver's decoding visible to the sender, so it strengthens the feedback step of the process. If there is a misunderstanding, it comes out at once and gets corrected. For this reason, active listening is a practical cure for barriers from the earlier steps, such as selective perception or differences in meaning.</p>",
+          "ornek": "<p>In a fictional vet clinic, Dr. Asli closes her computer while she listens to a worried pet owner, does not interrupt, and at the end asks: “You are saying the cat has eaten little for three days and vomited yesterday, is that right?” Full attention, no interrupting and reflecting all together: <b>active listening</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Active listening"],
+          "soru": {
+            "q": "During a one-to-one, a store manager puts her phone away, lets the employee finish, then says: “So you feel the rota is unfair, is that right?” What is she practising?",
+            "o": ["Active listening", "Selective perception", "Encoding a message", "Downward communication"],
+            "x": "The correct answer is active listening: she gives full attention, does not interrupt, reflects what she heard and asks a question. Encoding may look tempting because she is speaking. But she is not turning her own idea into symbols. She is checking the other person's message."
+          }
+        },
+        {
+          "baslik": "Verbal, written and nonverbal communication",
+          "anlatim": "<p>A message can travel in three kinds of ways. <b>Verbal (oral)</b> communication: phone, video call, meeting, face-to-face talk. According to the book it is better for conveying emotions, because tone of voice and an instant reply come with the message. <b>Written</b> communication: memo, e-mail, text message, letter, manual, policy document. It is better for conveying facts. It is permanent and can be read again. <b>Nonverbal</b> communication: facial expression, body posture, tone of voice.</p><p>The weight of nonverbal communication is surprising: according to the book, about 55 percent of face-to-face communication is nonverbal, and the share that comes from the words themselves is only 7 percent. That is why the same sentence is understood very differently when it is said with a frown or with a smile.</p><p>The exam asks you to classify: a facial expression is nonverbal, a phone call is verbal, a memo or text message is written. Be careful: a phone call is verbal, not written, and a text message is written, not verbal. The rule: if the words are spoken it is verbal, if they are put in writing it is written, if there are no words it is nonverbal.</p>",
+          "ornek": "<p>In a fictional nursery, the manager Burcu tells parents about the new school bus times with a written notice: <b>written</b> for facts. But she phones a parent whose child fell in the playground, because the worry needs to be calmed: <b>verbal</b> for emotions. The next day, while they talk face to face, she notices that the parent crosses their arms and tenses up. That is a <b>nonverbal</b> cue.</p>",
+          "kaynak": [3],
+          "terimler": [],
+          "soru": {
+            "q": "A youth football coach must share next month's new training times, and players need to be able to check them again later. Which type of communication does the book recommend?",
+            "o": ["Written communication", "Verbal communication", "Nonverbal communication", "Informal grapevine"],
+            "x": "The correct answer is written: according to the book, written communication is better for conveying facts and can be read again. Verbal is tempting, but that fits better for conveying emotions. For facts such as training times, written is preferred."
+          }
+        },
+        {
+          "baslik": "Information richness and the direction of communication",
+          "anlatim": "<p>Channels are not equal. <b>Information richness</b> is the amount of nonverbal information a channel carries. Face-to-face talk, phone and video call are the richest channels, because tone of voice and often facial expression come along with the message. E-mail, blogs and memos are in the middle. Formal documents and spreadsheets are the leanest channels. They carry almost nothing but words and numbers. The logic: the more sensitive and emotional the message is, the richer the channel you should choose. You give bad news face to face, not in a spreadsheet.</p><p>Communication also has a direction. <b>Downward</b>: from leaders to employees. <b>Upward</b>: from front-line employees to management. <b>Horizontal/lateral</b>: between colleagues at the same level. <b>Diagonal</b>: across both different levels and different departments.</p><p>To separate horizontal from diagonal, ask two questions: is it the same level, and is it the same department? If the colleagues are at the same level, it is horizontal. If both the level and the department are different, it is diagonal.</p>",
+          "ornek": "<p>In a fictional toy factory, a worker on the assembly line sends a suggestion directly to the manager of the packaging department: a different department and a different level, so it is <b>diagonal</b>. On the same day two shift leaders discuss break times between themselves: <b>horizontal</b>. When the general manager announces the new safety rule to all employees, that is <b>downward</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Information richness"],
+          "soru": {
+            "q": "A project leader ranks three channels for a sensitive message, from richest to leanest. Which ranking matches the book?",
+            "o": ["Video call, e-mail, spreadsheet", "E-mail, video call, spreadsheet", "Spreadsheet, e-mail, video call", "E-mail, spreadsheet, video call"],
+            "x": "The correct answer is video call, e-mail, spreadsheet: the video call is the richest channel, e-mail is in the middle and the spreadsheet is the leanest. The second option may be tempting because e-mail is fast. But it carries no nonverbal information, so it is leaner than a video call."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Putting an idea into words and diagrams is decoding.", "dogru": "This is <b>encoding</b>, and it happens on the sender's side. <b>Decoding</b> is the receiver giving meaning to the message."},
+        {"yanlis": "If one person sees the same news as an opportunity and another sees it as a threat, this is filtering.", "dogru": "This is <b>selective perception</b>: the receiver filters the information through their own experience. Filtering means the sender cuts the information on purpose."},
+        {"yanlis": "A phone call is written communication and a facial expression is verbal communication.", "dogru": "A phone call is <b>verbal</b>, a facial expression is <b>nonverbal</b>, and a memo or text message is <b>written</b> communication."},
+        {"yanlis": "Noise is only loud sound in the environment.", "dogru": "Noise is anything that distorts the message. It can be in the environment, in the receiver or in the sender."},
+        {"yanlis": "Every conversation with someone from another department is horizontal.", "dogru": "Between colleagues at the same level it is <b>horizontal</b>. If both the department and the level are different, it is <b>diagonal</b>."}
+      ],
+      "ozet": [
+        "Communication is the exchange of information through a common system of symbols. Managers spend 50 to 90 percent of their time on it.",
+        "Three functions: transmitting information, coordinating effort, sharing emotions and feelings.",
+        "The process: the sender encodes, the message travels through a channel, the receiver decodes, feedback returns. Noise can distort it at any point.",
+        "First four barriers: cutting information on purpose (filtering), reading it through your own glasses (selective perception), information overload and emotional disconnects.",
+        "The other five barriers: lack of trust in the source, the grapevine, differences in meaning, gender differences, biased language.",
+        "Active listening: full attention, not interrupting, reflecting and asking questions.",
+        "Verbal communication is for emotions, written communication is for facts. 55 percent of face-to-face communication is nonverbal and 7 percent is words.",
+        "Information richness: face-to-face talk, phone and video call are the richest, e-mail is in the middle, formal documents and spreadsheets are the leanest.",
+        "Directions: downward, upward, horizontal and diagonal."
+      ],
+      "aklinda": "Encoding is with the sender, decoding is with the receiver. Filtering: the sender cuts on purpose. Selective perception: the receiver filters without noticing.",
+      "sinavda": "<p>In Part 1 this lesson comes as short definition and classification questions: which step of the process an action is, which barrier is at work, whether a cue is verbal, written or nonverbal, and which channel is the richest. Recognizing the exact English term earns you points directly here.</p>"
+    },
+    {
+      "id": "c5b",
+      "ad": "Decision making: types, four models, decision errors and group decisions",
+      "sure": 32,
+      "neden": "<p>According to the book, about half of leaders' decisions fail. In this lesson you will see why: choosing the wrong model, getting caught by the errors of the mind, or falling into a group trap. Part 1 asks about many terms here: programmed, satisfice, incubation, anchoring, groupthink. If you know the logic of each one, you will recognize it at once in a short scenario.</p>",
+      "hedefler": [
+        "Tell apart programmed and nonprogrammed decisions, and strategic, tactical and operational decisions.",
+        "Match the four decision models with when to use them.",
+        "Write the steps of the rational model and the creative model in order.",
+        "Recognize the six decision errors using example behaviours.",
+        "Separate groupthink, social loafing and the seven group techniques from each other."
+      ],
+      "adimlar": [
+        {
+          "baslik": "What a decision is: programmed and nonprogrammed decisions",
+          "anlatim": "<p><b>Decision making</b> is choosing among alternative courses of action, and doing nothing is one of those alternatives. So saying “let's wait for now” is also a decision. According to the book, about half of leaders' decisions fail, which is why the way we decide matters.</p><p>First we sort decisions by how often they are made. A <b>programmed decision</b> is repeated so often that we develop an automatic answer to it: a <b>decision rule</b>. An example: placing an automatic order when stock falls to a certain level. You do not need to think each time. The rule makes the decision. A <b>nonprogrammed decision</b> is unique and important. It needs conscious thinking, information gathering and careful evaluation. The examples in the book are a crisis situation and McDonald's decision to stop using trans fats.</p><p>The question for telling them apart: has this situation happened many times before, and is there a rule? If yes, it is programmed. If it is new, big and has no rule, it is nonprogrammed.</p>",
+          "ornek": "<p>In a fictional pharmacy, when the boxes of painkillers fall below 20, the system places an automatic order with the wholesaler: a <b>programmed decision</b>. When a big chain pharmacy opens on the same street, the owner of that pharmacy spends weeks gathering information and thinking about what to do: a <b>nonprogrammed decision</b>.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Programmed decision", "Nonprogrammed decision"],
+          "soru": {
+            "q": "A fictional bike rental shop has a rule: whenever a tyre's tread falls below 2 mm, the tyre is replaced without any discussion. What kind of decision is this?",
+            "o": ["A programmed decision", "A nonprogrammed decision", "A strategic decision", "An intuitive decision"],
+            "x": "The correct answer is a programmed decision: the situation repeats often and an automatic decision rule is tied to it. Nonprogrammed is wrong, because that is for unique decisions that need careful analysis. Here the rule makes the decision by itself."
+          }
+        },
+        {
+          "baslik": "Decisions by level of the organization",
+          "anlatim": "<p>We also sort decisions by their level in the organization. Think of the floors of a building. On the top floor are <b>strategic decisions</b>: they are long term and set the direction of the organization, such as which market to enter or which business to leave. On the middle floor are <b>tactical decisions</b>: medium-term action plans about how things will get done. They decide how the strategy is put into practice. On the ground floor are <b>operational decisions</b>: the decisions employees make every day to run the organization.</p><p>Why three levels? The longer the effect of a decision lasts and the wider the area it covers, the higher its level. Daily decisions are short term and narrow, while strategic decisions shape years of the organization's life.</p><p>This classification answers a different question from the programmed and nonprogrammed split: one looks at frequency, the other at level. In the exam, if you see “decisions employees make every day”, the question is about level and the answer is operational.</p>",
+          "ornek": "<p>A fictional café chain decides to open in a second city: <b>strategic</b>. The regional manager prepares a six-month hiring and training plan for the new branches: <b>tactical</b>. When a barista decides in the morning how much of which milk to prepare, that is <b>operational</b>.</p>",
+          "kaynak": [1],
+          "terimler": [],
+          "soru": {
+            "q": "The managers of a fictional gym chain draw up a six-month action plan for how the new membership system will be rolled out in all branches. Which level of decision is this?",
+            "o": ["Tactical decision", "Strategic decision", "Operational decision", "Programmed decision"],
+            "x": "The correct answer is tactical: a medium-term action plan about how the work will get done. Strategic is tempting, but a strategic decision sets the direction of the organization for the long term. Here the direction is already chosen, and the roll-out is being planned."
+          }
+        },
+        {
+          "baslik": "Rational model: choosing the best step by step",
+          "anlatim": "<p>The first of the four decision models is the most “textbook” one. The <b>rational model</b> follows structured, logical steps to choose the best alternative. Its aim is to maximize the quality of the outcome.</p><p>The steps are: identify the problem, set the criteria, weight the criteria, generate all alternatives, evaluate the alternatives, choose the best one, implement it and, last, evaluate the decision. The order has a logic: you cannot set criteria without knowing the problem, and you cannot weigh the alternatives without knowing the criteria and how important each is. The last step matters too: the job is not finished when the decision is implemented. You check whether it worked.</p><p>When is it used? When the information can be put into numbers, when the decision is important and when you want to maximize the outcome. The price is time and effort: the step “generate all alternatives” is often not possible in real life. The next model is born exactly at this limit.</p>",
+          "ornek": "<p>A fictional town council is going to buy a new rubbish truck. It identifies the problem (the old fleet breaks down often), sets the criteria (price, fuel, capacity), weights them (fuel matters most), lists five brands, scores them, buys the one with the highest score, puts it into use and looks at the number of breakdowns a year later. An important decision that can be measured in numbers: the <b>rational model</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Rational model"],
+          "soru": {
+            "q": "Using the rational decision-making model, a hospital team has identified the problem and set its criteria. What is the next step?",
+            "o": ["Weight the criteria", "Generate all alternatives", "Evaluate the alternatives", "Choose the best option"],
+            "x": "The correct answer is weight the criteria: after the criteria are set, you decide how important each one is. Generate all alternatives is tempting, because it comes right after. But you need to know the weight of the criteria before you weigh the alternatives."
+          }
+        },
+        {
+          "baslik": "Bounded rationality and satisficing",
+          "anlatim": "<p>In real life our information, our time and our mental capacity are limited. <b>Bounded rationality</b> accepts this: we choose from a limited set of options, without going through every option one by one. When we do this we <b>satisfice</b>: we take the first alternative that meets the minimum criteria.</p><p>Remember the word as “good enough”. The important point is this: we are not looking for the best, we are taking the first one that is enough. This is not laziness. It is a reasonable response to limited resources, because the time spent finding the best can be greater than the gain.</p><p>When is it used? When the minimum criteria are clear, when time is short and when you are not trying to maximize the outcome. The difference from the rational model in one word: the rational model looks for the “best”, bounded rationality looks for “enough”. In the exam, if you see the phrase “stopped at the first suitable option”, say satisfice.</p>",
+          "ornek": "<p>Bora, a fictional student, has to apply for a summer internship during exam week and has no time. His criteria are clear: in English, paid, starting in July. He looks at the adverts one by one. The second advert meets all three criteria, and he applies at once. He does not look at the other hundred adverts. This is <b>satisfice</b>, that is, <b>bounded rationality</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Bounded rationality", "Satisfice"],
+          "soru": {
+            "q": "Short of time, a café owner needs a new coffee supplier. She checks offers one by one and signs with the first one that meets her minimum price and quality levels. What is she doing?",
+            "o": ["Satisficing under bounded rationality", "Optimizing with the rational model", "Relying on the intuitive model", "Escalating her commitment"],
+            "x": "The correct answer is satisficing: she takes the first option that meets the minimum criteria, which is bounded rationality. The rational model is tempting because she has criteria. But in the rational model all alternatives are generated and the best is chosen. Here she stopped at the first one that was enough."
+          }
+        },
+        {
+          "baslik": "Intuitive and creative model",
+          "anlatim": "<p>The <b>intuitive model</b> bases the decision on gut feeling, experience and pattern recognition, and it is fast. An experienced person matches the situation to patterns they have seen before and decides within seconds. It is used when the goals are not clear, when there is time pressure and when you have experience. The experience condition is critical: a beginner's “gut feeling” does not rest on any pattern.</p><p>The <b>creative model</b> is less structured and produces new solutions. It is used when there is no clear solution, when new ideas are needed and when you have time. It has five steps: <b>problem identification</b>, <b>immersion</b> (gathering information), <b>incubation</b> (putting the problem aside, so that the brain works on it unconsciously), <b>illumination</b> (the moment of insight) and <b>verification and application</b>. Creativity is judged by three measures: <b>fluency</b> (the number of ideas), <b>flexibility</b> (the variety of ideas) and <b>originality</b>.</p><p>Be careful: the intuitive model is fast, the creative model needs time. This is also the logic of incubation: taking a break is not wasted time. It is the stage where the solution ripens.</p>",
+          "ornek": "<p>In a fictional advertising agency, Nil is looking for a slogan for a new toy brand. She reads everything about the brand and its customers (<b>immersion</b>). When she finds nothing, she drops the topic completely for two days (<b>incubation</b>). The slogan comes to her in the shower (<b>illumination</b>). Then she tests it with a small group and puts it into the campaign (<b>verification and application</b>).</p>",
+          "kaynak": [2],
+          "terimler": ["Intuitive model", "Incubation"],
+          "soru": {
+            "q": "A novelist stuck on her plot reads widely about the topic, then puts the manuscript away for a week while she goes hiking. In the creative model, which stage is the week away?",
+            "o": ["Incubation", "Immersion", "Illumination", "Verification"],
+            "x": "The correct answer is incubation: the problem is put aside on purpose and the brain works on it unconsciously. Immersion is tempting because it comes right before it. But immersion is the stage of gathering information, that is, the reading part."
+          }
+        },
+        {
+          "baslik": "Faulty decisions: the traps of the mind",
+          "anlatim": "<p>Even if you choose the right model, your mind can mislead you. The book counts six decision errors. <b>Overconfidence bias</b>: seeing your own abilities as greater than they are. <b>Hindsight bias</b>: thinking, after the event is over, that the mistake was obvious from the start. <b>Anchoring</b>: relying too much on a single piece of information. <b>Framing bias</b>: being influenced by how information is presented. The same information feels different when it is presented as “9 out of 10 people succeeded” and as “1 out of 10 people failed”. <b>Escalation of commitment</b>: continuing on a failing path because you have already invested in it. <b>Analysis paralysis</b>: analysing so much that you never reach a decision.</p><p>The pair mixed up most often is anchoring and escalation of commitment. Anchoring means getting stuck on a piece of information. Escalation means getting stuck on money or effort spent in the past. The key sentence: “we have already spent this much”. Separate hindsight from overconfidence too: hindsight looks back (“it was obvious”), overconfidence looks forward (“I can do it”).</p><p>The book's glossary gives extra biases as well: confirmation bias (looking for information that supports what you believe), availability bias (judging by what comes to mind most easily), halo and horn effect (judging everything by a single positive or negative trait) and stereotyping (judging a person by assumptions about the group they belong to).</p>",
+          "ornek": "<p>A fictional theatre keeps staging a play that nobody comes to see for three more months, only because a lot of money was spent on the set: <b>escalation of commitment</b>. The manager of the same theatre hears the very high fee an actor first asks for, and after that reads every offer in the light of that figure: <b>anchoring</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Escalation of commitment", "Anchoring"],
+          "soru": {
+            "q": "A student group keeps working on an app idea that testers clearly dislike, because “we've already spent four months on it.” Which decision error is this?",
+            "o": ["Escalation of commitment", "Anchoring bias", "Overconfidence bias", "Hindsight bias"],
+            "x": "The correct answer is escalation of commitment: the group continues on a failing path only because it has already put in effort. Anchoring is tempting, but that means relying too much on a single piece of information. Here the deciding factor is not a piece of information. It is the past investment."
+          }
+        },
+        {
+          "baslik": "Individual and group decisions: groupthink and social loafing",
+          "anlatim": "<p>Should a decision be made alone or with a group? The benefits of groups: more experience and more points of view, more creativity and easier implementation, because people who have a share in the decision accept it more easily. The downsides: groups are slower, coordination problems appear, and groups rarely decide better than their best member.</p><p>A group has two typical problems. <b>Groupthink</b>: the tendency to avoid critically evaluating ideas that the group likes. Members do not voice their doubts, and stay silent so as not to disturb the harmony. The book gives the Challenger launch as an example. <b>Social loafing</b>: some members put in less effort in a group, and the work falls on the shoulders of a few people.</p><p>Do not mix up the two: groupthink is about thinking (nobody objects), social loafing is about effort (some do not work). In a scenario, if you see “they stayed silent to keep the harmony”, it is groupthink. If you see “some left the work to others”, it is social loafing.</p>",
+          "ornek": "<p>In the management meeting of a fictional publishing house, everyone seems to love the idea for a new magazine. The sales manager knows the numbers are bad, but stays silent so as not to create tension: <b>groupthink</b>. In the same publishing house, in a team of four, two editors do all the corrections, while the other two come to meetings and do not read a single page: <b>social loafing</b>.</p>",
+          "kaynak": [4],
+          "terimler": ["Groupthink", "Social loafing"],
+          "soru": {
+            "q": "In a five-person student project, two members barely contribute and let the others write the report, since the grade is shared anyway. Which group problem is this?",
+            "o": ["Social loafing", "Groupthink", "Analysis paralysis", "Escalation of commitment"],
+            "x": "The correct answer is social loafing: some members put in less effort in the group. Groupthink is tempting because it is also a group problem. But groupthink is about avoiding criticism and staying silent. Here the problem is effort, not thinking."
+          }
+        },
+        {
+          "baslik": "Group decision techniques",
+          "anlatim": "<p>To reduce group problems and bring order to the decision, the book gives seven techniques. <b>Nominal Group Technique</b>: members first write their ideas alone, then share, discuss and vote. The purpose of writing alone first is to stop one dominant person from influencing everyone. <b>Delphi Technique</b>: participants never meet. They answer written questionnaires round after round until consensus is reached. Because there is no meeting, there is no face-to-face pressure.</p><p><b>Majority rule</b>: what the majority says is done. <b>Consensus</b>: a decision that everyone accepts. <b>Brainstorming</b>: no criticism, wild ideas are welcome, and new ideas are built on the ideas of others. <b>GDSS</b> (group decision support systems): computer systems that support the decision. <b>Decision trees</b>: showing the options and their possible outcomes as a branching diagram.</p><p>NGT and Delphi are the pair mixed up most often. In NGT the group comes together, but first everyone writes silently. In Delphi the group never meets, and everything runs through written questionnaires.</p>",
+          "ornek": "<p>The board of a fictional city festival meets to choose the theme of the year. First everyone silently writes their own suggestions on paper for ten minutes. Then they read them out in turn, discuss and vote: <b>Nominal Group Technique</b>. The next year the members are in different countries, so they choose the theme through rounds of questionnaires sent by e-mail: <b>Delphi Technique</b>.</p>",
+          "kaynak": [4],
+          "terimler": ["Nominal Group Technique", "Delphi Technique"],
+          "soru": {
+            "q": "At a toy company workshop, the facilitator bans criticism, welcomes wild ideas and asks people to build on each other's suggestions. Which group technique is this?",
+            "o": ["Brainstorming", "Nominal Group Technique", "Delphi Technique", "Consensus decision"],
+            "x": "The correct answer is brainstorming: criticism is banned, wild ideas are welcome and ideas are built on each other. Nominal Group Technique is tempting because it also produces ideas. But in NGT everyone first writes alone and in silence, and there is a vote at the end."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Placing an automatic order when stock falls to a certain level is a nonprogrammed decision, because it is important.", "dogru": "This is a <b>programmed decision</b>: it repeats often and is tied to a decision rule."},
+        {"yanlis": "Members who stay silent to keep the harmony are doing social loafing.", "dogru": "This is <b>groupthink</b>, that is, avoiding criticism. Social loafing is about effort."},
+        {"yanlis": "Taking the first option that is “good enough” is the rational model.", "dogru": "This is <b>satisficing</b>, that is, bounded rationality. The rational model generates all alternatives and chooses the best one."},
+        {"yanlis": "In the creative model, illumination comes right after immersion.", "dogru": "The order is: problem identification, immersion, <b>incubation</b>, illumination, verification and application."},
+        {"yanlis": "Anchoring and escalation of commitment are the same error.", "dogru": "Anchoring means getting stuck on a single piece of information. Escalation of commitment means continuing on a failing path because of past investment."},
+        {"yanlis": "In Nominal Group Technique the members never meet.", "dogru": "The technique where nobody meets is <b>Delphi</b>. In NGT the group meets, but first everyone writes alone."}
+      ],
+      "ozet": [
+        "Decision making is choosing among alternatives. Doing nothing is also an alternative.",
+        "Programmed: repeats often and has a decision rule. Nonprogrammed: unique, important, needs careful analysis.",
+        "Levels: strategic (long term, direction), tactical (how it will get done), operational (daily work).",
+        "Rational model: numerical information, important decision, best outcome. Eight steps from the problem to the evaluation.",
+        "Bounded rationality: limited information and time. With satisfice you take the first option that is enough.",
+        "The intuitive model is fast and rests on experience. The order of the creative model is identification, immersion, incubation, illumination, verification.",
+        "Six errors: overconfidence, hindsight, anchoring, framing, escalation of commitment, analysis paralysis.",
+        "Groups are more creative and implement the decision easily, but they are slow. Their traps are groupthink and social loafing.",
+        "Seven techniques: NGT, Delphi, majority rule, consensus, brainstorming, GDSS and decision trees."
+      ],
+      "aklinda": "Creative model: find it, dive in, sleep on it, see the light, test it (identification, immersion, incubation, illumination, verification). Groupthink stays silent, social loafing sits back.",
+      "sinavda": "<p>In Part 1 this lesson mostly comes as definitions and short scenarios: what type of decision an automatic order is, which step comes next in the creative model, which problem silent members have, which technique it is when experts decide by questionnaire without meeting. Knowing the exact English name of the term earns you points directly here.</p>"
+    },
+    {
+      "id": "c7a",
+      "ad": "Goals and performance measurement: goal and objective, MBO, Balanced Scorecard, SMART, KPI and CSR",
+      "sure": 24,
+      "neden": "<p>If a strategy stays a nice sentence, nothing changes. This lesson covers the tools that turn strategy into measurable goals. Part 1 asks clear definition questions on this topic: the difference between a goal and an objective, the four areas of the Balanced Scorecard, the letters of SMART. If you understand why the tools exist, the definitions fall into place by themselves.</p>",
+      "hedefler": [
+        "Tell apart goal and objective by the key words in their definitions.",
+        "Explain the planning chain and the three time horizons in order.",
+        "Test an objective against the SMART letters and fix it.",
+        "Explain what MBO, the Balanced Scorecard and a KPI are each used for.",
+        "Show CSR and the triple bottom line in a company example."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Goal and objective: outcome statement and measured step",
+          "anlatim": "<p>Planning moves like a chain: first come the <b>vision</b> and the <b>mission</b>, then the <b>strategy</b>, and at the end the targets that show whether you are on track. This last link has two parts, and the exam expects you to mix them up.</p><p><b>Goals</b> are outcome statements that define what the organization is trying to accomplish. They are broad and give direction, such as “to be the greenest supermarket in the region”. <b>Objectives</b> are very precise, time-based and measurable actions that support a goal, such as “to cut packaging waste by 25 percent by the end of December”. Objectives are linked to SMART. The key for telling them apart: if you see “outcome statement”, it is a goal. If you see “precise, time-based, measurable”, it is an objective.</p><p>Goals also have a time horizon. <b>Long term</b> is 3 years or more, <b>mid-range</b> is between 1 and 3 years, and <b>short term</b> is less than 1 year. If a question talks about a two-year plan, the answer is mid-range.</p>",
+          "ornek": "<p>The aim of a fictional animal shelter is “to improve the quality of life of street animals in the city”: a <b>goal</b>, because it is an outcome statement that says what the shelter wants to accomplish. “To neuter 200 cats by the end of June” supports it and is an <b>objective</b>: precise, time-based and measurable.</p>",
+          "kaynak": [0],
+          "terimler": ["Goals", "Objectives"],
+          "soru": {
+            "q": "A fictional library drafts four statements for its plan. Which one is an objective rather than a goal?",
+            "o": ["Lend 5,000 e-books to students by the end of June", "Become the heart of learning in our neighbourhood", "Inspire a lifelong love of reading in our city", "Be known as the most welcoming library in town"],
+            "x": "The first option is correct: it has a precise number, a time limit and a measurable action, so it is an objective. The others are goals: broad outcome statements that say what the library wants to accomplish, but you cannot measure when or how much."
+          }
+        },
+        {
+          "baslik": "SMART: the test of a good objective",
+          "anlatim": "<p>How do you know if an objective is good? With the <b>SMART</b> test: <b>Specific</b>, <b>Measurable</b>, <b>Achievable</b>, <b>Realistic</b>, <b>Time-bound</b>. Each letter catches a typical fault of bad objectives.</p><p>Think about the sentence “Let's increase customer satisfaction”. Which customers, which topic? Not specific. How much of an increase? Not measurable. By when? Not time-bound. The corrected version: “Cut complaints about online orders by 20 percent by 31 December.” Now it is clear what will be done, how much and by when. Achievable and realistic ask that the objective fits the resources and conditions you have: 20 percent may be reasonable, 100 percent is not.</p><p>SMART tests objectives, not goals. A goal can stay broad. The objectives tied to it need to be SMART. In the exam, for the question “which one is a SMART objective?”, look for the option with a number, a date and a clear topic. You will meet these letters again in goal-setting theory in the motivation lesson.</p>",
+          "ornek": "<p>In a fictional swimming club, the coach does not say “swim faster”. He sets this objective for Ece: “Cut your time in the 100 metres freestyle by 3 seconds by the race in May.” Specific (100 metres freestyle), measurable (3 seconds), achievable and realistic (based on her past progress) and time-bound (May): <b>SMART</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["SMART"],
+          "soru": {
+            "q": "A bakery manager writes the target “Sell more bread.” Which revision best turns it into a SMART objective?",
+            "o": ["Increase weekday bread sales by 10% by 30 September", "Sell much more bread than our competitors do", "Make our bread famous across the whole country", "Try hard to sell more bread every single day"],
+            "x": "The first option is correct: the topic is clear (weekday bread sales), it is measurable (10 percent), reasonable and time-bound (30 September). The others lack a number or a date. For example, “much more than our competitors” sounds bold, but it is neither measurable nor time-bound."
+          }
+        },
+        {
+          "baslik": "MBO: setting objectives together with the employee",
+          "anlatim": "<p>It is easy to set objectives at the top and send them down, but then the employee does not own them. <b>MBO</b> (Management by Objectives) solves this problem. This systematic approach, introduced by Drucker in 1954, aligns the objectives of subordinates with the overall goals of the organization. The crucial part is this: employees take part in setting their own objectives and timelines.</p><p>Think of the logic in two parts. The first is alignment: each employee's objective is tied to a higher goal, so everyone's work adds to the company's direction. The second is participation: people commit more to an objective they set themselves. In a scenario, if a manager and an employee set personal objectives with deadlines together, and these support the department's goals, say MBO.</p><p>Watch out for a name trap: <b>management by exception</b> in Chapter 4 and MBO are completely different. Management by exception means the transactional leader steps in only for exceptions, that is, problems. MBO means setting objectives together.</p>",
+          "ornek": "<p>In a fictional language school, the head Sena shares the school's goal “to raise student satisfaction” with the teachers. Each teacher sits down with her and proposes a personal objective: one says “add two speaking clubs to every class by the end of March”, another says “bring homework feedback down to 48 hours by the end of term”. The objectives are tied to the overall goal and the employees took part in setting them: <b>MBO</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["MBO"],
+          "soru": {
+            "q": "At a fictional software firm, each developer proposes personal quarterly targets with deadlines, and the manager links them to the department's goals. Which approach is this?",
+            "o": ["Management by Objectives", "Management by exception", "Balanced Scorecard", "Triple bottom line"],
+            "x": "The correct answer is Management by Objectives: employees take part in setting their objectives and timelines, and these are aligned with the organization's goals. Management by exception is tempting because the name is similar, but that is a transactional leadership method that steps in only for problems."
+          }
+        },
+        {
+          "baslik": "Balanced Scorecard and KPI",
+          "anlatim": "<p>You cannot tell whether a company is doing well by looking only at profit: profit may be good today, while customers are leaving or employees are not growing at all. The <b>Balanced Scorecard</b> is the tool of Kaplan and Norton. It turns the mission, vision and strategy into specific, measurable goals and tracks them in four areas.</p><p><b>Financial</b>: are we making money for our owners? <b>Customer</b>: are customers satisfied and loyal? <b>Internal business processes</b>: are our operations efficient and of high quality? <b>Learning & growth</b>: are our employees and the organization growing? This is where the word “balanced” in the name comes from: financial and non-financial measures are balanced. Also, <b>leading</b> measures (which signal the result in advance) and <b>lagging</b> measures (which show the result afterwards) are used together.</p><p>A <b>KPI</b> (key performance indicator) is a measurable value that shows how effectively a company is reaching its key business objectives. Do not mix up the two: a KPI is one measurable value, while the Balanced Scorecard is a whole framework that turns strategy into measurable goals in four areas. Exam trap: the Balanced Scorecard is not “only financial goals”.</p>",
+          "ornek": "<p>A fictional chain of bike repair shops tracks four areas: monthly profit (<b>financial</b>), the share of returning customers (<b>customer</b>), the average time of a repair (<b>internal business processes</b>) and the number of technicians who earn a certificate (<b>learning & growth</b>). “The share of returning customers is 60 percent” is one <b>KPI</b> on its own. The four areas together are the <b>Balanced Scorecard</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Balanced Scorecard", "KPI"],
+          "soru": {
+            "q": "A hospital tracks the share of its staff who completed new training courses this year. In which Balanced Scorecard perspective does this measure belong?",
+            "o": ["Learning & growth", "Internal business processes", "Customer", "Financial"],
+            "x": "The correct answer is learning & growth: the question of this area is “are our employees and the organization growing?”. Internal business processes is tempting because training affects operations. But that perspective measures the efficiency and quality of operations, not the growth of people."
+          }
+        },
+        {
+          "baslik": "CSR and the triple bottom line",
+          "anlatim": "<p>Should a company's success be measured only by its own profit? <b>CSR</b> (corporate social responsibility) means that companies manage their business processes in a way that produces an overall positive impact on society. Be careful: the definition does not talk about giving donations. It talks about the business processes themselves. The responsibility is inside the way the work is done.</p><p>The hard part of CSR is measuring it. Here the book links to the Balanced Scorecard: according to Crawford and Scaletta, the Balanced Scorecard can help to make CSR values measurable. So you can turn CSR into concrete goals that can be tracked too.</p><p>The <b>triple bottom line</b> means measuring performance in three dimensions: social, environmental and economic. In short, <b>people, planet, profit</b>. The logic of the name is this: the classic “bottom line” is profit, and this approach puts two more dimensions next to it. The examples in the slides are the Dow Jones Sustainability Index (DJSI), the UN's Sustainable Development Goals (SDGs) for 2030 and Net Zero targets.</p><p>Keep the difference in mind: CSR is a management approach, while the triple bottom line is a way of measuring performance.</p>",
+          "ornek": "<p>A fictional chocolate maker publishes three tables in its annual report: the fair price paid to cocoa farmers and employee health (<b>people</b>), the factory's carbon emissions and water use (<b>planet</b>) and net profit (<b>profit</b>). It reports performance in three dimensions: the <b>triple bottom line</b>. Organizing its supply process so that it does not harm the farmers is <b>CSR</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["CSR", "Triple bottom line"],
+          "soru": {
+            "q": "A fictional ferry company publishes yearly results on passenger and crew well-being, fuel emissions and profit. Which concept does this reporting reflect?",
+            "o": ["Triple bottom line", "Balanced Scorecard", "Management by Objectives", "Key performance indicator"],
+            "x": "The correct answer is the triple bottom line: performance is measured in the social, environmental and economic dimensions, that is, people, planet and profit. The Balanced Scorecard is tempting because it also uses non-financial measures. But its four areas are financial, customer, internal processes, and learning and growth."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "“An outcome statement that says what the organization wants to accomplish” is an objective.", "dogru": "This is a <b>goal</b>. An objective is a precise, time-based and measurable action."},
+        {"yanlis": "The Balanced Scorecard tracks only financial goals.", "dogru": "It turns the mission and strategy into measurable goals and tracks them in four areas: financial, customer, internal processes, and learning and growth."},
+        {"yanlis": "MBO and management by exception are the same approach.", "dogru": "MBO means setting objectives together with the employee. Management by exception is transactional leadership that steps in only for problems."},
+        {"yanlis": "A KPI and the Balanced Scorecard are the same thing.", "dogru": "A KPI is one measurable value. The Balanced Scorecard is a whole framework with four perspectives."},
+        {"yanlis": "The three dimensions of the triple bottom line are customer, employee and profit.", "dogru": "The three dimensions are social, environmental and economic: people, planet, profit."}
+      ],
+      "ozet": [
+        "The planning chain: vision and mission, strategy, then goals and objectives.",
+        "A goal is an outcome statement that says what you want to accomplish. An objective is a precise, time-based and measurable action.",
+        "Time horizons: long term is 3 years or more, mid-range is 1 to 3 years, short term is less than 1 year.",
+        "SMART: an objective that is specific, measurable, achievable, realistic and time-bound.",
+        "MBO (Drucker, 1954): aligning individual objectives with the organization's goals, with employees taking part.",
+        "Balanced Scorecard (Kaplan and Norton): the financial, customer, internal processes, and learning and growth areas.",
+        "A KPI is a measurable value that shows how effectively key objectives are being reached.",
+        "CSR means managing processes in a way that has a positive impact on society. The Balanced Scorecard can make it measurable.",
+        "Triple bottom line: people, planet, profit."
+      ],
+      "aklinda": "A goal is the place you are going, an objective is a measured step on the way there. The four questions of the scorecard: Money? Customers? Processes? Growth?",
+      "sinavda": "<p>In Part 1 this lesson mostly comes as definition questions: the definition of goal and objective, what the Balanced Scorecard does and its four areas, the letters of SMART, who introduced MBO. Sometimes you are also asked to find a SMART objective or a triple bottom line report among the options.</p>"
+    },
+    {
+      "id": "c7b",
+      "ad": "Motivation theories: need-based and process-based",
+      "sure": 32,
+      "neden": "<p>Two people work for the same pay. Why does one throw themselves into the job while the other settles for the least effort? Motivation theories explain this. Part 1 asks about order, lists and classification here: Maslow's order, Herzberg's two lists, how ERG differs from Maslow, the referent in equity theory. If you learn the theories with their logic, the lists fall into place by themselves.</p>",
+      "hedefler": [
+        "Explain the definition of motivation and the performance equation.",
+        "Compare Maslow, ERG, Herzberg and McClelland as need-based theories.",
+        "Following Herzberg, place factors around the job and inside the job in the right group in a scenario.",
+        "Apply the four process theories (equity, expectancy, goal-setting, reinforcement) to an employee's behaviour.",
+        "Show the difference between distributive, procedural and interactional justice with an example."
+      ],
+      "adimlar": [
+        {
+          "baslik": "What motivation is and what decides performance",
+          "anlatim": "<p><b>Motivation</b>, in the book's definition, is “the intention of achieving a goal, leading to goal-directed behaviour”. The definition has two parts: the intention inside and the goal-directed behaviour that can be seen from outside. Only wanting something does not count as motivation. That wish needs to turn into behaviour.</p><p>Motivation alone does not bring performance. The equation in the book: <b>Performance = Motivation × Ability × Environment</b>. The multiplication sign matters: if one of the three factors is zero, the result drops to zero too. A person who is very keen but does not know the job cannot perform well. A person who is skilled and keen but works with broken equipment cannot either. So a manager who sees low performance should look at all three factors and not say “there is no motivation” straight away.</p><p>The theories split into two families. <b>Need-based theories</b> ask what moves people: Maslow, ERG, Herzberg, McClelland. <b>Process-based theories</b> ask how motivation works: equity, expectancy, goal-setting, reinforcement. The exam asks which theory belongs to which family.</p>",
+          "ornek": "<p>In a fictional pastry shop, the apprentice Mert is very keen (<b>motivation</b> is high) and has finished a pastry course (<b>ability</b> is high), but the oven keeps breaking down (<b>environment</b> is weak). The cakes still burn. The master does not try to motivate him more. He has the oven repaired, and performance rises at once.</p>",
+          "kaynak": [0],
+          "terimler": ["Motivation"],
+          "soru": {
+            "q": "A highly motivated and skilled nurse keeps making errors because the ward's equipment is outdated. According to the performance equation, which factor is holding her performance back?",
+            "o": ["Environment", "Motivation", "Ability", "Expectancy"],
+            "x": "The correct answer is environment: the nurse is both keen and skilled, and the problem is in the place where she works. Motivation is tempting, because low performance is often blamed on it. But the equation has three factors, and the missing one here is the environment."
+          }
+        },
+        {
+          "baslik": "Maslow: the hierarchy of needs",
+          "anlatim": "<p>Maslow orders human needs as a hierarchy with five levels, starting from the bottom: <b>physiological</b> (food, water, sleep), <b>safety</b> (being safe, and stability), <b>social</b> (relationships, friendship, belonging to a group), <b>esteem</b> (respect, status, recognition) and <b>self-actualization</b> (reaching your full potential). The name of this structure is <b>Maslow's hierarchy</b>.</p><p>The logic of the order is this: when you are hungry you do not care about friendship, and when you are not safe you do not care about status. When a lower need is met, the one above it comes forward. The key sentence in the book: a satisfied need no longer motivates. So you cannot motivate a person whose pay and job security are in place by offering more security. What moves them now is recognition or a chance to grow.</p><p>The way to remember the order is to climb from the most basic to the most abstract: first the body, then safety, then people, then respect, and last being yourself.</p>",
+          "ornek": "<p>In a fictional company, the warehouse worker Kaan cares only about overtime in the period when he can hardly pay his rent. When he moves to a permanent contract and gains security, he starts to eat lunch with the team and joins the company football team (<b>social</b>). A year later, what excites him most is being chosen “employee of the month” (<b>esteem</b>). Each need that is met stops motivating.</p>",
+          "kaynak": [1],
+          "terimler": ["Maslow's hierarchy"],
+          "soru": {
+            "q": "An employee has a secure job, good friends at work and is respected by her whole team. According to Maslow, which need is most likely to motivate her now?",
+            "o": ["Self-actualization", "Esteem", "Social", "Safety"],
+            "x": "The correct answer is self-actualization: the safety, social and esteem needs are met. A satisfied need no longer motivates, so the top level is next. Esteem is tempting, because recognition still feels nice. But in the scenario she has already won the respect of her team."
+          }
+        },
+        {
+          "baslik": "ERG theory: three groups and stepping back",
+          "anlatim": "<p>Alderfer's <b>ERG theory</b> brings Maslow's five levels down to three groups. <b>Existence</b> is the basic material and physical needs, the sum of physiological and safety in Maslow. <b>Relatedness</b> is relationships with others, social in Maslow. <b>Growth</b> is personal development, esteem and self-actualization in Maslow.</p><p>The real difference is not in the number of groups. It is in the rules. First, there is no fixed order. Second, more than one need can be active at the same time. Third, and asked most often: <b>frustration-regression</b>. If a higher need is blocked, the person goes back to a lower need and puts more weight on it. In Maslow you only go up. In ERG you can go down when you are blocked.</p><p>Scenario clue: if someone cannot find a chance to grow and so turns to socializing or to asking for more money, this is the frustration-regression principle of ERG. Maslow cannot explain this behaviour, because his model has no going back.</p>",
+          "ornek": "<p>In a fictional advertising agency, the graphic designer Pinar has waited years for a promotion, but she is given no new responsibility (<b>growth</b> is blocked). After a while she stops talking about her career and puts all her energy into friendships and social events at the office (<b>relatedness</b>). Going back to the lower need when the higher one is blocked: <b>frustration-regression</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["ERG theory"],
+          "soru": {
+            "q": "A lab technician who cannot get any training or promotion starts demanding much higher pay instead. Which idea explains this best?",
+            "o": ["Frustration-regression in ERG theory", "Self-actualization in Maslow's hierarchy", "Hygiene factors in Herzberg's theory", "Input-output comparison in equity theory"],
+            "x": "The correct answer is frustration-regression: when the growth need is blocked, the person puts more weight on the lower existence need, that is, money. Maslow is tempting, but in his hierarchy you only go up. ERG is the one that explains being blocked and going back."
+          }
+        },
+        {
+          "baslik": "Herzberg's two factors and McClelland",
+          "anlatim": "<p>According to Herzberg, satisfaction and dissatisfaction at work are caused by different factors. That is why the theory is called the <b>two-factor</b> theory.</p><p><b>Hygiene factors</b> are about the context of the job: company policies, supervision, working conditions, salary, safety and security. When they are missing they create dissatisfaction. When they are fixed they prevent dissatisfaction, but they do not motivate. The logic of the name: hygiene prevents illness, but it does not make you strong. <b>Motivators</b> are about the job itself: achievement, recognition, interesting work, responsibility, advancement and growth. These are what create real motivation.</p><p>The test for telling them apart: is this factor around the job or inside the job? Office temperature, job security and clear policies are around it, so they are hygiene. Full responsibility for a project is inside the job, so it is a motivator. The difference from Maslow: Maslow explains general human needs, Herzberg explains the source of satisfaction and dissatisfaction at work.</p><p>The fourth member of the need family is McClelland: three acquired needs, achievement, affiliation and power.</p>",
+          "ornek": "<p>In a fictional call centre, management replaces the air conditioners and brings salaries up to the market level. Complaints fall, but nobody works with more enthusiasm, because these are <b>hygiene factors</b>. Then each team is given responsibility for managing a whole customer group, and monthly recognition for achievement. Employees start to come up with ideas, because these are <b>motivators</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Hygiene factors", "Motivators"],
+          "soru": {
+            "q": "A factory manager wants to truly motivate her staff, not just reduce complaints. According to Herzberg, which action should she choose?",
+            "o": ["Let workers lead the redesign of a product line", "Raise salaries to the industry average level", "Install better heating in the production hall", "Make the company leave policy clearer for all"],
+            "x": "The first option is correct: leading the redesign of a product line offers responsibility and achievement, so it is a motivator. Raising salaries is tempting, but salary is a hygiene factor: it prevents dissatisfaction and does not create motivation."
+          }
+        },
+        {
+          "baslik": "Equity theory and the three types of justice",
+          "anlatim": "<p>The first of the process theories is about fairness. Adams's <b>equity theory</b> says that people compare their own inputs (effort, loyalty, skill) and outcomes (pay, rewards) with a <b>referent</b>. The referent is the person or group you compare yourself with: a colleague who does the same job, or a friend at another company. What matters is not the absolute pay but the ratio: is your ratio of inputs to outcomes in balance with theirs?</p><p>Imbalance creates tension, and the person chooses one of five ways to reduce this tension: they lower their own input (work less), they ask for more, they distort their perceptions (they convince themselves that “the other one really works harder”), they change their referent, or they leave the job.</p><p>Justice is not only about equity. <b>Distributive justice</b> means the outcomes are fair, <b>procedural justice</b> means the process is fair, and <b>interactional justice</b> means respectful treatment. Even if a pay rise is shared out correctly, procedural justice is damaged if the decision was made through a secret and arbitrary process.</p>",
+          "ornek": "<p>In a fictional restaurant, the waiter Derya learns that she gets the same share of tips as Umut, who is new and serves fewer tables. Umut is her <b>referent</b>. Derya finds the ratio unfair and stops taking extra tables: she restores the balance by lowering her input, <b>equity theory</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Equity theory", "Referent"],
+          "soru": {
+            "q": "Two team leaders receive the same bonus, which seems fair. Then one learns the bonus rules were decided in secret and changed without explanation. Which type of justice is harmed?",
+            "o": ["Procedural justice", "Distributive justice", "Interactional justice", "Equity of outcomes"],
+            "x": "The correct answer is procedural justice: the outcome looks fair, but the decision process is secret and arbitrary. Distributive justice is tempting, but that is about whether the outcome that is shared out, the bonus, is fair. Here the problem is in the process, not in the outcome."
+          }
+        },
+        {
+          "baslik": "Expectancy theory: the chain of effort, performance and reward",
+          "anlatim": "<p><b>Expectancy theory</b> sees motivation as a chain: people work harder when they believe that effort will lead to performance, and that performance will lead to rewards they value. The chain has three links.</p><p><b>Expectancy</b>: the belief that effort will lead to the desired performance. “If I work hard, can I hit this target?” <b>Instrumentality</b>: the belief that performance will lead to the reward. “If I hit it, will I really get the reward?” <b>Valence</b>: how valuable the reward is for the person. “Does this reward matter to me?”</p><p>The logic: if one of the links breaks, the chain does not work. A person who believes the target is impossible does not push (low expectancy). A person who thinks the reward will not be given, even if they hit the target, does not push (low instrumentality). If the reward means nothing to them, again they do not push (low valence). In a scenario, find which link is broken: “I can't do it” is expectancy, “they won't give it” is instrumentality, “I don't want it” is valence.</p>",
+          "ornek": "<p>A fictional bookshop chain promises a weekend holiday to any employee who sells 500 books in a month. The new employee Melis thinks her shop is small and that she will never reach this number, so she does not push at all. The reward is attractive and she believes it will be given, but she does not believe that effort will lead to performance: low <b>expectancy</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Expectancy"],
+          "soru": {
+            "q": "A courier believes he could easily hit the delivery target, but he knows past bonuses were never actually paid. In expectancy theory, which link is weak?",
+            "o": ["Instrumentality", "Expectancy", "Valence", "Equity"],
+            "x": "The correct answer is instrumentality: the courier believes he can hit the target, but he does not believe that performance will lead to the reward. Expectancy is tempting, but that is the belief that effort will lead to performance, and the courier is already sure about that."
+          }
+        },
+        {
+          "baslik": "Goal-setting theory: the power of a goal and its price",
+          "anlatim": "<p>Locke and Latham's <b>goal-setting theory</b> says that specific and challenging goals, that is, SMART goals, raise performance. According to the book, the theory is supported by more than 1,000 studies. SMART, which you learned in c7a, turns into a motivation tool here.</p><p>Why does it work? SMART goals do four things: they give direction (you know what to focus on), they give energy, they challenge you (difficulty pushes people to make an effort) and they force creative thinking (you look for new ways to reach the goal). Saying “do your best” does none of these.</p><p>The book also lists three downsides of the theory. <b>Tunnel vision</b>: locking onto the goal and not seeing what is around it. Neglecting work that is not measured: if the goal is the number of sales, work that is not measured, such as helping the customer, is forgotten. <b>Unethical behaviour</b>: breaking rules to hit the goal. The exam likes these downsides.</p><p>Do not mix it up with expectancy: goal-setting looks at how the goal itself is built, while expectancy looks at the chain of beliefs between effort, performance and reward.</p>",
+          "ornek": "<p>A fictional call centre gives its agents the goal “close 80 calls a day”. Because the goal is clear and challenging, performance rises (<b>goal-setting theory</b>). But some agents start to hang up on difficult customers without solving their problem, and nobody updates the training notes: neglect of work that is not measured, and unethical behaviour.</p>",
+          "kaynak": [2],
+          "terimler": ["Goal-setting theory"],
+          "soru": {
+            "q": "A fictional sales team is given a tough monthly target. Sales rise, but staff stop helping customers with returns, which nobody measures. Which downside of goal setting is this?",
+            "o": ["Ignoring work that is not measured", "Lower energy because goals are vague", "Frustration-regression to lower needs", "Inequity compared with a referent"],
+            "x": "The first option is correct: the team focuses on sales, which are measured, and drops help with returns, which is not measured. The second option may look tempting, but here the goal is not vague. On the contrary, it is clear and challenging. The problem is the neglect of work that falls outside the goal."
+          }
+        },
+        {
+          "baslik": "Reinforcement theory: the consequences of behaviour",
+          "anlatim": "<p><b>Reinforcement theory</b> is the simplest process theory: behaviour is shaped by the consequences that follow it. The book lists four tools and splits them into two groups by their effect.</p><p>Those that increase behaviour: <b>positive reinforcement</b> and <b>negative reinforcement</b>. Those that decrease behaviour: <b>extinction</b> and <b>punishment</b>. The example of positive reinforcement is simple: praising an employee who hands in reports on time makes them repeat that behaviour. So is the example of punishment: giving a written warning to an employee who comes late aims to reduce lateness.</p><p>The biggest trap is in the name. The word “negative” may make you think of punishment, but in the book negative reinforcement is in the group that increases behaviour. The word “reinforcement” in its name tells you this. Punishment is in the group that decreases. Extinction is in the decreasing group too: the name means “dying out”, so the behaviour fades over time. In the exam, the answer to “which ones increase behaviour?” is the two reinforcements.</p><p>The difference from the other process theories: equity, expectancy and goal-setting look at the comparison, the belief and the goal inside a person's head. Reinforcement looks at the consequences of behaviour that come from outside.</p>",
+          "ornek": "<p>In a fictional football academy, the coach praises the children who come early to training in front of everyone, every time, and the number who come early grows: <b>positive reinforcement</b>. A player who keeps distracting others in training is left on the bench for one match. This is a <b>punishment</b> that aims to reduce the behaviour.</p>",
+          "kaynak": [2],
+          "terimler": [],
+          "soru": {
+            "q": "A trainer wants to increase a desired behaviour in her team. According to reinforcement theory as presented in the book, which pair of tools both increase behaviour?",
+            "o": ["Positive and negative reinforcement", "Negative reinforcement and punishment", "Extinction and positive reinforcement", "Punishment and extinction"],
+            "x": "The correct answer is positive and negative reinforcement: both increase behaviour. Negative reinforcement and punishment is tempting, because the word “negative” sounds like punishment. But punishment and extinction are in the group that decreases behaviour."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Fixing the office temperature, job security and clear policies motivate the employee.", "dogru": "These are <b>hygiene factors</b>: they prevent dissatisfaction and do not motivate. Factors inside the job, such as full responsibility for a project, are <b>motivators</b>."},
+        {"yanlis": "An employee who lowers their effort after seeing a colleague get the same reward for less effort is explained by Maslow.", "dogru": "This is <b>equity theory</b>: the employee compares the ratio of inputs to outcomes with a referent and restores the balance by lowering their input."},
+        {"yanlis": "ERG is a three-level version of Maslow, and its rules are the same.", "dogru": "In ERG there is no fixed order, more than one need can be active at the same time, and you can go back through frustration-regression."},
+        {"yanlis": "Maslow and Herzberg answer the same question.", "dogru": "Maslow explains general human needs. Herzberg explains the source of satisfaction and dissatisfaction at work."},
+        {"yanlis": "Negative reinforcement is a type of punishment and decreases behaviour.", "dogru": "In the book, negative reinforcement is in the group that increases behaviour. The ones that decrease it are extinction and punishment."},
+        {"yanlis": "Equity theory is a need theory.", "dogru": "Maslow, ERG, Herzberg and McClelland are need-based. Equity, expectancy, goal-setting and reinforcement are process-based."}
+      ],
+      "ozet": [
+        "Motivation is the intention that leads to goal-directed behaviour. Performance is motivation times ability times environment.",
+        "Maslow's order: physiological, safety, social, esteem, self-actualization. A satisfied need does not motivate.",
+        "ERG: existence, relatedness, growth. No fixed order, more than one need at the same time, going back when blocked.",
+        "Herzberg: hygiene factors prevent dissatisfaction, motivators truly motivate.",
+        "McClelland's three acquired needs: achievement, affiliation and power.",
+        "Equity: we compare our ratio of inputs to outcomes with a referent. The types of justice are distributive, procedural and interactional.",
+        "Expectancy: expectancy, instrumentality and valence. If one link of the chain breaks, motivation falls.",
+        "Goal-setting: SMART goals give direction, energy and challenge. They carry the risk of tunnel vision and unethical behaviour.",
+        "Reinforcement: the two reinforcements increase behaviour, extinction and punishment decrease it."
+      ],
+      "aklinda": "Maslow's ladder: Food, Safety, Friends, Fame, Fulfilment. Herzberg: around the job is hygiene, inside the job is a motivator.",
+      "sinavda": "<p>In Part 1 this lesson mostly comes as order, list and matching questions: Maslow's order from the bottom up, which factor is hygiene and which is a motivator, how ERG differs from Maslow, what a referent is, and which theory is need-based and which is process-based. In short scenarios you are asked to link the behaviour to the right theory.</p>"
+    }
+  ]
+}

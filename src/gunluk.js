@@ -220,11 +220,16 @@ function gpIcsZaman(u){
  if(isNaN(d.getTime())||d.getUTCFullYear()<1970||d.getUTCFullYear()>9999)d=new Date(0); // saat okunmaz: bozuksa sabit epoch
  return d.toISOString().replace(/[-:]/g,"").replace(/\.\d{3}/,"");}
 
-function gpIcs({haftalar=[],sinavIso,dersGunu=null,adlar={},uretildi}={}){
+/* Takvim metinleri; dil "en" değilse Türkçe. */
+const GP_ICS_METIN={
+ tr:{kod:"TR",ad:"ITM Çalışma Planı",hafta:(no,ders,chs)=>`ITM Hafta ${no}: `+(ders?"Ders "+chs.join(", "):"Tekrar"),tekrarAciklama:"Tekrar haftası: zorlu sorular ve hata defteri.",sinav:"ITM Sınavı",sinavAciklama:"Introduction to Management sınavı. Başarılar!"},
+ en:{kod:"EN",ad:"ITM study plan",hafta:(no,ders,chs)=>`ITM week ${no}: `+(ders?"Chapter "+chs.join(", "):"Review"),tekrarAciklama:"Review week: challenge tests and your mistakes list.",sinav:"ITM exam",sinavAciklama:"Introduction to Management exam. Good luck!"}};
+function gpIcs({haftalar=[],sinavIso,dersGunu=null,adlar={},uretildi,dil="tr"}={}){
+ const M=GP_ICS_METIN[dil==="en"?"en":"tr"];
  const g=gpOnar({dersGunu}).dersGunu,gun=g===null?0:g,stamp=gpIcsZaman(uretildi);
  const ad=u=>adlar&&typeof adlar==="object"&&typeof adlar[u]==="string"&&adlar[u]?adlar[u]:String(u);
- const satir=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//ITM Ders Sistemi//Gunluk Plan//TR","CALSCALE:GREGORIAN","METHOD:PUBLISH",
-  "X-WR-CALNAME:"+gpIcsKacis("ITM Çalışma Planı")];
+ const satir=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//ITM Ders Sistemi//Gunluk Plan//"+M.kod,"CALSCALE:GREGORIAN","METHOD:PUBLISH",
+  "X-WR-CALNAME:"+gpIcsKacis(M.ad)];
  /* UID yalnız haftanın Pazartesi'sinden türetilir: ders günü değişip yeniden içe aktarılırsa olay güncellenir, çoğalmaz. */
  const olay=(uid,iso,ozet,aciklama)=>{satir.push("BEGIN:VEVENT","UID:"+uid,"DTSTAMP:"+stamp,
   "DTSTART;VALUE=DATE:"+gpIcsTarih(iso),"DTEND;VALUE=DATE:"+gpIcsTarih(gpGun(iso,1)),
@@ -233,8 +238,8 @@ function gpIcs({haftalar=[],sinavIso,dersGunu=null,adlar={},uretildi}={}){
   if(!w||(w.kind!=="ders"&&w.kind!=="tekrar")||!gecerliIso(w.iso))continue;
   const pzt=isoGun(pazartesi(isoDan(w.iso))),units=Array.isArray(w.units)?w.units:[],chs=Array.isArray(w.chs)?w.chs:[];
   const ders=w.kind==="ders"&&chs.length;
-  olay(`itm-hafta-${pzt}@itm-ders-sistemi`,gpGun(pzt,gun),`ITM Hafta ${w.no}: `+(ders?"Ders "+chs.join(", "):"Tekrar"),
-   units.length?units.map(u=>"• "+ad(u)).join("\n"):"Tekrar haftası: zorlu sorular ve hata defteri.");}
- if(gecerliIso(sinavIso))olay("itm-sinav@itm-ders-sistemi",sinavIso,"ITM Sınavı","Introduction to Management sınavı. Başarılar!");
+  olay(`itm-hafta-${pzt}@itm-ders-sistemi`,gpGun(pzt,gun),M.hafta(w.no,ders,chs),
+   units.length?units.map(u=>"• "+ad(u)).join("\n"):M.tekrarAciklama);}
+ if(gecerliIso(sinavIso))olay("itm-sinav@itm-ders-sistemi",sinavIso,M.sinav,M.sinavAciklama);
  satir.push("END:VCALENDAR");
  return satir.map(gpIcsKatla).join("\r\n")+"\r\n";}

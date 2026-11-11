@@ -1,0 +1,783 @@
+{
+ "chapters": [
+  {
+   "ch": 1,
+   "ad": "Management and managers",
+   "giris": "<p>This chapter lays the foundation of the course: what does <b>management</b> mean, and what do managers do all day? In the first lesson you learn the four functions of management (P-O-L-C), the three levels of planning and how an organization's performance is measured. In the second lesson you look at the same topic from the side of the person: what types of managers exist, which roles they play according to Mintzberg, and which skills they need according to Katz. The two lessons complete each other: one explains what management is, the other explains who does it and how.</p>",
+   "baglanti": "<p>This first chapter is a map of the chapters that follow. The Leading function in P-O-L-C opens up in Chapter 3 as leadership and power. Chapter 2 turns to the people you manage: their personality, their values and their attitudes toward work.</p>",
+   "sinav": "<p>Chapter 1 is tested in Part 1 of the exam: 20 multiple-choice questions, 2 points each, testing recall. So you need to know the definitions and lists (the four functions, the three planning levels, Mintzberg's ten roles, Katz's three skills) completely and by their English names. Each of the two lessons is worth about 4 points.</p>",
+   "okul": {
+    "once": "Skim the names of the four P-O-L-C functions and Mintzberg's three role groups once. Take this question to class: What does a manager really do all day, and what does a manager need in order to do it?",
+    "odak": [
+     "Where the lecturer draws the line between <b>Planning</b> and <b>Controlling</b>",
+     "How long each of the three planning levels lasts and who does it",
+     "Examples of <b>Disseminator</b> and <b>spokesperson</b>",
+     "How Katz's skills change with the manager's level",
+     "Examples of line and staff managers"
+    ],
+    "sonra": "First work through lesson c1a from start to finish and answer the question in every step; then move on to c1b. Read the trap lists of both lessons together, because the exam mixes up Mintzberg's and Katz's lists and the P-O-L-C functions. Finally, answer the unit questions, and for every question you get wrong, go back to the step it comes from."
+   }
+  },
+  {
+   "ch": 2,
+   "ad": "Personality, values and work attitudes",
+   "giris": "<p>This chapter focuses on the people being managed. In the first lesson you see the lasting differences between people: the Big Five personality traits, other dimensions such as self-monitoring and self-efficacy, the limits of personality tests, and values. In the second lesson you move from these lasting differences to how people feel about their jobs and their companies: job satisfaction, organizational commitment, the sources that feed them such as justice and stress, how attitudes are measured, and the fit between a person and their setting. The link is simple: who you are largely decides where you will be happy.</p>",
+   "baglanti": "<p>In Chapter 1 you defined management as getting things done through the efforts of other people; this chapter introduces those “other people”. Chapter 3 uses the same Big Five traits again, this time from the point of view of leadership, for example the link between extraversion and leadership.</p>",
+   "sinav": "<p>Chapter 2 is tested in Part 1: 20 multiple-choice questions, 2 points each, testing recall. Most questions describe a person with a few adjectives and ask for the right concept. Each of the two lessons is worth about 4 points.</p>",
+   "okul": {
+    "once": "Read the five letters of the Big Five and the definitions of job satisfaction and organizational commitment once. Take this question to class: Is a person's behaviour at work decided by their personality, or by the setting they are in?",
+    "odak": [
+     "The workplace examples the lecturer gives for the OCEAN traits",
+     "The difference between <b>Self-esteem</b> and <b>self-efficacy</b>",
+     "Examples of the three types of <b>organizational justice</b>",
+     "The difference between <b>Role ambiguity</b> and <b>role conflict</b>",
+     "Examples of person-job fit and person-organization fit"
+    ],
+    "sonra": "First work through lesson c2a from start to finish and answer the question in every step, then move on to c2b. Read the trap sections of both lessons side by side, because the mix-up between conscientiousness and organizational commitment links the two lessons. At the end, answer the unit questions and go back to the matching step for every mistake."
+   }
+  },
+  {
+   "ch": 3,
+   "ad": "Leadership: power, traits and behaviours",
+   "giris": "<p>This chapter goes deeper into the Leading function from Chapter 1. In the first lesson you learn what leadership is, formal and informal leaders, French and Raven's five sources of power, and the styles that describe how a leader uses power (Tannenbaum and Schmidt, Theory X and Y, Muczyk and Reimann). In the second lesson you move on to two early approaches in leadership research: the traits that make a leader a leader, and the behaviours leaders actually show. The main idea of the chapter is that leadership comes from influence, not from a title.</p>",
+   "baglanti": "<p>The Leading function from Chapter 1 and the Big Five traits from Chapter 2 come together here: extraversion, conscientiousness and self-monitoring are linked to leadership. In the glossary, the leadership terms appear together under Chapters 3 and 4, so the foundation you build here is also used in the next chapter.</p>",
+   "sinav": "<p>Chapter 3 is tested in Part 2: 15 short cases, 2 points each, testing understanding in a scenario. Knowing the definition is not enough; you have to link the clue in the case (is it a title, knowledge or admiration? handing out roles, or caring about feelings?) to the right concept. Each of the two lessons is worth about 4 points.</p>",
+   "okul": {
+    "once": "Read the names of the five power sources and the definitions of task-oriented and people-oriented behaviour once. Take this question to class: How can someone with no title still guide a team?",
+    "odak": [
+     "The difference between <b>Position power</b> and <b>personal power</b>",
+     "Which power creates commitment and which creates alienation",
+     "The assumptions of <b>Theory X</b> and <b>Theory Y</b>",
+     "The traits that Judge and colleagues found to be linked with leadership",
+     "Why the laissez-faire style has the worst record"
+    ],
+    "sonra": "First study lesson c3a, and work through the cases in the power steps with special care; then move on to c3b. Because this chapter comes as cases in the exam, try to find the clue word that gives the answer in each step's question. At the end, answer the unit questions and go back to the trap list for your mistakes."
+   }
+  }
+ ],
+ "lessons": [
+  {
+   "id": "c1a",
+   "ad": "Management and the P-O-L-C framework",
+   "sure": 25,
+   "neden": "<p>This lesson sets up the language for the rest of the course. In the exam you read a short situation and decide “which function is this?” or “which planning level is this?”. You answer these questions not by memorising, but by knowing which problem each concept solves.</p>",
+   "hedefler": [
+    "Explain the definition of management in your own words.",
+    "Tell apart the <b>Planning</b>, <b>Organizing</b>, <b>Leading</b> and <b>Controlling</b> functions in a scenario.",
+    "Match strategic, tactical and operational planning to their time span and manager level.",
+    "Explain triple bottom line, OCB and process loss with examples.",
+    "Compare the traditional and the contemporary management pyramid."
+   ],
+   "adimlar": [
+    {
+     "baslik": "What is management?",
+     "anlatim": "<p>If a café owner works alone, she is the one doing the work. The moment she hires five employees, other people do part of the work and her job changes. This is exactly where management begins. The textbook defines <b>Management</b> as “the art of getting things done through the efforts of other people”.</p><p>The key phrase in the definition is <i>through the efforts of other people</i>. A manager is not someone who does every task alone; a manager is someone who gets results through the work of others. The textbook's key-term version adds two things: solving problems creatively and reaching the organization's goals. So management is tied to a purpose, and it works through people.</p><p>In the exam, wrong options usually break this core: “do the important tasks yourself”, “own the company” or “control employees' personalities and private choices” are not management. Ownership is a legal status; management is an activity.</p>",
+     "ornek": "<p>In a student project group, if Elif prepares the whole presentation herself, she is a good worker, but she has not managed. When she shares out the tasks and makes sure everyone brings their part on time, she reaches the goal through the efforts of others. That is exactly the definition of <b>Management</b>.</p>",
+     "kaynak": [0],
+     "terimler": ["Management"],
+     "soru": {
+      "q": "Kemal owns a bakery but has hired a manager, Ines, who gets the daily baking and sales done by guiding six employees. Who is doing management in the course's sense?",
+      "o": [
+       "Ines, because she reaches goals through the efforts of others",
+       "Kemal, because owning the business makes him its manager",
+       "Neither, because management means doing key tasks yourself",
+       "Both equally, because everyone in the bakery manages it"
+      ],
+      "x": "The correct answer is Ines: management is reaching goals through the efforts of others, and she is the one doing this. The most tempting wrong option is Kemal, but ownership is a legal status; it does not make anyone a manager unless they get work done through others."
+     }
+    },
+    {
+     "baslik": "Planning and Organizing: goals and structure",
+     "anlatim": "<p>The four functions of management are known as the <b>P-O-L-C framework</b>: Planning, Organizing, Leading, Controlling. The order is not random; it follows the natural flow of work. First you decide where to go, then you build the setup that will get you there, then you get people moving, and finally you check whether you are on the right track.</p><p><b>Planning</b> means setting goals and choosing the path to reach them. A good plan is not made in a vacuum: it needs environmental scanning, forecasting the future and making sound decisions. Vision and mission, building strategy, and goals and objectives all belong to this function.</p><p><b>Organizing</b> means building a structure and assigning people so that the goals can be reached: who will do which job, and who will report to whom. Job design, organizational design, culture and social networks also belong here. An easy way to tell them apart: Planning answers “what and why”, Organizing answers “who and in what setup”. If a manager is sharing out the work again or redesigning jobs, she is not setting a new goal; she is changing the structure.</p>",
+     "ornek": "<p>The owner of a bicycle shop decides to start repairing electric bikes this summer and sets a revenue goal for the end of the year: this is <b>Planning</b>. Then he puts one mechanic on this work, splits the workbench in two and shares out the other employees' tasks again: this is <b>Organizing</b>, because the goal stays the same and only the setup that leads to it is built.</p>",
+     "kaynak": [1],
+     "terimler": ["Planning", "Organizing"],
+     "soru": {
+      "q": "The head nurse of a hospital ward splits the team into two shifts and gives each nurse a fixed group of patients so that the ward's new care targets can be met. Which function is she performing?",
+      "o": ["Organizing", "Planning", "Leading", "Controlling"],
+      "x": "The head nurse is not setting a new goal; she is building the structure and assigning people to tasks to reach a goal that already exists. This is Organizing. Planning looks tempting because targets are mentioned, but the targets are already set; what happens here is the division of work."
+     }
+    },
+    {
+     "baslik": "Leading and Controlling: influence and correction",
+     "anlatim": "<p>The plan is made and the structure is built, but nothing happens if people do not get moving. <b>Leading</b> is the social and informal sources of influence you use to get others to act. The key word is <i>informal</i>: Leading is less about orders you give through your title and more about inspiring, motivating, communicating and keeping the team together. Leadership, decision making, communication, teams and motivation belong to this function.</p><p><b>Controlling</b> means making sure performance does not drift from standards, and it has three steps: (1) set performance standards, (2) compare actual performance with the standards, (3) take corrective action if needed. Systems, processes and strategic human resource management belong here.</p><p>The exam's favourite mix-up is this: if a manager compares a result with a goal and takes a measure, it looks like planning, because something forward-looking is being done. But the action is triggered by a deviation, so it is Controlling. Leading and Organizing also get mixed up: Organizing deals with structure and tasks, while Leading affects people's willingness and energy.</p>",
+     "ornek": "<p>A football coach sets a goal of two goals per match at the start of the season. After five matches the team's average is one goal; the coach sees this and adds extra shooting practice. Because standard, comparison and correction all come together, this is <b>Controlling</b>. His speech that fires up the players in the dressing room before the match is <b>Leading</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Leading", "Controlling"],
+     "soru": {
+      "q": "A call-centre supervisor notices that the average waiting time has risen to six minutes against a three-minute standard, so she adds two staff to the peak hours. Which function is this?",
+      "o": ["Controlling", "Planning", "Organizing", "Leading"],
+      "x": "There is a standard (three minutes), actual performance (six minutes) is compared with it, and corrective action is taken: all three steps point to Controlling. Adding staff also looks like Organizing, but what starts the action is the drift from the standard, and the question asks about the response to that drift."
+     }
+    },
+    {
+     "baslik": "The three levels of planning",
+     "anlatim": "<p>Planning does not happen at one level only, because in an organization different people think with different time horizons. The logic is simple: the higher up you are, the further and wider you look; the lower down you are, the more concrete and short-term your plans are. The plan at the upper level is the frame for the plan at the level below.</p><p><b>Strategic planning</b> covers three years or more and is done by top management. It concerns the whole organization, draws on the mission and decides how the company will position itself against competitors; it does this based on a SWOT analysis.</p><p><b>Tactical planning</b> covers one to three years and is the work of middle managers. It sets out the concrete tools to put the strategic plan into action.</p><p><b>Operational planning</b> covers less than one year and is done by lower-level managers. It is the specific action steps that support the strategic and tactical plans: a weekly shift list or a monthly order schedule, for example.</p><p>To tell them apart in the exam, use three clues together: the time span, who makes the plan and how concrete the plan is. If you see “two years” and “middle manager”, it is tactical; if you see “next week”, it is operational.</p>",
+     "ornek": "<p>The board of an imaginary café chain decides to become the most eco-friendly coffee shop in the city within five years (<b>Strategic planning</b>). The regional manager turns this into a concrete two-year programme to switch all branches to recyclable cups (<b>Tactical planning</b>). The branch supervisor then draws up next month's order and training schedule (<b>Operational planning</b>).</p>",
+     "kaynak": [2],
+     "terimler": ["Strategic planning", "Tactical planning", "Operational planning"],
+     "soru": {
+      "q": "The marketing manager of a mid-sized shoe company, a middle manager, draws up an 18-month programme of campaigns to carry out the firm's new five-year positioning. Which planning level is this?",
+      "o": ["Tactical planning", "Strategic planning", "Operational planning", "Controlling"],
+      "x": "Eighteen months falls between one and three years, the plan comes from a middle manager, and its purpose is to carry out an existing strategy: Tactical planning. Strategic planning is tempting because the five-year positioning is mentioned, but top management has already made that decision; the marketing manager is planning the tools to put it into action."
+     }
+    },
+    {
+     "baslik": "Leadership, entrepreneurship and strategy",
+     "anlatim": "<p>The definitions of these three concepts are very similar, so in the exam they show up in each other's places. Focus on what each one describes.</p><p><b>Leadership</b> is an act of influence that gets others to act, and it rests on social and informal sources of influence. It is no accident that this definition is almost the same as the Leading function: leadership is the core of the Leading function.</p><p><b>Entrepreneurship</b> is creating new ventures by spotting opportunities (needs, wants, problems) and using or creating resources to put innovative ideas into action. A person who does this inside an existing organization is called an <b>Intrapreneur</b>: they do not start a new company; they launch a new product or business line in their own company. The logic is the same; only the place is different.</p><p><b>Strategy</b>, according to Hambrick and Fredrickson, is a central, integrated and externally oriented concept of how an organization will reach its goals. The “externally oriented” part matters: strategy describes where you will stand against competitors and the market. In short: leadership is about people, entrepreneurship is about opportunity, and strategy is about the whole direction of the organization.</p>",
+     "ornek": "<p>Deniz works at an insurance company and notices a problem: customers cannot upload photos of damage through the app. She convinces her manager and sets up a small team inside the company to build this feature. Because she spots an opportunity and innovates by creating resources, she is an entrepreneur; because she does it inside her own company, she is an <b>Intrapreneur</b>.</p>",
+     "kaynak": [3],
+     "terimler": ["Entrepreneurship", "Intrapreneur"],
+     "soru": {
+      "q": "A software engineer at a large bank spots that small shop owners lack a simple invoicing app, gets a budget from her bosses and launches the product as a new unit inside the bank. She is best described as:",
+      "o": ["An intrapreneur", "An independent entrepreneur", "A strategic planner", "A functional manager"],
+      "x": "She spots an opportunity and starts a new venture inside an existing organization, so she is an intrapreneur. “Independent entrepreneur” is the most tempting wrong answer: the entrepreneurial logic is the same, but that person would start their own new company; here the work stays inside the bank."
+     }
+    },
+    {
+     "baslik": "Performance: organization, individual and group",
+     "anlatim": "<p>How do you decide whether an organization or an employee is “good”? This step explains performance at three levels.</p><p>At the organization level, the <b>Triple bottom line</b> measures performance not only by profit but in three dimensions: economic, social and environmental; in short, profit, people, planet. This idea is linked to <b>CSR</b> (corporate social responsibility): taking responsibility, beyond what the law requires, for your impact on customers, employees, communities and the environment.</p><p>At the individual level there are two kinds of performance. <b>In-role performance</b> is the productivity and quality your job requires. <b>OCB</b> (organizational citizenship behaviour) is voluntary behaviour that goes beyond your role and benefits the organization. The difference: if it is written in the job description, it is in-role; if it is done without anyone asking, it is OCB.</p><p>At the group level the rule is this: group performance equals the group's inputs minus <b>Process loss</b>. Process loss is anything in group interaction that blocks good problem solving: wasted arguments or an unclear division of work, for example. That is why five talented people in a badly working group can produce less than the sum of what each would produce alone.</p>",
+     "ornek": "<p>Burak works in a library and handles book returns, his own task, quickly and without errors: this is <b>in-role performance</b>. After his shift, without anyone asking, he teaches the new intern how the system works: this is <b>OCB</b>. The same library's four-person events team spends its meetings arguing about who will do what and cannot finish the poster in time: this is <b>Process loss</b>.</p>",
+     "kaynak": [4],
+     "terimler": ["Triple bottom line", "OCB", "Process loss"],
+     "soru": {
+      "q": "An outdoor-gear company publishes one yearly report showing its profit, the number of local jobs it created and the tonnes of CO2 it saved. Which concept does this way of reporting reflect?",
+      "o": ["Triple bottom line", "In-role performance", "Organizational citizenship behaviour", "Group performance"],
+      "x": "Profit is the economic dimension, jobs are the social dimension and CO2 savings are the environmental dimension; together the three make up the Triple bottom line. OCB may be tempting because it sounds like good behaviour, but OCB is an individual's voluntary behaviour beyond their role, not a company's performance report."
+     }
+    },
+    {
+     "baslik": "The traditional and the contemporary view",
+     "anlatim": "<p>Think of management as a pyramid. The <b>Traditional view</b> keeps the pyramid upright: top management at the peak, middle managers below, employees at the bottom. Decisions flow from the top down, and the employee's job is to follow instructions.</p><p>The <b>Contemporary view</b> turns the pyramid over: the <b>upside-down pyramid</b>. Customers are now at the top; next come the employees and other managers who serve them; top management is at the bottom, supporting and serving them. The logic: the person who really deals with the customer is the front-line employee, and management's job is to clear the way for that person.</p><p>The tool for this is <b>Empowerment</b>: enabling a person to think, to act, and to control their work and decisions on their own. An empowered employee does not wait for approval for every small problem. The textbook also names two trends of today: DEI and sustainability. In the exam, when you see “top managers support and serve employees, who serve the customers”, recognise the contemporary view.</p>",
+     "ornek": "<p>An imaginary hotel chain gives its receptionists the right to offer a free room upgrade to a guest who complains, without asking the manager. The manager's job is no longer to give approval but to give the receptionists training and tools. This is an example of the upside-down pyramid and <b>Empowerment</b> working together.</p>",
+     "kaynak": [5],
+     "terimler": ["Empowerment"],
+     "soru": {
+      "q": "At a chain of pharmacies, the regional directors say their job is to remove obstacles for store staff, and staff may solve customer problems without asking for approval. This best reflects:",
+      "o": [
+       "The upside-down pyramid with empowerment",
+       "The traditional top-down pyramid of control",
+       "Tactical planning by middle management",
+       "Process loss caused by an unclear structure"
+      ],
+      "x": "Top management serving employees, and employees being able to decide without waiting for approval, describe the contemporary upside-down pyramid together with empowerment. The traditional pyramid may be tempting because there are still regional directors, but there decisions come down from the top and the employee waits for approval."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "Comparing results with goals and then taking action is planning.", "dogru": "This is <b>Controlling</b>: standard, comparison, correction. If a deviation triggers the action, it is control."},
+    {"yanlis": "Tactical planning covers less than a year and is the work of lower-level managers.", "dogru": "Tactical is 1–3 years and middle managers. Concrete steps for less than a year are <b>Operational planning</b>."},
+    {"yanlis": "Leading and Organizing are the same, since both deal with people.", "dogru": "Organizing is structure, division of work and job design; Leading is getting people to act through informal influence."},
+    {"yanlis": "Every good behaviour beyond the job description is in-role performance.", "dogru": "If it is voluntary and beyond the role, it is <b>OCB</b>; in-role is only the productivity and quality the job requires."},
+    {"yanlis": "The definitions of Strategy and Leadership can be used in place of each other.", "dogru": "Strategy is an externally oriented, integrated concept of direction; Leadership is an act of influence that gets others to act."}
+   ],
+   "ozet": [
+    "Management: the art of getting things done through the efforts of other people.",
+    "P-O-L-C: Planning, Organizing, Leading, Controlling; the natural order of work.",
+    "Controlling has three steps: set a standard, compare, correct.",
+    "Strategic is 3+ years and top management; Tactical is 1–3 years and middle managers; Operational is under 1 year and lower-level managers.",
+    "An intrapreneur practises entrepreneurship inside an existing organization.",
+    "Triple bottom line: profit, people, planet.",
+    "OCB is voluntary and beyond the role; process loss lowers group performance.",
+    "Contemporary view: the upside-down pyramid and empowerment."
+   ],
+   "aklinda": "P-O-L-C asks four questions in order: What will we do? Who will do it? How will we fire people up? Did it work? If you spot a deviation and correct it, it is always Controlling.",
+   "sinavda": "<p>This unit comes in Part 1 as multiple-choice questions and is worth about 4 points. Typical questions give a short situation and ask which function or which planning level it is; the definitions of triple bottom line, OCB and process loss may also be asked directly.</p>"
+  },
+  {
+   "id": "c1b",
+   "ad": "Managers: Mintzberg's roles and Katz's skills",
+   "sure": 25,
+   "neden": "<p>You have learned what management is; now you look at the person who does it. The exam asks for very clear distinctions here: the role that passes information inside versus the one that passes it outside, the manager who contributes directly versus indirectly, and the skill needed at the top versus at the bottom. If you know the logic behind these distinctions, you can solve any situation.</p>",
+   "hedefler": [
+    "Tell apart seven types of managers by their area of responsibility.",
+    "Place Mintzberg's ten roles in three groups.",
+    "Separate the disseminator and spokesperson roles by the direction of information.",
+    "Match Katz's three skills to manager levels.",
+    "Use Mintzberg's list of roles without mixing it up with Katz's list of skills."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Types of managers",
+     "anlatim": "<p>“Manager” is not one single job. The textbook groups managers by what they are responsible for, and the exam mostly asks about the pairs that look alike.</p><p>A <b>Top manager</b> is responsible for the organization's strategy; this person is the guardian of the vision and mission. A <b>Functional manager</b> is responsible for the effectiveness and efficiency of one area, such as accounting or marketing. A <b>Supervisory / team manager</b> coordinates a subgroup within a function or a cross-functional team. A <b>Project manager</b> plans, runs and closes a project.</p><p>Two important pairs remain. A <b>Line manager</b> runs a function that contributes <i>directly</i> to the product or service; the textbook's example is the Tide product manager at P&G. A <b>Staff manager</b> runs a function that creates <i>indirect</i> inputs, such as finance and accounting. Ask yourself: does this department produce the product itself, or does it support the people who make it? If it supports them, it is staff.</p><p>A <b>General manager</b> runs a clearly separate unit that earns revenue: a store, a business unit, a product line. The difference from a functional manager is that this person makes decisions across functions, not in one area only.</p>",
+     "ornek": "<p>In an imaginary ice-cream company, the production chief in the factory is a <b>Line manager</b> because he produces the product directly; the finance chief who handles payroll is a staff manager because she gives indirect support. The person who runs the company's shop in a seaside town, deciding on everything from sales to staff, is a <b>General manager</b>, because he is responsible for a whole unit that earns revenue.</p>",
+     "kaynak": [0],
+     "terimler": ["Line manager", "General manager"],
+     "soru": {
+      "q": "Omar runs one branch of a garden-centre chain. He decides on staffing, stock, local promotions and opening hours, and is judged on the branch's revenue. What type of manager is he?",
+      "o": ["General manager", "Functional manager", "Staff manager", "Project manager"],
+      "x": "He runs a clearly separate unit that earns revenue (the branch) and makes decisions across functions, from staff to stock; this is a General manager. Functional manager is tempting, but that person would be responsible for one area only, for example only marketing."
+     }
+    },
+    {
+     "baslik": "Mintzberg's roles: the Interpersonal group",
+     "anlatim": "<p>Mintzberg gathered the work managers do into ten <b>managerial roles</b> and split these roles into three groups: <b>Interpersonal</b>, <b>Informational</b> and <b>Decisional</b>. If you understand the logic of the groups, you do not need to memorise the roles: a manager first builds relationships with people, then gathers and shares information through these relationships, and then makes decisions with that information.</p><p>The Interpersonal group has three roles. The <b>Figurehead</b> represents the organization in formal and ceremonial duties: cutting a ribbon, giving a speech at a ceremony. The <b>Leader</b> role is about the relationship with employees: motivating and guiding them. This role matters at <i>every</i> level of management. The <b>Liaison</b> deals with peers and people <i>outside</i> their own unit or organization: building ties with other departments and with managers of other companies.</p><p>Figurehead and Liaison can be confused, because in both the manager meets people from outside. The difference is the purpose: the Figurehead does ceremonial representation, while the Liaison builds a network of ties that will be useful later.</p>",
+     "ornek": "<p>The chief physician of a hospital cuts the ribbon at the opening of the new children's ward: <b>Figurehead</b>. The next day she meets the chief physician of a nearby hospital and builds a tie for sharing beds in emergencies: <b>Liaison</b>. In the afternoon she talks with her tired assistants and encourages them: the leader role.</p>",
+     "kaynak": [1],
+     "terimler": ["Figurehead", "Liaison"],
+     "soru": {
+      "q": "The head of a city library joins a monthly breakfast with the heads of the local museum and theatre to build ties that may lead to joint projects. Which Mintzberg role is this?",
+      "o": ["Liaison", "Figurehead", "Spokesperson", "Negotiator"],
+      "x": "The library head is building a network with peers outside their own organization; this is Liaison. Figurehead looks tempting because it involves meeting the heads of other institutions, but there is no ceremony or formal representation; the goal is to build ties that may be useful later."
+     }
+    },
+    {
+     "baslik": "The Informational group: where does information come from, and where does it go?",
+     "anlatim": "<p>Think of the three roles in the Informational group by the direction of information. Information either comes to the manager, goes from the manager into the organization, or goes from the manager out of the organization.</p><p>In the <b>Monitor</b> role, the manager receives and gathers information: reads reports, looks into complaints, follows trends in the industry. Information flows toward the manager.</p><p>In the <b>Disseminator</b> role, the manager passes information <i>into</i> the organization, for example to their own team. Coming out of a board meeting and explaining the decisions to the team is this role.</p><p>In the <b>Spokesperson</b> role, the manager passes the organization's information <i>outside</i>, to its environment: to the press, to the public. A press release or an interview belongs here.</p><p>These two are the exam's favourite trap: Disseminator goes inside, Spokesperson goes outside. A hint: “spokesperson” makes you think of a company spokesperson, and a spokesperson talks to the world. Do not confuse these roles with the Figurehead either: the Figurehead does not pass on information but represents the organization in ceremonies; the Spokesperson carries information.</p>",
+     "ornek": "<p>The manager of a bike-rental company reads customer reviews and competitors' prices in the morning (<b>Monitor</b>). At noon she explains the new pricing policy to her team (<b>Disseminator</b>). In the evening she gives a statement to the local newspaper about the company's new fleet of electric bikes (<b>Spokesperson</b>). Even when the information is the same, its direction creates three different roles.</p>",
+     "kaynak": [1],
+     "terimler": ["Monitor", "Disseminator", "Spokesperson"],
+     "soru": {
+      "q": "After a meeting with the city council, the manager of a public swimming pool gathers her lifeguards and explains the new safety rules the council agreed on. Which role is she playing?",
+      "o": ["Disseminator", "Spokesperson", "Monitor", "Liaison"],
+      "x": "She takes information from outside and passes it into the organization, to her own team; this is Disseminator. Spokesperson is the most tempting wrong answer, but a spokesperson carries information in the opposite direction, from the organization to the outside, for example to the press or the public."
+     }
+    },
+    {
+     "baslik": "The Decisional group and roles by level",
+     "anlatim": "<p>Once information is gathered, it is time to decide. The Decisional group has four roles, and each describes a different kind of decision.</p><p>In the <b>Entrepreneur</b> role, the manager starts change and opens new projects; the decision is triggered by an opportunity. The <b>Disturbance handler</b> responds to threats and crises; the decision is triggered by a problem and often comes unexpectedly. The <b>Resource allocator</b> decides where the organization will spend its effort: splitting budgets, assigning people to tasks. The <b>Negotiator</b> bargains on behalf of the organization.</p><p>To tell the Entrepreneur from the Disturbance handler, ask “who started the change?” If the manager starts something new by choice, it is Entrepreneur; if the manager responds to a threat from outside, it is Disturbance handler. Do not confuse this Entrepreneur role with the concept of entrepreneurship from lesson 1 either: here it only means a manager's role of starting change.</p><p>The roles do not carry the same weight at every level. For supervisors (lower-level managers), the Figurehead role is less important, while Disturbance handler and Negotiator are more important. The logic is clear: ceremonies are mostly done by top management, while daily disruptions and bargaining happen on the ground.</p>",
+     "ornek": "<p>The operator of a school canteen splits the year's budget between the menu, staff and equipment: <b>Resource allocator</b>. One morning the fridge breaks down, and before lunch he arranges cold products from another supplier: <b>Disturbance handler</b>. Then he bargains with that supplier for a yearly discount: negotiator. On his own initiative, he also opens a healthy-snack corner: entrepreneur.</p>",
+     "kaynak": [1],
+     "terimler": ["Disturbance handler", "Resource allocator"],
+     "soru": {
+      "q": "A flood damages the warehouse of an online bookshop, and the operations manager immediately rents temporary space and reroutes orders. Which Mintzberg role is she playing?",
+      "o": ["Disturbance handler", "Entrepreneur", "Resource allocator", "Negotiator"],
+      "x": "She is not starting the change herself; she is responding fast to a threat from outside (the flood); this is Disturbance handler. Entrepreneur is tempting because a new setup is being built, but the Entrepreneur starts change by choice, based on an opportunity, and does not react to a crisis."
+     }
+    },
+    {
+     "baslik": "Katz's three skills",
+     "anlatim": "<p>Mintzberg describes <i>what a manager does</i>; Katz asks <i>what a manager must have</i> to do it, and he names three skills.</p><p><b>Technical skills</b> are knowledge and expertise in a specific field: being able to use a piece of equipment, a piece of software or a procedure. Lower-level managers need them most, because they are closest to where the work is done and need to be able to show the work to their teams.</p><p><b>Interpersonal skills</b> (also called human skills) mean working with people, leading them and communicating with them. They are needed at every level, because every manager gets work done through the efforts of others; remember the definition of management.</p><p><b>Conceptual skills</b> mean producing ideas and seeing the big picture: strategy, mission, policies. Top managers need them most.</p><p>The logic of the rule: the higher you go, the further you move from the work itself and the closer you get to the direction of the whole. So as you rise, you need more conceptual skills and fewer technical skills, while interpersonal skills stay necessary at every step.</p>",
+     "ornek": "<p>In a restaurant chain, shift leader Can shows a new employee the cleaning settings of the coffee machine: <b>Technical skills</b>. The chain's general manager thinks about which cities they will open in five years from now and what the brand will stand for: <b>Conceptual skills</b>. When both of them listen to their teams and motivate them, they use <b>Interpersonal skills</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Technical skills", "Interpersonal skills", "Conceptual skills"],
+     "soru": {
+      "q": "A newly promoted regional director at a supermarket chain now spends her days on long-term expansion plans and company policy instead of checking tills. According to Katz, which skill has become most important for her?",
+      "o": ["Conceptual skills", "Technical skills", "Interpersonal skills", "Informational skills"],
+      "x": "Long-term plans and company policy require seeing the big picture; according to Katz, the higher you rise, the more you need Conceptual skills. Interpersonal skills are a tempting wrong answer because they are needed at every level, but the skill that grows and stands out as you rise is the conceptual one."
+     }
+    },
+    {
+     "baslik": "Do not mix up the two lists: Mintzberg and Katz",
+     "anlatim": "<p>This unit has lists that look alike, and the exam mixes them up on purpose. Most wrong options put another list in place of the right one.</p><p>Mintzberg's list is about <i>roles</i>, that is, what a manager does: Interpersonal, Informational, Decisional. Katz's list is about <i>skills</i>, that is, what a manager must have: Technical, Interpersonal, Conceptual. The word “interpersonal” appears in both lists, so look at all three words in the option. If you see “Informational” or “Decisional”, it is Mintzberg; if you see “Technical” or “Conceptual”, it is Katz.</p><p>There is also a parallel that links the two lists. Mintzberg's Leader role matters at every level; Katz's Interpersonal skills are needed at every level too. That is because both describe the core of management: getting work done with people. The things that change by level are different: in Katz, technical skill stands out at the bottom and conceptual skill at the top; in Mintzberg, the Figurehead role shrinks for supervisors, while Disturbance handler and Negotiator grow.</p><p>Finally, the four P-O-L-C functions and the three planning levels may also appear as wrong options. If the question says “roles”, look for Mintzberg; if it says “skills”, look for Katz; if it says “functions”, look for P-O-L-C.</p>",
+     "ornek": "<p>Think of Zeynep, the president of a student club. When she represents the club at the university's open-day fair, she plays one of Mintzberg's <i>roles</i> (figurehead). What helps her play that role well is one of Katz's <i>skills</i>: her ability to communicate easily with people (interpersonal skills). The role is the work she does; the skill is the ability that makes that work possible.</p>",
+     "kaynak": [1, 2],
+     "terimler": [],
+     "soru": {
+      "q": "A training brochure claims: 'Managers need three critical skill sets: interpersonal, informational and decisional.' What is wrong with this claim?",
+      "o": [
+       "It lists Mintzberg's role groups instead of Katz's skills",
+       "It lists the P-O-L-C functions instead of Katz's skills",
+       "It lists Katz's skills instead of Mintzberg's role groups",
+       "It lists the planning levels instead of Mintzberg's roles"
+      ],
+      "x": "Interpersonal, informational and decisional are Mintzberg's role groups; Katz's skill sets are technical, interpersonal and conceptual. The third option is tempting because it also says the two lists were swapped, but the direction is wrong: the brochure says “skills” and lists the role groups, so Mintzberg was written in place of Katz."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "The Disseminator passes information to the press and the public.", "dogru": "The Disseminator carries information <b>inside</b>, to the team. The one who carries it outside, to the press, is the <b>Spokesperson</b>."},
+    {"yanlis": "Liaison means representing the organization at ceremonies.", "dogru": "Ceremonies and formal representation are the <b>Figurehead</b>. The Liaison builds a network with people outside the unit."},
+    {"yanlis": "Katz's skills are interpersonal, informational and decisional.", "dogru": "These are Mintzberg's role groups. Katz's three skills are <b>technical, interpersonal, conceptual</b>; do not mix up the two lists."},
+    {"yanlis": "The finance manager is a line manager because she runs critical work.", "dogru": "Finance creates indirect inputs, so it is a <b>staff</b> function. Line means a direct contribution to the product or service."},
+    {"yanlis": "The figurehead role is more important for supervisors.", "dogru": "The opposite is true: for lower-level managers the figurehead role matters less, while the <b>disturbance handler</b> and <b>negotiator</b> roles matter more."},
+    {"yanlis": "Negotiator is an informational role.", "dogru": "Negotiator belongs to the <b>decisional</b> group; bargaining on behalf of the organization is a decision task."}
+   ],
+   "ozet": [
+    "Line contributes directly, staff indirectly; a general manager runs a unit that earns revenue.",
+    "Mintzberg: 10 roles, 3 groups (interpersonal, informational, decisional).",
+    "Interpersonal: figurehead, leader, liaison.",
+    "Informational: monitor (receives), disseminator (gives inside), spokesperson (gives outside).",
+    "Decisional group: the entrepreneur starts change, the disturbance handler deals with crises, the resource allocator splits the budget, the negotiator bargains.",
+    "For lower-level managers (supervisors), the figurehead role shrinks; crisis handling (disturbance handler) and bargaining (negotiator) grow.",
+    "Katz's skills: technical is needed most at the bottom, interpersonal at every level, conceptual most at the top.",
+    "The higher you rise, the more conceptual skill and the less technical skill you need."
+   ],
+   "aklinda": "Build ties, gather information, make decisions: Mintzberg's three groups flow in this order. If information goes inside, it is the disseminator; if it goes outside, it is the spokesperson.",
+   "sinavda": "<p>It comes in Part 1 as multiple choice, worth about 4 points. Questions usually describe a short piece of manager behaviour and ask which Mintzberg role it is, or ask you to match Katz's skills to manager levels. You may also be asked to link each list name to its correct owner.</p>"
+  },
+  {
+   "id": "c2a",
+   "ad": "Personality and values: the Big Five and beyond",
+   "sure": 25,
+   "neden": "<p>The people you manage are different from each other, and some of these differences come from personality. Knowing personality helps you understand who will shine in which job and who will struggle in which situation. In the exam you are asked to find the right trait from a description of how a person behaves.</p>",
+   "hedefler": [
+    "Explain the definition of personality and how stable it is.",
+    "Identify the right Big Five trait from a description of a person.",
+    "Show the difference between self-esteem and self-efficacy with an example.",
+    "Explain the limits of personality tests in hiring.",
+    "Separate values from personality and list Schwartz's ten values."
+   ],
+   "adimlar": [
+    {
+     "baslik": "What is personality, and when does it make a difference?",
+     "anlatim": "<p>Put two employees in the same job and you will see them behave differently: one writes everything in lists, the other keeps it in her head; one speaks in meetings, the other listens. We call the lasting ones among these differences personality.</p><p><b>Personality</b> is a person's relatively stable patterns of feeling, thinking and behaving. Read “relatively stable” in both directions: personality does not change from one day to the next, but it can change slowly over a lifetime. So it is wrong to say “it is fixed in childhood and never changes”.</p><p>Personality is also not the only thing that shapes behaviour at work. The demands of the job shape behaviour too: in a job with strict rules, everyone behaves in a similar way. That is why personality makes the biggest difference in jobs with high <b>autonomy</b>; when people decide for themselves how to do the work, their own patterns show.</p><p>Also separate personality from its two neighbours in this chapter: personality describes how you behave, <b>values</b> describe what is important to you, and <b>attitudes</b> describe your opinions and feelings about a specific thing.</p>",
+     "ornek": "<p>In an imaginary call centre, every employee has to read the ready-made script on the screen, so quiet Mert and talkative Selin look almost the same. The difference shows when Selin moves to the same company's events team and starts planning her own work. As autonomy grows, <b>Personality</b> shows more in behaviour.</p>",
+     "kaynak": [0],
+     "terimler": ["Personality"],
+     "soru": {
+      "q": "Two new hires show very different working styles in a small design studio where they plan their own days, but behave almost identically on a tightly scripted assembly line. What does this illustrate?",
+      "o": [
+       "Personality matters most in jobs with high autonomy",
+       "Personality is fixed in childhood and never changes",
+       "Job demands have no effect on behaviour at work",
+       "Personality and values are one and the same thing"
+      ],
+      "x": "Personality differences show where people organise their own work and autonomy is high; in a job with strict rules, the demands of the job decide behaviour. The second option may be tempting, but the textbook says personality is relatively stable and can change slowly over a lifetime; besides, the scenario is not about change."
+     }
+    },
+    {
+     "baslik": "Big Five: Openness and Conscientiousness",
+     "anlatim": "<p>The most common way to describe personality is the <b>Big Five</b> model. Its first letters spell <b>OCEAN</b>: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism. Each one is a dimension that runs from one end to the other; people score lower or higher on each dimension.</p><p><b>Openness</b>: being curious, original, intellectual, creative and open to new ideas. At work these people learn fast, adapt easily to change and are creative; on the other hand, they may get bored in routine jobs.</p><p><b>Conscientiousness</b>: being organized, systematic, punctual, achievement-oriented and dependable. This is the only trait that predicts performance <i>across all jobs</i>, and it is the trait recruiters look for most. The logic is clear: whatever job you do, working in a planned way and keeping your word helps.</p><p>The trap the exam sets here is a play on words. The description “organized, dependable, meets deadlines” is Conscientiousness, not <b>organizational commitment</b>. Commitment is an emotional attitude toward one specific company; Conscientiousness is a personality trait a person carries into every setting.</p>",
+     "ornek": "<p>In a project group, Aylin comes to every meeting with an agenda, writes the tasks in a table and never misses a deadline: <b>Conscientiousness</b>. Another member of the group, Kaan, keeps trying new presentation tools and looks at the topic from an angle nobody else thought of, but he quickly gets bored of writing reports in the same format: <b>Openness</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Openness", "Conscientiousness"],
+     "soru": {
+      "q": "A recruiter can test candidates on only one Big Five trait and wants the trait that best predicts performance whatever the job is. Which trait should she choose?",
+      "o": ["Conscientiousness", "Openness", "Extraversion", "Agreeableness"],
+      "x": "Conscientiousness is the only Big Five trait that predicts performance across all jobs, and it is the trait recruiters look for most. Extraversion is a tempting wrong answer because it helps in sales and in management, but that is true only for some jobs."
+     }
+    },
+    {
+     "baslik": "Big Five: Extraversion, Agreeableness, Neuroticism",
+     "anlatim": "<p><b>Extraversion</b>: being outgoing, talkative and sociable. These people are good in sales and as managers, because they get energy from dealing with people. The textbook also notes a side effect: more absenteeism.</p><p><b>Agreeableness</b>: being likeable, tolerant, sensitive, trusting, kind and warm. These people help others. But because they avoid conflict, they take less part in change-oriented communication, that is, in questioning the way things are. This is the price of a good trait.</p><p><b>Neuroticism</b>: being anxious, irritable, moody and emotionally unstable. Among the five traits, this is the only one where a <i>high</i> score is not wanted; high scorers are less happy and have lower career success.</p><p>Extraversion and Agreeableness are often confused, because both look like being “good with people”. The difference: Extraversion is about <i>enjoying</i> being among people, and Agreeableness is about <i>treating people well</i>. A quiet but very helpful person can have low Extraversion and high Agreeableness.</p>",
+     "ornek": "<p>At a gym, Ece at the reception chats with everyone and breaks the record for signing up new members: high <b>Extraversion</b>. The trainer Okan is quiet, but he helps everyone patiently and avoids arguments: high <b>Agreeableness</b>. Tolga in accounting walks around tense and moody for days because of one small mistake: high <b>Neuroticism</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Extraversion", "Agreeableness", "Neuroticism"],
+     "soru": {
+      "q": "In a project team, Lars is kind and helpful to everyone but never questions the team's flawed plan because he hates conflict. Which trait explains both his strength and this weakness?",
+      "o": ["Agreeableness", "Extraversion", "Conscientiousness", "Neuroticism"],
+      "x": "Being kind and helpful is the strong side of Agreeableness; avoiding conflict and staying away from change-oriented communication is its price. Extraversion is tempting because it makes you think of good relations with people, but Extraversion means being talkative and sociable, not being kind and avoiding conflict."
+     }
+    },
+    {
+     "baslik": "Self-monitoring and proactive personality",
+     "anlatim": "<p>Beyond the Big Five, there are other personality dimensions that make a difference at work. The first two are about how a person responds to their surroundings.</p><p><b>Self-monitoring</b> is how well you read a situation and how much you adjust your behaviour to it. High self-monitors are called “social chameleons”: they are formal in the boardroom, relaxed at the team dinner and warm with the customer. Low self-monitors are the same person in every setting.</p><p><b>Proactive personality</b> is the tendency to fix what is wrong and to take initiative without being told. A proactive person who sees a broken process does not stop at complaining; they fix it.</p><p>The way to tell the two apart is to look at what changes. If the person changes their own <i>behaviour</i> to fit the setting, it is self-monitoring; if they act to change the <i>setting</i>, it is proactive personality. One adapts the self, the other fixes the world.</p>",
+     "ornek": "<p>At a language school, the teacher Nora is playful in the children's class and measured and formal in the business English lesson she gives to adults: high <b>Self-monitoring</b>. At the same school, the secretary Arda sees that a mistake in the registration form keeps misleading parents, and he redesigns the form without anyone asking: <b>Proactive personality</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Self-monitoring", "Proactive personality"],
+     "soru": {
+      "q": "A junior accountant notices that invoices are often paid twice, and without being asked she designs a simple check that stops the problem. Which personality dimension does this show?",
+      "o": ["Proactive personality", "Self-monitoring", "Self-efficacy", "Agreeableness"],
+      "x": "Noticing what is wrong and fixing it without being told is proactive personality. Self-monitoring is tempting because it also takes attention, but self-monitoring means adjusting your own behaviour to the setting; here the person changes the setting, that is, the process."
+     }
+    },
+    {
+     "baslik": "Self-esteem and self-efficacy",
+     "anlatim": "<p>These two concepts share the same root, so the exam almost always asks about them together.</p><p><b>Self-esteem</b> is your overall positive feelings about yourself. It is not about one task but about how you see yourself as a whole: “I am a person of worth.”</p><p><b>Self-efficacy</b> is your belief that you can do <i>a specific task</i> successfully: “I can write this report.” The textbook stresses that, unlike other personality traits, it is task-specific. That is why the same person's self-efficacy can be high for one task and low for another.</p><p>Telling them apart is simple: is there a specific task in the question? If you see confidence that changes with the task, such as “I am good at Excel but bad at presentations”, it is self-efficacy; if you see an overall feeling, such as “I like myself in general”, it is self-esteem. Even someone with high self-esteem can feel low self-efficacy when faced with new software.</p>",
+     "ornek": "<p>In an imaginary veterinary clinic, the nurse Melis is someone who trusts herself in general and feels she has worth: high <b>Self-esteem</b>. Still, when the clinic buys a new X-ray machine, she is not sure she can use it correctly; when it comes to giving vaccinations, she trusts herself completely. This confidence that changes from task to task is <b>Self-efficacy</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Self-esteem", "Self-efficacy"],
+     "soru": {
+      "q": "Jonas feels good about himself in general, yet before leading his first client workshop he doubts he can pull it off. Which concept explains his doubt?",
+      "o": ["Low self-efficacy for that task", "Low self-esteem in general", "Low self-monitoring ability", "High neuroticism as a trait"],
+      "x": "The doubt is tied to a specific task, his first client workshop, so it is his task-specific self-efficacy that is low. Low self-esteem is tempting, but the scenario says Jonas feels good about himself in general, so overall self-esteem is not the problem."
+     }
+    },
+    {
+     "baslik": "Personality tests in hiring",
+     "anlatim": "<p>If personality tells you this much, using personality tests in hiring seems to make sense. The textbook is careful here and describes this use as <b>controversial</b>. There are three reasons.</p><p>First, candidates can fake their answers: someone who guesses what the job is looking for can present themselves as more organized than they are. Second, personality explains only about <b>10–15%</b> of job performance; so most of performance comes from other things. Third, there is a better predictor: <b>cognitive ability</b> (general mental ability) predicts performance better than personality does.</p><p>There is also an ethical and legal condition: tests must not discriminate.</p><p>Do not see this as a contradiction with Conscientiousness “predicting performance across all jobs”. Conscientiousness is the most consistent predictor <i>among</i> personality traits, but the total explaining power of personality is still limited. In the exam, options such as “personality is the strongest predictor” or “tests cannot be faked” are wrong.</p>",
+     "ornek": "<p>An imaginary logistics firm chooses its warehouse supervisor with a personality test only and hires the candidate who looks the most “organized”. The candidate presented himself in the test as more organized than he is, and he struggles in the job. For the next hire the firm adds a cognitive ability test as well, because <b>cognitive ability</b> predicts performance better.</p>",
+     "kaynak": [3],
+     "terimler": [],
+     "soru": {
+      "q": "An HR director wants to hire warehouse planners using only a personality questionnaire. Based on the course, which advice should she get?",
+      "o": [
+       "Add a cognitive ability test, as it predicts performance better",
+       "Rely on the questionnaire, as candidates cannot fake the answers",
+       "Rely on the questionnaire, as personality explains most performance",
+       "Drop all testing, as no test predicts job performance at all"
+      ],
+      "x": "According to the textbook, personality explains only about 10–15% of performance, answers can be faked, and cognitive ability predicts better. “Personality explains most performance” is tempting because Conscientiousness is a strong predictor, but the total explaining power of personality is limited."
+     }
+    },
+    {
+     "baslik": "Values",
+     "anlatim": "<p>Personality describes how you behave; <b>Values</b> describe what you want in life. The textbook defines values as people's stable life goals, that is, the things that matter most to them. Like personality, values are stable, but unlike personality they point in a direction: what are you working for?</p><p>Values matter at two points in working life: which job you choose and whether you stay in it. A person who values security may choose a stable job; a person who values excitement may choose a setting that keeps changing.</p><p>The textbook lists Schwartz's ten values: <b>achievement</b>, <b>benevolence</b>, <b>conformity</b>, <b>hedonism</b>, <b>power</b>, <b>security</b>, <b>self-direction</b>, <b>stimulation</b>, <b>tradition</b> and <b>universalism</b>.</p><p>Do not confuse these values with the Big Five: benevolence is a goal (wanting the good of others), while agreeableness is a tendency in behaviour (being kind and helpful). Values are also the basis of person-organization fit, a concept you will see in the next lesson.</p>",
+     "ornek": "<p>Two friends who graduated in architecture are looking for jobs. For Selim the most important thing is <b>security</b>, and he chooses a long-established municipal office. For Defne the most important thing is <b>self-direction</b>; she joins a small studio where she can choose her own projects, and she stays there even when she is offered a higher salary. <b>Values</b> decide the choice each of them makes.</p>",
+     "kaynak": [4],
+     "terimler": ["Values"],
+     "soru": {
+      "q": "Mira turns down a higher-paid corporate job to work for a small animal-rescue charity, because helping others is what matters most to her in life. Which concept best explains her choice?",
+      "o": ["Her values", "Her self-efficacy", "Her extraversion", "Her self-monitoring"],
+      "x": "The goal she sees as most important in life, helping others, decides her choice of job; this is what values do. The other concepts in the options are personality traits or task-specific beliefs; what is described here is a life goal, not a tendency in behaviour."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "“Organized, dependable, meets deadlines” is organizational commitment.", "dogru": "This is a personality trait: <b>Conscientiousness</b>. Commitment is emotional attachment to the company."},
+    {"yanlis": "Self-efficacy and self-esteem are the same thing.", "dogru": "<b>Self-efficacy</b> is specific to one task; <b>self-esteem</b> is your overall feeling about yourself."},
+    {"yanlis": "A high score is good on all of the Big Five.", "dogru": "A high score on <b>Neuroticism</b> is not wanted; high scorers are less happy and less successful in their careers."},
+    {"yanlis": "Personality is the strongest predictor of job performance.", "dogru": "Personality explains only about 10–15% of it; <b>cognitive ability</b> predicts better."},
+    {"yanlis": "Personality is fixed in childhood.", "dogru": "Personality is relatively stable, but it can change slowly over a lifetime."},
+    {"yanlis": "Self-monitoring means seeing what is wrong and fixing it.", "dogru": "That is <b>Proactive personality</b>. Self-monitoring means fitting your behaviour to the setting."}
+   ],
+   "ozet": [
+    "Personality: relatively stable patterns of feeling, thinking and behaving; it matters most in jobs with autonomy.",
+    "The first letters of the Big Five spell OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism; name all five in order.",
+    "Conscientiousness is the only trait that predicts performance across all jobs.",
+    "Neuroticism is the only trait where a high score is not wanted.",
+    "Agreeableness is helpful but avoids conflict.",
+    "Self-monitoring adapts the self; proactive personality fixes the setting.",
+    "Self-efficacy is task-specific; self-esteem is general.",
+    "Personality tests are controversial: they can be faked and explain only 10–15% of performance.",
+    "Values are stable life goals; Schwartz lists ten values."
+   ],
+   "aklinda": "Spell OCEAN, hire for C, steer clear of N. Self-efficacy says “I can do this task”; self-esteem says “I am fine as I am”.",
+   "sinavda": "<p>It comes in Part 1 as multiple-choice questions worth about 4 points. The most typical question describes a person with a few adjectives and asks which Big Five trait it is; the difference between self-esteem and self-efficacy and the limits of personality tests are also asked often.</p>"
+  },
+  {
+   "id": "c2b",
+   "ad": "Work attitudes and fit",
+   "sure": 25,
+   "neden": "<p>Personality describes who you are; attitudes describe how you feel about your job and your company. For a manager the real question is this: why do people stay satisfied, and why do they leave? This lesson breaks the answer to that question into parts and makes clear the fine differences you meet in the exam between types of justice, sources of stress and types of fit.</p>",
+   "hedefler": [
+    "Explain the difference between job satisfaction and organizational commitment.",
+    "Tell apart the three types of organizational justice in a scenario.",
+    "Separate role ambiguity from role conflict with an example.",
+    "Explain why attitudes predict intentions better than behaviour.",
+    "Match person-job fit and person-organization fit to the right situation."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Attitude, job satisfaction and organizational commitment",
+     "anlatim": "<p>Personality is what you carry everywhere; an attitude is what you think and feel about a specific thing. An <b>Attitude</b> is our opinions, beliefs and feelings about aspects of our environment. Two attitudes stand out in working life.</p><p><b>Job satisfaction</b> is the feelings people have toward their jobs, and it is probably the most studied attitude. Its target is <i>the job</i>: the tasks you do and your working conditions.</p><p><b>Organizational commitment</b> is the <i>emotional attachment</i> people feel toward the company. A committed employee believes in the company's values, makes an effort and wants to stay. Even the language changes: instead of “the company's”, they say “<b>our</b> great benefits”.</p><p>The difference between the two is the target. Someone who does not like their job can be committed to their company (“my job is boring, but I believe in this organization”); someone who loves their job may not be committed to their company at all. In the exam, if you see the phrase “emotional attachment to the company”, the answer is commitment, not satisfaction. Do not confuse commitment with Conscientiousness either: that is a personality trait carried into every setting, while commitment is an attitude toward one specific company.</p>",
+     "ornek": "<p>In an imaginary zoo, the keeper Emre loves working with animals but complains about the shifts; so his <b>Job satisfaction</b> is mixed. Still, when a better offer comes from somewhere else, he says “we protect endangered species here” and stays. This emotional bond with the mission of the organization is <b>Organizational commitment</b>.</p>",
+     "kaynak": [0],
+     "terimler": ["Attitude", "Job satisfaction", "Organizational commitment"],
+     "soru": {
+      "q": "A nurse finds her daily tasks dull, but she believes deeply in her hospital's mission, talks about “our patients” and refuses offers from other hospitals. What does she show?",
+      "o": [
+       "High organizational commitment despite low job satisfaction",
+       "High job satisfaction despite low organizational commitment",
+       "High conscientiousness despite low job satisfaction",
+       "Low organizational commitment and low job satisfaction"
+      ],
+      "x": "Finding her tasks dull shows that job satisfaction is low; believing in the mission, saying “our” and wanting to stay show that commitment is high. The second option is tempting because it swaps the two attitudes; satisfaction is the attitude toward the job, commitment is the attitude toward the company."
+     }
+    },
+    {
+     "baslik": "Sources of positive attitudes",
+     "anlatim": "<p>A manager cannot change attitudes by giving orders, but a manager can change the conditions that feed attitudes. The textbook lists six sources; in this step you will see four of them, and in the next two steps justice and stress.</p><p><b>Personality & values</b>: some people are satisfied more easily; for example, people with a low neuroticism score are more satisfied.</p><p><b>Job characteristics</b>: skill variety, <b>autonomy</b>, feedback and meaningful tasks. These matter most for people with a high need for growth; someone who wants to learn and grow quickly loses interest in a monotonous job.</p><p>The <b>Psychological contract</b> is the unspoken, informal understanding of what the employee gives (effort, loyalty) and what they get in return (pay, raises, job security). Do not confuse it with the employment contract you sign: the psychological contract is not written anywhere, but when it is broken the employee feels cheated and their attitudes get worse.</p><p><b>Relationships at work</b>: the relationship with co-workers and especially with the manager. <b>Relationship management</b> means communicating openly, keeping good relationships and managing conflict.</p>",
+     "ornek": "<p>At a software company, Elif has stayed late for years because she thinks her loyalty will be rewarded with a promotion; nobody ever told her this in writing. When the promotion goes to someone else, she feels deceived and her satisfaction drops. What was broken is not the employment contract but the <b>Psychological contract</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Psychological contract"],
+     "soru": {
+      "q": "For years a chef worked unpaid extra hours, silently expecting job security in return. When the restaurant cut his hours anyway, he felt betrayed. What was violated?",
+      "o": ["His psychological contract", "His written employment contract", "His person-job fit", "His self-efficacy"],
+      "x": "The expectation of job security in return for extra hours was not written anywhere; this unspoken understanding is the psychological contract, and the feeling of betrayal came because it was broken. The written employment contract is the most tempting wrong answer, but the scenario clearly says the expectation was silent, that is, unwritten."
+     }
+    },
+    {
+     "baslik": "Organizational justice: three types of justice",
+     "anlatim": "<p><b>Organizational justice</b> is whether employees feel they are treated fairly in the company. The textbook says trust lies at its root: an employee who feels unfairly treated does not trust the company. You can look for justice in three separate places, and the exam asks about exactly this distinction.</p><p><b>Distributive justice</b> is the fairness of the outcomes received, that is, the rewards: pay, bonuses, raises. Its question is “what did I get?”</p><p><b>Procedural justice</b> is the fairness of the methods used to make decisions. Its question is “how was the decision made?” If promotions are given out by drawing lots or by criteria that are never explained, this justice is damaged.</p><p><b>Interactional justice</b> is being treated with respect, kindness and dignity. Its question is “how was I treated?”</p><p>The three are independent of each other, so find which one is broken in the scenario. For someone who gets a raise but gets it with a humiliating remark, the outcome may be fair, but interactional justice is damaged. If a fair salary is set through a secret and arbitrary process, the problem is in the procedure.</p>",
+     "ornek": "<p>At a hotel, the “employee of the month” award is given as the manager pleases, with no criteria explained: <b>Procedural justice</b> is damaged. At the same hotel, two receptionists learn that one of them earns less although they do the same job: <b>Distributive justice</b>. The manager tells off a waiter in front of the guests: <b>Interactional justice</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Distributive justice", "Procedural justice", "Interactional justice"],
+     "soru": {
+      "q": "Staff at a bike courier firm agree that their bonuses are fair in size, but are angry because the bonus rules are kept secret and changed without explanation. Which type of justice is lacking?",
+      "o": ["Procedural justice", "Distributive justice", "Interactional justice", "Psychological contract"],
+      "x": "The size of the bonuses is accepted as fair; the problem is that the rules are kept secret and changed without explanation, that is, the method of deciding. This is Procedural justice. Distributive justice is tempting because the topic is bonuses, but distributive justice is about the outcome itself, and the staff already find the outcome fair."
+     }
+    },
+    {
+     "baslik": "Stress: role ambiguity and role conflict",
+     "anlatim": "<p>The last source that affects attitudes is <b>stress</b>. The textbook splits the sources of stress (stressors) into three types: environmental, interpersonal and organizational. The general rule is simple: as stress goes up, satisfaction goes down. But there is one exception: challenging stress, for example an exciting and difficult goal, can also be positive.</p><p>Two of the organizational stressors are asked about in the exam in particular, and their names are very similar.</p><p><b>Role ambiguity</b> is not being sure what your responsibilities are. The problem is a lack of information: nobody has told you where your job begins and ends. This is the employee who asks after a restructuring, “what am I doing now?”</p><p><b>Role conflict</b> is demands that contradict each other, either within the job or between the job and other roles. The demands are clear, but you cannot meet both at the same time. Two managers giving opposite instructions, or an evening meeting that clashes with the time you pick up your child from school, are examples.</p><p>A quick test: “I do not know what to do” is ambiguity; “I know what to do, but I cannot do both” is conflict.</p>",
+     "ornek": "<p>At a festival organising company, the volunteer coordinator Ada does not know, after two teams merge, whether the ticket work now belongs to her or to someone else: <b>Role ambiguity</b>. At the same company, one of Bora's managers wants him to cut costs, and the other wants him to make the stage bigger: <b>Role conflict</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Role ambiguity", "Role conflict"],
+     "soru": {
+      "q": "A lab technician is told by the research head to run every test twice for accuracy, while the operations head insists that each test is run only once to save time. What is she experiencing?",
+      "o": ["Role conflict", "Role ambiguity", "Procedural injustice", "Challenging stress"],
+      "x": "Both demands are clear, but they contradict each other and cannot both be met at the same time; this is Role conflict. Role ambiguity is tempting because the technician seems confused, but ambiguity means not knowing your responsibilities; here the demands are perfectly clear."
+     }
+    },
+    {
+     "baslik": "Measuring attitudes and the limit of attitudes",
+     "anlatim": "<p>A manager wants to measure how employees feel instead of guessing. The textbook names two tools.</p><p><b>Attitude surveys</b> are questions asked to employees on a regular basis. They work best under two conditions: when the answers are kept <i>confidential</i>, because only then do people answer honestly; and when <i>action follows</i>, because if nothing changes, employees will not take the next survey seriously.</p><p>An <b>Exit interview</b> is a meeting with an employee who is leaving, held to learn why they are leaving. The difference from a survey is whose voice it collects: a survey collects the voice of those who stay, an exit interview the voice of those who go.</p><p>One last important point: attitudes are better at predicting <b>intentions</b> than actual behaviour. An unhappy employee <i>intends</i> to leave, but whether they really leave depends on their alternatives. If they cannot find another job, they stay even if they are unhappy. That is why options such as “dissatisfied employees always quit” are wrong.</p>",
+     "ornek": "<p>In an imaginary bookshop chain, store employees resign one after another. Human resources holds an <b>Exit interview</b> with each person who leaves and sees that most of them give the same reason: the unfair way weekend shifts are shared out. The chain also runs a confidential survey among those who stay and changes the shift system.</p>",
+     "kaynak": [2],
+     "terimler": ["Exit interview"],
+     "soru": {
+      "q": "A survey shows that many software testers at a firm are unhappy and plan to leave, yet a year later almost all are still there because few other jobs exist locally. What does this illustrate?",
+      "o": [
+       "Attitudes predict intentions better than actual behaviour",
+       "Attitude surveys never measure feelings in an accurate way",
+       "Dissatisfied employees will always quit within one year",
+       "Exit interviews are better predictors than attitude surveys"
+      ],
+      "x": "Dissatisfaction correctly predicted the intention to leave, but actual behaviour turned out different because there were few alternatives; attitudes predict intentions better than behaviour. The “always quit” option treats this link as absolute, but leaving depends on alternatives."
+     }
+    },
+    {
+     "baslik": "The interactionist perspective: person-job fit and person-organization fit",
+     "anlatim": "<p>Do you explain behaviour by personality alone, or by the situation alone? The <b>Interactionist perspective</b> joins the two: behaviour is a function of the interaction between the person and the situation. The same person shines in one setting and fades in another. The idea of “fit” comes from this.</p><p><b>Person-job fit</b> is the match between your knowledge, skills, abilities and other characteristics (<b>KSAO</b>) and <i>the demands of the job</i>. Its question is: do you have what it takes to do this job?</p><p><b>Person-organization fit</b> is the match between your personality, values and goals and <i>the organization</i>. Its question is: does the character of this company suit you?</p><p>The two are independent of each other. A skilled accountant meets the demands of the job with ease, but if she is creative and likes risk, she may be unhappy in a company that ties everything to rules. The rule for telling them apart: if skills match the job, it is P-J; if values and personality match the company, it is P-O. The result of good fit is the same in both: employees who are more satisfied, more committed and stay longer.</p><p>The SAS Institute case in the textbook shows this: at this company, which appears on Fortune's list of best places to work every year, employee turnover is below 4% while the industry norm is 20%; even Google visited the SAS campus to get ideas.</p>",
+     "ornek": "<p>Yasemin, who believes in sustainability with all her heart but has no kitchen experience, joins an imaginary organic farm restaurant: her <b>Person-organization fit</b> is high, her <b>Person-job fit</b> is low. Murat in the kitchen is a skilled cook, but he does not care about waste and keeps clashing with the restaurant's values: his fit with the job is high, his fit with the organization is low.</p>",
+     "kaynak": [3],
+     "terimler": ["Person-job fit", "Person-organization fit"],
+     "soru": {
+      "q": "A talented designer joins a cautious, rule-bound insurance company. She handles every design task with ease, but her love of risk and novelty keeps clashing with the firm's way of doing things. Which fit is weak?",
+      "o": ["Person-organization fit", "Person-job fit", "Psychological contract", "Organizational commitment"],
+      "x": "Her skills match the demands of the job, so person-job fit is good; what does not match is her personality and the character of the company. The match between personality and values and the organization is person-organization fit. Person-job fit is tempting because the scenario describes a job, but it is only the match between KSAO and job demands."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "“Emotional attachment to the company” is job satisfaction.", "dogru": "Emotional attachment to the company is <b>Organizational commitment</b>; job satisfaction is the feeling toward the job."},
+    {"yanlis": "Values matching the company is person-job fit.", "dogru": "If values match the company, it is <b>person-organization fit</b>; if skills match the job, it is <b>person-job fit</b>."},
+    {"yanlis": "Giving promotions by drawing lots breaks distributive justice.", "dogru": "The method of deciding is unfair, so what is broken is <b>Procedural justice</b>; distributive justice is the fairness of the outcome."},
+    {"yanlis": "Not knowing your responsibilities is role conflict.", "dogru": "This is <b>Role ambiguity</b>; role conflict is demands that are clear but contradict each other."},
+    {"yanlis": "The psychological contract is the employment contract you sign.", "dogru": "The psychological contract is an <b>unwritten</b>, unspoken expectation on both sides."},
+    {"yanlis": "An unhappy employee always leaves.", "dogru": "Attitudes predict intentions; whether someone really leaves depends on alternatives."},
+    {"yanlis": "Autonomy is a type of justice.", "dogru": "Autonomy is a <b>job characteristic</b>; organizational justice is a separate source."}
+   ],
+   "ozet": [
+    "Attitude: opinions, beliefs and feelings about our environment.",
+    "Job satisfaction is the feeling toward the job; organizational commitment is the feeling toward the company.",
+    "Sources of positive attitudes: personality and values, job characteristics, justice, psychological contract, relationships, stress.",
+    "Distributive justice looks at the outcome, procedural justice at the method, interactional justice at respect.",
+    "Role ambiguity is unknown responsibilities; role conflict is contradicting demands.",
+    "Surveys work when they are confidential and action follows; an exit interview is held with people who leave.",
+    "Attitudes predict intentions better than actual behaviour.",
+    "Person-job fit links skills to the job; person-organization fit links values to the company."
+   ],
+   "aklinda": "What did I get, how was it decided, how was I treated: distributive, procedural, interactional. Skills fit the job, values fit the company.",
+   "sinavda": "<p>It comes in Part 1 as multiple-choice questions worth about 4 points. Questions usually give a short employee story and ask which type of justice is broken, which source of stress is at work or which fit is weak. The difference between commitment and satisfaction is also tested often.</p>"
+  },
+  {
+   "id": "c3a",
+   "ad": "Leadership, power and influence",
+   "sure": 30,
+   "neden": "<p>This unit is tested in the case section of the exam: you get a short situation that explains why a person is followed, and you are asked to find the source of the power. Answering by looking at the title is the most common mistake. If you understand the logic of where power comes from, you will catch the right clue in the case.</p>",
+   "hedefler": [
+    "Tell apart formal, informal, designated and emergent leaders.",
+    "Identify French and Raven's five sources of power in a case.",
+    "Compare position power and personal power and their effects.",
+    "Explain how the assumptions of Theory X and Theory Y affect leadership style.",
+    "Recognise the models of Tannenbaum and Schmidt and of Muczyk and Reimann."
+   ],
+   "adimlar": [
+    {
+     "baslik": "What is leadership: formal and informal leaders",
+     "anlatim": "<p>In Chapter 1 you saw the Leading function; this chapter opens it up. <b>Leadership</b> is the act of influencing others to work toward a goal. The definition has no title in it; it has “influencing”. That is why leaders are found at every level of the organization; leadership is not only the job of the person at the very top.</p><p>Leaders fall into two groups by the source of their influence. A <b>Formal leader</b> holds a position of authority and is recognised as the official leader. This person can use both the power that comes from the position (position power) and personal power.</p><p>An <b>Informal leader</b> has no official position but influences others through personal power. Nobody appointed this person; the group accepts them as its leader. So an informal leader cannot give rewards or hand out punishments; people follow them because of what they know or because they like them.</p><p>The distinction rests on this: <i>who</i> made the leader a leader? If the organization gave a position, it is formal; if the group itself accepted the person, it is informal. Both can exist in the same team: on paper the chief is one person, but everyone looks to someone else when a hard question comes up.</p>",
+     "ornek": "<p>In an imaginary music school, the head of department, Ms Hande, was officially appointed, and she approves the timetable: <b>Formal leader</b>. But when the teachers cannot make up their minds about a new curriculum, they ask the opinion of Riza, an experienced and well-liked piano teacher with no title, and they follow it: <b>Informal leader</b>.</p>",
+     "kaynak": [0],
+     "terimler": ["Leadership", "Formal leader", "Informal leader"],
+     "soru": {
+      "q": "In a warehouse team, the shift manager holds the official title, but workers settle disputes by asking a long-serving forklift driver whom everyone trusts, and they follow her advice. What is the forklift driver?",
+      "o": ["An informal leader", "A formal leader", "A designated leader", "A figurehead"],
+      "x": "She has no official position, but the group accepts her and she influences them through personal power; this is an informal leader. Designated leader is tempting because the team seems to have given her a role, but a designated leader is put in the role by outside forces; here nobody appointed her."
+     }
+    },
+    {
+     "baslik": "Designated and emergent leaders, and the leadership process",
+     "anlatim": "<p>You can also group leaders by how they came to lead. A <b>Designated leader</b> is a person put in the role by outside forces: top management sets up a team and puts someone in charge of it. An <b>Emergent leader</b> arises from the dynamics of the group while it works toward a shared goal. Nobody chose this person; as the work goes on, people start turning to them.</p><p>This distinction is similar to the formal and informal one, but it is not the same. Formal and informal tell you whether the leader has a <i>position</i>; designated and emergent tell you <i>how</i> the leader became a leader. In the exam, if someone with no title becomes the person everyone turns to during a crisis, the answer “emergent, informal leader” names both correctly at once.</p><p>Hollander and Julian describe this relationship as <b>the leadership process</b>: a complex and dynamic exchange relationship built over time between the leader and the followers. The two sides depend on each other to reach a shared goal. So leadership is not a one-way order or a fixed trait you are born with; the relationship grows stronger as followers accept the leader's influence and as the leader gives them something.</p>",
+     "ornek": "<p>On a nature hike, the group's guide Kerem was assigned by the tour company: a designated leader. When fog comes down and the path is lost, Lale, a participant who has walked in these mountains before, reads the map and everyone follows her. Lale is an <b>Emergent leader</b> who arises from the dynamics of the group.</p>",
+     "kaynak": [0],
+     "terimler": ["Emergent leader"],
+     "soru": {
+      "q": "During a student hackathon no captain is appointed, but as the night goes on the others start turning to Pieter for direction because he keeps solving blocking problems. How did Pieter become leader?",
+      "o": [
+       "He emerged from the group's dynamics",
+       "He was designated by outside forces",
+       "He gained legitimate power by title",
+       "He was given the figurehead role"
+      ],
+      "x": "Nobody appointed him; as the work went on, the group turned to him. This is the definition of an emergent leader. The designated option may be tempting, but a designated leader is put in the role by outside forces; the scenario clearly says no captain was appointed."
+     }
+    },
+    {
+     "baslik": "Position power: legitimate, reward, coercive",
+     "anlatim": "<p>If leadership is influence, why are people influenced? French and Raven name five sources of power and split them into two families. The first family is <b>position power</b>: these powers come not from the person but from the chair the person sits in. When the person leaves the chair, the power goes too.</p><p><b>Legitimate power</b> comes from the formal position or title: the “right” to give instructions. Employees listen to the manager because that person is the manager.</p><p><b>Reward power</b> is the ability to give rewards that others want: a bonus, a promotion, a good sales territory.</p><p><b>Coercive power</b> is the ability to punish or to take away something valued: a warning, cutting shifts, taking back a privilege.</p><p>Reward and Coercive are like two sides of the same coin; the difference is giving versus taking away. If the person who hits the target gets a bonus, it is reward; if the person who misses it loses the bonus, it is coercive. Legitimate is different from both: people comply not because they expect a reward or a punishment, but simply because “that is the boss”. In the exam, a stress on the title points to legitimate, and incentives such as a bonus or a good territory point to reward.</p>",
+     "ornek": "<p>The regional manager of a pizza chain announces a new delivery rule to the couriers, and they follow it because he is the manager: <b>Legitimate power</b>. He gives the fastest courier of the month an extra day off and the easiest area: <b>Reward power</b>. He takes the evening shifts away from a courier who breaks the rule three times: <b>Coercive power</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Legitimate power", "Reward power", "Coercive power"],
+     "soru": {
+      "q": "A hotel manager tells housekeepers that anyone who misses the room-cleaning deadline twice will lose their preferred weekend shifts. Which source of power is she using?",
+      "o": ["Coercive power", "Reward power", "Legitimate power", "Expert power"],
+      "x": "She threatens to take away something valued, the preferred weekend shifts; this is Coercive power. Reward power is tempting because the topic is shifts that people want, but reward power means giving something; here there is a threat to take something back."
+     }
+    },
+    {
+     "baslik": "Personal power: expert and referent",
+     "anlatim": "<p>The second family is <b>personal power</b>: these powers come from the person, not from the chair. That is why someone with no title can have them too, and they are exactly what informal leaders use.</p><p><b>Expert power</b> comes from having knowledge and skills that others need. The only database expert in the company influences the decisions of top management even without being a manager, because they depend on that person's knowledge.</p><p><b>Referent power</b> comes from being admired: people like you, respect you, and want to be associated with you and to be like you.</p><p>The classic exam trap is this: if an expert with no title influences managers, the answer is not legitimate power but <b>expert</b> power. Legitimate power comes only from a formal position. To tell Expert from Referent, look at why people follow: because of what the person knows, or because they like the person and want to be like them? Both can be present in one case; then the right answer is the option that names the two together.</p>",
+     "ornek": "<p>At a sailing club, Vedat is not the club president, but he has been a sailor for twenty years, and he is the one everyone listens to when the wind gets strong: <b>Expert power</b>. The club's young coach Sude is both kind and successful, so the students talk like her and take up every suggestion she makes: <b>Referent power</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Expert power", "Referent power"],
+     "soru": {
+      "q": "A data analyst with no managerial title convinces the board to drop a planned acquisition, because only she understands the risk model behind it. Which source of power does she have?",
+      "o": ["Expert power", "Legitimate power", "Referent power", "Reward power"],
+      "x": "What influences the board is knowledge that others need, that is, Expert power. Legitimate power is tempting because a board-level decision is being influenced, but the analyst has no formal managerial position; legitimate power comes only from a position."
+     }
+    },
+    {
+     "baslik": "The effects of power: which power produces what?",
+     "anlatim": "<p>Knowing the five powers is not enough; the exam also asks which one produces which result. Build the logic like this: do people join the leader from the inside, or are they forced or bought from the outside?</p><p><b>Coercive power</b> alienates followers. Someone who complies out of fear of punishment complies only while being watched and resents the leader.</p><p><b>Reward power</b> makes people think “how much do I get?” Compliance is tied to the reward; if the reward ends, the effort may drop too.</p><p><b>Referent power</b> creates identification with the leader: because people want to be like the leader, they see the leader's goal as their own.</p><p><b>Expert power</b> and rational arguments create <b>commitment</b>, because people are convinced by their own reasoning that something is right.</p><p>The result: the best satisfaction and performance come from referent and expert power. Referent power also strengthens all the other powers; both a bonus and an instruction are received better when they come from a manager people like. That is why options such as “coercive power builds lasting commitment” or “reward power always creates deep commitment” are wrong.</p>",
+     "ornek": "<p>Think of two imaginary bakeries. In the first, the head baker cuts the daily wage of anyone who bakes faulty bread; the apprentices are afraid of him and slack off when he is away. In the second, the head baker explains why the dough has to rest at that temperature; the apprentices are convinced and follow the rule of their own accord. The first bakery shows the alienation that <b>Coercive power</b> causes, the second the commitment that <b>Expert power</b> creates.</p>",
+     "kaynak": [1],
+     "terimler": ["Coercive power", "Reward power", "Referent power", "Expert power"],
+     "soru": {
+      "q": "A new head of a design agency wants her team to truly commit to a new working method rather than merely comply. According to the course, which approach is most likely to work?",
+      "o": [
+       "Explaining the method's logic using her expertise",
+       "Paying a bonus to each person who uses the method",
+       "Warning that anyone who resists will be demoted",
+       "Stating that as head she has the right to decide"
+      ],
+      "x": "Expert power and rational arguments create real commitment. The bonus option is tempting, but reward power makes people think “how much do I get?” and ties compliance to the reward; a threat (coercive) alienates, and relying on the title alone (legitimate) is not enough either."
+     }
+    },
+    {
+     "baslik": "Tannenbaum and Schmidt, Theory X and Theory Y",
+     "anlatim": "<p>How does a leader use power? Influence-based style models look at how much of the decision authority the leader shares.</p><p>The <b>Tannenbaum & Schmidt continuum</b> draws this as a line. At one end is the <b>boss-centred</b> (autocratic) leader, who makes the decision alone. In the middle is the <b>participative</b> leader, who brings employees into the decision. At the other end is the <b>free-rein</b> leader, who leaves the decision largely to the team. Calling it a “continuum” means the styles are not sharp boxes but gradual steps.</p><p>How does a leader choose where to stand on this line? According to McGregor, by their assumptions about people. <b>Theory X / Theory Y</b> names these two assumptions. A Theory X leader assumes that people dislike work and must be controlled, so this leader chooses a controlling style and checks everything. A Theory Y leader assumes that people are creative and can direct themselves, so this leader chooses a style that involves them and gives them room to use their own judgement.</p><p>Be careful: the theory does not describe a type of employee; it describes <i>the leader's assumption</i>. In the exam, when you see “the manager assumes...”, a need for control points to X and self-motivation points to Y.</p>",
+     "ornek": "<p>Think of two imaginary flower shops. The owner of the first believes the employees will be lazy whenever they get the chance; she approves every bouquet herself and checks on them all day: <b>Theory X</b>, the boss-centred end of the continuum. The owner of the second believes his employees are creative; he leaves the window display to them and only gives ideas: <b>Theory Y</b>, close to the participative end.</p>",
+     "kaynak": [2],
+     "terimler": ["Theory X / Theory Y"],
+     "soru": {
+      "q": "The owner of a car-wash chain lets each site team design its own work schedule and service ideas, believing that people enjoy responsibility and can motivate themselves. Which assumption guides him?",
+      "o": ["Theory Y", "Theory X", "Boss-centred leadership", "Coercive power"],
+      "x": "The assumption that people enjoy responsibility and can motivate themselves is Theory Y, and it leads to a participative style. Theory X assumes the exact opposite: people dislike work and must be controlled; the boss-centred style is the product of that assumption."
+     }
+    },
+    {
+     "baslik": "Muczyk and Reimann's four styles",
+     "anlatim": "<p>Tannenbaum and Schmidt draw a single line. Muczyk and Reimann split leadership into four styles, and the names of these styles answer two separate questions at once.</p><p>The second word of the name tells you about the <i>decision</i>: an <b>autocrat</b> makes the decision alone, a <b>democrat</b> shares the decision with employees. The first word of the name tells you about the <i>execution</i>: a <b>directive</b> leader closely directs how the work is done, while a <b>permissive</b> leader gives employees freedom in carrying it out. Put the two together and you get four styles:</p><ul><li><b>Directive autocrat</b>: makes the decision alone and also closely directs the execution.</li><li><b>Permissive autocrat</b>: makes the decision alone but leaves the execution to employees.</li><li><b>Directive democrat</b>: makes the decision together with employees but closely directs the execution.</li><li><b>Permissive democrat</b>: shares both the decision and the execution (decisions and execution).</li></ul><p>The notes describe only the permissive democrat in so many words; you can build the other three yourself from these two parts of the names. Do not confuse this model with Theory X / Y: X and Y are the leader's <i>assumptions</i>, while Muczyk and Reimann's four styles name the leader's <i>behaviour</i>.</p>",
+     "ornek": "<p>Ozan, the editor of a school newspaper, decides which stories will be published by voting with the team, and he leaves it to each reporter to decide how to write their story. Because he shares both the decision and the execution, he is a <b>permissive democrat</b>. If he chose the stories himself and also dictated the way of writing line by line, he would be a directive autocrat.</p>",
+     "kaynak": [2],
+     "terimler": [],
+     "soru": {
+      "q": "A football club's youth coach lets the players vote on the season's training focus and then leaves it to them to organise how they practise it. Which Muczyk and Reimann style fits best?",
+      "o": ["Permissive democrat", "Directive democrat", "Permissive autocrat", "Directive autocrat"],
+      "x": "The decision is shared through a vote (democrat) and the execution is also left to the players (permissive); because both decision and execution are shared, this is the permissive democrat. Directive democrat is tempting because the decision is again made together, but in that style the coach would closely direct the execution."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "An expert with no title who influences managers has legitimate power.", "dogru": "Power that comes from knowledge is <b>Expert power</b>; legitimate power comes only from a formal position."},
+    {"yanlis": "Giving a bonus and a good territory to those who hit the target is referent power.", "dogru": "Giving rewards is <b>Reward power</b>; referent power comes from admiration and identification."},
+    {"yanlis": "A person who is liked and seen as a role model uses expert power.", "dogru": "If people like the person and want to be like them, it is <b>Referent power</b>."},
+    {"yanlis": "Coercive power creates lasting commitment.", "dogru": "Coercive power alienates; real commitment comes from <b>expert</b> power and rational argument."},
+    {"yanlis": "An informal leader is appointed from outside the group.", "dogru": "A leader appointed from outside is <b>designated</b>; an informal leader has no position and is accepted by the group."},
+    {"yanlis": "Theory X and Theory Y are two types of employee.", "dogru": "Both are the leader's <b>assumption</b> about people: X is control, Y is self-direction."}
+   ],
+   "ozet": [
+    "Leadership is influencing others toward a goal, and it is found at every level.",
+    "A formal leader leads through a position; an informal leader leads because the group accepts them.",
+    "A designated leader comes from outside; an emergent leader arises from the dynamics of the group.",
+    "The leadership process: a two-way, dynamic exchange relationship built over time.",
+    "Position power: legitimate, reward, coercive. Personal power: expert, referent.",
+    "Coercive power alienates, expert power creates commitment, referent power strengthens the others.",
+    "Theory X rests on the assumption of control, Theory Y on the assumption of involvement.",
+    "The Tannenbaum and Schmidt line: boss-centred, participative, free-rein.",
+    "Muczyk and Reimann: autocrat/democrat describes the decision, directive/permissive the execution."
+   ],
+   "aklinda": "Three powers come with the chair: the right, the carrot and the stick (legitimate, reward, coercive). Two powers come with the person: knowledge and admiration (expert, referent).",
+   "sinavda": "<p>Chapter 3 is tested in Part 2, the section made up of 15 short cases worth 2 points each; this unit weighs about 4 points. The case explains why a person is followed and asks you to find the source of power or the type of leader; look at where the influence comes from, not at the title.</p>"
+  },
+  {
+   "id": "c3b",
+   "ad": "Trait and behavioural approaches to leadership",
+   "sure": 25,
+   "neden": "<p>Leadership research began with two simple questions: is it who leaders are that makes them leaders, or what they do? Understanding these two approaches and their limits helps you name a leader's behaviour correctly in cases, and it protects you from the traps the exam likes, such as the “friendly but task-focused” leader.</p>",
+   "hedefler": [
+    "Explain the question the trait approach asks and its limit.",
+    "List Kirkpatrick and Locke's core leadership traits.",
+    "Name the trait with the strongest link to leadership according to Judge and colleagues.",
+    "Tell apart task-oriented and people-oriented behaviour in a case.",
+    "Match the three decision-making styles to their results."
+   ],
+   "adimlar": [
+    {
+     "baslik": "Who is a leader? The trait approach",
+     "anlatim": "<p>The first question of leadership research was this: are some people born to be leaders? The <b>Trait approach</b> looks for the personal traits that make someone a leader. This approach began with <b>Stogdill</b>: which physical, personality and social traits set leaders apart?</p><p>Later, <b>Kirkpatrick & Locke</b> identified the core traits that give leadership <i>potential</i>. This is the list: <b>Drive</b>, that is, high effort, ambition, energy, persistence and initiative; <b>leadership motivation</b>, that is, the wish to lead others; <b>honesty and integrity</b>; <b>self-confidence</b>; <b>cognitive ability</b>; <b>knowledge of the business</b>. Charisma, creativity and flexibility are also mentioned in addition to these.</p><p>Pay attention to the word “potential”. These traits give a person the chance to lead, but they do not guarantee success. A person may have strong drive; if they do not know the business or nobody trusts them, they still cannot lead. When this list is asked in the exam, cross out options that include physical and social traits such as height, age or wealth, or soft traits such as “modesty, conflict avoidance”.</p>",
+     "ornek": "<p>In a student theatre club, Arda, a candidate for president, is the first to arrive at rehearsal and the last to leave, and he sets out to solve every problem himself: high <b>Drive</b>. But if he does not understand stage work and has lost trust because he does not keep his promises, this potential is not enough. That is why the <b>Trait approach</b> sees traits as potential, not as a guarantee.</p>",
+     "kaynak": [0],
+     "terimler": ["Trait approach", "Drive"],
+     "soru": {
+      "q": "A panel choosing team captains rates candidates only on energy, ambition, honesty, self-confidence, intelligence and knowledge of the business. Which approach to leadership is the panel using?",
+      "o": ["The trait approach", "The behavioural approach", "Theory Y", "The leadership process"],
+      "x": "The panel rates candidates by the personal traits they have, and the list matches Kirkpatrick and Locke's core traits; this is the trait approach. The behavioural approach is tempting, but it looks at what a leader does; here the panel looks at who the person is."
+     }
+    },
+    {
+     "baslik": "Traits linked to leadership and the limit of the approach",
+     "anlatim": "<p><b>Judge et al.</b> looked at which traits are really linked to leadership. The findings connect with the personality traits from Chapter 2:</p><ul><li><b>Intelligence</b>: a positive but modest link. According to Goleman, IQ is a threshold; what separates the good from the great is <b>Emotional intelligence (EQ)</b>. EQ means monitoring your own emotions and the emotions of others and using them to guide your behaviour; its elements are self-awareness, motivation, empathy and social skills.</li><li><b>Extraversion</b>: the trait with the <i>strongest</i> link to emerging as a leader and being effective.</li><li><b>Conscientiousness</b> and <b>openness</b>: these people emerge as leaders more often and are more effective.</li><li><b>Agreeableness</b>: modest people who avoid conflict are seen as leaders <i>less</i> often.</li><li><b>Self-esteem</b> and <b>integrity</b>: they help leaders; lost integrity harms both the leader and the company.</li><li><b>Self-monitoring</b>: high self-monitors emerge as leaders more often.</li></ul><p>The limit of the approach has two sides. Traits matter more in small, flexible firms than in rule-bound firms; and the approach ignores the situation. In short, leaders are not just “born”.</p>",
+     "ornek": "<p>In an imaginary software team, Cem has the highest IQ, but he does not notice who is tense in meetings and he hurts the team. Seda is a little less brilliant than he is, but she reads her colleagues' feelings and adjusts how she speaks, and she pulls the team together. Both have passed the intelligence threshold; <b>Emotional intelligence (EQ)</b> makes the difference.</p>",
+     "kaynak": [0],
+     "terimler": ["Emotional intelligence (EQ)"],
+     "soru": {
+      "q": "Two equally intelligent shift managers are compared. One notices her staff's frustration and adjusts how she speaks to them; the other ignores moods. According to Goleman, what mostly separates the better leader?",
+      "o": [
+       "Emotional intelligence, since IQ is only a threshold",
+       "IQ, since intelligence is the main driver of success",
+       "Agreeableness, since avoiding conflict builds trust",
+       "Self-efficacy, since belief in a task drives results"
+      ],
+      "x": "According to Goleman, IQ is a threshold; when both have passed it, what sets the good leader apart is monitoring emotions and adjusting behaviour to them, that is, EQ. The IQ option is tempting, but intelligence is given as equal in the scenario, and Goleman also says IQ alone does not make the difference."
+     }
+    },
+    {
+     "baslik": "What does a leader do? Task-oriented and people-oriented behaviour",
+     "anlatim": "<p>When the trait approach could not give a satisfying answer, researchers changed the question: not <i>who</i> leaders are, but what they <i>do</i>. The studies at Ohio State and Michigan found two kinds of behaviour.</p><p><b>Task-oriented behaviour</b> is also known as <b>initiating structure</b>: structuring roles, giving instructions and deadlines, focusing on performance and goals. Its result is slightly higher productivity; but too much of it leads to burnout.</p><p><b>People-oriented behaviour</b> is also known as <b>consideration</b>: showing interest in employees' feelings, treating them with respect, caring about their well-being. Its result is more satisfied and more positive employees.</p><p>The exam trap is this: if a friendly leader hands out roles, sets deadlines and checks results, the behaviour is <b>task-oriented</b>. What counts is <i>what the leader does</i>, not the leader's personality or manner. Also, these two behaviours are not opposites; a leader can do both. The rule: if the leader deals with the structure of the work, it is task-oriented; if the leader deals with the person, it is people-oriented.</p>",
+     "ornek": "<p>Pelin, who runs an animal shelter, hands out the dog-walking list to the volunteers every Monday, sets the time for each job and checks on Friday who has done what: <b>Task-oriented behaviour</b>. The same Pelin notices that a volunteer is sad about the death of an old dog, and she sits down and talks with them: <b>People-oriented behaviour</b>.</p>",
+     "kaynak": [1],
+     "terimler": ["Task-oriented behaviour", "People-oriented behaviour"],
+     "soru": {
+      "q": "A cheerful, well-liked IT team lead jokes with everyone, but her main activities are assigning tickets, setting due dates and reviewing each person's closed tickets every evening. Which behaviour dominates?",
+      "o": ["Task-oriented behaviour", "People-oriented behaviour", "Laissez-faire decision-making", "Democratic decision-making"],
+      "x": "Assigning work, setting due dates and checking results are task-oriented behaviour; the fact that the leader is cheerful and well liked does not change this. People-oriented is tempting because the mood is warm, but people-oriented behaviour means showing interest in feelings and well-being; the main activities in the scenario are not that."
+     }
+    },
+    {
+     "baslik": "Decision-making styles",
+     "anlatim": "<p>The behavioural approach also looks at <i>how</i> leaders make decisions. There are three styles, and the difference between them is who holds the decision.</p><p><b>Authoritarian decision-making</b>: the leader makes the decision alone and announces it to the team.</p><p><b>Democratic decision-making</b>: employees take part in the decision. Its result is more satisfaction, because people feel that their voice is heard.</p><p><b>Laissez-faire decision-making</b>: employees make the decision themselves, with very little guidance from the leader. This style has the worst record: it leads to <b>role ambiguity</b> and conflict. Remember from Chapter 2: when nobody knows who will do what, stress goes up.</p><p>Do not confuse laissez-faire with democratic. In the democratic style the leader is inside the process and draws employees into the decision; in laissez-faire the leader steps away. Do not confuse this style with people-oriented behaviour either: laissez-faire is a <i>decision-making</i> style, that is, leaving the work to the team; it is not showing interest in people.</p>",
+     "ornek": "<p>The owner of a kebab shop sets the new prices himself and puts them up on the wall: <b>Authoritarian decision-making</b>. The next month he votes with the employees on which dessert to add: <b>Democratic decision-making</b>. When he goes on holiday, he says “sort out the shifts among yourselves” and leaves no guidance at all; two employees want the same day and an argument breaks out: <b>Laissez-faire decision-making</b>.</p>",
+     "kaynak": [2],
+     "terimler": ["Authoritarian decision-making", "Democratic decision-making", "Laissez-faire decision-making"],
+     "soru": {
+      "q": "A museum director asks her curators to choose next year's exhibitions, joins their meetings, discusses the options with them and accepts the group's choice. Which decision-making style is this?",
+      "o": ["Democratic", "Laissez-faire", "Authoritarian", "People-oriented"],
+      "x": "The leader is inside the process and employees take part in the decision; this is Democratic. Laissez-faire is tempting because the curators make the choice, but in that style the leader steps away and gives almost no guidance; here she joins the meetings and discusses the options."
+     }
+    },
+    {
+     "baslik": "The shared limit of the two approaches",
+     "anlatim": "<p>The trait and behavioural approaches ask different questions but stumble at the same point: both ignore the effect of the <b>situation</b>. They do not say which trait or which behaviour works under which conditions.</p><p>You can see this clearly in the findings on behaviour. Task-oriented behaviour raises productivity a little, but too much of it brings burnout; people-oriented behaviour raises satisfaction. Democratic decisions raise satisfaction, while laissez-faire has the worst record. Every behaviour has a gain and a price; so <i>no style works everywhere</i>. The same is true for traits: the notes say traits matter more in small, flexible firms than in rule-bound firms; so even a trait gains its value from the context.</p><p>In the exam this limit comes in two forms. The first is direct: “What is the main limit of the two approaches?” The answer: they ignore the situation. The second is through wrong options with absolute wording: “always leads to the highest satisfaction”, “guarantees effective leadership”. Be suspicious when you see an absolute claim; the basic idea of this lesson is that there is no single recipe in leadership that fits everywhere.</p>",
+     "ornek": "<p>An imaginary company first sends Nil, an energetic and self-confident supervisor, to a warehouse where every step is set by regulations; there is no room to take initiative there, so she cannot make a difference. Then it sends her to a small, flexible design studio; there the same traits carry the team along. What changed is not the person but the situation; neither approach takes this effect of the <b>situation</b> into account.</p>",
+     "kaynak": [0, 1, 2],
+     "terimler": [],
+     "soru": {
+      "q": "A consultant tells a retail chain: 'Train all store managers to be people-oriented and democratic, and they will be effective in every store.' What is the main weakness of this advice?",
+      "o": [
+       "It ignores the situation in which each manager leads",
+       "It ignores the traits that managers are born with",
+       "It ignores the value of laissez-faire decision-making",
+       "It ignores that task focus always lowers productivity"
+      ],
+      "x": "The main limit of both the trait and the behavioural approach is that they ignore the situation; no style works everywhere. The inborn-traits option may be tempting, but the notes say leaders are not just “born”; and task focus does not lower productivity, it raises it a little."
+     }
+    }
+   ],
+   "tuzaklar": [
+    {"yanlis": "A friendly leader who gives out roles and deadlines is people-oriented.", "dogru": "Roles, deadlines and checking are <b>task-oriented</b> behaviour; what counts is the work done, not the manner."},
+    {"yanlis": "Laissez-faire is a people-oriented style.", "dogru": "Laissez-faire is a <b>decision-making</b> style: leaving the decision to the team. Showing interest in people is people-oriented behaviour."},
+    {"yanlis": "Agreeableness is the trait with the strongest link to leadership.", "dogru": "The strongest link is with <b>Extraversion</b>; agreeable people who avoid conflict are seen as leaders less often."},
+    {"yanlis": "A high IQ guarantees success as a leader.", "dogru": "According to Goleman, IQ is a threshold; <b>EQ</b> makes the difference."},
+    {"yanlis": "Laissez-faire has the best record because it gives employees freedom.", "dogru": "It has the worst record: it brings role ambiguity and conflict."},
+    {"yanlis": "The democratic style and laissez-faire are the same, since employees decide in both.", "dogru": "In the democratic style the leader takes part in the process; in laissez-faire the leader gives very little guidance and steps back."}
+   ],
+   "ozet": [
+    "The trait approach asks “who is a leader?” and began with Stogdill.",
+    "Kirkpatrick and Locke: drive, leadership motivation, honesty, self-confidence, cognitive ability, knowledge of the business.",
+    "The trait with the strongest link to leadership is extraversion.",
+    "According to Goleman, IQ is a threshold and emotional intelligence makes the difference.",
+    "Task-oriented behaviour builds structure; people-oriented behaviour shows interest in feelings and well-being.",
+    "In the authoritarian style the leader decides alone, in the democratic style employees take part in the decision, and in the laissez-faire style the team decides without guidance.",
+    "Laissez-faire has the worst record.",
+    "The shared limit of the two approaches: they ignore the situation."
+   ],
+   "aklinda": "The trait approach asks “who?”, the behavioural approach asks “what do they do?”; both forget to ask “where?”",
+   "sinavda": "<p>It comes in the short cases of Part 2, worth about 4 points. The case describes a leader's daily behaviour and asks whether it is task-oriented or people-oriented, or asks for the decision-making style; sometimes the shared limit of the two approaches is asked too.</p>"
+  }
+ ]
+}

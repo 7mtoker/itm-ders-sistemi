@@ -239,4 +239,14 @@ kotu.forEach(x=>gecerliAyar(gpOnar(x)));
 assert.deepStrictEqual(j(gpOnar({musaitlik:[-5,1000,'30',null,NaN,45.6,Infinity,99]})).musaitlik,[0,600,30,45,45,46,0]);
 assert.strictEqual(gpOnar({dersGunu:'3'}).dersGunu,3);assert.strictEqual(gpOnar({dersGunu:2.5}).dersGunu,null);
 assert.deepStrictEqual(j(gpOnar({musaitlik:[10,20,30,40,50,60,70],dersGunu:4})),{musaitlik:[10,20,30,40,50,60,70],dersGunu:4});
+/* Dil parametresi: takvim dosyası iki dilde aynı yapıda, metinler çevrilir. */
+{const w=[{kind:'ders',iso:'2026-11-09',no:1,chs:[1,2],units:['c1a']},{kind:'tekrar',iso:'2026-11-16',no:2,chs:[],units:[]}],a={haftalar:w,sinavIso:'2027-01-25',dersGunu:2,adlar:{c1a:'Topic A'},uretildi:0};
+ const tr=ICS(a),en=ICS(Object.assign({dil:'en'},a)),dz=s=>s.replace(/\r\n /g,'');
+ assert.strictEqual(tr,ICS(Object.assign({dil:'tr'},a)),'varsayılan Türkçe');
+ assert.ok(dz(tr).includes('SUMMARY:ITM Hafta 1: Ders 1\\, 2')&&dz(tr).includes('SUMMARY:ITM Sınavı'));
+ assert.ok(dz(en).includes('SUMMARY:ITM week 1: Chapter 1\\, 2')&&dz(en).includes('SUMMARY:ITM week 2: Review')&&dz(en).includes('SUMMARY:ITM exam')&&dz(en).includes('X-WR-CALNAME:ITM study plan'));
+ assert.ok(!/[ğĞşŞıİ—]/.test(en),'İngilizce dosyada Türkçe harf yok');
+ assert.strictEqual(tr.split('BEGIN:VEVENT').length,en.split('BEGIN:VEVENT').length,'aynı olay sayısı');
+ assert.strictEqual((tr.match(/UID:[^\r]+/g)||[]).join(),(en.match(/UID:[^\r]+/g)||[]).join(),'UID dilden bağımsız');
+ for(const l of en.split('\r\n'))assert.ok(Buffer.byteLength(l)<=75,'katlama');}
 console.log('TAMAM');

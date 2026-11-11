@@ -83,6 +83,18 @@ for (const p of ['A', 'B', 'C', 'D', 'E']) {
   v.lessons.forEach((l) => { DERSLER.lessons[l.id] = l; });
 }
 
+// İngilizce dersler (icerik/en): varsa ve okunabiliyorsa eklenir; eksik ders sayfada Türkçesine düşer.
+const DERSLER_EN = { chapters: {}, lessons: {} };
+for (const p of ['A', 'B', 'C', 'D', 'E']) {
+  const f = `icerik/en/dersler-${p}.json`;
+  if (!var_(f)) { console.log('EN paket yok', p); continue; }
+  let v;
+  try { v = JSON.parse(oku(f)); } catch (e) { console.log('UYARI: EN paket okunamadı (yazılıyor olabilir)', p, e.message); continue; }
+  if (!v || !Array.isArray(v.chapters) || !Array.isArray(v.lessons)) { console.log('UYARI: EN paket eksik', p); continue; }
+  v.chapters.forEach((c) => { if (c && DERSLER.chapters[c.ch]) DERSLER_EN.chapters[c.ch] = c; });
+  v.lessons.forEach((l) => { if (l && DERSLER.lessons[l.id]) DERSLER_EN.lessons[l.id] = l; });
+}
+
 const planVars = JSON.parse(oku('icerik/plan-varsayilan.json'));
 
 const sayfa = `<title>ITM Ders Sistemi</title>
@@ -95,7 +107,7 @@ ${oku('src/tema.css')}
 
 <header class="top"><div class="wrap">
   <div class="topbar">
-    <div class="brand"><h1>ITM <i>Ders Sistemi</i></h1><span>Introduction to Management · Radtke · 11 ders, 28 konu</span></div>
+    <div class="brand" id="brand"><h1>ITM <i>Ders Sistemi</i></h1><span>Introduction to Management · Radtke · 11 ders, 28 konu</span></div>
     <div class="pills" id="pills"></div>
   </div>
   <nav class="rail" id="rail" aria-label="Bölümler ve konular"></nav>
@@ -107,9 +119,10 @@ ${veri}
 const EK_SORULAR=${js(EK_SORULAR)};
 const EK_VAKALAR=${js(EK_VAKALAR)};
 const DERSLER=${js(DERSLER)};
+const DERSLER_EN=${js(DERSLER_EN)};
 const PLAN_VARSAYILAN=${js(planVars)};
 ${yama}
-${['plan', 'tekrar', 'teshis', 'gunluk', 'hoca', 'app'].map((m) => oku(`src/${m}.js`)).join('\n')}
+${['plan', 'tekrar', 'teshis', 'gunluk', 'hoca', 'dil', 'app'].map((m) => oku(`src/${m}.js`)).join('\n')}
 </script>
 `;
 
@@ -121,6 +134,8 @@ console.log({
   kb: Math.round(sayfa.length / 1024),
   dersler: Object.keys(DERSLER.lessons).length,
   bolumler: Object.keys(DERSLER.chapters).length,
+  derslerEn: Object.keys(DERSLER_EN.lessons).length + ' / ' + Object.keys(DERSLER.lessons).length,
+  bolumlerEn: Object.keys(DERSLER_EN.chapters).length,
   ekSoru: EK_SORULAR.length,
   ekVaka: EK_VAKALAR.length,
   ekVakaSoru: EK_VAKALAR.reduce((a, c) => a + c.qs.length, 0),

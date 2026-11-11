@@ -1,0 +1,550 @@
+{
+  "chapters": [
+    {
+      "ch": 6,
+      "ad": "Strategy: from mission to competition, from analysis to emergent strategy",
+      "giris": "<p>This chapter explains how an organization chooses its direction and how it moves in that direction. First you make the purpose clear with mission, vision and values. Then you learn the four steps of the strategic management process. Next you see the three levels of strategy and how a firm wins in its market. Before any choice, you need analysis: value chain, VRIO and BCG look inside the company, while SWOT, PESTEL and Porter's five forces look outside. The last lesson shows how the plan written at the desk changes in the field, that is, the gap between intended and realized strategy.</p>",
+      "baglanti": "<p>This chapter goes deeper into the planning part of P-O-L-C. The course note says that mission and vision guide all four functions. So the purpose and strategy you build here will come back as your starting point when you study the other functions of management, such as organizational structure, leadership and control.</p>",
+      "sinav": "<p>One of the two long cases in Part 3 comes from this chapter. Part 3 has six questions in total; each has six options and is worth 5 points. In case questions, defining a concept is not enough. You must match a sentence from the story to the right concept, and often you must classify two halves correctly at the same time.</p>",
+      "okul": {
+        "once": "Before class, look over the five concept tables of this chapter (the statements, the levels of strategy, the value chain, the external analysis tools, intended and realized) and bring this question with you: how does a company know it has chosen the right strategy?",
+        "odak": [
+          "The clue words the lecturer uses to tell mission from vision.",
+          "The test that makes an activity primary or support in the value chain.",
+          "Which VRIO result you get when you stop at which question.",
+          "Which examples are used to separate PESTEL factors from Porter's forces.",
+          "How emergent and realized strategy are named in examples where the plan changes."
+        ],
+        "sonra": "After class, open the lessons on this site in order: first the mission and process lesson, then the levels of strategy, then internal and external analysis, and last emergent strategy. Answer the question in every step, reread the explanation for any step you got wrong, then go over the traps section of the lesson."
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c6a",
+      "ad": "Mission, vision, values, stakeholders and the strategic management process",
+      "sure": 18,
+      "neden": "<p>To understand an organization's strategy, you first need to know where it wants to go and whom it serves. In a case, you get a sentence from a website and must say which statement it is. You may also have to choose which step of the process a manager's work belongs to. Both can be solved quickly with clue words.</p>",
+      "hedefler": [
+        "Tell from clue words whether a sentence is a mission, vision or values statement.",
+        "Explain the idea of stakeholders and recognize an example of stakeholder analysis.",
+        "List the four steps of the strategic management process in the right order.",
+        "Classify the work in a scenario as formulation or implementation."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Mission and vision: why do we exist today, what do we want to become?",
+          "anlatim": "<p>Before an organization chooses a direction, it answers two questions: “Why do we exist right now?” and “What do we want to become in the future?” These two questions turn into two separate statements.</p><p>A <b>Mission statement</b> describes why the organization exists and how it serves its key stakeholders. Its time is today: it uses present-tense sentences such as “we provide…” or “our purpose is…”. A <b>Vision statement</b> announces a purpose and a goal for the future: it says what the organization wants to become. If you see a year, “become” or “leading” in the sentence, that is a vision signal, for example “to be the leading… by 2035”.</p><p>Why do you need both? The mission is the compass for daily work, and the vision is the point that work wants to reach. A mission without a vision becomes a routine with no direction. A vision without a mission becomes a dream with nothing to stand on. In the exam, the fastest way to tell them apart is to look at time: today's service is the mission, the future goal is the vision.</p>",
+          "ornek": "<p>Two sentences hang on the wall of the fictional “Blue Cup” café. “We serve our neighbourhood fresh, affordable coffee every morning” is a <b>mission statement</b>: it says what they do today and whom they serve. “To become the city's best-loved local café by 2030” is a <b>vision statement</b>: with a year and the verb “become”, it describes the future.</p>",
+          "kaynak": [0],
+          "terimler": ["Mission statement", "Vision statement"],
+          "soru": {
+            "q": "A fictional bakery chain prints this on its bags: “By 2032, we will become the region's best-known name in sourdough bread.” How should this be classified?",
+            "o": ["Vision statement", "Mission statement", "Values statement", "Stakeholder analysis"],
+            "x": "The right answer is vision statement: a year (2032) and the word “become” point to a goal in the future. The most tempting wrong answer is mission statement, but a mission describes why the organization exists today and whom it serves. Here there is no present service, only a position it wants to reach in the future."
+          }
+        },
+        {
+          "baslik": "Values and how the three statements link to P-O-L-C",
+          "anlatim": "<p>Mission and vision answer “what” and “where to”, but they do not say how to behave on the way. A <b>Values statement</b> does that: it lists the organization's core beliefs and guiding principles. It usually looks like a short list of words: “integrity, respect, curiosity”. The sentence has no present service and no target year, only principles.</p><p>These statements are not wall decoration. They guide the four functions of management, that is, <b>P-O-L-C</b>. Planning starts from mission and vision, because your purpose decides what you plan. Organizing lines up the structure with that purpose. Leading is almost the same thing as mission and vision, because a leader explains this direction to people and gets them to follow. Controlling checks how far you have moved toward these goals. In short, mission and vision do not end with the plan; they are used in every step of management.</p>",
+          "ornek": "<p>The rulebook of a fictional youth football club says “Fair play, respect and team spirit”. This is a <b>values statement</b>: it describes neither today's service nor a future goal. It only lists the principles that decide how players and coaches behave. When a coach warns a player who shouts at the referee, the coach is really controlling: checking behaviour against these values.</p>",
+          "kaynak": [0],
+          "terimler": ["Values statement"],
+          "soru": {
+            "q": "A manager at a fictional theatre says the mission and vision only matter when the yearly plan is written. According to the course note, which P-O-L-C functions do they actually guide?",
+            "o": ["All four: planning, organizing, leading and controlling", "Only planning, because every plan starts from them", "Only leading, because leaders must communicate them", "Only controlling, because progress is checked against them"],
+            "x": "The right answer is all four functions: planning starts from mission and vision, organizing lines up the structure with them, leading is almost the same as them, and controlling checks progress toward them. The most tempting wrong answer is “only planning”, because the mission first comes to mind when you write a plan. But the note says clearly that its effect does not end with the plan."
+          }
+        },
+        {
+          "baslik": "Stakeholders and stakeholder analysis",
+          "anlatim": "<p>If the mission describes “how we serve our key stakeholders”, you need to know who these stakeholders are. <b>Stakeholders</b> are the people or groups who have an interest in the organization's ability to produce the results it aims for. The note gives six examples: customers, employees, investors, suppliers, government and communities. A stakeholder is not only a shareholder; everyone affected by the organization's success is inside this circle. Some are inside the organization (employees), some are outside (government, the community).</p><p><b>Stakeholder analysis</b> is the name for the techniques used to identify and understand the needs and expectations of these groups. Why is it needed? Because the groups' expectations can clash: investors want low costs, while local residents want a quiet neighbourhood. If you do not map who expects what before you write a strategy, your plan will meet resistance when you carry it out. Keep the difference clear: stakeholders are a group concept, while stakeholder analysis is the work of studying those groups in a systematic way.</p>",
+          "ornek": "<p>Before changing its opening hours, a fictional city library surveys students, holds a meeting with librarians, asks for the city council's view on the budget and talks to nearby cafés. This is a <b>stakeholder analysis</b>: it brings out the needs of each group, inside and outside, one by one. All the groups it talks to are the library's <b>stakeholders</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Stakeholders", "Stakeholder analysis"],
+          "soru": {
+            "q": "Before opening a second branch, a fictional bike shop interviews its regular customers, its mechanics, the parts wholesaler and the neighbourhood association. What is the shop doing?",
+            "o": ["Stakeholder analysis", "Value chain analysis", "Strategic evaluation and control", "Writing a values statement"],
+            "x": "The right answer is stakeholder analysis: the shop is learning, in a systematic way, the needs of the inside and outside groups who have an interest in its results. Strategic evaluation and control may look tempting, because some information is being collected. But control means comparing the results of a plan already carried out with its goals, and here no plan has been carried out yet."
+          }
+        },
+        {
+          "baslik": "Strategic management and the first two steps of the process",
+          "anlatim": "<p><b>Strategic management</b> is everything a firm does to reach its mission and vision. Carpenter & Sanders define it as “the process by which a firm manages the formulation and implementation of its strategy”. The “and” in the definition matters: only deciding or only doing is not enough; you must manage both together. A decision that is not carried out stays on paper, and action without a decision has no direction.</p><p>The process has four steps; in this step you see the first two. Step 1 is <b>Strategic objectives & analysis</b>: vision, mission and values are made clear, and the situation is studied with tools such as SWOT and PESTEL. You cannot decide without knowing where you want to go and what conditions you are in. Step 2 is <b>Strategy formulation</b>: you decide what to do, write the plans and gather the resources you need. This is also called business planning or strategic planning. The heart of formulation is the decision: nobody in the field has changed anything yet; a path has been chosen at the desk.</p>",
+          "ornek": "<p>A fictional student project group wants to open a bike repair stand on campus. First they write down their goals and study rivals and campus rules: objectives & analysis. Then they put their decision in writing: “two days a week, only tyre and brake repairs, spare parts from a sponsor shop”. The second part is <b>strategy formulation</b>: what to do has been chosen but not carried out yet.</p>",
+          "kaynak": [2],
+          "terimler": ["Strategic management", "Strategy formulation"],
+          "soru": {
+            "q": "A fictional pet-food startup has finished its SWOT. The founders now choose which product line to launch and write a plan for raising the money it needs. Which step of the process is this?",
+            "o": ["Strategy formulation", "Strategy implementation", "Strategic objectives & analysis", "Strategic evaluation & control"],
+            "x": "The right answer is strategy formulation: the founders are deciding what to do, writing the plan and planning how to raise resources. The most tempting wrong answer is strategic objectives & analysis, because SWOT is mentioned. But the SWOT is already finished; they have now moved from analysis to decision."
+          }
+        },
+        {
+          "baslik": "Implementation and evaluation & control",
+          "anlatim": "<p>After the decision, the work moves into the field. Step 3 is <b>Strategy implementation</b>: the actions taken to put the strategy into practice, such as training staff, giving budgets and other resources to units, and starting the new way of working. Formulation answers “what shall we do?”, while implementation is the “we are doing it” stage. This is the exam's favourite trap: giving out resources sounds like planning, but the note clearly puts training and allocating resources under implementation. If the money decision is made at the desk, it is formulation; if the money is actually sent to departments, it is implementation.</p><p>Step 4 is <b>Strategic evaluation & control</b>: results are compared with goals and corrections are made if needed. This step closes the loop, because the corrections go back into analysis and decision. You can remember the order with four verbs: analyse, decide, do, check. First understand the situation, then choose, then act, and last check.</p>",
+          "ornek": "<p>A new patient-sorting plan has been approved for the emergency department of the fictional “North Hospital”. The head nurse gives the whole team two days of training, and management transfers the budget for a new waiting area to the department: this is <b>strategy implementation</b>. Three months later they compare waiting times with the target and change the shift pattern: this is evaluation & control.</p>",
+          "kaynak": [2],
+          "terimler": ["Strategy implementation"],
+          "soru": {
+            "q": "After a fictional cinema chain approves its new loyalty plan, the regional manager runs workshops for cashiers and transfers marketing budgets to each branch. Which step is this?",
+            "o": ["Strategy implementation", "Strategy formulation", "Strategic objectives & analysis", "Strategic evaluation & control"],
+            "x": "The right answer is strategy implementation: the plan is already approved, and now staff are being trained and budgets are actually being handed out. Formulation is a tempting wrong answer, because the word budget sounds like planning. But formulation is the step of deciding what to do, and here that decision was made long ago."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A sentence with “leading”, “become” or a year is a mission.", "dogru": "These are <b>vision</b> signals. A mission is the “reason for being” and today's service; look for the present tense and the “we provide…” pattern."},
+        {"yanlis": "Training staff and giving out budgets are formulation, because they are part of the plan.", "dogru": "These are <b>implementation</b>. Formulation is deciding and writing the plan; once action has started, it is implementation."},
+        {"yanlis": "The vision describes today, and the mission describes the desired future.", "dogru": "It is the other way round: the <b>mission</b> is today's purpose, the <b>vision</b> is the future goal."},
+        {"yanlis": "Stakeholders are only the owners and shareholders of the company.", "dogru": "Customers, employees, investors, suppliers, government and communities are also <b>stakeholders</b>."},
+        {"yanlis": "Comparing results with goals is the analysis step.", "dogru": "Checking results after implementation and correcting them is the <b>evaluation & control</b> step."}
+      ],
+      "ozet": [
+        "<b>Mission</b>: why we exist today and whom we serve.",
+        "<b>Vision</b>: what we want to become in the future; a year, “become” and “leading” are clues.",
+        "<b>Values</b>: core beliefs and principles, usually a short list of words.",
+        "Mission and vision guide all four functions of P-O-L-C.",
+        "<b>Stakeholders</b> are inside and outside groups with an interest in the results; <b>stakeholder analysis</b> studies their expectations.",
+        "The process: objectives & analysis, formulation, implementation, evaluation & control.",
+        "Deciding is formulation; training and giving out resources is implementation."
+      ],
+      "aklinda": "Analyse, decide, do, check. Mission is today, vision is tomorrow, values are how.",
+      "sinavda": "<p>In a case, this topic usually comes as a sentence from a website or a brochure: you look at the tense and the clue words and choose mission, vision or values. The second type of question asks you to place a manager's work (training, giving out budgets, comparing results) in the right step of the process.</p>"
+    },
+    {
+      "id": "c6b",
+      "ad": "Levels of strategy and how firms compete",
+      "sure": 20,
+      "neden": "<p>In case questions, you must choose the level at which a decision is made and the way the firm wins in its market. The options always come from the same family (corporate, business, functional, or cost leadership, differentiation, focus). If you know which question each one answers, you find the right option quickly.</p>",
+      "hedefler": [
+        "Place a decision at the corporate, business or functional level.",
+        "Explain the difference between synergy and diversification with an example.",
+        "Tell cost leadership, differentiation and focus apart in a scenario.",
+        "Explain why a sustainable competitive advantage must be hard to copy."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Three levels, three questions",
+          "anlatim": "<p>In a large company everyone says “strategy”, but they do not all mean the same thing. That is why strategy is split into three levels, and each level answers a different question.</p><p><b>Corporate strategy</b>: “Which business(es) should we be in?” Top management answers this. Buying a business, selling one or entering a new industry happens at this level. Its tools are PESTEL, BCG and a broad SWOT, because you have to look at the whole portfolio and the wide environment. <b>Business strategy</b>: “How do we compete in this market?” Business unit managers answer this. Its tools are Porter's 5 forces, VRIO and the value chain, because they focus on competition in one market. <b>Functional strategy</b>: “How does each department support this?” Departments such as marketing, finance and HR answer it; their tools are a department-level SWOT and a detailed value chain.</p><p>The quick way to tell them apart: buying or selling a whole business is corporate, how to win in one market is business, and one department's routine plan is functional.</p>",
+          "ornek": "<p>The fictional “Flavour Group” runs both a burger chain and an ice-cream brand. The board's decision to sell the ice-cream brand is <b>corporate strategy</b>. The burger chain's manager saying “we will win with the fastest service” is <b>business strategy</b>. The HR department preparing a new cashier training schedule for fast service is <b>functional strategy</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Corporate strategy", "Business strategy", "Functional strategy"],
+          "soru": {
+            "q": "The board of a fictional media group decides to buy a small chain of music schools and enter the education market. At which level of strategy is this decision made?",
+            "o": ["Corporate strategy", "Business strategy", "Functional strategy", "Values statement"],
+            "x": "The right answer is corporate strategy: the group answers “which businesses should we be in?” and enters a new industry. Business strategy is tempting, because a new market is mentioned. But the business level is about how to compete in a market you are already in, not which market to enter."
+          }
+        },
+        {
+          "baslik": "Diversification: spreading the risk",
+          "anlatim": "<p>The most typical decision at the corporate level is how many different businesses to be in. <b>Diversification</b> means being in several businesses that are different from each other, and its aim is to spread risk. The logic is not putting all your eggs in one basket: if one business does badly, the others keep the company going. The example in the source is YUM! Brands: it runs separate brands such as KFC, Pizza Hut and Taco Bell under one roof.</p><p>A decision in the opposite direction is at the same level. According to the source, McDonald's sold Chipotle in 2006 to focus on a single brand. This is also a corporate decision, because the question being answered is still “which businesses should we be in?” So both adding and removing a business are corporate strategy. Do not confuse diversification with synergy: diversification is about how many different businesses you are in and spreading risk, while synergy is about whether the businesses create more value together.</p>",
+          "ornek": "<p>For years a fictional family company made only winter coats, and it lost money in mild winters. Management bought a beach towel brand and a camping gear shop. This is <b>diversification</b>: by entering businesses that are different from each other, they spread the risk that one bad season could sink the whole company.</p>",
+          "kaynak": [0],
+          "terimler": ["Diversification"],
+          "soru": {
+            "q": "A fictional company that only made garden furniture buys a coffee roastery and a language school so that one bad season cannot sink the whole firm. This is an example of:",
+            "o": ["Diversification", "Synergy", "Differentiation", "Functional strategy"],
+            "x": "The right answer is diversification: the firm spreads its risk by entering businesses that are different from each other. Synergy is a tempting wrong answer, but synergy means businesses creating more value together than apart. Here the story is about spreading risk, not about the businesses adding to each other."
+          }
+        },
+        {
+          "baslik": "Synergy: 1 + 1 = 3",
+          "anlatim": "<p>When a company brings two businesses together, a question comes up: are these two businesses better together than apart? <b>Synergy</b> means that two or more activities together create a bigger effect than the sum of their separate effects. The source's formula is 1 + 1 = 3. When two businesses share the same customer list, the same distribution network or a joint loyalty programme, each can reach sales it could not reach alone.</p><p>Separate synergy from two neighbouring ideas. Diversification is being in different businesses and spreading risk; it counts as diversification even if the businesses add nothing to each other. Merging two departments to cut costs is not synergy on its own either, because synergy means more than the sum, that is, an extra effect. If you see a phrase like “both sell more together than apart” in the exam, think of synergy.</p>",
+          "ornek": "<p>A fictional gym chain and a healthy-food café in the same group launch a shared membership card. Gym members get a discount at the café, and café customers get the first month at the gym free. A year later, both sell more than they would alone. This is <b>synergy</b>: the effect they create together is bigger than the sum of their separate effects.</p>",
+          "kaynak": [0],
+          "terimler": ["Synergy"],
+          "soru": {
+            "q": "A fictional bookshop and the publishing house in the same group start sharing author events, and both earn more than they did on their own. What does this illustrate?",
+            "o": ["Synergy", "Diversification", "Cost leadership", "Corporate mission"],
+            "x": "The right answer is synergy: the two businesses earn more together than they would apart, that is, 1 + 1 = 3. Diversification is tempting, because there are two separate businesses in the same group. But diversification is about spreading risk, not about businesses adding extra value to each other."
+          }
+        },
+        {
+          "baslik": "Cost leadership and differentiation",
+          "anlatim": "<p>Once you have decided which market to be in, the business-level question comes: why should customers choose you over a rival? The source gives two basic answers.</p><p><b>Cost leadership</b>: winning by being the cheapest. The product is standard, costs are pushed as low as possible, and the price is the lowest. The logic: if your costs are lower than your rivals', you can charge the lowest price and still make a profit, and in a price war you are the last to give up. <b>Differentiation</b>: winning by being unique. You stand out with a feature such as quality, design, technology or durability, and the customer pays more for it. The aim is not to be cheap, but to offer something rivals cannot.</p><p>The clue is the direction of the price. If you see “cheapest”, “lowest cost” and a standard product, it is cost leadership. If you see “patented”, “unique” or “durable” together with a higher price, it is differentiation. Selling a patented, durable, unique product at a higher price is a typical differentiation question.</p>",
+          "ornek": "<p>There are two fictional bike shops on the same street. The first sells one standard model, keeps its warehouse outside the city, has no extras and has the lowest price in town: <b>cost leadership</b>. The second sells handmade bikes with a patented gear system it designed itself and a lifetime guarantee, and asks twice the price: <b>differentiation</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Cost leadership", "Differentiation"],
+          "soru": {
+            "q": "A fictional headphone maker sells a model with a patented noise filter and a ten-year guarantee, priced well above every rival. How does it compete?",
+            "o": ["Differentiation", "Cost leadership", "Diversification", "Competitive parity"],
+            "x": "The right answer is differentiation: a patented feature and a long guarantee make the product unique, and customers pay more for it. Cost leadership is the option people confuse most often, but it describes the opposite: a standard product, the lowest cost and the lowest price."
+          }
+        },
+        {
+          "baslik": "Focus: winning in a narrow segment",
+          "anlatim": "<p>The third path is to target not the whole market but a small part of it. <b>Focus</b> means applying cost leadership or differentiation in one narrow segment. So focus is not a new way of winning; you pick one of the two earlier ways and narrow it to a certain group of customers. The narrow segment can be a certain type of customer, a region or a need.</p><p>Why narrow down? Instead of fighting large rivals that serve the whole market everywhere, you can meet a small group's needs better than anyone else. In the exam, ask two questions in order. First: the whole market or a narrow group? If it is a narrow group, it is focus. Then: cheapness or uniqueness? So the right answer may be a combined option like “focus (differentiation in a narrow segment)”. A firm that sells very expensive, special products only to a certain group of fans is an example of focus, not general differentiation.</p>",
+          "ornek": "<p>The fictional “Climbing Workshop” makes shoes measured to the foot only for professional rock climbers, and it charges high prices. Because it offers a unique product to a narrow segment, this is <b>focus</b>, or more exactly <b>differentiation</b> in a narrow segment. In the same city, a canteen that offers the cheapest lunch only to students is using <b>cost leadership</b> in a narrow segment.</p>",
+          "kaynak": [1],
+          "terimler": ["Cost leadership", "Differentiation"],
+          "soru": {
+            "q": "A fictional bakery sells only gluten-free cakes for people with coeliac disease and charges premium prices for its special recipes. Its approach is best described as:",
+            "o": ["Focus (differentiation in a narrow segment)", "Cost leadership across the whole market", "Differentiation across the whole market", "Diversification into unrelated markets"],
+            "x": "The right answer is focus: the bakery offers a unique product with special recipes to only a narrow group of customers. The most tempting wrong answer is differentiation across the whole market, because the product really is different and expensive. But the customer group is deliberately limited to a narrow segment, and that shows focus."
+          }
+        },
+        {
+          "baslik": "Competitive advantage and the lasting kind",
+          "anlatim": "<p>Cost leadership, differentiation or focus: the aim of all of them is to create a <b>competitive advantage</b>, a strength that sets you apart from your rivals. But not every advantage lasts long. A campaign or feature that a rival can copy within a month only puts you ahead for a short time.</p><p>A <b>Sustainable competitive advantage</b> needs two conditions at once: it must not be easy to copy, and it must not easily lose its value through changes in the environment. The first condition is a shield against rivals, the second a shield against change in the world. Even a skill that is hard to copy can lose its value if customers' wishes change completely. So saying “we are better than our rivals right now” is not sustainability on its own. In the next lesson this idea becomes measurable with VRIO: its “hard to imitate” question tests exactly the copying condition.</p>",
+          "ornek": "<p>A fictional pizza place started a “second pizza free” campaign and its sales went up, but the shop next door did the same the following week: this was a short-lived advantage. The same pizza place's dough-rising method, which it developed over years and nobody else knows, cannot be copied easily and stays valuable as long as tastes do not change: this is a candidate for a <b>sustainable competitive advantage</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Sustainable competitive advantage"],
+          "soru": {
+            "q": "Which situation best describes a sustainable competitive advantage for a fictional tea brand?",
+            "o": ["A secret blending skill that rivals cannot easily copy and that stays valuable", "A summer discount that made it cheaper than rivals until they matched it", "A new flavour that two competitors launched in similar form a month later", "A popular advert that won customers before a rival ran a similar one"],
+            "x": "The right answer is the secret blending skill: it cannot be copied easily and it keeps its value, so it meets both conditions. The discount option is tempting, because it really did create an advantage. But rivals matched it at once, and an advantage that can be copied does not count as sustainable."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Selling a whole business is business strategy, because it concerns one business.", "dogru": "Buying or selling a whole business is the <b>corporate</b> level: it answers “which businesses should we be in?”"},
+        {"yanlis": "Marketing's campaign plan for next quarter is business strategy.", "dogru": "One department's routine plan is the <b>functional</b> level."},
+        {"yanlis": "Selling a patented, durable product at a high price is cost leadership, because it is produced efficiently.", "dogru": "A unique product plus a high price is <b>differentiation</b>."},
+        {"yanlis": "Diversification and synergy are the same thing.", "dogru": "<b>Diversification</b> is being in different businesses to spread risk; <b>synergy</b> is creating more than the sum together."},
+        {"yanlis": "Selling expensive, special products to a narrow group is general differentiation.", "dogru": "If the target is a narrow segment, the approach is <b>focus</b> (differentiation in a narrow segment)."},
+        {"yanlis": "Any edge over rivals is a sustainable advantage.", "dogru": "To be <b>sustainable</b>, it must not be easy to copy and must not lose its value through change."}
+      ],
+      "ozet": [
+        "<b>Corporate</b>: which businesses should we be in? Top management; PESTEL, BCG, broad SWOT.",
+        "<b>Business</b>: how do we compete in this market? Porter, VRIO, value chain.",
+        "<b>Functional</b>: how does each department support this?",
+        "<b>Diversification</b>: being in different businesses to spread risk.",
+        "<b>Synergy</b>: more than the sum together, that is, 1 + 1 = 3.",
+        "<b>Cost leadership</b> is winning by being the cheapest; <b>differentiation</b> is winning with a unique feature the customer pays extra for.",
+        "<b>Focus</b>: applying one of these two in a narrow segment.",
+        "<b>Sustainable competitive advantage</b>: a strength that is hard to copy and hard to make worthless."
+      ],
+      "aklinda": "Corporate asks “which business?”, business asks “how do we win?”, functional asks “what does each department do?”. Synergy: 1 + 1 = 3.",
+      "sinavda": "<p>In a case, you usually get a combined option, for example that the firm competes through cost leadership and that two businesses create synergy together. Check each half separately; if one half is right and the other is wrong, the option is wrong. In level questions, ask whether the decision concerns a whole business, competition in one market, or a single department.</p>"
+    },
+    {
+      "id": "c6c",
+      "ad": "Internal analysis: value chain, VRIO and BCG matrix",
+      "sure": 25,
+      "neden": "<p>These three tools are among the topics asked most often in cases. Putting an activity in the right box of the value chain, finding the VRIO result for a resource and placing a product in the BCG matrix do not need memorizing. They need a short chain of logic. Once you have the logic, you can quickly rule out the wrong options, even in six-option questions.</p>",
+      "hedefler": [
+        "Separate internal analysis tools from external analysis tools.",
+        "Classify an activity as primary or support in the value chain.",
+        "Find the result by asking the VRIO questions in order and stopping at the first “no”.",
+        "Place a product in the BCG matrix by market growth and market share."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Internal analysis and the idea of the value chain",
+          "anlatim": "<p>When you build a strategy, you look in two places: inside and outside. Internal analysis tools find <b>strengths</b> and <b>weaknesses</b>, that is, things that are inside the company and that the company can control. This lesson has three internal tools: value chain, VRIO and BCG. External tools (PESTEL and Porter's five forces) look at the environment the company cannot control; they come in the next lesson.</p><p>The <b>Value chain</b> is Michael Porter's model: it shows, step by step, all the activities that come together to create a product or service. Why is it useful? Because instead of saying “our company is good”, you can ask “which activity are we good at, and which are we weak at?” The chain has two groups: primary activities, which create the product directly and get it to the customer, and support activities, which help them in the background. The sorting question is always the same: does this work directly create the product or service the customer pays for, or does it support the people who create it?</p>",
+          "ornek": "<p>The owner of a fictional restaurant wants to understand why it makes no profit. With the <b>value chain</b> she looks at each step separately: vegetable deliveries, the kitchen, takeaway delivery, advertising, customer complaints, accounting, staff training. She sees that the problem is not in the kitchen but in vegetables going bad in storage. The tool showed her a concrete weak link instead of a general “things are bad”.</p>",
+          "kaynak": [0, 1],
+          "terimler": ["Value chain"],
+          "soru": {
+            "q": "A fictional furniture maker wants to find out which of its own activities are strengths and which are weaknesses. Which tool fits this internal question best?",
+            "o": ["Value chain analysis", "PESTEL analysis", "Porter's five forces", "Opportunities and threats list"],
+            "x": "The right answer is value chain: it finds internal strengths and weaknesses by looking at the company's own activities one by one. PESTEL is a tempting wrong answer, because it is also an analysis tool. But PESTEL looks at the macro environment outside the company and studies factors that cannot be controlled."
+          }
+        },
+        {
+          "baslik": "The five primary activities",
+          "anlatim": "<p><b>Primary activities</b> are the five steps that create the product directly and get it to the customer. Their order follows the path of a good through the company, so you do not need to memorize them; just picture the flow.</p><ol><li><b>Inbound logistics</b>: receiving and storing inputs.</li><li><b>Operations</b>: turning inputs into the product.</li><li><b>Outbound logistics</b>: getting the product to the customer.</li><li><b>Marketing & sales</b>: making sure customers know the product and buy it.</li><li><b>Service</b>: repairs, returns and support after the sale.</li></ol><p>One important detail: in service companies the “product” may not be a physical thing. Work that keeps the service the customer pays for running is also operations or logistics. For example, in a reusable packaging business, collecting returned containers, cleaning them and sending them out again looks like background work. But it is primary, because it is the very service the customer buys. A job does not become support just because the customer does not see it.</p>",
+          "ornek": "<p>Think of a fictional laundry service. Collecting dirty laundry from homes is inbound logistics, washing and ironing is operations, taking the clean laundry back is outbound logistics, handing out leaflets in student halls is marketing & sales, and solving complaints about lost socks is service. All five directly create the service the customer pays for, so they are <b>primary activities</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Primary activities"],
+          "soru": {
+            "q": "A fictional e-scooter rental firm sends a night crew to collect scooters from the streets, charge them and put them back at busy corners. In the value chain this is:",
+            "o": ["A primary activity, because it keeps the service customers pay for working", "A support activity, because the crew works at night when customers are away", "Procurement, because the scooters and batteries were bought from suppliers", "Firm infrastructure, because the night routes have to be planned and managed"],
+            "x": "The right answer is primary activity: collecting and charging the scooters directly keeps the rental service customers pay for running. The reason “it works at night and customers do not see it” is the most tempting wrong answer. But being invisible does not make a job support; what matters is whether it directly creates the service."
+          }
+        },
+        {
+          "baslik": "The four support activities",
+          "anlatim": "<p><b>Support activities</b> do not create the product themselves; they make sure the primary activities work well. There are four:</p><ul><li><b>Firm infrastructure</b>: management, finance, legal, planning.</li><li><b>Human resource management</b>: hiring, training and rewarding people.</li><li><b>Technology development</b>: research and development (R&D) and information technology (IT).</li><li><b>Procurement</b>: buying inputs from suppliers.</li></ul><p>The pair that gets mixed up most is procurement and inbound logistics. Procurement is the buying decision and the deal: which supplier to buy from and at what price. Inbound logistics is the bought goods physically arriving and going into storage. The second mix-up is about HRM: a job does not become HRM just because a team does it; HRM is only the work of finding, developing and rewarding people. The third: the team that maintains the software or develops a patented part is technology development, because R&D and IT are in this box.</p>",
+          "ornek": "<p>In a fictional chocolate workshop, the person who bargains over price with the cocoa supplier works in procurement, the person who trains new chocolate makers in human resource management, the developer who updates the order system in technology development, and the accountant who prepares the tax return in firm infrastructure. None of them makes the chocolate, but all of them make it possible: they are all <b>support activities</b>.</p>",
+          "kaynak": [1],
+          "terimler": ["Support activities"],
+          "soru": {
+            "q": "At a fictional toy company, one team negotiates contracts with plastic suppliers and places all orders for raw materials. Which value-chain activity is this?",
+            "o": ["Procurement (support)", "Inbound logistics (primary)", "Operations (primary)", "Firm infrastructure (support)"],
+            "x": "The right answer is procurement: making contracts with suppliers and ordering inputs is buying work, so it is a support activity. Inbound logistics is the most tempting wrong answer. But that is physically receiving and storing the goods that were bought, not the buying decision."
+          }
+        },
+        {
+          "baslik": "VRIO: four questions, in order",
+          "anlatim": "<p>The value chain shows you which activity you are good at. But is being good enough to stand apart from rivals? <b>VRIO</b> measures this: it tests with four questions whether a resource or capability gives a competitive advantage.</p><ul><li><b>V, Valuable</b>: Does this resource create value?</li><li><b>R, Rare</b>: Do most rivals lack it?</li><li><b>I, hard to Imitate</b>: Is it hard for rivals to copy?</li><li><b>O, Organized</b>: Is the company organized to use this resource?</li></ul><p>The rule: ask the questions in order and stop at the first “no”. Why does the order matter? Because each question builds on the one before. It does not help if something with no value is rare. Something rare but easy to copy will soon be everywhere. And even if you have all of these, the advantage stays on paper if you do not use it. The source's textbook example is Disney: its marketing and design skills pass all four questions.</p>",
+          "ornek": "<p>A fictional ice-cream shop has a secret cinnamon ice-cream recipe it developed itself. Customers love it (V yes), nobody else has it (R yes), working out the recipe from the taste is very hard (I yes), and the shop has a team that makes this recipe every day (O yes). With four “yes” answers, the <b>VRIO</b> result is sustained competitive advantage.</p>",
+          "kaynak": [2],
+          "terimler": ["VRIO"],
+          "soru": {
+            "q": "A fictional travel agency has a booking assistant that customers value, that no rival offers, that would take years to copy, and that its staff use every day. VRIO result?",
+            "o": ["Sustained competitive advantage", "Temporary competitive advantage", "Unused competitive advantage", "Competitive parity"],
+            "x": "The right answer is sustained competitive advantage: all four questions get a “yes”. Unused competitive advantage may be tempting, because the first three conditions hold. But the staff use the tool every day, so the company is organized to use this resource and O is also “yes”."
+          }
+        },
+        {
+          "baslik": "VRIO results: parity, temporary, unused",
+          "anlatim": "<p>The question where you stop decides the result. Build the five possible results in order:</p><ul><li>V “no”: <b>competitive disadvantage</b>. A resource with no value holds you back.</li><li>V yes, R “no”: <b>Competitive parity</b>. Valuable, but everyone has it; you keep up with rivals but cannot get ahead.</li><li>V and R yes, I “no”: <b>Temporary competitive advantage</b>. Valuable and rare but easy to copy; you are ahead until rivals imitate it.</li><li>V, R and I yes, O “no”: <b>unused competitive advantage</b>. Everything is there, but the company has not built the team or process to use it.</li><li>All four yes: <b>sustained competitive advantage</b>, a long-term one.</li></ul><p>In the exam, the three middle results get mixed up most. Short clues: if you see “everyone has it”, it is parity; if you see “can be copied within a year”, it is temporary; if you see “but there is no team to use it”, it is unused. The result can also change over time: a skill that was rare at first drops to parity when rivals hire similar people.</p>",
+          "ornek": "<p>Think of three fictional cafés. The first has a mobile ordering app, but so does every café in the city: <b>competitive parity</b>. The second offers the only cold brew coffee in the city, but anyone can buy the equipment needed: <b>temporary competitive advantage</b>. The third has patented a special roasting method but has not hired a roaster to use it: unused competitive advantage.</p>",
+          "kaynak": [2],
+          "terimler": ["Competitive parity", "Temporary competitive advantage"],
+          "soru": {
+            "q": "A fictional gym built the city's only climbing wall, which members love, but any rival could build the same wall within a year. VRIO result?",
+            "o": ["Temporary competitive advantage", "Competitive parity", "Unused competitive advantage", "Sustained competitive advantage"],
+            "x": "The right answer is temporary competitive advantage: the wall is valuable (V yes) and the only one in the city (R yes), but it can be copied within a year, so we stop at the I question. Competitive parity is tempting, but for parity everyone must already have the resource. Here only this gym has it right now."
+          }
+        },
+        {
+          "baslik": "BCG matrix: two axes and the high-growth boxes",
+          "anlatim": "<p>Value chain and VRIO look at the company's activities and resources. The <b>BCG matrix</b> looks at a portfolio made up of several products or businesses and places each one with two questions: How fast is the market growing (market growth)? How much of that market do we hold (market share)? Two questions, a high or low answer to each, four boxes in total.</p><p>These are the two boxes in a high-growth market. <b>Star</b>: high growth, high share. You are ahead in a fast-growing market. <b>Question mark</b>: high growth, low share. The market is attractive, but you are still a small player; the name comes from the product's uncertain future. The only thing that separates them is market share, because growth is high in both. In a question, first find how fast the market is growing, then the company's share of that market. When you put the two together, the box follows by itself.</p>",
+          "ornek": "<p>A fictional toy company has two new products. Its coding robot takes half of the sales in the fast-growing educational toy market: <b>star</b>. Its virtual reality headset is also in a fast-growing market, but it takes only a small part of the sales: <b>question mark</b>. Growth is high in both; market share makes the difference.</p>",
+          "kaynak": [3],
+          "terimler": ["Star", "Question mark"],
+          "soru": {
+            "q": "A fictional food company launched a plant-based yoghurt. The market for it is booming, but the brand holds only a tiny share against bigger rivals. BCG classification?",
+            "o": ["Question mark", "Star", "Cash cow", "Dog"],
+            "x": "The right answer is question mark: the market is growing fast but the brand's share is small. Star is the most tempting wrong answer, because growth is high. But to be a star, market share must be high too."
+          }
+        },
+        {
+          "baslik": "Cash cow and dog: slow-growing markets",
+          "anlatim": "<p>These are the two boxes in a low-growth market. <b>Cash cow</b>: low growth, high share. The market is flat now, but you are strong in it. The source says this box funds the others: a mature product in a strong position brings in steady money, and this money can be moved to products such as stars and question marks. The picture of a cow being milked comes from here. <b>Dog</b>: low growth, low share. The market is standing still and you are small in it. According to the source, the usual decision is to sell it or close it.</p><p>The portfolio logic works like this: the company manages its products not one by one but as a connected whole. The money from the cash cow is invested in the products of the future; the dog ties up resources for nothing, so it is a candidate to be dropped. Do not mix up the two boxes in the exam: “low growth, high share, profits fund new products” is a cash cow; “low growth, low share” is a dog. Separate star and cash cow too: share is high in both, and the difference is how fast the market is growing.</p>",
+          "ornek": "<p>A fictional stationery brand's classic pencil leads a pencil market that hardly grows at all and brings in steady profit every year; this profit funds its new digital drawing tablet project: <b>cash cow</b>. The same brand's fax paper has a very small share of a shrinking market, and management is discussing whether to stop production: <b>dog</b>.</p>",
+          "kaynak": [3],
+          "terimler": ["Cash cow", "Dog"],
+          "soru": {
+            "q": "A fictional cereal brand leads a market that has stopped growing, and the steady profits from it pay for the company's newer products. BCG classification?",
+            "o": ["Cash cow", "Star", "Question mark", "Dog"],
+            "x": "The right answer is cash cow: the market is not growing, but the brand leads it and its profits fund the other products. Star is tempting, because the brand is the leader. But a star needs a high-growth market, and here growth has stopped."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "Collecting, cleaning and redistributing returned containers is background work, so it is a support activity.", "dogru": "It directly creates the service the customer pays for, so it is <b>primary</b> (operations or logistics)."},
+        {"yanlis": "A valuable resource always gives a competitive advantage.", "dogru": "If it is valuable but everyone has it, it is <b>competitive parity</b>; you only keep up with rivals."},
+        {"yanlis": "A unique resource that is easy to copy gives a sustained advantage.", "dogru": "This is a <b>temporary competitive advantage</b>; you stop at the I question."},
+        {"yanlis": "A resource that meets every condition but is not used gives a sustained advantage.", "dogru": "If O is “no”, the result is <b>unused competitive advantage</b>."},
+        {"yanlis": "Procurement is receiving goods into the warehouse.", "dogru": "Receiving and storing is <b>inbound logistics</b>; <b>procurement</b> is the buying work."},
+        {"yanlis": "Star and cash cow are the same box, because both are leaders.", "dogru": "The difference is market growth: high for a <b>star</b>, low for a <b>cash cow</b>."}
+      ],
+      "ozet": [
+        "Internal tools (value chain, VRIO, BCG) find the strengths and weaknesses the company controls.",
+        "<b>Primary</b> has five steps: inbound logistics, operations, outbound logistics, marketing & sales, service.",
+        "<b>Support</b> is four activities that help in the background: firm infrastructure (management, finance), HRM (human resources), technology development (R&D, IT) and procurement (buying).",
+        "Work that directly creates the service the customer pays for is primary, even if nobody sees it.",
+        "<b>VRIO</b>: ask the questions in order, stop at the first “no”.",
+        "Not valuable means disadvantage, not rare means parity, easy to imitate means temporary, not used by the company means unused; if all four hold, it is sustained.",
+        "<b>BCG</b>: a star is high growth and high share, a question mark is high growth and low share.",
+        "A cash cow is low growth and high share and funds the others; a dog is low and low, and is sold or closed."
+      ],
+      "aklinda": "VRIO: ask in order, stop at the first “no”. BCG: growth first, then share.",
+      "sinavda": "<p>In cases, this lesson comes in three forms: the place of an activity in the value chain (often with a reason, for example “primary: operations, because…”), the VRIO result for a resource, and the BCG boxes of two products. In options with a reason, check that the reason is right as well as the box.</p>"
+    },
+    {
+      "id": "c6d",
+      "ad": "External analysis: SWOT, PESTEL and Porter's five forces",
+      "sure": 25,
+      "neden": "<p>A common question type in cases asks you to classify two external developments at the same time: one is a PESTEL factor, the other a Porter force. The options look very much alike, so you need to know exactly what each tool looks at and where each category ends.</p>",
+      "hedefler": [
+        "Put a factor in the right place in SWOT: internal (S or W) or external (O or T).",
+        "Place an external development under one of the six PESTEL factors.",
+        "Tell Porter's five forces apart, especially new entrants and substitutes.",
+        "Explain the difference between PESTEL and Porter's five forces."
+      ],
+      "adimlar": [
+        {
+          "baslik": "SWOT: inside and outside",
+          "anlatim": "<p><b>SWOT</b> is a framework that Ken Andrews developed in the early 1970s. It crosses two questions: Is this factor inside or outside? Does it help us or harm us? Two questions give four boxes.</p><ul><li><b>Strengths</b>: internal and helpful.</li><li><b>Weaknesses</b>: internal and harmful.</li><li><b>Opportunities</b>: external and helpful.</li><li><b>Threats</b>: external and harmful.</li></ul><p>The key to the internal and external split is control. Internal factors are things the company can control: staff skills, the age of its systems, customer loyalty. External factors are things the company cannot control: laws, interest rates, new rivals. So a new law can never be a strength, however useful it is; at most it is an opportunity. When you classify, first ask “is it under our control?”, then “is it good or bad?”</p>",
+          "ornek": "<p>The <b>SWOT</b> of a fictional neighbourhood bakery: the baker's forty years of sourdough experience is a strength, and the old oven that often breaks down is a weakness; both are inside and in the bakery's hands. A new school opening in the neighbourhood is an opportunity, and a branch of a big supermarket chain opening across the street is a threat; both are outside and the bakery cannot control them.</p>",
+          "kaynak": [0],
+          "terimler": ["SWOT"],
+          "soru": {
+            "q": "In a fictional hotel's SWOT, which pair is classified correctly?",
+            "o": ["Friendly, multilingual staff: strength · A new budget airline route to the city: opportunity", "Friendly, multilingual staff: opportunity · A new budget airline route to the city: strength", "Friendly, multilingual staff: strength · A new budget airline route to the city: weakness", "Friendly, multilingual staff: threat · A new budget airline route to the city: opportunity"],
+            "x": "In the right option, the staff are inside and under the hotel's control, so they are a strength; the new airline route is outside and may bring guests, so it is an opportunity. The most tempting wrong answer is the option that makes the route a weakness. But a weakness is an internal factor, and a development the hotel cannot control can never be S or W."
+          }
+        },
+        {
+          "baslik": "Opportunities, threats and a good SWOT strategy",
+          "anlatim": "<p>Look closely at the external half of SWOT. <b>Opportunities</b> are external factors that may benefit the organization. <b>Threats</b> are external factors that are outside its control and put the business at risk. Both come from the same outside world; the only difference is the direction of the effect. So the same development can be an opportunity for one company and a threat for another: a rule that bans single-use bottles is an opportunity for a firm that sells refillable bottles and a threat for a maker of plastic bottles. When you classify a development, always think “for this company”.</p><p>SWOT does not end with writing four lists. According to the source, a good strategy uses strengths to take advantage of opportunities and to reduce threats, and it also manages weaknesses. So the boxes must talk to each other: “Which opportunity can we catch with this strength? Which threat does it protect us from?” Weaknesses are not ignored; the strategy is built to fix them or to work around them.</p>",
+          "ornek": "<p>The strength of a fictional bike repair shop is fast, cheap repairs. The city is building new bike lanes (<b>opportunity</b>), and a big store is starting a free first service campaign (<b>threat</b>). The repair shop puts its speed up front and sets up “repair in 30 minutes” points along the new lanes: it catches the opportunity with its strength and reduces the effect of the rival's campaign.</p>",
+          "kaynak": [0],
+          "terimler": ["Opportunities", "Threats"],
+          "soru": {
+            "q": "A fictional city bans diesel cars from its centre. For a local electric-taxi company, how is this best classified?",
+            "o": ["An external opportunity", "An internal strength", "An external threat", "An internal weakness"],
+            "x": "The right answer is external opportunity: the ban is outside the company's control and brings customers to electric taxis. Internal strength is the most tempting wrong answer, because the development helps the company. But a rule the company does not control cannot be an internal factor. For a firm that runs diesel taxis, the same ban would be a threat."
+          }
+        },
+        {
+          "baslik": "PESTEL: the macro environment (P, E, S)",
+          "anlatim": "<p>Where do you find the O and T in SWOT? One way is <b>PESTEL</b>: it scans the wide macro environment around the company under six headings. The six letters are a checklist for going over the outside world without forgetting anything. The first three:</p><ul><li><b>Political</b>: government policy, political stability, trade restrictions, tariffs, tax policy.</li><li><b>Economic</b>: growth, exchange rates, interest rates, inflation, unemployment.</li><li><b>Sociocultural</b>: population, age structure, lifestyle, health awareness.</li></ul><p>The line between political and economic is sometimes blurred. A decision taken by the government (a tariff, a tax, a subsidy) goes under political. But its effect works through prices and income, so cases may also classify it together as “political/economic”. Market indicators such as interest rates or inflation are directly economic. Under sociocultural, you look at who people are and how they live: an ageing population or rising health awareness belongs here.</p>",
+          "ornek": "<p>A fictional toy importer does a <b>PESTEL</b>. The government putting a new tariff on imported toys is political, the local currency losing value against the euro is economic, and fewer children because of falling birth rates is sociocultural. All three are outside the company's control, and all three are threats for this importer.</p>",
+          "kaynak": [1],
+          "terimler": ["PESTEL"],
+          "soru": {
+            "q": "The central bank raises interest rates, and fewer people take loans to buy sofas from a fictional furniture importer. Which PESTEL factor and SWOT category fit?",
+            "o": ["Economic; threat", "Political; weakness", "Sociocultural; threat", "Economic; weakness"],
+            "x": "The right answer is economic and threat: the interest rate is an economic indicator, it is outside the company and it reduces sales. “Economic; weakness” is the most tempting wrong answer, because the factor is right. But a weakness is an internal factor; an interest rate the company cannot control can only be a threat or an opportunity."
+          }
+        },
+        {
+          "baslik": "PESTEL: T, E, L and moving the results into SWOT",
+          "anlatim": "<p>The last three letters:</p><ul><li><b>Technological</b>: innovation, automation, research and development, artificial intelligence (AI).</li><li><b>Environmental</b>: climate, environmental policy, pressure from non-governmental organizations (NGOs).</li><li><b>Legal</b>: employment, consumer protection, competition (antitrust), patent, and health and safety laws.</li></ul><p>Environmental and legal are often mixed up. Environmental is nature itself (climate) plus policy and pressure on environmental issues; legal is a concrete law that comes into force. An EU rule that bans single-use packaging is a law, so cases classify it as legal. Under technological, the question is which new technologies are appearing in the outside world. The company's own research team is an internal factor and belongs to technology development in the value chain.</p><p>When you move the PESTEL results into SWOT, there is one rule: everything in PESTEL is outside, so each item becomes an opportunity or a threat, never a strength or a weakness. However a new law or tariff is dressed up in a question, this is the answer.</p>",
+          "ornek": "<p>Three developments for a fictional florist chain: a new AI tool making it easier to forecast bouquet orders is technological, dry summers one after another pushing up flower prices is environmental, and a new law requiring an origin label on all plants is legal. When the <b>PESTEL</b> results move into SWOT, the first is an opportunity and the other two are threats for this florist.</p>",
+          "kaynak": [1],
+          "terimler": ["PESTEL"],
+          "soru": {
+            "q": "A fictional coffee chain learns that a new national law will require every cup to show calorie information. Which PESTEL factor best fits?",
+            "o": ["Legal", "Sociocultural", "Environmental", "Technological"],
+            "x": "The right answer is legal: this is a consumer protection law coming into force. Sociocultural is tempting, because rising health awareness may be behind the rule. But what the question asks you to classify is not people's lifestyle; it is a law that must be obeyed."
+          }
+        },
+        {
+          "baslik": "Porter's five forces: rivalry, new entrants, substitutes",
+          "anlatim": "<p>PESTEL looks at the whole macro environment. <b>Porter's five forces</b> looks closer, at the company's industry, and explains with five forces how tough competition is in that industry. At the centre is <b>rivalry among existing competitors</b>: the fight between firms that are already in the industry. The other four forces squeeze this centre from four sides.</p><p>The first two are the ones mixed up most. <b>Threat of new entrants</b>: new companies entering the market; these are new rivals selling the same kind of product. <b>Threat of substitutes</b>: customers moving to a different kind of product that meets the same need. The question to ask: does the newcomer sell the same kind of product, or does it do the same job with a different product? A new film streaming service is a new entrant for film streaming services; a video game that gives the same evening entertainment is a substitute. A price or advertising war between existing rivals is rivalry.</p>",
+          "ornek": "<p>Three situations for hairdressers in a fictional city. Two new hair salons open on the same street: threat of new entrants. Young people start buying cheap clippers to cut their own hair at home: <b>threat of substitutes</b>, because a different product meets the same need. Three salons that have been there for years start a discount race against each other: rivalry among existing competitors. All three are separate forces within <b>Porter's five forces</b>.</p>",
+          "kaynak": [2],
+          "terimler": ["Porter's five forces", "Threat of substitutes"],
+          "soru": {
+            "q": "More and more office workers hold video calls instead of travelling to meetings. For a fictional business-hotel chain, which force does this represent?",
+            "o": ["Threat of substitutes", "Threat of new entrants", "Bargaining power of buyers", "Rivalry among existing competitors"],
+            "x": "The right answer is threat of substitutes: a video call is not a hotel, but it meets the need for a meeting in a different way. Threat of new entrants is tempting, because something new is coming from outside. But a new entrant is a new firm selling the same kind of product, so it would be a new hotel chain."
+          }
+        },
+        {
+          "baslik": "Buyer power and supplier power",
+          "anlatim": "<p>The two remaining forces are the bargaining power at the two ends of the industry. <b>Bargaining power of buyers</b>: the power of customers to push prices down. If one customer alone takes most of your sales, it can say “lower the price or I will buy somewhere else”. <b>Bargaining power of suppliers</b>: the power of suppliers to push prices up. For example, if a part has only one producer, that supplier sets the price almost as it likes.</p><p>The way to keep them apart is to follow the direction. First find which company the question is about and put it in the middle. If the side that buys products from that company is putting on pressure and pulling the price down, it is buyer power. If the side that sells inputs to that company is putting on pressure and pulling the price up, it is supplier power. One side being big and strong is not a clue on its own: a big supermarket chain asking a producer for a discount is buyer power, because the supermarket is that producer's customer.</p>",
+          "ornek": "<p>Think of a fictional cheese dairy. A big supermarket chain that buys half of what it makes says “no ten percent discount next year and we clear the shelves”: <b>bargaining power of buyers</b>. The only milk cooperative in the region also raises the price of milk, and the dairy has no other choice: bargaining power of suppliers. The dairy is squeezed from both sides at once.</p>",
+          "kaynak": [2],
+          "terimler": ["Bargaining power of buyers"],
+          "soru": {
+            "q": "A fictional sportswear maker sells most of its output to one huge online retailer, which now insists on lower prices or it will drop the brand. Which force is at work?",
+            "o": ["Bargaining power of buyers", "Bargaining power of suppliers", "Threat of new entrants", "Rivalry among existing competitors"],
+            "x": "The right answer is bargaining power of buyers: the online retailer is the maker's customer and is pushing the price down. Supplier power is the most tempting wrong answer, because the retailer is big and strong. But it does not sell inputs to the maker; it buys products from it, so it is a buyer."
+          }
+        },
+        {
+          "baslik": "Telling the three tools apart",
+          "anlatim": "<p>These three tools are often confused in the exam, because all three seem to look at the environment. Look for the difference in how wide each one's view is.</p><p><b>SWOT</b> looks both inside and outside: S and W are internal, O and T are external. <b>PESTEL</b> looks only outside, at the wide macro environment: government, economy, society, technology, nature, law. These are big forces that affect many industries at once. <b>Porter's five forces</b> also looks outside, but at a narrower area: the competitive setting in the company's industry. Rivals, new entrants, substitutes, buyers and suppliers are the players of that industry.</p><p>In practice the three work together: PESTEL and Porter find the developments in the outside world, and these are written in the O and T boxes of SWOT; internal tools such as value chain and VRIO fill the S and W boxes. When you see a development, ask: is this a force that affects the whole economy (PESTEL), or a move by a certain player in the industry (Porter)? A rise in interest rates is PESTEL; a new rival entering the market is Porter.</p>",
+          "ornek": "<p>Two pieces of news for a fictional cinema chain: inflation is rising across the country, and two new cinema companies are coming to the city. Inflation is a macro force, so it is an economic threat in <b>PESTEL</b>. The arrival of new cinema companies is about the players of the industry, so it is threat of new entrants in <b>Porter's five forces</b>. Both are outside, so both go in the T box in <b>SWOT</b>.</p>",
+          "kaynak": [0, 1, 2],
+          "terimler": ["SWOT", "PESTEL", "Porter's five forces"],
+          "soru": {
+            "q": "A fictional bus company studies two developments: fuel taxes are rising nationwide, and a cheap new coach operator has started selling tickets on its routes. Which combination is correct?",
+            "o": ["Fuel taxes: PESTEL factor · New operator: threat of new entrants", "Fuel taxes: Porter force · New operator: sociocultural PESTEL factor", "Fuel taxes: internal weakness · New operator: threat of new entrants", "Fuel taxes: PESTEL factor · New operator: threat of substitutes"],
+            "x": "In the right option both halves are right: the fuel tax is a macro decision by the government, so it is PESTEL; a new coach firm selling the same kind of service is threat of new entrants. The last option is tempting because its first half is right. But the new firm sells the same service, not a different product, so it is a new entrant, not a substitute."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A new law or tariff is a strength or a weakness for the company.", "dogru": "Laws and tariffs are outside (PESTEL): they can only be an <b>opportunity</b> or a <b>threat</b>."},
+        {"yanlis": "Everything that comes into the market from outside is a substitute.", "dogru": "A new firm selling the same kind of product is a <b>new entrant</b>; something that meets the same need with a different product is a <b>substitute</b>."},
+        {"yanlis": "A big customer asking for a price cut is supplier power, because it is strong.", "dogru": "If the customer pushes the price down, it is <b>bargaining power of buyers</b>."},
+        {"yanlis": "Like PESTEL, SWOT looks only at the external environment.", "dogru": "<b>SWOT</b> covers internal (S, W) and external (O, T) together; <b>PESTEL</b> is only the external macro environment."},
+        {"yanlis": "PESTEL and Porter are two names for the same tool.", "dogru": "<b>PESTEL</b> is the wide macro environment; <b>Porter</b> is the competitive setting in the industry."}
+      ],
+      "ozet": [
+        "<b>SWOT</b>: S and W are internal and can be controlled; O and T are external and cannot.",
+        "A good strategy uses strengths to catch opportunities, reduces threats and manages weaknesses.",
+        "<b>PESTEL</b> is six external headings: political, economic, sociocultural, technological, environmental, legal.",
+        "Everything in PESTEL is outside: it becomes an opportunity or a threat, never S or W.",
+        "<b>Porter</b>: rivalry at the centre; around it new entrants, substitutes, buyer power and supplier power.",
+        "A new firm selling the same product is a new entrant; a different product meeting the same need is a substitute.",
+        "Customers push prices down (buyer power); suppliers push them up (supplier power).",
+        "PESTEL looks at the macro environment, Porter at the industry environment."
+      ],
+      "aklinda": "Inside is S and W, outside is O and T. A law is never a strength.",
+      "sinavda": "<p>The typical case question asks you to classify two external developments in one combined option: one is a Porter force, the other a PESTEL factor plus whether it is an opportunity or a threat. Check each half separately; wrong options usually leave one half right and the other wrong.</p>"
+    },
+    {
+      "id": "c6e",
+      "ad": "How strategies emerge: intended, deliberate, emergent, realized",
+      "sure": 20,
+      "neden": "<p>Cases often tell a story where a plan changes on the way and ask how to classify the new path. If you set up the terms of this lesson as one linked equation, you can put the right label on every part of the story.</p>",
+      "hedefler": [
+        "Label each part of a company story correctly as intended, deliberate, unrealized, emergent or realized strategy.",
+        "Explain that realized strategy is made up of deliberate and emergent parts.",
+        "Describe the difference between the design school and the emergence (learning) school.",
+        "Explain how a volatile environment affects the role of emergence."
+      ],
+      "adimlar": [
+        {
+          "baslik": "Intended strategy: the plan drawn at the desk",
+          "anlatim": "<p>In the earlier lessons you saw how a strategy is analysed and chosen. This lesson asks something else: does the plan drawn at the desk happen in the field exactly as written? Most of the time, no. The terms of this lesson exist to name the gap between the plan and reality.</p><p>The starting point is <b>Intended strategy</b>: the strategy designed by the top management team. According to the source, this strategy does not come out of one person's head; it forms through negotiation, bargaining and compromise among managers. So even at the very start, it is a plan where several different views meet. Intended strategy answers “what did we aim to do?”, not “what did we do?” In the exam, phrases like “the board planned…” or “top management decided at the start…” point to intended. Whether the plan later happens or not, its first version stays intended.</p>",
+          "ornek": "<p>The board of the fictional “Deniz Bookshop” meets at the start of the year. One member wants three new branches, another wants a big online store; after a long discussion they compromise on a plan of “two new branches and a small online store”. This plan, born from compromise, is the bookshop's <b>intended strategy</b>: nothing has been carried out yet, it has only been intended.</p>",
+          "kaynak": [0],
+          "terimler": ["Intended strategy"],
+          "soru": {
+            "q": "At the start of the year, the managers of a fictional ski resort argue for weeks and finally agree on a plan to build two new lifts and a hotel. What is this agreed plan called?",
+            "o": ["Intended strategy", "Realized strategy", "Emergent strategy", "Unrealized strategy"],
+            "x": "The right answer is intended strategy: the plan top management designed through negotiation and compromise. Realized strategy is a tempting wrong answer, because the plan looks final. But realized is the strategy that is actually carried out in the end, and here nothing has been carried out yet."
+          }
+        },
+        {
+          "baslik": "Deliberate, unrealized and the design school",
+          "anlatim": "<p>When the plan goes into the field, it splits in two. <b>Deliberate strategy</b>: the part of the intended strategy that is actually carried out; it was planned and it was done. <b>Unrealized strategy</b>: the parts of the plan that never happen.</p><p>Why do plans not happen? The source gives three reasons: the plan was badly designed, rivals undermine the plan, or implementation is weak. According to the source, Mintzberg says that only 10 to 30 percent of intended strategy is realized. So most of the plan stays unrealized.</p><p>The school of thought behind deliberate strategy is the <b>Design school</b>: it sees strategy as rational, conscious, top-down planning. Top management analyses and decides, and the organization carries it out. This approach is orderly and clear, but it assumes the world will stay as it was when the plan was written. Do not confuse deliberate with intended: intended is the whole plan, deliberate is only the part of that plan that happens.</p>",
+          "ornek": "<p>The fictional “Deniz Bookshop” opened its two new branches as planned: this part is <b>deliberate strategy</b>. The small online store never opened, because the software firm they had a deal with closed down: this part is unrealized strategy. Management's rational, top-down way of planning at the start also reflects the <b>design school</b> approach.</p>",
+          "kaynak": [0],
+          "terimler": ["Deliberate strategy", "Design school"],
+          "soru": {
+            "q": "A fictional zoo's board planned a new reptile house and a night safari. The reptile house opened exactly as designed, but the night safari was never built. The night safari part of the plan is:",
+            "o": ["Unrealized strategy", "Deliberate strategy", "Emergent strategy", "Realized strategy"],
+            "x": "The right answer is unrealized strategy: the part of the plan that never happened. Deliberate strategy is the most tempting wrong answer, because the night safari was also part of the first plan. But deliberate is only the part of the plan that is actually carried out, which here is the reptile house."
+          }
+        },
+        {
+          "baslik": "Emergent strategy and the emergence (learning) school",
+          "anlatim": "<p>While the plan is carried out, the world changes: customers want something else, or a trial gives an unexpected result. Managers interpret the plan and adapt it to the new conditions. The decisions that grow out of these adaptations are called <b>Emergent strategy</b>. Emergent strategy often comes from the bottom up: not from head office but from store managers, plant managers and the people in the field who see the customer. Nobody planned it at the start, but repeated decisions form a direction over time.</p><p>The school of thought behind it is the <b>Emergence (learning) school</b>: strategy grows from the build-up of many decisions made at many levels. That is where the name “learning” comes from: the company learns by doing and changes direction as it learns. The difference from the design school is clear: the design school sees strategy as a plan made in advance and at the top, while the emergence school sees it as a direction that comes out of decisions building up over time and at every level. Moving to a path different from the original plan because of pilot results is a typical emergent strategy story.</p>",
+          "ornek": "<p>A fictional coffee chain planned to open sit-down cafés on campuses. Branch managers noticed that students grabbed coffee in a hurry between classes and, on their own initiative, set up “order ahead, pick up at the door” points. The practice spread and became the chain's main direction. This is <b>emergent strategy</b>: it grew from learning in the field, not from the plan, so it is the kind the <b>emergence (learning) school</b> describes.</p>",
+          "kaynak": [0],
+          "terimler": ["Emergent strategy", "Emergence (learning) school"],
+          "soru": {
+            "q": "A fictional gym chain planned to grow through big city-centre clubs. Branch managers noticed many members wanted early-morning outdoor classes and started running them in parks. These park classes are best described as:",
+            "o": ["Emergent strategy", "Intended strategy", "Deliberate strategy", "Unrealized strategy"],
+            "x": "The right answer is emergent strategy: the park classes were not in the plan; they grew from the bottom up, as branch managers watched members and adapted. Deliberate strategy is tempting, because the classes are really being run. But deliberate is only the carried-out part of the first plan, and the park classes were never planned."
+          }
+        },
+        {
+          "baslik": "Realized strategy: what actually happens",
+          "anlatim": "<p>Now put the pieces together. <b>Realized strategy</b> is the strategy that is actually carried out in the end, and it has two parts: the part that was planned and done (deliberate) plus the part that appeared on the way (emergent). The unrealized part stays outside this sum, because it never happened.</p><p>Think of it as a flow: part of the intended strategy drops out (unrealized), and the rest continues as deliberate; emergent decisions from the field are added to it; the sum of deliberate and emergent is realized. This is why Mintzberg's figure is not surprising: if only 10 to 30 percent of intended is realized, a large part of what the company ends up doing may come from emergence.</p><p>The question the exam likes is this: pilot results led to an approach different from the original plan, so how is this classified? The right answer joins two concepts: the change is emergent strategy and, because it was carried out, it has become part of the realized strategy. Options that say only “intended” or only “deliberate” are wrong, because the new path did not come from the plan.</p>",
+          "ornek": "<p>A fictional language school had planned weekend group courses for adults. In the trial period it saw that parents wanted after-school courses for their children, so it opened children's courses. Two years later, what the school does is: the weekend courses opened as planned (deliberate) plus the children's courses (emergent). This sum is the school's <b>realized strategy</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Realized strategy"],
+          "soru": {
+            "q": "A fictional meal-kit company planned weekly boxes for families. Trial results showed students preferred single portions, so it switched to student boxes, which now bring most of its sales. How should the switch be classified?",
+            "o": ["Emergent strategy that became part of the realized strategy", "Intended strategy that the board designed before the trials", "Deliberate strategy carried out exactly as first planned", "Unrealized strategy that never made it into practice"],
+            "x": "The right answer is emergent strategy that became part of the realized strategy: the change grew from the trial results, not from the plan, and it is now really being carried out. Deliberate strategy is tempting, because the new boxes are really being sold. But deliberate is only the part of the first plan carried out as planned, and student boxes were not in the plan."
+          }
+        },
+        {
+          "baslik": "Environment, balance and best practice",
+          "anlatim": "<p>In which company does emergence play a bigger role? The source's answer: the more volatile the environment, the more emergence there is. The logic is clear: in a fast-changing market, a plan written today is out of date tomorrow, so adaptations in the field make up a large part of the strategy. Stable organizations, for example postal services, can plan in detail, because tomorrow will look much like today.</p><p>The source's textbook example is Intel: its move from memory chips to microprocessors grew out of decisions at plant level. This shows that emergence can start even a big strategic change.</p><p>So which school is right? According to the source, that is not the question. Best practice is to balance the two: use design, that is, planning, together with the flexibility to benefit from emergence. In practice, head office sets the mission, the goals and the budgets; the units adapt and experiment inside this frame. Options that say planning is completely useless, or that everything can be planned in advance, go against this view.</p>",
+          "ornek": "<p>A fictional food delivery start-up works in a volatile market where new rivals and price changes appear every month. Head office sets only the mission, the yearly goals and the city budgets; each city team tries its own campaigns and shares the ones that work. This is balancing the frame of the <b>design school</b> with the flexibility of the <b>emergence (learning) school</b>.</p>",
+          "kaynak": [0],
+          "terimler": ["Design school", "Emergence (learning) school"],
+          "soru": {
+            "q": "Which fictional organization can rely most on detailed long-term planning rather than on emergence?",
+            "o": ["A regional water utility in a very stable market", "A mobile-game studio whose market changes every month", "A fashion start-up chasing fast-moving social trends", "A drone maker in a market full of new technologies"],
+            "x": "The right answer is the water utility: its market is very stable and tomorrow will look like today, so a detailed plan works. The other three options describe volatile environments. According to the source, the more volatile the environment, the bigger the role of emergence, so a rigid long plan goes out of date quickly there."
+          }
+        }
+      ],
+      "tuzaklar": [
+        {"yanlis": "A new approach that grows from pilot results is intended strategy, because management approved it later.", "dogru": "It grew from experience, not from the plan: <b>emergent</b>; and because it was carried out, it is part of the <b>realized</b> strategy."},
+        {"yanlis": "Deliberate and intended are the same thing.", "dogru": "<b>Intended</b> is the whole plan; <b>deliberate</b> is only the part of it that is actually carried out."},
+        {"yanlis": "Realized strategy is only the part that was planned and done.", "dogru": "<b>Realized</b> is deliberate plus emergent."},
+        {"yanlis": "Only one school is right: either a full plan or no plan.", "dogru": "According to the source, the best way is to balance <b>design</b> and <b>emergence</b>."},
+        {"yanlis": "Emergence plays a bigger role in a stable environment.", "dogru": "The opposite: the more volatile the environment, the bigger the role of <b>emergence</b>."}
+      ],
+      "ozet": [
+        "<b>Intended</b>: the plan top management designs through negotiation and compromise.",
+        "<b>Deliberate</b>: the part of the plan that is actually carried out; the design school is behind it.",
+        "<b>Unrealized</b>: the part of the plan that never happens.",
+        "<b>Emergent</b>: decisions that grow from adaptations on the way, often bottom-up; the learning school is behind it.",
+        "<b>Realized</b>: deliberate plus emergent, that is, what actually happens.",
+        "Mintzberg: only 10 to 30 percent of intended strategy is realized.",
+        "Plans fail because of bad design, rivals undermining them or weak implementation.",
+        "A volatile environment means more emergence; the best way is to balance planning and flexibility."
+      ],
+      "aklinda": "Realized = deliberate + emergent. The plan is born at the desk; the strategy grows up in the field.",
+      "sinavda": "<p>A case usually tells a story where the plan changes and asks how to classify the new direction. The right option often has the form “emergent strategy that became part of the realized strategy”. Do not rush to choose intended or deliberate just because you see the word plan or management's approval.</p>"
+    }
+  ]
+}
